@@ -1,0 +1,2661 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basketball Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Calendario UEFA Champions League 2025-26
+X-WR-CALNAME:UEFA Champions League 2025-26
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Athletic Club (2-0)
+DTSTART:20250916T164500Z
+DTEND:20250916T191500Z
+UID:125ce7e4c29c6e1274641810964749b9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Athletic Club\nOspite: A
+ rsenal\nCircuito/Arena: San Mamés\nCittà: Bilbao\nRisultato: Athletic Cl
+ ub 0 - 2 Arsenal\nStato: finished
+LOCATION:San Mamés\, Bilbao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Union St.-Gilloise @ PSV Eindhoven (3-1)
+DTSTART:20250916T164500Z
+DTEND:20250916T191500Z
+UID:35c567ccc481740cbaff77fe0ac5bfeb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: U
+ nion St.-Gilloise\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRis
+ ultato: PSV Eindhoven 1 - 3 Union St.-Gilloise\nStato: finished
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FK Qarabag @ Benfica (3-2)
+DTSTART:20250916T190000Z
+DTEND:20250916T213000Z
+UID:abb7ca4a03e8696dbb98771abd75a68a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Benfica\nOspite: FK Qara
+ bag\nCircuito/Arena: Estádio da Luz\nCittà: Lisbon\nRisultato: Benfica 2
+  - 3 FK Qarabag\nStato: finished
+LOCATION:Estádio da Luz\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Juventus (4-4)
+DTSTART:20250916T190000Z
+DTEND:20250916T213000Z
+UID:c912f8403ffb6fec52a734af7fa5211e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Juventus\nOspite: Boruss
+ ia Dortmund\nCircuito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: J
+ uventus 4 - 4 Borussia Dortmund\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Marseille @ Real Madrid (1-2)
+DTSTART:20250916T190000Z
+DTEND:20250916T213000Z
+UID:6583350b5d426eda5205bca187746ac4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Mar
+ seille\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato: Rea
+ l Madrid 2 - 1 Marseille\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Tottenham Hotspur (0-1)
+DTSTART:20250916T190000Z
+DTEND:20250916T213000Z
+UID:c52eeca2edc868770ed7e430e15c4f12@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Tottenham Hotspur\nOspit
+ e: Villarreal\nCircuito/Arena: Tottenham Hotspur Stadium\nCittà: London\n
+ Risultato: Tottenham Hotspur 1 - 0 Villarreal\nStato: finished
+LOCATION:Tottenham Hotspur Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Pafos @ Olympiacos (0-0)
+DTSTART:20250917T164500Z
+DTEND:20250917T191500Z
+UID:12d90f06373a766f3f29e7a16d5c5511@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Olympiacos\nOspite: Pafo
+ s\nCircuito/Arena: Georgios Karaiskakis Stadium\nCittà: Piraeus\nRisultat
+ o: Olympiacos 0 - 0 Pafos\nStato: finished
+LOCATION:Georgios Karaiskakis Stadium\, Piraeus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Slavia Prague (2-2)
+DTSTART:20250917T164500Z
+DTEND:20250917T191500Z
+UID:4ed59515c5d08010210a73e0ec1ff2fc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: B
+ odo/Glimt\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavi
+ a Prague 2 - 2 Bodo/Glimt\nStato: finished
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Ajax Amsterdam (2-0)
+DTSTART:20250917T190000Z
+DTEND:20250917T213000Z
+UID:fa9e1a6bed991ce4cda0000d2fa440a0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Ajax Amsterdam\nOspite: 
+ Internazionale\nCircuito/Arena: Johan Cruijff Arena\nCittà: Amsterdam\nRi
+ sultato: Ajax Amsterdam 0 - 2 Internazionale\nStato: finished
+LOCATION:Johan Cruijff Arena\, Amsterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Chelsea @ Bayern Munich (1-3)
+DTSTART:20250917T190000Z
+DTEND:20250917T213000Z
+UID:c1b54e5a9aecb169af0cd50c4408e4f2@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: C
+ helsea\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Bayern
+  Munich 3 - 1 Chelsea\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Liverpool (2-3)
+DTSTART:20250917T190000Z
+DTEND:20250917T213000Z
+UID:ea6cb93748dc822e1f5096cad01c1d32@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Atlé
+ tico Madrid\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverp
+ ool 3 - 2 Atlético Madrid\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Paris Saint-Germain (0-4)
+DTSTART:20250917T190000Z
+DTEND:20250917T213000Z
+UID:354b7086ba33f81bb0901ea2eb20c672@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Atalanta\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato:
+  Paris Saint-Germain 4 - 0 Atalanta\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Monaco @ Club Brugge (1-4)
+DTSTART:20250918T164500Z
+DTEND:20250918T191500Z
+UID:0253f489e2ac62ee2add7005fe219c77@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: AS 
+ Monaco\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Cl
+ ub Brugge 4 - 1 AS Monaco\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ F.C. København (2-2)
+DTSTART:20250918T164500Z
+DTEND:20250918T191500Z
+UID:a43f89dbe7d835cae931faa39e56c133@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: F.C. København\nOspite:
+  Bayer Leverkusen\nCircuito/Arena: Parken Stadium\nCittà: Copenhagen\nRis
+ ultato: F.C. København 2 - 2 Bayer Leverkusen\nStato: finished
+LOCATION:Parken Stadium\, Copenhagen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Eintracht Frankfurt (1-5)
+DTSTART:20250918T190000Z
+DTEND:20250918T213000Z
+UID:f5a0f77a8b4456455d44df6215995047@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Eintracht Frankfurt\nOsp
+ ite: Galatasaray\nCircuito/Arena: Deutsche Bank Park\nCittà: Frankfurt\nR
+ isultato: Eintracht Frankfurt 5 - 1 Galatasaray\nStato: finished
+LOCATION:Deutsche Bank Park\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ Manchester City (0-2)
+DTSTART:20250918T190000Z
+DTEND:20250918T213000Z
+UID:f6d35e8c01067a437513829add4f09af@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Napoli\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRisultato: Ma
+ nchester City 2 - 0 Napoli\nStato: finished
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Newcastle United (2-1)
+DTSTART:20250918T190000Z
+DTEND:20250918T213000Z
+UID:dd6e4a42cb48c997de540e31e968622f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : Barcelona\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-Tyne\
+ nRisultato: Newcastle United 1 - 2 Barcelona\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Kairat Almaty @ Sporting CP (1-4)
+DTSTART:20250918T190000Z
+DTEND:20250918T213000Z
+UID:c682b8c996b0619b5d3d72bb94864a7f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Kai
+ rat Almaty\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisul
+ tato: Sporting CP 4 - 1 Kairat Almaty\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Atalanta (1-2)
+DTSTART:20250930T164500Z
+DTEND:20250930T191500Z
+UID:ce91976f56bde3d9805c70881a8bf6df@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Club B
+ rugge\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atal
+ anta 2 - 1 Club Brugge\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Kairat Almaty (5-0)
+DTSTART:20250930T164500Z
+DTEND:20250930T191500Z
+UID:42ad1078fc594a28690e8aa6003d1f97@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Kairat Almaty\nOspite: R
+ eal Madrid\nCircuito/Arena: Almaty Ortalyk Stadium\nCittà: Almaty\nRisult
+ ato: Kairat Almaty 0 - 5 Real Madrid\nStato: finished
+LOCATION:Almaty Ortalyk Stadium\, Almaty
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Eintracht Frankfurt @ Atlético Madrid (1-5)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:a86279497cf416602f0a8ebd30ddfe7f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Eintracht Frankfurt\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: M
+ adrid\nRisultato: Atlético Madrid 5 - 1 Eintracht Frankfurt\nStato: finis
+ hed
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Tottenham Hotspur @ Bodo/Glimt (2-2)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:0a3364033047c3ba263185a52ca60a81@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Tott
+ enham Hotspur\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisul
+ tato: Bodo/Glimt 2 - 2 Tottenham Hotspur\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Benfica @ Chelsea (0-1)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:1b5e4fd4f78effa0b3b11d26b639e879@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Chelsea\nOspite: Benfica
+ \nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: Chelsea 1 - 
+ 0 Benfica\nStato: finished
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Galatasaray (0-1)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:6097d306e5c351a965242b550ffdfa63@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Liv
+ erpool\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasara
+ y 1 - 0 Liverpool\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Internazionale (0-3)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:fa07b04beb6c2c2ecc6c62a0636700bc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Slavia Prague\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Intern
+ azionale 3 - 0 Slavia Prague\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Ajax Amsterdam @ Marseille (0-4)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:3162250ec1d373c3c7b08368400a19d7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Marseille\nOspite: Ajax 
+ Amsterdam\nCircuito/Arena: Stade Vélodrome\nCittà: Marseille\nRisultato:
+  Marseille 4 - 0 Ajax Amsterdam\nStato: finished
+LOCATION:Stade Vélodrome\, Marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Pafos (5-1)
+DTSTART:20250930T190000Z
+DTEND:20250930T213000Z
+UID:9ad31e4e8b9c79f5aa376f19381e3195@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Pafos\nOspite: Bayern Mu
+ nich\nCircuito/Arena: Alphamega Stadium\nCittà: Kolossi\nRisultato: Pafos
+  1 - 5 Bayern Munich\nStato: finished
+LOCATION:Alphamega Stadium\, Kolossi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ F.C. København @ FK Qarabag (0-2)
+DTSTART:20251001T164500Z
+DTEND:20251001T191500Z
+UID:62aa711395923fdb28ecbb20a7e6920b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FK Qarabag\nOspite: F.C.
+  København\nCircuito/Arena: Tofiq Bahramov Republican Stadium\nCittà: Ba
+ ku\nRisultato: FK Qarabag 2 - 0 F.C. København\nStato: finished
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ Union St.-Gilloise (4-0)
+DTSTART:20251001T164500Z
+DTEND:20251001T191500Z
+UID:3f3b6e12cdc9ee5ed378fa96ed89f9a4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Union St.-Gilloise\nOspi
+ te: Newcastle United\nCircuito/Arena: Lotto Park\nCittà: Brussels\nRisult
+ ato: Union St.-Gilloise 0 - 4 Newcastle United\nStato: finished
+LOCATION:Lotto Park\, Brussels
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Olympiacos @ Arsenal (0-2)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:ad58b359544b4308d02928686c631a30@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Olympia
+ cos\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Arsenal 
+ 2 - 0 Olympiacos\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ AS Monaco (2-2)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:b6d2b1b7d972621eefcb9f51dc5f8c27@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Monaco\nOspite: Manch
+ ester City\nCircuito/Arena: Stade Louis II\nCittà: Monaco\nRisultato: AS 
+ Monaco 2 - 2 Manchester City\nStato: finished
+LOCATION:Stade Louis II\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Barcelona (2-1)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:89ced6d25beb8be4a627026bc7704ae3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Paris
+  Saint-Germain\nCircuito/Arena: Estadi Olímpic Lluís Companys\nCittà: B
+ arcelona\nRisultato: Barcelona 1 - 2 Paris Saint-Germain\nStato: finished
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Bayer Leverkusen (1-1)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:c9ece20f412ab7987046f2e600f1ad6b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : PSV Eindhoven\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisultato: 
+ Bayer Leverkusen 1 - 1 PSV Eindhoven\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Athletic Club @ Borussia Dortmund (1-4)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:913885d30809c5005ee31742fbeadf5e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Athletic Club\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultat
+ o: Borussia Dortmund 4 - 1 Athletic Club\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Napoli (1-2)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:b6c03f9043ce4d3360c334d067daad7b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Sporting
+  CP\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisult
+ ato: Napoli 2 - 1 Sporting CP\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Juventus @ Villarreal (2-2)
+DTSTART:20251001T190000Z
+DTEND:20251001T213000Z
+UID:7832fc89e09c570a7f116e036ddf269f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Juve
+ ntus\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nRisulta
+ to: Villarreal 2 - 2 Juventus\nStato: finished
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Olympiacos @ Barcelona (1-6)
+DTSTART:20251021T164500Z
+DTEND:20251021T191500Z
+UID:7d48ceb678773ae36c8b4f335b5c1849@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Olymp
+ iacos\nCircuito/Arena: Estadi Olímpic Lluís Companys\nCittà: Barcelona\
+ nRisultato: Barcelona 6 - 1 Olympiacos\nStato: finished
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Pafos @ Kairat Almaty (0-0)
+DTSTART:20251021T164500Z
+DTEND:20251021T191500Z
+UID:6981e507bd23b9a9e46afac466b58ffb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Kairat Almaty\nOspite: P
+ afos\nCircuito/Arena: Almaty Ortalyk Stadium\nCittà: Almaty\nRisultato: K
+ airat Almaty 0 - 0 Pafos\nStato: finished
+LOCATION:Almaty Ortalyk Stadium\, Almaty
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Arsenal (0-4)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:12bf0d192891782668b97c2673034353@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Atléti
+ co Madrid\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Ar
+ senal 4 - 0 Atlético Madrid\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Bayer Leverkusen (7-2)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:a8bcd112ceccd39ef42cff661ba620d5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : Paris Saint-Germain\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisul
+ tato: Bayer Leverkusen 2 - 7 Paris Saint-Germain\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ F.C. København (4-2)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:55b71a8ed828a18c6700a76393370eae@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: F.C. København\nOspite:
+  Borussia Dortmund\nCircuito/Arena: Parken Stadium\nCittà: Copenhagen\nRi
+ sultato: F.C. København 2 - 4 Borussia Dortmund\nStato: finished
+LOCATION:Parken Stadium\, Copenhagen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Benfica @ Newcastle United (0-3)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:3714a731abf003394a900c94e2db72a9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : Benfica\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-Tyne\nR
+ isultato: Newcastle United 3 - 0 Benfica\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ PSV Eindhoven (2-6)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:1b126502c02ce8f6143aaa2eb1f4fdfa@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: N
+ apoli\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRisultato: PSV 
+ Eindhoven 6 - 2 Napoli\nStato: finished
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Union St.-Gilloise (4-0)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:30eada7082f2ce0114d7c86f98e6d330@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Union St.-Gilloise\nOspi
+ te: Internazionale\nCircuito/Arena: Lotto Park\nCittà: Brussels\nRisultat
+ o: Union St.-Gilloise 0 - 4 Internazionale\nStato: finished
+LOCATION:Lotto Park\, Brussels
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Villarreal (2-0)
+DTSTART:20251021T190000Z
+DTEND:20251021T213000Z
+UID:6bde022fd4707ac29f8cdf1afaeace7a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Manc
+ hester City\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\n
+ Risultato: Villarreal 0 - 2 Manchester City\nStato: finished
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FK Qarabag @ Athletic Club (1-3)
+DTSTART:20251022T164500Z
+DTEND:20251022T191500Z
+UID:05e9e531f94b2d23a8c5631d1c575958@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Athletic Club\nOspite: F
+ K Qarabag\nCircuito/Arena: San Mamés\nCittà: Bilbao\nRisultato: Athletic
+  Club 3 - 1 FK Qarabag\nStato: finished
+LOCATION:San Mamés\, Bilbao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Galatasaray (1-3)
+DTSTART:20251022T164500Z
+DTEND:20251022T191500Z
+UID:a8ca97d8fb032e6a0dc6976fc629f2be@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Bod
+ o/Glimt\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasar
+ ay 3 - 1 Bodo/Glimt\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Tottenham Hotspur @ AS Monaco (0-0)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:71c495da4fdc940055f1246d3b8a866f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Monaco\nOspite: Totte
+ nham Hotspur\nCircuito/Arena: Stade Louis II\nCittà: Monaco\nRisultato: A
+ S Monaco 0 - 0 Tottenham Hotspur\nStato: finished
+LOCATION:Stade Louis II\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Atalanta (0-0)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:93816477004354067bd08bd504412e3c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Slavia
+  Prague\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: At
+ alanta 0 - 0 Slavia Prague\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Bayern Munich (0-4)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:966ea1566f7f58a50c1c4b702b72f633@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: C
+ lub Brugge\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Ba
+ yern Munich 4 - 0 Club Brugge\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Ajax Amsterdam @ Chelsea (1-5)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:ceb82ee0372515eb9f62db96e0318e66@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Chelsea\nOspite: Ajax Am
+ sterdam\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: Chels
+ ea 5 - 1 Ajax Amsterdam\nStato: finished
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Eintracht Frankfurt (5-1)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:474ffe882b46782fb7249e75b483e934@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Eintracht Frankfurt\nOsp
+ ite: Liverpool\nCircuito/Arena: Deutsche Bank Park\nCittà: Frankfurt\nRis
+ ultato: Eintracht Frankfurt 1 - 5 Liverpool\nStato: finished
+LOCATION:Deutsche Bank Park\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Juventus @ Real Madrid (0-1)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:ca3fedc50dc128fdd47839d492023165@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Juv
+ entus\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato: Real
+  Madrid 1 - 0 Juventus\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Marseille @ Sporting CP (1-2)
+DTSTART:20251022T190000Z
+DTEND:20251022T213000Z
+UID:f94274517e3677caf1d782c45861f453@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Mar
+ seille\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisultato
+ : Sporting CP 2 - 1 Marseille\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Eintracht Frankfurt @ Napoli (0-0)
+DTSTART:20251104T174500Z
+DTEND:20251104T201500Z
+UID:7a87c2fc96611d58d240395ab1f306a8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Eintrach
+ t Frankfurt\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli
+ \nRisultato: Napoli 0 - 0 Eintracht Frankfurt\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Slavia Prague (3-0)
+DTSTART:20251104T174500Z
+DTEND:20251104T201500Z
+UID:2afaf624c1b144f41c1004e0179443d7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
+ rsenal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavia P
+ rague 0 - 3 Arsenal\nStato: finished
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Union St.-Gilloise @ Atlético Madrid (1-3)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:cfe78a46b43a38bf521067f7d9922022@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Union St.-Gilloise\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Ma
+ drid\nRisultato: Atlético Madrid 3 - 1 Union St.-Gilloise\nStato: finishe
+ d
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Monaco @ Bodo/Glimt (1-0)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:08627f2c7731f538e9c2bc4ba8202ac6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: AS M
+ onaco\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: Bo
+ do/Glimt 0 - 1 AS Monaco\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Juventus (1-1)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:5100431a3a4e5a8877e5d6f37011d9ef@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Juventus\nOspite: Sporti
+ ng CP\nCircuito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventu
+ s 1 - 1 Sporting CP\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Liverpool (0-1)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:d7dff72dba21306fdedb07daee48fd35@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Real 
+ Madrid\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverpool 1
+  - 0 Real Madrid\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Olympiacos (1-1)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:2b970de7b8715806e25f40a80b4f54c7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Olympiacos\nOspite: PSV 
+ Eindhoven\nCircuito/Arena: Georgios Karaiskakis Stadium\nCittà: Piraeus\n
+ Risultato: Olympiacos 1 - 1 PSV Eindhoven\nStato: finished
+LOCATION:Georgios Karaiskakis Stadium\, Piraeus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Paris Saint-Germain (2-1)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:d1f861946bd6ea4af029e848345bb2eb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Bayern Munich\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisul
+ tato: Paris Saint-Germain 1 - 2 Bayern Munich\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ F.C. København @ Tottenham Hotspur (0-4)
+DTSTART:20251104T200000Z
+DTEND:20251104T223000Z
+UID:674f4fbddac595a791f95098bee9047d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Tottenham Hotspur\nOspit
+ e: F.C. København\nCircuito/Arena: Tottenham Hotspur Stadium\nCittà: Lon
+ don\nRisultato: Tottenham Hotspur 4 - 0 F.C. København\nStato: finished
+LOCATION:Tottenham Hotspur Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Chelsea @ FK Qarabag (2-2)
+DTSTART:20251105T174500Z
+DTEND:20251105T201500Z
+UID:2d6c54b32cec6f3d599fce984437717d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FK Qarabag\nOspite: Chel
+ sea\nCircuito/Arena: Tofiq Bahramov Republican Stadium\nCittà: Baku\nRisu
+ ltato: FK Qarabag 2 - 2 Chelsea\nStato: finished
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Pafos (0-1)
+DTSTART:20251105T174500Z
+DTEND:20251105T201500Z
+UID:c38fd0d6be8fd3f651477e5e2b88cf4f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Pafos\nOspite: Villarrea
+ l\nCircuito/Arena: Alphamega Stadium\nCittà: Kolossi\nRisultato: Pafos 1 
+ - 0 Villarreal\nStato: finished
+LOCATION:Alphamega Stadium\, Kolossi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Ajax Amsterdam (3-0)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:03c3f571c050cd7df3c9f11ae09c0db9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Ajax Amsterdam\nOspite: 
+ Galatasaray\nCircuito/Arena: Johan Cruijff Arena\nCittà: Amsterdam\nRisul
+ tato: Ajax Amsterdam 0 - 3 Galatasaray\nStato: finished
+LOCATION:Johan Cruijff Arena\, Amsterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ Benfica (1-0)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:87701e499136c9e96322cf89953d50a6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Benfica\nOspite: Bayer L
+ everkusen\nCircuito/Arena: Estádio da Luz\nCittà: Lisbon\nRisultato: Ben
+ fica 0 - 1 Bayer Leverkusen\nStato: finished
+LOCATION:Estádio da Luz\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Club Brugge (3-3)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:58ee43431e02d6c8549e4997040b5618@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Bar
+ celona\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Cl
+ ub Brugge 3 - 3 Barcelona\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Kairat Almaty @ Internazionale (1-2)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:402c0fb42ec16c8b84a2724b853a391e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Kairat Almaty\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Intern
+ azionale 2 - 1 Kairat Almaty\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Manchester City (1-4)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:dfeb04e55ff8bdb017985bb1e31feb07@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Borussia Dortmund\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRi
+ sultato: Manchester City 4 - 1 Borussia Dortmund\nStato: finished
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Marseille (1-0)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:72108807960228bc6cf935e558946fbc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Marseille\nOspite: Atala
+ nta\nCircuito/Arena: Stade Vélodrome\nCittà: Marseille\nRisultato: Marse
+ ille 0 - 1 Atalanta\nStato: finished
+LOCATION:Stade Vélodrome\, Marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Athletic Club @ Newcastle United (0-2)
+DTSTART:20251105T200000Z
+DTEND:20251105T223000Z
+UID:8361d578c7aa9669befb5d6a80e9c76c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : Athletic Club\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-T
+ yne\nRisultato: Newcastle United 2 - 0 Athletic Club\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Benfica @ Ajax Amsterdam (2-0)
+DTSTART:20251125T174500Z
+DTEND:20251125T201500Z
+UID:05b3195f9fe5b3dfac160a438781d4ab@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Ajax Amsterdam\nOspite: 
+ Benfica\nCircuito/Arena: Johan Cruijff Arena\nCittà: Amsterdam\nRisultato
+ : Ajax Amsterdam 0 - 2 Benfica\nStato: finished
+LOCATION:Johan Cruijff Arena\, Amsterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Union St.-Gilloise @ Galatasaray (1-0)
+DTSTART:20251125T174500Z
+DTEND:20251125T201500Z
+UID:acc5fcdbd9949eb9f8248ccedf562b4d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Uni
+ on St.-Gilloise\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: G
+ alatasaray 0 - 1 Union St.-Gilloise\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Juventus @ Bodo/Glimt (3-2)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:744d14e19c98fd3c179f95c1bd327eb3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Juve
+ ntus\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: Bod
+ o/Glimt 2 - 3 Juventus\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Borussia Dortmund (0-4)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:ab38cb762e3aec29ad92588ee2ed43b3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Villarreal\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultato: 
+ Borussia Dortmund 4 - 0 Villarreal\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Chelsea (0-3)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:09e4a145e8b0cd03c6d621e53731f56f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Chelsea\nOspite: Barcelo
+ na\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: Chelsea 3 
+ - 0 Barcelona\nStato: finished
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ Manchester City (2-0)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:beaa4e4d3962dd46b1c4d6a42c04d6a6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Bayer Leverkusen\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRis
+ ultato: Manchester City 0 - 2 Bayer Leverkusen\nStato: finished
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ Marseille (1-2)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:c433a1c5a10846dfa40d33c84e498362@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Marseille\nOspite: Newca
+ stle United\nCircuito/Arena: Stade Vélodrome\nCittà: Marseille\nRisultat
+ o: Marseille 2 - 1 Newcastle United\nStato: finished
+LOCATION:Stade Vélodrome\, Marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FK Qarabag @ Napoli (0-2)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:c162cb7a297cf60c6a4e24c112d56035@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: FK Qarab
+ ag\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisulta
+ to: Napoli 2 - 0 FK Qarabag\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Athletic Club @ Slavia Prague (0-0)
+DTSTART:20251125T200000Z
+DTEND:20251125T223000Z
+UID:3a4432402abaa4d9cb2eef10bb0dd844@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
+ thletic Club\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Sl
+ avia Prague 0 - 0 Athletic Club\nStato: finished
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Kairat Almaty @ F.C. København (2-3)
+DTSTART:20251126T174500Z
+DTEND:20251126T201500Z
+UID:5265178a03605654156e7effd59c541c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: F.C. København\nOspite:
+  Kairat Almaty\nCircuito/Arena: Parken Stadium\nCittà: Copenhagen\nRisult
+ ato: F.C. København 3 - 2 Kairat Almaty\nStato: finished
+LOCATION:Parken Stadium\, Copenhagen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Monaco @ Pafos (2-2)
+DTSTART:20251126T174500Z
+DTEND:20251126T201500Z
+UID:3f415cf7eef96da98d4818f125a9da9c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Pafos\nOspite: AS Monaco
+ \nCircuito/Arena: Alphamega Stadium\nCittà: Kolossi\nRisultato: Pafos 2 -
+  2 AS Monaco\nStato: finished
+LOCATION:Alphamega Stadium\, Kolossi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Arsenal (1-3)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:5bc3b47abcb9413d0a014331930d49a7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Bayern 
+ Munich\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Arsen
+ al 3 - 1 Bayern Munich\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Atlético Madrid (1-2)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:0030b75049fbaaffb7c59986c49fea65@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Internazionale\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid
+ \nRisultato: Atlético Madrid 2 - 1 Internazionale\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Eintracht Frankfurt (3-0)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:5a1bb1aea55a6c8cdc7c9744a0ea305d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Eintracht Frankfurt\nOsp
+ ite: Atalanta\nCircuito/Arena: Deutsche Bank Park\nCittà: Frankfurt\nRisu
+ ltato: Eintracht Frankfurt 0 - 3 Atalanta\nStato: finished
+LOCATION:Deutsche Bank Park\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Liverpool (4-1)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:a092e084e9c38273fe716dd45b03f649@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: PSV E
+ indhoven\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverpool
+  1 - 4 PSV Eindhoven\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Olympiacos (4-3)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:ea7c587c84a8c1429385a6e92c1d000e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Olympiacos\nOspite: Real
+  Madrid\nCircuito/Arena: Georgios Karaiskakis Stadium\nCittà: Piraeus\nRi
+ sultato: Olympiacos 3 - 4 Real Madrid\nStato: finished
+LOCATION:Georgios Karaiskakis Stadium\, Piraeus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Tottenham Hotspur @ Paris Saint-Germain (3-5)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:0d6d9003c8b4e416e122d5b7d6d429d5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Tottenham Hotspur\nCircuito/Arena: Parc des Princes\nCittà: Paris\nR
+ isultato: Paris Saint-Germain 5 - 3 Tottenham Hotspur\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Sporting CP (0-3)
+DTSTART:20251126T200000Z
+DTEND:20251126T223000Z
+UID:ab1440b7342b0527c00502c9530019dc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Clu
+ b Brugge\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisulta
+ to: Sporting CP 3 - 0 Club Brugge\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Olympiacos @ Kairat Almaty (1-0)
+DTSTART:20251209T153000Z
+DTEND:20251209T180000Z
+UID:759d9fb6a80d09035119d5e1462388b5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Kairat Almaty\nOspite: O
+ lympiacos\nCircuito/Arena: Astana Arena\nCittà: Astana\nRisultato: Kairat
+  Almaty 0 - 1 Olympiacos\nStato: finished
+LOCATION:Astana Arena\, Astana
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Bayern Munich (1-3)
+DTSTART:20251209T174500Z
+DTEND:20251209T201500Z
+UID:86c3317966f4720aed0c11cfcaadee62@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: S
+ porting CP\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Ba
+ yern Munich 3 - 1 Sporting CP\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ AS Monaco (0-1)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:20da23237d66d3968e73b057ea50d311@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Monaco\nOspite: Galat
+ asaray\nCircuito/Arena: Stade Louis II\nCittà: Monaco\nRisultato: AS Mona
+ co 1 - 0 Galatasaray\nStato: finished
+LOCATION:Stade Louis II\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Chelsea @ Atalanta (1-2)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:ecde1509e2b80f1e6bfeff466a41c44d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Chelse
+ a\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta
+  2 - 1 Chelsea\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Eintracht Frankfurt @ Barcelona (1-2)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:c0cd798303e9965c1d5a244241b05a2b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Eintr
+ acht Frankfurt\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisul
+ tato: Barcelona 2 - 1 Eintracht Frankfurt\nStato: finished
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Internazionale (1-0)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:b97da586b492062a4a115768f699c630@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Liverpool\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazio
+ nale 0 - 1 Liverpool\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ PSV Eindhoven (3-2)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:65bc4a3469f8f8ea4ed5acce83e2796d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: A
+ tlético Madrid\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRisul
+ tato: PSV Eindhoven 2 - 3 Atlético Madrid\nStato: finished
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Tottenham Hotspur (0-3)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:c12e133e97dae682cdb4be50a38f5e90@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Tottenham Hotspur\nOspit
+ e: Slavia Prague\nCircuito/Arena: Tottenham Hotspur Stadium\nCittà: Londo
+ n\nRisultato: Tottenham Hotspur 3 - 0 Slavia Prague\nStato: finished
+LOCATION:Tottenham Hotspur Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Marseille @ Union St.-Gilloise (3-2)
+DTSTART:20251209T200000Z
+DTEND:20251209T223000Z
+UID:b8ac2767141e4cfcf46a730fb2b16840@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Union St.-Gilloise\nOspi
+ te: Marseille\nCircuito/Arena: Lotto Park\nCittà: Brussels\nRisultato: Un
+ ion St.-Gilloise 2 - 3 Marseille\nStato: finished
+LOCATION:Lotto Park\, Brussels
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Ajax Amsterdam @ FK Qarabag (4-2)
+DTSTART:20251210T174500Z
+DTEND:20251210T201500Z
+UID:ebb3ba3dcc22974a04fe05c7e65fdae4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FK Qarabag\nOspite: Ajax
+  Amsterdam\nCircuito/Arena: Tofiq Bahramov Republican Stadium\nCittà: Bak
+ u\nRisultato: FK Qarabag 2 - 4 Ajax Amsterdam\nStato: finished
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ F.C. København @ Villarreal (3-2)
+DTSTART:20251210T174500Z
+DTEND:20251210T201500Z
+UID:e3405f003c48f381ed6aead415aa3685@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: F.C.
+  København\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\n
+ Risultato: Villarreal 2 - 3 F.C. København\nStato: finished
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Athletic Club (0-0)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:cb9d65172dd6dda4d9889aad6b2fa791@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Athletic Club\nOspite: P
+ aris Saint-Germain\nCircuito/Arena: San Mamés\nCittà: Bilbao\nRisultato:
+  Athletic Club 0 - 0 Paris Saint-Germain\nStato: finished
+LOCATION:San Mamés\, Bilbao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ Bayer Leverkusen (2-2)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:c97a589bb7dc34f5410764ec307b80a9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : Newcastle United\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisultat
+ o: Bayer Leverkusen 2 - 2 Newcastle United\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ Benfica (0-2)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:71f276138133c6e26bf563cc53159d62@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Benfica\nOspite: Napoli\
+ nCircuito/Arena: Estádio da Luz\nCittà: Lisbon\nRisultato: Benfica 2 - 0
+  Napoli\nStato: finished
+LOCATION:Estádio da Luz\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Borussia Dortmund (2-2)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:41ae61d9c7ff0b3dde774ada88324016@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Bodo/Glimt\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultato: 
+ Borussia Dortmund 2 - 2 Bodo/Glimt\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Club Brugge (3-0)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:67762fecb957cfad5cf3601d8cc51af3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Ars
+ enal\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Club
+  Brugge 0 - 3 Arsenal\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Pafos @ Juventus (0-2)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:124ae43d1459fee829b9f641f6acf940@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Juventus\nOspite: Pafos\
+ nCircuito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 2 - 
+ 0 Pafos\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Real Madrid (2-1)
+DTSTART:20251210T200000Z
+DTEND:20251210T223000Z
+UID:a7ab026ceb663fb212ac5c70aef6c3eb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Man
+ chester City\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultat
+ o: Real Madrid 1 - 2 Manchester City\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Kairat Almaty (4-1)
+DTSTART:20260120T153000Z
+DTEND:20260120T180000Z
+UID:6aa234a76519835532cb5cc33d0f7a51@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Kairat Almaty\nOspite: C
+ lub Brugge\nCircuito/Arena: Astana Arena\nCittà: Astana\nRisultato: Kaira
+ t Almaty 1 - 4 Club Brugge\nStato: finished
+LOCATION:Astana Arena\, Astana
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Bodo/Glimt (1-3)
+DTSTART:20260120T174500Z
+DTEND:20260120T201500Z
+UID:d4d533c142f3ffaca071932cb758c4f8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Manc
+ hester City\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisulta
+ to: Bodo/Glimt 3 - 1 Manchester City\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ F.C. København (1-1)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:d28b5f2814b24fbad6abe79dd74ae3f7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: F.C. København\nOspite:
+  Napoli\nCircuito/Arena: Parken Stadium\nCittà: Copenhagen\nRisultato: F.
+ C. København 1 - 1 Napoli\nStato: finished
+LOCATION:Parken Stadium\, Copenhagen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Internazionale (3-1)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:97f3c647145030b23485977473834cb6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Arsenal\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internaziona
+ le 1 - 3 Arsenal\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ Olympiacos (0-2)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:e1d5be8804e2f27f3f380812b65d2dd8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Olympiacos\nOspite: Baye
+ r Leverkusen\nCircuito/Arena: Georgios Karaiskakis Stadium\nCittà: Piraeu
+ s\nRisultato: Olympiacos 2 - 0 Bayer Leverkusen\nStato: finished
+LOCATION:Georgios Karaiskakis Stadium\, Piraeus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Monaco @ Real Madrid (1-6)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:7e90c1536bbc4460bf1b123c2fb44ad6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: AS 
+ Monaco\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato: Rea
+ l Madrid 6 - 1 AS Monaco\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Sporting CP (1-2)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:90b161036db9acb8f86a275fff108fc7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Par
+ is Saint-Germain\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\
+ nRisultato: Sporting CP 2 - 1 Paris Saint-Germain\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Tottenham Hotspur (0-2)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:72d985c43c0e7bbcada2f9bf89ea9511@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Tottenham Hotspur\nOspit
+ e: Borussia Dortmund\nCircuito/Arena: Tottenham Hotspur Stadium\nCittà: L
+ ondon\nRisultato: Tottenham Hotspur 2 - 0 Borussia Dortmund\nStato: finish
+ ed
+LOCATION:Tottenham Hotspur Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Ajax Amsterdam @ Villarreal (2-1)
+DTSTART:20260120T200000Z
+DTEND:20260120T223000Z
+UID:ea57f8bf76094d8e5799304a6f814acc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Ajax
+  Amsterdam\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nR
+ isultato: Villarreal 1 - 2 Ajax Amsterdam\nStato: finished
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Eintracht Frankfurt @ FK Qarabag (2-3)
+DTSTART:20260121T174500Z
+DTEND:20260121T201500Z
+UID:6a70a778f54ea19bc8f85d355d381519@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FK Qarabag\nOspite: Eint
+ racht Frankfurt\nCircuito/Arena: Tofiq Bahramov Republican Stadium\nCittà
+ : Baku\nRisultato: FK Qarabag 3 - 2 Eintracht Frankfurt\nStato: finished
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Galatasaray (1-1)
+DTSTART:20260121T174500Z
+DTEND:20260121T201500Z
+UID:a3ded6f61c0e397af8088013aff272ad@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Atl
+ ético Madrid\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Gal
+ atasaray 1 - 1 Atlético Madrid\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Athletic Club @ Atalanta (3-2)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:6a6899422c41b8775ecd9054b73aa2b4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Athlet
+ ic Club\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: At
+ alanta 2 - 3 Athletic Club\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Union St.-Gilloise @ Bayern Munich (0-2)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:d8d0460cc63af86de935d41841cbe294@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: U
+ nion St.-Gilloise\nCircuito/Arena: Allianz Arena\nCittà: München\nRisult
+ ato: Bayern Munich 2 - 0 Union St.-Gilloise\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Pafos @ Chelsea (0-1)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:32ce81b9c1fa28fe929029c4779b8b2b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Chelsea\nOspite: Pafos\n
+ Circuito/Arena: Stamford Bridge\nCittà: London\nRisultato: Chelsea 1 - 0 
+ Pafos\nStato: finished
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Benfica @ Juventus (0-2)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:5222f43ad8be2f7dc471cfbb1b7b3e28@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Juventus\nOspite: Benfic
+ a\nCircuito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 2 
+ - 0 Benfica\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Marseille (3-0)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:b3a6e4212ac435d97b01a3023b97f0a6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Marseille\nOspite: Liver
+ pool\nCircuito/Arena: Stade Vélodrome\nCittà: Marseille\nRisultato: Mars
+ eille 0 - 3 Liverpool\nStato: finished
+LOCATION:Stade Vélodrome\, Marseille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Newcastle United (0-3)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:9dea0d773d14a7ca343d6c3a6e42179c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : PSV Eindhoven\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-T
+ yne\nRisultato: Newcastle United 3 - 0 PSV Eindhoven\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Slavia Prague (4-2)
+DTSTART:20260121T200000Z
+DTEND:20260121T223000Z
+UID:5ddcc643671dede0487c0c6a8ce880f9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: B
+ arcelona\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavia
+  Prague 2 - 4 Barcelona\nStato: finished
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Olympiacos @ Ajax Amsterdam (2-1)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:96da5bd84dd2972003499b7cb0a35833@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Ajax Amsterdam\nOspite: 
+ Olympiacos\nCircuito/Arena: Johan Cruijff Arena\nCittà: Amsterdam\nRisult
+ ato: Ajax Amsterdam 1 - 2 Olympiacos\nStato: finished
+LOCATION:Johan Cruijff Arena\, Amsterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Kairat Almaty @ Arsenal (2-3)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:ccd1af7a91d4fc88261ebbe692d3ed05@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Kairat 
+ Almaty\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Arsen
+ al 3 - 2 Kairat Almaty\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Juventus @ AS Monaco (0-0)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:08ea81e8ef89ba05dc8addef805284bd@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Monaco\nOspite: Juven
+ tus\nCircuito/Arena: Stade Louis II\nCittà: Monaco\nRisultato: AS Monaco 
+ 0 - 0 Juventus\nStato: finished
+LOCATION:Stade Louis II\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Athletic Club (3-2)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:0e6c96b4e9a17a96bad1f87828732802@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Athletic Club\nOspite: S
+ porting CP\nCircuito/Arena: San Mamés\nCittà: Bilbao\nRisultato: Athleti
+ c Club 2 - 3 Sporting CP\nStato: finished
+LOCATION:San Mamés\, Bilbao
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Atlético Madrid (2-1)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:bb2c76c105178cdf6b39700f4e03bad6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Bodo/Glimt\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nRi
+ sultato: Atlético Madrid 1 - 2 Bodo/Glimt\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ F.C. København @ Barcelona (1-4)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:67998e12c407f701ffad068bd3c5f916@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: F.C. 
+ København\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisultato
+ : Barcelona 4 - 1 F.C. København\nStato: finished
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Bayer Leverkusen (0-3)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:513ee182f224aefc40258d816fea353d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : Villarreal\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisultato: Bay
+ er Leverkusen 3 - 0 Villarreal\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Benfica (2-4)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:ef83facd749c4549e2385b65d554104b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Benfica\nOspite: Real Ma
+ drid\nCircuito/Arena: Estádio da Luz\nCittà: Lisbon\nRisultato: Benfica 
+ 4 - 2 Real Madrid\nStato: finished
+LOCATION:Estádio da Luz\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Borussia Dortmund (2-0)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:a4b36e2b05bcb9f21a6f6768fafb0bfa@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Internazionale\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisulta
+ to: Borussia Dortmund 0 - 2 Internazionale\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Marseille @ Club Brugge (0-3)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:ed7c5d03651e3d0823e7a30b01bdbbe6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Mar
+ seille\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Cl
+ ub Brugge 3 - 0 Marseille\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Tottenham Hotspur @ Eintracht Frankfurt (2-0)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:fab295e3ebabdcfd7675095112e3420d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Eintracht Frankfurt\nOsp
+ ite: Tottenham Hotspur\nCircuito/Arena: Deutsche Bank Park\nCittà: Frankf
+ urt\nRisultato: Eintracht Frankfurt 0 - 2 Tottenham Hotspur\nStato: finish
+ ed
+LOCATION:Deutsche Bank Park\, Frankfurt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FK Qarabag @ Liverpool (0-6)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:30ac1c5a7fd533a7ba036f1ff6fa6d67@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: FK Qa
+ rabag\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverpool 6 
+ - 0 FK Qarabag\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Manchester City (0-2)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:963506a449a48fcf732632a9421a076b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Galatasaray\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRisultat
+ o: Manchester City 2 - 0 Galatasaray\nStato: finished
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Chelsea @ Napoli (3-2)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:e359c25a86cb65c83c268f73fd89fe53@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Chelsea\
+ nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato:
+  Napoli 2 - 3 Chelsea\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Pafos (1-4)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:901b423ea54c67f5a7a6ec5d6050ea10@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Pafos\nOspite: Slavia Pr
+ ague\nCircuito/Arena: Alphamega Stadium\nCittà: Kolossi\nRisultato: Pafos
+  4 - 1 Slavia Prague\nStato: finished
+LOCATION:Alphamega Stadium\, Kolossi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ Paris Saint-Germain (1-1)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:4927688d7f4f4444b06dc389c5aff5b0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Newcastle United\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRi
+ sultato: Paris Saint-Germain 1 - 1 Newcastle United\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ PSV Eindhoven (2-1)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:e2ee363305ccd5a94fbc17fd95798064@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: B
+ ayern Munich\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRisultat
+ o: PSV Eindhoven 1 - 2 Bayern Munich\nStato: finished
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Union St.-Gilloise (0-1)
+DTSTART:20260128T200000Z
+DTEND:20260128T223000Z
+UID:1da024063321b2d88d4e8074c4d67871@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Union St.-Gilloise\nOspi
+ te: Atalanta\nCircuito/Arena: Lotto Park\nCittà: Brussels\nRisultato: Uni
+ on St.-Gilloise 1 - 0 Atalanta\nStato: finished
+LOCATION:Lotto Park\, Brussels
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Juventus @ Galatasaray (2-5)
+DTSTART:20260217T174500Z
+DTEND:20260217T201500Z
+UID:e0074d17484c904bfb5e1773560a36b3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Juv
+ entus\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasaray
+  5 - 2 Juventus\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ AS Monaco (3-2)
+DTSTART:20260217T200000Z
+DTEND:20260217T223000Z
+UID:eb0ebd8a064d19031ad24fd2a4ff476b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Monaco\nOspite: Paris
+  Saint-Germain\nCircuito/Arena: Stade Louis II\nCittà: Monaco\nRisultato:
+  AS Monaco 2 - 3 Paris Saint-Germain\nStato: finished
+LOCATION:Stade Louis II\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Benfica (1-0)
+DTSTART:20260217T200000Z
+DTEND:20260217T223000Z
+UID:2260c2aebf17a30edcf70123ba3027d1@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Benfica\nOspite: Real Ma
+ drid\nCircuito/Arena: Estádio da Luz\nCittà: Lisbon\nRisultato: Benfica 
+ 0 - 1 Real Madrid\nStato: finished
+LOCATION:Estádio da Luz\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Borussia Dortmund (0-2)
+DTSTART:20260217T201500Z
+DTEND:20260217T224500Z
+UID:255353d005fe2ee81ad36385f0e8022e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Atalanta\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultato: Bo
+ russia Dortmund 2 - 0 Atalanta\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ FK Qarabag (6-1)
+DTSTART:20260218T174500Z
+DTEND:20260218T201500Z
+UID:e2503e46658ba270ebe895c278fdaa49@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FK Qarabag\nOspite: Newc
+ astle United\nCircuito/Arena: Tofiq Bahramov Republican Stadium\nCittà: B
+ aku\nRisultato: FK Qarabag 1 - 6 Newcastle United\nStato: finished
+LOCATION:Tofiq Bahramov Republican Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Bodo/Glimt (1-3)
+DTSTART:20260218T200000Z
+DTEND:20260218T223000Z
+UID:948a7effae9a62037efc0d5584698299@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Inte
+ rnazionale\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultat
+ o: Bodo/Glimt 3 - 1 Internazionale\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Club Brugge (3-3)
+DTSTART:20260218T200000Z
+DTEND:20260218T223000Z
+UID:829c63ee76dcbdfa714f85750d269248@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Atl
+ ético Madrid\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisult
+ ato: Club Brugge 3 - 3 Atlético Madrid\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ Olympiacos (2-0)
+DTSTART:20260218T200000Z
+DTEND:20260218T223000Z
+UID:7c7989f48ad999a1ef79f769d2385c59@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Olympiacos\nOspite: Baye
+ r Leverkusen\nCircuito/Arena: Georgios Karaiskakis Stadium\nCittà: Piraeu
+ s\nRisultato: Olympiacos 0 - 2 Bayer Leverkusen\nStato: finished
+LOCATION:Georgios Karaiskakis Stadium\, Piraeus
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Atlético Madrid (1-4)
+DTSTART:20260224T174500Z
+DTEND:20260224T201500Z
+UID:b1dd195b639a33fdaa7ab32096d5f4cb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Club Brugge\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nR
+ isultato: Atlético Madrid 4 - 1 Club Brugge\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Olympiacos @ Bayer Leverkusen (0-0)
+DTSTART:20260224T200000Z
+DTEND:20260224T223000Z
+UID:72a9da6ad85e4fbad7edee0a78e94793@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : Olympiacos\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisultato: Bay
+ er Leverkusen 0 - 0 Olympiacos\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Internazionale (2-1)
+DTSTART:20260224T200000Z
+DTEND:20260224T223000Z
+UID:44df6b087b86423a096796bba1f5ef06@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Bodo/Glimt\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazi
+ onale 1 - 2 Bodo/Glimt\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FK Qarabag @ Newcastle United (2-3)
+DTSTART:20260224T200000Z
+DTEND:20260224T223000Z
+UID:903f9d3eadf263cc1a62648434acbff4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : FK Qarabag\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-Tyne
+ \nRisultato: Newcastle United 3 - 2 FK Qarabag\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Atalanta (1-4)
+DTSTART:20260225T174500Z
+DTEND:20260225T201500Z
+UID:65b18f498a5baa59871fc06bf9a1e2cd@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Boruss
+ ia Dortmund\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato
+ : Atalanta 4 - 1 Borussia Dortmund\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Juventus (2-3)
+DTSTART:20260225T200000Z
+DTEND:20260225T223000Z
+UID:429867c574ed839d79a0d710a60c68ad@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Juventus\nOspite: Galata
+ saray\nCircuito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventu
+ s 3 - 2 Galatasaray\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Monaco @ Paris Saint-Germain (2-2)
+DTSTART:20260225T200000Z
+DTEND:20260225T223000Z
+UID:4f01cf02a90a53069a8b447cef18b8ef@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: AS Monaco\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato
+ : Paris Saint-Germain 2 - 2 AS Monaco\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Benfica @ Real Madrid (1-2)
+DTSTART:20260225T200000Z
+DTEND:20260225T223000Z
+UID:a20bd971c4f8a82882624649900fffae@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Ben
+ fica\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato: Real 
+ Madrid 2 - 1 Benfica\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Galatasaray (0-1)
+DTSTART:20260310T174500Z
+DTEND:20260310T201500Z
+UID:93c2bd4754ac50a3d3d47c1b7a8c4efe@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Liv
+ erpool\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasara
+ y 1 - 0 Liverpool\nStato: finished
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Atalanta (6-1)
+DTSTART:20260310T200000Z
+DTEND:20260310T223000Z
+UID:56cb0d20d673065b88341ccf361b0164@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atalanta\nOspite: Bayern
+  Munich\nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: At
+ alanta 1 - 6 Bayern Munich\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Tottenham Hotspur @ Atlético Madrid (2-5)
+DTSTART:20260310T200000Z
+DTEND:20260310T223000Z
+UID:d45c402f60aeb7e13ef258df7d2cc254@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Tottenham Hotspur\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Mad
+ rid\nRisultato: Atlético Madrid 5 - 2 Tottenham Hotspur\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Newcastle United (1-1)
+DTSTART:20260310T200000Z
+DTEND:20260310T223000Z
+UID:99b694009dc02c26b8d1c87e054cf253@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Newcastle United\nOspite
+ : Barcelona\nCircuito/Arena: St. James' Park\nCittà: Newcastle-upon-Tyne\
+ nRisultato: Newcastle United 1 - 1 Barcelona\nStato: finished
+LOCATION:St. James' Park\, Newcastle-upon-Tyne
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Bayer Leverkusen (1-1)
+DTSTART:20260311T174500Z
+DTEND:20260311T201500Z
+UID:d47f78ab4455ba904ab87389e361dab7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayer Leverkusen\nOspite
+ : Arsenal\nCircuito/Arena: BayArena\nCittà: Leverkusen\nRisultato: Bayer 
+ Leverkusen 1 - 1 Arsenal\nStato: finished
+LOCATION:BayArena\, Leverkusen
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Bodo/Glimt (0-3)
+DTSTART:20260311T200000Z
+DTEND:20260311T223000Z
+UID:192b80c4941b13f9c49c4972b0b364b9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Spor
+ ting CP\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: 
+ Bodo/Glimt 3 - 0 Sporting CP\nStato: finished
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Chelsea @ Paris Saint-Germain (2-5)
+DTSTART:20260311T200000Z
+DTEND:20260311T223000Z
+UID:2908ba3b3e98e62d99b38a458f7a9475@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Chelsea\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato: 
+ Paris Saint-Germain 5 - 2 Chelsea\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Real Madrid (0-3)
+DTSTART:20260311T200000Z
+DTEND:20260311T223000Z
+UID:d06bfa99e5c117a0c17d27f4782a2feb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Man
+ chester City\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultat
+ o: Real Madrid 3 - 0 Manchester City\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Sporting CP (0-5)
+DTSTART:20260317T174500Z
+DTEND:20260317T201500Z
+UID:cee72e4c89a682281f646493d90d720d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Bod
+ o/Glimt\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisultat
+ o: Sporting CP 5 - 0 Bodo/Glimt\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayer Leverkusen @ Arsenal (0-2)
+DTSTART:20260317T200000Z
+DTEND:20260317T223000Z
+UID:427ee31b6bd622f6087e7890499ee5b6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Bayer L
+ everkusen\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Ar
+ senal 2 - 0 Bayer Leverkusen\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Chelsea (3-0)
+DTSTART:20260317T200000Z
+DTEND:20260317T223000Z
+UID:2ab91ca0bad8ff42edb273e968dde648@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Chelsea\nOspite: Paris S
+ aint-Germain\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: 
+ Chelsea 0 - 3 Paris Saint-Germain\nStato: finished
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Manchester City (2-1)
+DTSTART:20260317T200000Z
+DTEND:20260317T223000Z
+UID:9a92961dc7bd3e32691bd465a2317758@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Real Madrid\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRisultat
+ o: Manchester City 1 - 2 Real Madrid\nStato: finished
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Newcastle United @ Barcelona (2-7)
+DTSTART:20260318T174500Z
+DTEND:20260318T201500Z
+UID:6c0fafa8625cdd9fa1ffb8e5b4085d48@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Newca
+ stle United\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisultat
+ o: Barcelona 7 - 2 Newcastle United\nStato: finished
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atalanta @ Bayern Munich (1-4)
+DTSTART:20260318T200000Z
+DTEND:20260318T223000Z
+UID:a7eff8741884c37aaa53eff7f8dc225a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: A
+ talanta\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Bayer
+ n Munich 4 - 1 Atalanta\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Liverpool (0-4)
+DTSTART:20260318T200000Z
+DTEND:20260318T223000Z
+UID:1662065827667eda2a16acce798655ca@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Galat
+ asaray\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverpool 4
+  - 0 Galatasaray\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Tottenham Hotspur (2-3)
+DTSTART:20260318T200000Z
+DTEND:20260318T223000Z
+UID:2d88b8dc1dcc16b04d4cdc3a5262a271@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Tottenham Hotspur\nOspit
+ e: Atlético Madrid\nCircuito/Arena: Tottenham Hotspur Stadium\nCittà: Lo
+ ndon\nRisultato: Tottenham Hotspur 3 - 2 Atlético Madrid\nStato: finished
+LOCATION:Tottenham Hotspur Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Real Madrid (2-1)
+DTSTART:20260407T190000Z
+DTEND:20260407T213000Z
+UID:d90a2f53196a89a25801556e9e783fa2@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Bay
+ ern Munich\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato:
+  Real Madrid 1 - 2 Bayern Munich\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Sporting CP (1-0)
+DTSTART:20260407T190000Z
+DTEND:20260407T213000Z
+UID:8adce8b09bb8739774254dbf4af65a38@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Ars
+ enal\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisultato: 
+ Sporting CP 0 - 1 Arsenal\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Barcelona (2-0)
+DTSTART:20260408T190000Z
+DTEND:20260408T213000Z
+UID:2a4b812a58a34cfaf9e463ab17f9bba4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Atlé
+ tico Madrid\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisultat
+ o: Barcelona 0 - 2 Atlético Madrid\nStato: finished
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Paris Saint-Germain (0-2)
+DTSTART:20260408T190000Z
+DTEND:20260408T213000Z
+UID:1d57dd75db34fcbc2a58a93dca9863f0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Liverpool\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato
+ : Paris Saint-Germain 2 - 0 Liverpool\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Atlético Madrid (2-1)
+DTSTART:20260414T190000Z
+DTEND:20260414T213000Z
+UID:5a7f8bd200199b4903d2babca2c28dfe@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Barcelona\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nRis
+ ultato: Atlético Madrid 1 - 2 Barcelona\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Liverpool (2-0)
+DTSTART:20260414T190000Z
+DTEND:20260414T213000Z
+UID:c4c9ca873a252125da60cd8af4431cbc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Paris
+  Saint-Germain\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liv
+ erpool 0 - 2 Paris Saint-Germain\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Arsenal (0-0)
+DTSTART:20260415T190000Z
+DTEND:20260415T213000Z
+UID:befbd7122545b4f5072c55dee7be21f8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Sportin
+ g CP\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Arsenal
+  0 - 0 Sporting CP\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Bayern Munich (3-4)
+DTSTART:20260415T190000Z
+DTEND:20260415T213000Z
+UID:73f2c6ae36909022b20a9a38063c5672@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: R
+ eal Madrid\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Ba
+ yern Munich 4 - 3 Real Madrid\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Paris Saint-Germain (4-5)
+DTSTART:20260428T190000Z
+DTEND:20260428T213000Z
+UID:6959f50b83b338b352f2d9f2246a5f8f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Bayern Munich\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisul
+ tato: Paris Saint-Germain 5 - 4 Bayern Munich\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Atlético Madrid (1-1)
+DTSTART:20260429T190000Z
+DTEND:20260429T213000Z
+UID:e2ab0fe19fcb0e9eeb01dd68696cd2a6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Arsenal\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nRisul
+ tato: Atlético Madrid 1 - 1 Arsenal\nStato: finished
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Arsenal (0-1)
+DTSTART:20260505T190000Z
+DTEND:20260505T213000Z
+UID:06a785017c8e33ef888f127f9ebbeb01@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Atléti
+ co Madrid\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Ar
+ senal 1 - 0 Atlético Madrid\nStato: finished
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Bayern Munich (1-1)
+DTSTART:20260506T190000Z
+DTEND:20260506T213000Z
+UID:322259e580dd8ab529508777677ba07c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: P
+ aris Saint-Germain\nCircuito/Arena: Allianz Arena\nCittà: München\nRisul
+ tato: Bayern Munich 1 - 1 Paris Saint-Germain\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Paris Saint-Germain (1-1)
+DTSTART:20260530T160000Z
+DTEND:20260530T183000Z
+UID:c42270c2bd087bd3da840ed158e0f4a7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Arsenal\nCircuito/Arena: Puskás Aréna\nCittà: Budapest\nRisultato:
+  Paris Saint-Germain 1 - 1 Arsenal\nStato: finished
+LOCATION:Puskás Aréna\, Budapest
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+END:VCALENDAR
