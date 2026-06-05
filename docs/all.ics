@@ -21050,7 +21050,7 @@ UID:f843c1d473140c269081b990e7f53a6b@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Monaco Grand Prix\nOspite: 🏎 FP2\nC
  ircuito/Arena: Circuit de Monaco\nCittà: Monte Carlo\, Monaco\nGiornata/R
- ound: Round 6\nFase: SecondPractice\nStato: scheduled
+ ound: Round 6\nFase: SecondPractice\nStato: finished
 LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22651,8 +22651,8 @@ X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Libéma Open
-DTSTART:20260608T040000Z
-DTEND:20260608T063000Z
+DTSTART:20260606T040000Z
+DTEND:20260606T063000Z
 UID:d57900c690ecdc63b73faad36272277c@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Libéma Open\nOspite: ATP\nGio
@@ -23632,8 +23632,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Libéma Open
-DTSTART:20260608T040000Z
-DTEND:20260608T063000Z
+DTSTART:20260606T040000Z
+DTEND:20260606T063000Z
 UID:9dc174a32f18f54ed850735549834e45@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Libéma Open\nOspite: WTA\nGio
