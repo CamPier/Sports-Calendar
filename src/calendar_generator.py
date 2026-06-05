@@ -14,6 +14,12 @@ COMPETITION_COLORS = {
     "EuroLeague": "#003DA5",
     "EuroCup": "#0080C8",
     "LBA": "#008751",
+    "Serie A": "#1A56DB",
+    "Champions League": "#1B1464",
+    "F1": "#E10600",
+    "MotoGP": "#CC0000",
+    "Tennis ATP": "#4CAF50",
+    "Tennis WTA": "#E91E8C",
 }
 
 COMPETITION_EMOJI = {
@@ -21,6 +27,12 @@ COMPETITION_EMOJI = {
     "EuroLeague": "🇪🇺",
     "EuroCup": "⭐",
     "LBA": "🇮🇹",
+    "Serie A": "⚽",
+    "Champions League": "⭐",
+    "F1": "🏎",
+    "MotoGP": "🏍",
+    "Tennis ATP": "🎾",
+    "Tennis WTA": "🎾",
 }
 
 PRODID = "-//Basketball Calendar//EN"
@@ -57,27 +69,29 @@ def _make_event(game: dict) -> Event:
     dt_utc: datetime = game["datetime_utc"]
     status = game.get("status", "scheduled")
 
-    emoji = COMPETITION_EMOJI.get(competition, "🏀")
-    summary = f"{emoji} {away} @ {home}"
+    # Allow fetchers to provide a custom summary (e.g. F1, MotoGP)
+    if game.get("summary_override"):
+        summary = game["summary_override"]
+    else:
+        emoji = COMPETITION_EMOJI.get(competition, "🏆")
+        summary = f"{emoji} {away} @ {home}"
+        if status == "finished":
+            h_score = game.get("home_score")
+            a_score = game.get("away_score")
+            if h_score is not None and a_score is not None:
+                summary += f" ({a_score}-{h_score})"
 
-    # Append live score for finished games
-    if status == "finished":
-        h_score = game.get("home_score")
-        a_score = game.get("away_score")
-        if h_score is not None and a_score is not None:
-            summary += f" ({a_score}-{h_score})"
-
-    lines = [
-        f"Competizione: {competition}",
-        f"Casa: {home}",
-        f"Ospite: {away}",
-    ]
+    lines = [f"Competizione: {competition}"]
+    if home and home != away:
+        lines.append(f"Casa: {home}")
+    if away:
+        lines.append(f"Ospite: {away}")
     if game.get("venue"):
-        lines.append(f"Arena: {game['venue']}")
+        lines.append(f"Circuito/Arena: {game['venue']}")
     if game.get("city"):
         lines.append(f"Città: {game['city']}")
     if game.get("round"):
-        lines.append(f"Giornata: {game['round']}")
+        lines.append(f"Giornata/Round: {game['round']}")
     if game.get("series_text"):
         lines.append(f"Serie: {game['series_text']}")
     if game.get("phase"):
@@ -94,8 +108,9 @@ def _make_event(game: dict) -> Event:
     event = Event()
     event.add("UID", uid)
     event.add("SUMMARY", summary)
+    dt_end = game.get("datetime_end") or (dt_utc + timedelta(hours=2, minutes=30))
     event.add("DTSTART", dt_utc)
-    event.add("DTEND", dt_utc + timedelta(hours=2, minutes=30))
+    event.add("DTEND", dt_end)
     event.add("DESCRIPTION", "\n".join(lines))
     event.add("STATUS", "CONFIRMED" if status != "live" else "TENTATIVE")
     event.add("TRANSP", "TRANSPARENT")

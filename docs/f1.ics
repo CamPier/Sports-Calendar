@@ -1,0 +1,1249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basketball Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Calendario Formula 1 2026: tutte le sessioni (FP1\, FP2\, FP3
+ \, Qualifiche\, Gara)
+X-WR-CALNAME:Formula 1 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Australian Grand Prix
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+UID:97fa10a5fac1fd255f0cbf66c115e79e@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Australian Grand Prix\nOspite: 🏎 FP
+ 1\nCircuito/Arena: Albert Park Grand Prix Circuit\nCittà: Melbourne\, Aus
+ tralia\nGiornata/Round: Round 1\nFase: FirstPractice\nStato: finished
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Australian Grand Prix
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+UID:740b991055408b585b6ee9beff37c677@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Australian Grand Prix\nOspite: 🏎 FP
+ 2\nCircuito/Arena: Albert Park Grand Prix Circuit\nCittà: Melbourne\, Aus
+ tralia\nGiornata/Round: Round 1\nFase: SecondPractice\nStato: finished
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Australian Grand Prix
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+UID:109126b33db451d04837349babbb537d@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Australian Grand Prix\nOspite: 🏎 FP
+ 3\nCircuito/Arena: Albert Park Grand Prix Circuit\nCittà: Melbourne\, Aus
+ tralia\nGiornata/Round: Round 1\nFase: ThirdPractice\nStato: finished
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Australian Grand Prix
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+UID:58a6c69ed6703dd5cff461a8df757035@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Australian Grand Prix\nOspite: 🏎 Qu
+ alifiche\nCircuito/Arena: Albert Park Grand Prix Circuit\nCittà: Melbourn
+ e\, Australia\nGiornata/Round: Round 1\nFase: Qualifying\nStato: finished
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Chinese Grand Prix
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+UID:5487b7652275d48bbc2faff0c13f8bb8@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Chinese Grand Prix\nOspite: 🏎 FP1\n
+ Circuito/Arena: Shanghai International Circuit\nCittà: Shanghai\, China\n
+ Giornata/Round: Round 2\nFase: FirstPractice\nStato: finished
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — Chinese Grand Prix
+DTSTART:20260313T073000Z
+DTEND:20260313T083000Z
+UID:09b0df83219211c19b7f6ba4223683c3@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Chinese Grand Prix\nOspite: 🏎 Sprin
+ t Qualifying\nCircuito/Arena: Shanghai International Circuit\nCittà: Shan
+ ghai\, China\nGiornata/Round: Round 2\nFase: SprintQualifying\nStato: fini
+ shed
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — Chinese Grand Prix
+DTSTART:20260314T030000Z
+DTEND:20260314T034500Z
+UID:7a4a8facc1dd9d10343a4de9e9df189b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Chinese Grand Prix\nOspite: 🏎 Sprin
+ t\nCircuito/Arena: Shanghai International Circuit\nCittà: Shanghai\, Chin
+ a\nGiornata/Round: Round 2\nFase: Sprint\nStato: finished
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Chinese Grand Prix
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+UID:7e2bed1173673b4a1cffcc5eac2476c9@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Chinese Grand Prix\nOspite: 🏎 Quali
+ fiche\nCircuito/Arena: Shanghai International Circuit\nCittà: Shanghai\, 
+ China\nGiornata/Round: Round 2\nFase: Qualifying\nStato: finished
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Japanese Grand Prix
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+UID:490f93209e48c90e473c95b73953e184@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: FirstPractice\nStato: finished
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Japanese Grand Prix
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+UID:30048da6c0fce5c73eef6ff578725db7@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP2\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: SecondPractice\nStato: finished
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Japanese Grand Prix
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+UID:768e10edb4eef91d9b3866afbdeab513@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP3\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: ThirdPractice\nStato: finished
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Japanese Grand Prix
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+UID:1ef786876cf1c1c1e02b086ee6ababfd@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 Qual
+ ifiche\nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/R
+ ound: Round 3\nFase: Qualifying\nStato: finished
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Miami Grand Prix
+DTSTART:20260501T160000Z
+DTEND:20260501T170000Z
+UID:7f2066ac060754a82df093f40a502079@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 FP1\nCi
+ rcuito/Arena: Miami International Autodrome\nCittà: Miami\, USA\nGiornata
+ /Round: Round 4\nFase: FirstPractice\nStato: finished
+LOCATION:Miami International Autodrome\, Miami\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — Miami Grand Prix
+DTSTART:20260501T203000Z
+DTEND:20260501T213000Z
+UID:72a95936f8e200801bc5f9db67f6669a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 Sprint 
+ Qualifying\nCircuito/Arena: Miami International Autodrome\nCittà: Miami\,
+  USA\nGiornata/Round: Round 4\nFase: SprintQualifying\nStato: finished
+LOCATION:Miami International Autodrome\, Miami\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — Miami Grand Prix
+DTSTART:20260502T160000Z
+DTEND:20260502T164500Z
+UID:60eca2e71eb0a771aa776a4ee6525882@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 Sprint\
+ nCircuito/Arena: Miami International Autodrome\nCittà: Miami\, USA\nGiorn
+ ata/Round: Round 4\nFase: Sprint\nStato: finished
+LOCATION:Miami International Autodrome\, Miami\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Miami Grand Prix
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+UID:6368b87b07d0e63246e1bfbd0c5b1c1c@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 Qualifi
+ che\nCircuito/Arena: Miami International Autodrome\nCittà: Miami\, USA\nG
+ iornata/Round: Round 4\nFase: Qualifying\nStato: finished
+LOCATION:Miami International Autodrome\, Miami\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Canadian Grand Prix
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+UID:47fb3ba61d7568690d59ca01664e3d7e@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal\, Canada\nGio
+ rnata/Round: Round 5\nFase: FirstPractice\nStato: finished
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — Canadian Grand Prix
+DTSTART:20260522T203000Z
+DTEND:20260522T213000Z
+UID:f13f6245e061d495f4548c77a7d6a319@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 Spri
+ nt Qualifying\nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal
+ \, Canada\nGiornata/Round: Round 5\nFase: SprintQualifying\nStato: finishe
+ d
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — Canadian Grand Prix
+DTSTART:20260523T160000Z
+DTEND:20260523T164500Z
+UID:032ce8b64e4441bcb6011f2da1fe378a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 Spri
+ nt\nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal\, Canada\n
+ Giornata/Round: Round 5\nFase: Sprint\nStato: finished
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Canadian Grand Prix
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+UID:e2987533b0acca48bc6750843eb09bce@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 Qual
+ ifiche\nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal\, Cana
+ da\nGiornata/Round: Round 5\nFase: Qualifying\nStato: finished
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Monaco Grand Prix
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+UID:0d642b058a5345ee3e58a776decb4d0f@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Monaco Grand Prix\nOspite: 🏎 FP1\nC
+ ircuito/Arena: Circuit de Monaco\nCittà: Monte Carlo\, Monaco\nGiornata/R
+ ound: Round 6\nFase: FirstPractice\nStato: scheduled
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Monaco Grand Prix
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+UID:f843c1d473140c269081b990e7f53a6b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Monaco Grand Prix\nOspite: 🏎 FP2\nC
+ ircuito/Arena: Circuit de Monaco\nCittà: Monte Carlo\, Monaco\nGiornata/R
+ ound: Round 6\nFase: SecondPractice\nStato: scheduled
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Monaco Grand Prix
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+UID:2d866587a024110d233bda1b1432d702@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Monaco Grand Prix\nOspite: 🏎 FP3\nC
+ ircuito/Arena: Circuit de Monaco\nCittà: Monte Carlo\, Monaco\nGiornata/R
+ ound: Round 6\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Monaco Grand Prix
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+UID:d29681e5039c1a442bf3924f8d10c862@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Monaco Grand Prix\nOspite: 🏎 Qualif
+ iche\nCircuito/Arena: Circuit de Monaco\nCittà: Monte Carlo\, Monaco\nGio
+ rnata/Round: Round 6\nFase: Qualifying\nStato: scheduled
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Barcelona Grand Prix
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+UID:9735d971482c47ee7b22457513db603c@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona\, Spai
+ n\nGiornata/Round: Round 7\nFase: FirstPractice\nStato: scheduled
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Barcelona Grand Prix
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+UID:47b05ef3a0572ec83363e616f5c45bba@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 FP2
+ \nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona\, Spai
+ n\nGiornata/Round: Round 7\nFase: SecondPractice\nStato: scheduled
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Barcelona Grand Prix
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+UID:ef3e260f5f61d78980dd44c60dad100c@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 FP3
+ \nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona\, Spai
+ n\nGiornata/Round: Round 7\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Barcelona Grand Prix
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+UID:1bc3d1e558c77a7c5065c58c1b56d11a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona
+ \, Spain\nGiornata/Round: Round 7\nFase: Qualifying\nStato: scheduled
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Austrian Grand Prix
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+UID:e80bb5496e7f8da94508341f73ade057@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: FirstPractice\nStato: scheduled
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Austrian Grand Prix
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+UID:89140cd192a89cc454ca1a88004b272b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP2\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: SecondPractice\nStato: scheduled
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Austrian Grand Prix
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+UID:4612ccc00e83c2796c190ffb69556fe9@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP3\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Austrian Grand Prix
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+UID:d2db6a12041bdba952ffa7ef258b0002@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 Qual
+ ifiche\nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiorna
+ ta/Round: Round 8\nFase: Qualifying\nStato: scheduled
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — British Grand Prix
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+UID:1719a86bac3eda388a76f3adc0c8ef23@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: British Grand Prix\nOspite: 🏎 FP1\n
+ Circuito/Arena: Silverstone Circuit\nCittà: Silverstone\, UK\nGiornata/Ro
+ und: Round 9\nFase: FirstPractice\nStato: scheduled
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — British Grand Prix
+DTSTART:20260703T153000Z
+DTEND:20260703T163000Z
+UID:4473c82f144bc6ce52c9b9dbcada3fc1@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: British Grand Prix\nOspite: 🏎 Sprin
+ t Qualifying\nCircuito/Arena: Silverstone Circuit\nCittà: Silverstone\, U
+ K\nGiornata/Round: Round 9\nFase: SprintQualifying\nStato: scheduled
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — British Grand Prix
+DTSTART:20260704T110000Z
+DTEND:20260704T114500Z
+UID:1325db44e852b71b1fa90d5198c4d196@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: British Grand Prix\nOspite: 🏎 Sprin
+ t\nCircuito/Arena: Silverstone Circuit\nCittà: Silverstone\, UK\nGiornata
+ /Round: Round 9\nFase: Sprint\nStato: scheduled
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — British Grand Prix
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+UID:946c3c8f2745e3085badc7b78b0eee37@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: British Grand Prix\nOspite: 🏎 Quali
+ fiche\nCircuito/Arena: Silverstone Circuit\nCittà: Silverstone\, UK\nGior
+ nata/Round: Round 9\nFase: Qualifying\nStato: scheduled
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Belgian Grand Prix
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+UID:7c7de7b84165f21404315205ef8b4725@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 FP1\n
+ Circuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium\nGiorn
+ ata/Round: Round 10\nFase: FirstPractice\nStato: scheduled
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Belgian Grand Prix
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+UID:f1f3b871c806e122b8c96273c48f8b36@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 FP2\n
+ Circuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium\nGiorn
+ ata/Round: Round 10\nFase: SecondPractice\nStato: scheduled
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Belgian Grand Prix
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+UID:389884d0865f1c2a49077376ff01cc8d@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 FP3\n
+ Circuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium\nGiorn
+ ata/Round: Round 10\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Belgian Grand Prix
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+UID:7962d5a6207b256059c5c99ff9b999dc@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 Quali
+ fiche\nCircuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium
+ \nGiornata/Round: Round 10\nFase: Qualifying\nStato: scheduled
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Hungarian Grand Prix
+DTSTART:20260724T113000Z
+DTEND:20260724T123000Z
+UID:b637b5b004b80cb260bb54d23b07bc66@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata/Round:
+  Round 11\nFase: FirstPractice\nStato: scheduled
+LOCATION:Hungaroring\, Budapest\, Hungary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Hungarian Grand Prix
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+UID:ad8034b482f3fc6873c0d54dd14e0c85@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 FP2
+ \nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata/Round:
+  Round 11\nFase: SecondPractice\nStato: scheduled
+LOCATION:Hungaroring\, Budapest\, Hungary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Hungarian Grand Prix
+DTSTART:20260725T103000Z
+DTEND:20260725T113000Z
+UID:c06e45ed4944ffc7b38501fe3ee4e81a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 FP3
+ \nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata/Round:
+  Round 11\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Hungaroring\, Budapest\, Hungary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Hungarian Grand Prix
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+UID:78645de12f4c3be9413e42e84fa5c3a5@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata
+ /Round: Round 11\nFase: Qualifying\nStato: scheduled
+LOCATION:Hungaroring\, Budapest\, Hungary
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Dutch Grand Prix
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+UID:9f00adbe8a2852298d7b87e5b571de3d@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 FP1\nCi
+ rcuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Netherlands\nGio
+ rnata/Round: Round 12\nFase: FirstPractice\nStato: scheduled
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — Dutch Grand Prix
+DTSTART:20260821T143000Z
+DTEND:20260821T153000Z
+UID:66173101d0e9ff5e049cd4783741f6a3@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 Sprint 
+ Qualifying\nCircuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Ne
+ therlands\nGiornata/Round: Round 12\nFase: SprintQualifying\nStato: schedu
+ led
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — Dutch Grand Prix
+DTSTART:20260822T100000Z
+DTEND:20260822T104500Z
+UID:6b5b834fdf0650410251e8f592b933ff@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 Sprint\
+ nCircuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Netherlands\n
+ Giornata/Round: Round 12\nFase: Sprint\nStato: scheduled
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Dutch Grand Prix
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+UID:147836e436aed3e6a095566c2ff4cf44@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 Qualifi
+ che\nCircuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Netherlan
+ ds\nGiornata/Round: Round 12\nFase: Qualifying\nStato: scheduled
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Italian Grand Prix
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+UID:1bbe3a0a5d56bb3e204b6a5a1e8dfce6@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 FP1\n
+ Circuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy\nGiorn
+ ata/Round: Round 13\nFase: FirstPractice\nStato: scheduled
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Italian Grand Prix
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+UID:478a022adef2ecc77e96c401783addd0@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 FP2\n
+ Circuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy\nGiorn
+ ata/Round: Round 13\nFase: SecondPractice\nStato: scheduled
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Italian Grand Prix
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+UID:495f2860bf3fb1656b4b6f7ff029f80f@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 FP3\n
+ Circuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy\nGiorn
+ ata/Round: Round 13\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Italian Grand Prix
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+UID:b110e9f9403272599674c49568dffc9b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 Quali
+ fiche\nCircuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy
+ \nGiornata/Round: Round 13\nFase: Qualifying\nStato: scheduled
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Spanish Grand Prix
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+UID:d0f6bf17daa86bd7af585d830620c5eb@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP1\n
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: FirstPractice\nStato: scheduled
+LOCATION:Madring\, Madrid\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Spanish Grand Prix
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+UID:956e23ffe34bb776933ef25afa4de546@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP2\n
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: SecondPractice\nStato: scheduled
+LOCATION:Madring\, Madrid\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Spanish Grand Prix
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+UID:876c4370a77b074f4159b3644bfa9515@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP3\n
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: ThirdPractice\nStato: scheduled
+LOCATION:Madring\, Madrid\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Spanish Grand Prix
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+UID:7b3e11b41bad6d0ce0c63e7f1c8ce72a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 Quali
+ fiche\nCircuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Ro
+ und 14\nFase: Qualifying\nStato: scheduled
+LOCATION:Madring\, Madrid\, Spain
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Azerbaijan Grand Prix
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+UID:6c40693e530367f72f2aed8156319b59@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Azerbaijan Grand Prix\nOspite: 🏎 FP
+ 1\nCircuito/Arena: Baku City Circuit\nCittà: Baku\, Azerbaijan\nGiornata/
+ Round: Round 15\nFase: FirstPractice\nStato: scheduled
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Azerbaijan Grand Prix
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+UID:10dc3facbd3415be7cb6deccbd3408e5@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Azerbaijan Grand Prix\nOspite: 🏎 FP
+ 2\nCircuito/Arena: Baku City Circuit\nCittà: Baku\, Azerbaijan\nGiornata/
+ Round: Round 15\nFase: SecondPractice\nStato: scheduled
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Azerbaijan Grand Prix
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+UID:20adda52a143021bd7df3633157b3118@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Azerbaijan Grand Prix\nOspite: 🏎 FP
+ 3\nCircuito/Arena: Baku City Circuit\nCittà: Baku\, Azerbaijan\nGiornata/
+ Round: Round 15\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Azerbaijan Grand Prix
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+UID:fc46e7cc4ae41bc8f7acccc98a708fa4@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Azerbaijan Grand Prix\nOspite: 🏎 Qu
+ alifiche\nCircuito/Arena: Baku City Circuit\nCittà: Baku\, Azerbaijan\nGi
+ ornata/Round: Round 15\nFase: Qualifying\nStato: scheduled
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Singapore Grand Prix
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+UID:642d8447652f99289cd10a2616a9fcd1@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, Singapor
+ e\nGiornata/Round: Round 16\nFase: FirstPractice\nStato: scheduled
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint Qualifying — Singapore Grand Prix
+DTSTART:20261009T123000Z
+DTEND:20261009T133000Z
+UID:918042719dc74a0366a491dd3ff751d5@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Spr
+ int Qualifying\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina 
+ Bay\, Singapore\nGiornata/Round: Round 16\nFase: SprintQualifying\nStato: 
+ scheduled
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Sprint — Singapore Grand Prix
+DTSTART:20261010T090000Z
+DTEND:20261010T094500Z
+UID:5d15dea4d4bfe21fdd042b52b26a8d7b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Spr
+ int\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, Singa
+ pore\nGiornata/Round: Round 16\nFase: Sprint\nStato: scheduled
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Singapore Grand Prix
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+UID:374eb37861cb715643809788198e68d8@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, S
+ ingapore\nGiornata/Round: Round 16\nFase: Qualifying\nStato: scheduled
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — United States Grand Prix
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+UID:156210f762f518adde0ab24a03ecf4ce@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
+  FP1\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA\nGiorn
+ ata/Round: Round 17\nFase: FirstPractice\nStato: scheduled
+LOCATION:Circuit of the Americas\, Austin\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — United States Grand Prix
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+UID:b071408ae2b00a9573e9ee30848680f3@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
+  FP2\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA\nGiorn
+ ata/Round: Round 17\nFase: SecondPractice\nStato: scheduled
+LOCATION:Circuit of the Americas\, Austin\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — United States Grand Prix
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+UID:7e3268400f8b0ffa79a2a48d309c0b79@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
+  FP3\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA\nGiorn
+ ata/Round: Round 17\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Circuit of the Americas\, Austin\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — United States Grand Prix
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+UID:c50743a58aea331e162a38dd91c489f6@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
+  Qualifiche\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA
+ \nGiornata/Round: Round 17\nFase: Qualifying\nStato: scheduled
+LOCATION:Circuit of the Americas\, Austin\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Mexico City Grand Prix
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+UID:1849b640f84bbacd1fb033cf24085005@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 F
+ P1\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico City\, 
+ Mexico\nGiornata/Round: Round 18\nFase: FirstPractice\nStato: scheduled
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Mexico City Grand Prix
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+UID:868dc7985d650a36753923bbd90f7ac1@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 F
+ P2\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico City\, 
+ Mexico\nGiornata/Round: Round 18\nFase: SecondPractice\nStato: scheduled
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Mexico City Grand Prix
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+UID:aa36fbeb4c0d1208b937eafd44dbfdfd@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 F
+ P3\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico City\, 
+ Mexico\nGiornata/Round: Round 18\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Mexico City Grand Prix
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+UID:46751a380180c10cd68bd0421d5607c5@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 Q
+ ualifiche\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico 
+ City\, Mexico\nGiornata/Round: Round 18\nFase: Qualifying\nStato: schedule
+ d
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Brazilian Grand Prix
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+UID:b354777fc5db3120d3b9cb779084eb3b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
+ l\nGiornata/Round: Round 19\nFase: FirstPractice\nStato: scheduled
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Brazilian Grand Prix
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+UID:87e44ec56239c59bb0885c3133f87e36@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP2
+ \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
+ l\nGiornata/Round: Round 19\nFase: SecondPractice\nStato: scheduled
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Brazilian Grand Prix
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+UID:4963f99215b9df9cd1736dfcd5a7bbb3@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP3
+ \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
+ l\nGiornata/Round: Round 19\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Brazilian Grand Prix
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+UID:362140cc687f0683fd505535545b2248@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\
+ , Brazil\nGiornata/Round: Round 19\nFase: Qualifying\nStato: scheduled
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Las Vegas Grand Prix
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+UID:1c0b0fc425628df52c480b504d029e25@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 20\nFase: FirstPractice\nStato: scheduled
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Las Vegas Grand Prix
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+UID:58fcfc6306f7d7429b49f2513e3b9164@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP2
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 20\nFase: SecondPractice\nStato: scheduled
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Las Vegas Grand Prix
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+UID:81c22a04ba05744427cf05030946ec98@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP3
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 20\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Las Vegas Grand Prix
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+UID:268eecd1e654d6a9c9745263f5deca6c@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas
+ \, USA\nGiornata/Round: Round 20\nFase: Qualifying\nStato: scheduled
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Qatar Grand Prix
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+UID:6c35a60b36fab5ae5a33aa6377bc4e85@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 FP1\nCi
+ rcuito/Arena: Losail International Circuit\nCittà: Lusail\, Qatar\nGiorna
+ ta/Round: Round 21\nFase: FirstPractice\nStato: scheduled
+LOCATION:Losail International Circuit\, Lusail\, Qatar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Qatar Grand Prix
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+UID:e6a2555c315f8f467f649c67cac76216@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 FP2\nCi
+ rcuito/Arena: Losail International Circuit\nCittà: Lusail\, Qatar\nGiorna
+ ta/Round: Round 21\nFase: SecondPractice\nStato: scheduled
+LOCATION:Losail International Circuit\, Lusail\, Qatar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Qatar Grand Prix
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+UID:44becfc3fb4cd8fbb4b10c43063a0f3a@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 FP3\nCi
+ rcuito/Arena: Losail International Circuit\nCittà: Lusail\, Qatar\nGiorna
+ ta/Round: Round 21\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Losail International Circuit\, Lusail\, Qatar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Qatar Grand Prix
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+UID:6e6b04beb8199ee4efda2945120a2c5d@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 Qualifi
+ che\nCircuito/Arena: Losail International Circuit\nCittà: Lusail\, Qatar\
+ nGiornata/Round: Round 21\nFase: Qualifying\nStato: scheduled
+LOCATION:Losail International Circuit\, Lusail\, Qatar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP1 — Abu Dhabi Grand Prix
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+UID:df1f751395d6b016b514353262661f2f@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Abu Dhabi Grand Prix\nOspite: 🏎 FP1
+ \nCircuito/Arena: Yas Marina Circuit\nCittà: Abu Dhabi\, UAE\nGiornata/Ro
+ und: Round 22\nFase: FirstPractice\nStato: scheduled
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP2 — Abu Dhabi Grand Prix
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+UID:9c5298694bafa349e3ec8d206f8f9a0b@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Abu Dhabi Grand Prix\nOspite: 🏎 FP2
+ \nCircuito/Arena: Yas Marina Circuit\nCittà: Abu Dhabi\, UAE\nGiornata/Ro
+ und: Round 22\nFase: SecondPractice\nStato: scheduled
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 FP3 — Abu Dhabi Grand Prix
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+UID:ff0b93728a5ffc196c97687428e47105@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Abu Dhabi Grand Prix\nOspite: 🏎 FP3
+ \nCircuito/Arena: Yas Marina Circuit\nCittà: Abu Dhabi\, UAE\nGiornata/Ro
+ und: Round 22\nFase: ThirdPractice\nStato: scheduled
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏎 Qualifiche — Abu Dhabi Grand Prix
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+UID:5a01543cb6ded08e62a1b4a8573503bb@basketball-calendar.github.io
+COLOR:#E10600
+DESCRIPTION:Competizione: F1\nCasa: Abu Dhabi Grand Prix\nOspite: 🏎 Qua
+ lifiche\nCircuito/Arena: Yas Marina Circuit\nCittà: Abu Dhabi\, UAE\nGior
+ nata/Round: Round 22\nFase: Qualifying\nStato: scheduled
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E10600
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1911 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basketball Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Calendario ATP e WTA 2026: Grand Slam e principali tornei
+X-WR-CALNAME:Tennis ATP & WTA 2026
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Brisbane International presented by ANZ
+DTSTART:20260101T050000Z
+DTEND:20260101T073000Z
+UID:821fc416c22b981bdc4167544c0f0e7e@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Brisbane International present
+ ed by ANZ\nOspite: ATP\nGiornata/Round: Brisbane International presented b
+ y ANZ\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ ASB Classic
+DTSTART:20260102T050000Z
+DTEND:20260102T073000Z
+UID:01450de296c89eef0b774e85cf70c92f@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: ASB Classic\nOspite: ATP\nGior
+ nata/Round: ASB Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Bank of China Hong Kong Tennis Open
+DTSTART:20260103T050000Z
+DTEND:20260103T073000Z
+UID:799ba673cf41a8359759b37e3c867715@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Bank of China Hong Kong Tennis
+  Open\nOspite: ATP\nGiornata/Round: Bank of China Hong Kong Tennis Open\nS
+ tato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Adelaide International
+DTSTART:20260109T050000Z
+DTEND:20260109T073000Z
+UID:83b5233d0b085ea3f736ffa0c2f6b7a5@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Adelaide International\nOspite
+ : ATP\nGiornata/Round: Adelaide International\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Australian Open
+DTSTART:20260111T050000Z
+DTEND:20260111T073000Z
+UID:77bd13b94fb653d1a4681bfdb30f265b@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Australian Open\nOspite: ATP\n
+ Giornata/Round: Australian Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Open Occitanie
+DTSTART:20260201T050000Z
+DTEND:20260201T073000Z
+UID:529fdb70ac121c2e04bc0b40e583de2f@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Open Occitanie\nOspite: ATP\nG
+ iornata/Round: Open Occitanie\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ ABN Amro Open
+DTSTART:20260207T050000Z
+DTEND:20260207T073000Z
+UID:71af8bd0e533d6175e40917c9a5b55e5@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: ABN Amro Open\nOspite: ATP\nGi
+ ornata/Round: ABN Amro Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ IEB+ Argentina Open
+DTSTART:20260207T050000Z
+DTEND:20260207T073000Z
+UID:83cdc66aed01e6b8d8d19bd501d14e52@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: IEB+ Argentina Open\nOspite: A
+ TP\nGiornata/Round: IEB+ Argentina Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Nexo Dallas Open
+DTSTART:20260207T050000Z
+DTEND:20260207T073000Z
+UID:37945959767540ed9a36fc9d4c98b1e0@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Nexo Dallas Open\nOspite: ATP\
+ nGiornata/Round: Nexo Dallas Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Dubai Duty Free Tennis Championships
+DTSTART:20260213T050000Z
+DTEND:20260213T073000Z
+UID:482d431942a24e099e63e5290c7d9ca1@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Dubai Duty Free Tennis Champio
+ nships\nOspite: ATP\nGiornata/Round: Dubai Duty Free Tennis Championships\
+ nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Qatar ExxonMobil Open
+DTSTART:20260214T050000Z
+DTEND:20260214T073000Z
+UID:e3dd85c2c3d651be08449bc2a8098af4@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Qatar ExxonMobil Open\nOspite:
+  ATP\nGiornata/Round: Qatar ExxonMobil Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Delray Beach Open
+DTSTART:20260214T050000Z
+DTEND:20260214T073000Z
+UID:b1a7bbf1e4197a49266b8d6752f7ba28@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Delray Beach Open\nOspite: ATP
+ \nGiornata/Round: Delray Beach Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rio Open presented by Claro
+DTSTART:20260214T050000Z
+DTEND:20260214T073000Z
+UID:eebcaaf1832a37db039dc55ca59c2f46@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rio Open presented by Claro\nO
+ spite: ATP\nGiornata/Round: Rio Open presented by Claro\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ BCI Seguros Chile Open
+DTSTART:20260221T050000Z
+DTEND:20260221T073000Z
+UID:cba35f1eacd4e28f661f992e4f4af7d2@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: BCI Seguros Chile Open\nOspite
+ : ATP\nGiornata/Round: BCI Seguros Chile Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Abierto Mexicano Telcel presentado por HSBC
+DTSTART:20260221T050000Z
+DTEND:20260221T073000Z
+UID:8d44c045fe1a069b5e929c91bda748f6@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Abierto Mexicano Telcel presen
+ tado por HSBC\nOspite: ATP\nGiornata/Round: Abierto Mexicano Telcel presen
+ tado por HSBC\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ BNP Paribas Open
+DTSTART:20260301T050000Z
+DTEND:20260301T073000Z
+UID:ae59b3f5c1aacf66d60f33563bc86aba@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: BNP Paribas Open\nOspite: ATP\
+ nGiornata/Round: BNP Paribas Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Miami Open presented by Itau
+DTSTART:20260316T040000Z
+DTEND:20260316T063000Z
+UID:7857479ab33ed7d5493319f2964a61ee@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Miami Open presented by Itau\n
+ Ospite: ATP\nGiornata/Round: Miami Open presented by Itau\nStato: schedule
+ d
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Fayez Sarofim & Co. U.S. Men's Clay Court Championship
+DTSTART:20260328T040000Z
+DTEND:20260328T063000Z
+UID:50c0700fa4f87eaddf5e5278db53e0a1@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Fayez Sarofim & Co. U.S. Men's
+  Clay Court Championship\nOspite: ATP\nGiornata/Round: Fayez Sarofim & Co.
+  U.S. Men's Clay Court Championship\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Grand Prix Hassan II
+DTSTART:20260329T040000Z
+DTEND:20260329T063000Z
+UID:7868831d37dd0895619cd02cb67f4f52@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Grand Prix Hassan II\nOspite: 
+ ATP\nGiornata/Round: Grand Prix Hassan II\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Tiriac Open presented by UniCredit Bank
+DTSTART:20260330T040000Z
+DTEND:20260330T063000Z
+UID:b1ed5c5b281b6604723380f2535d6d20@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Tiriac Open presented by UniCr
+ edit Bank\nOspite: ATP\nGiornata/Round: Tiriac Open presented by UniCredit
+  Bank\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rolex Monte-Carlo Masters
+DTSTART:20260404T040000Z
+DTEND:20260404T063000Z
+UID:4f9777c13bfb281a017b622d1aa05be6@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rolex Monte-Carlo Masters\nOsp
+ ite: ATP\nGiornata/Round: Rolex Monte-Carlo Masters\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ BMW Open by Bitpanda
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:1adedc600ee2e94f4c04148dc9e67493@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: BMW Open by Bitpanda\nOspite: 
+ ATP\nGiornata/Round: BMW Open by Bitpanda\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Barcelona Open Banc Sabadell
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:849f1dae7ca2e954898faa96659b3085@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Barcelona Open Banc Sabadell\n
+ Ospite: ATP\nGiornata/Round: Barcelona Open Banc Sabadell\nStato: schedule
+ d
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Mutua Madrid Open
+DTSTART:20260420T040000Z
+DTEND:20260420T063000Z
+UID:6e9856542516f06369898078376d7ffd@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Mutua Madrid Open\nOspite: ATP
+ \nGiornata/Round: Mutua Madrid Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Internazionali BNL d'Italia
+DTSTART:20260504T040000Z
+DTEND:20260504T063000Z
+UID:3e531f2d6c5c229b6b3b79cd8ed8a787@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Internazionali BNL d'Italia\nO
+ spite: ATP\nGiornata/Round: Internazionali BNL d'Italia\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Gonet Geneva Open
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:3a3a62da823d4bc98b48987d50470fc9@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Gonet Geneva Open\nOspite: ATP
+ \nGiornata/Round: Gonet Geneva Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Bitpanda Hamburg Open
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:9f774cf3508afb66ffbb3b46b3b5c609@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Bitpanda Hamburg Open\nOspite:
+  ATP\nGiornata/Round: Bitpanda Hamburg Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Roland Garros
+DTSTART:20260518T040000Z
+DTEND:20260518T063000Z
+UID:403133a537a6fbf5ef1aa98f68460ebb@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Roland Garros\nOspite: ATP\nGi
+ ornata/Round: Roland Garros\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Boss Open
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:6a191a44454fb9aaf7417186f6a16741@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Boss Open\nOspite: ATP\nGiorna
+ ta/Round: Boss Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Libéma Open
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:d57900c690ecdc63b73faad36272277c@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Libéma Open\nOspite: ATP\nGio
+ rnata/Round: Libéma Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Terra Wortmann Open
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:628fce3a62322ab6f8e53e9e1b393d5c@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Terra Wortmann Open\nOspite: A
+ TP\nGiornata/Round: Terra Wortmann Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ HSBC Championships
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:17c50837c0904bcb11d8bdd1b8b93bf9@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: HSBC Championships\nOspite: AT
+ P\nGiornata/Round: HSBC Championships\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Lexus Eastbourne Open
+DTSTART:20260621T040000Z
+DTEND:20260621T063000Z
+UID:51be2b897262f4a125a808a393c59a50@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Lexus Eastbourne Open\nOspite:
+  ATP\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Vanda Pharmaceuticals Mallorca Championships
+DTSTART:20260621T040000Z
+DTEND:20260621T063000Z
+UID:da0010d8a9b78600a037960f7bda392f@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Vanda Pharmaceuticals Mallorca
+  Championships\nOspite: ATP\nGiornata/Round: Vanda Pharmaceuticals Mallorc
+ a Championships\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Wimbledon
+DTSTART:20260629T040000Z
+DTEND:20260629T063000Z
+UID:fd9e1b2acd0681e50761c0a9d7dca636@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Wimbledon\nOspite: ATP\nGiorna
+ ta/Round: Wimbledon\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Nordea Open
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+UID:74dd76aa647abed4a6cb32e3685bd567@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Nordea Open\nOspite: ATP\nGior
+ nata/Round: Nordea Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ EFG Swiss Open Gstaad
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:c0c1ebf1b068ce6e2e37aad0d8930f7a@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: EFG Swiss Open Gstaad\nOspite:
+  ATP\nGiornata/Round: EFG Swiss Open Gstaad\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Plava Laguna Croatia Open Umag
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:61436e4132b1f532ccb291b271a6ba4c@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Plava Laguna Croatia Open Umag
+ \nOspite: ATP\nGiornata/Round: Plava Laguna Croatia Open Umag\nStato: sche
+ duled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Generali Open
+DTSTART:20260720T040000Z
+DTEND:20260720T063000Z
+UID:e098ac8a487e39af5b6b4f904e33977d@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Generali Open\nOspite: ATP\nGi
+ ornata/Round: Generali Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Millennium Estoril Open
+DTSTART:20260720T040000Z
+DTEND:20260720T063000Z
+UID:40f50cd6c4bbcfd69c46338c7e6893b0@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Millennium Estoril Open\nOspit
+ e: ATP\nGiornata/Round: Millennium Estoril Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Mifel Tennis Open by Telcel Oppo
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:ae917fe805c186ce79475deb5d8d8f1f@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Mifel Tennis Open by Telcel Op
+ po\nOspite: ATP\nGiornata/Round: Mifel Tennis Open by Telcel Oppo\nStato: 
+ scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Mubadala Citi DC Open
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:002fa2c5457e28fc1532edd69571ccc0@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Mubadala Citi DC Open\nOspite:
+  ATP\nGiornata/Round: Mubadala Citi DC Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ National Bank Open presented by Rogers
+DTSTART:20260731T040000Z
+DTEND:20260731T063000Z
+UID:a41d78b2d56d84d2972fffb6d6231dec@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: National Bank Open presented b
+ y Rogers\nOspite: ATP\nGiornata/Round: National Bank Open presented by Rog
+ ers\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Cincinnati Open
+DTSTART:20260810T040000Z
+DTEND:20260810T063000Z
+UID:7751564e56107d42df0fdbb34ff4dd31@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Cincinnati Open\nOspite: ATP\n
+ Giornata/Round: Cincinnati Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Winston-Salem Open
+DTSTART:20260821T040000Z
+DTEND:20260821T063000Z
+UID:fdeea326c6907d1eb9629a7157b0888b@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Winston-Salem Open\nOspite: AT
+ P\nGiornata/Round: Winston-Salem Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ US Open
+DTSTART:20260823T040000Z
+DTEND:20260823T063000Z
+UID:b05f1258344a42fc954b8ba5b6f6e9bb@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: US Open\nOspite: ATP\nGiornata
+ /Round: US Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Chengdu Open
+DTSTART:20260921T040000Z
+DTEND:20260921T063000Z
+UID:25fd8757853bd4733f13a905e77188c8@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Chengdu Open\nOspite: ATP\nGio
+ rnata/Round: Chengdu Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Hangzhou Open
+DTSTART:20260921T040000Z
+DTEND:20260921T063000Z
+UID:88627dd4b0b36cd201618905d9241637@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Hangzhou Open\nOspite: ATP\nGi
+ ornata/Round: Hangzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Kinoshita Group Japan Open Tennis Championships
+DTSTART:20260928T040000Z
+DTEND:20260928T063000Z
+UID:cd7929a0fe8f079782c33ab474601b60@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Kinoshita Group Japan Open Ten
+ nis Championships\nOspite: ATP\nGiornata/Round: Kinoshita Group Japan Open
+  Tennis Championships\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ China Open
+DTSTART:20260928T040000Z
+DTEND:20260928T063000Z
+UID:4bd73549558ab6d7462b4556e34b29d6@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: China Open\nOspite: ATP\nGiorn
+ ata/Round: China Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rolex Shanghai Masters
+DTSTART:20261005T040000Z
+DTEND:20261005T063000Z
+UID:e280ce94271f21d3643f78ec6cee1548@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rolex Shanghai Masters\nOspite
+ : ATP\nGiornata/Round: Rolex Shanghai Masters\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ BNP Paribas Fortis European Open
+DTSTART:20261017T040000Z
+DTEND:20261017T063000Z
+UID:0f5cc1e51f713c4ec797d6d52b26905e@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: BNP Paribas Fortis European Op
+ en\nOspite: ATP\nGiornata/Round: BNP Paribas Fortis European Open\nStato: 
+ scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Grand Prix Auvergne-Rhône-Alpes
+DTSTART:20261017T040000Z
+DTEND:20261017T063000Z
+UID:ef85d897d96b574228ed97300a45e410@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Grand Prix Auvergne-Rhône-Alp
+ es\nOspite: ATP\nGiornata/Round: Grand Prix Auvergne-Rhône-Alpes\nStato: 
+ scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Almaty Open
+DTSTART:20261017T040000Z
+DTEND:20261017T063000Z
+UID:ee507d3797785250de970f1410e24746@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Almaty Open\nOspite: ATP\nGior
+ nata/Round: Almaty Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Erste Bank Open
+DTSTART:20261024T040000Z
+DTEND:20261024T063000Z
+UID:834fab58386e02b4c8f4aea99c6e4528@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Erste Bank Open\nOspite: ATP\n
+ Giornata/Round: Erste Bank Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Swiss Indoors Basel
+DTSTART:20261024T040000Z
+DTEND:20261024T063000Z
+UID:265f8916542020c83624a6a4a4794cac@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Swiss Indoors Basel\nOspite: A
+ TP\nGiornata/Round: Swiss Indoors Basel\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rolex Paris Masters
+DTSTART:20261031T040000Z
+DTEND:20261031T063000Z
+UID:275fc6cef494eb3baab4f950340d4601@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rolex Paris Masters\nOspite: A
+ TP\nGiornata/Round: Rolex Paris Masters\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Bybit Stockholm Open
+DTSTART:20261106T050000Z
+DTEND:20261106T073000Z
+UID:973526b86f14c8a3886267cca8253228@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Bybit Stockholm Open\nOspite: 
+ ATP\nGiornata/Round: Bybit Stockholm Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Nitto ATP Finals
+DTSTART:20261114T050000Z
+DTEND:20261114T073000Z
+UID:ef7c28b39422be7d09d757e7cb24f251@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Nitto ATP Finals\nOspite: ATP\
+ nGiornata/Round: Nitto ATP Finals\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Brisbane International presented by ANZ
+DTSTART:20260101T050000Z
+DTEND:20260101T073000Z
+UID:25e3db49fab517114a196e77eb79fba5@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Brisbane International present
+ ed by ANZ\nOspite: WTA\nGiornata/Round: Brisbane International presented b
+ y ANZ\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ ASB Classic
+DTSTART:20260102T050000Z
+DTEND:20260102T073000Z
+UID:e8f1722d404e66e81f003221a8985f02@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: ASB Classic\nOspite: WTA\nGior
+ nata/Round: ASB Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Workday Canberra International
+DTSTART:20260103T050000Z
+DTEND:20260103T073000Z
+UID:49094e024598a21f101c8867025fd292@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Workday Canberra International
+ \nOspite: WTA\nGiornata/Round: Workday Canberra International\nStato: sche
+ duled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Hobart International
+DTSTART:20260109T050000Z
+DTEND:20260109T073000Z
+UID:4212e9f3cb753b5a90d765b5f1106a66@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Hobart International\nOspite: 
+ WTA\nGiornata/Round: Hobart International\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Adelaide International
+DTSTART:20260109T050000Z
+DTEND:20260109T073000Z
+UID:d3806a59887c4bddb3daf81a76ae9a82@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Adelaide International\nOspite
+ : WTA\nGiornata/Round: Adelaide International\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Australian Open
+DTSTART:20260111T050000Z
+DTEND:20260111T073000Z
+UID:84aca80742704e7bf5531ef1fe40394d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Australian Open\nOspite: WTA\n
+ Giornata/Round: Australian Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Philippine Women's Open
+DTSTART:20260123T050000Z
+DTEND:20260123T073000Z
+UID:f4701bdd6c36baf8f8f1a4646c1cc039@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Philippine Women's Open\nOspit
+ e: WTA\nGiornata/Round: Philippine Women's Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ L&T Mumbai Open
+DTSTART:20260131T050000Z
+DTEND:20260131T073000Z
+UID:40c98abc42c095bdf1e5f5978ecec206@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: L&T Mumbai Open\nOspite: WTA\n
+ Giornata/Round: L&T Mumbai Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Transylvania Open powered by Kaufland
+DTSTART:20260131T050000Z
+DTEND:20260131T073000Z
+UID:289115afd128e221aaf8ae6899664cf8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Transylvania Open powered by K
+ aufland\nOspite: WTA\nGiornata/Round: Transylvania Open powered by Kauflan
+ d\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mubadala Abu Dhabi Open presented by Abu Dhabi Sports C
+ ouncil
+DTSTART:20260131T050000Z
+DTEND:20260131T073000Z
+UID:d5e9db41b0d49f99fec801ae05bba14d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mubadala Abu Dhabi Open presen
+ ted by Abu Dhabi Sports Council\nOspite: WTA\nGiornata/Round: Mubadala Abu
+  Dhabi Open presented by Abu Dhabi Sports Council\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Ostrava Open
+DTSTART:20260131T050000Z
+DTEND:20260131T073000Z
+UID:421acce47aaa3c2c824e1cf0b714f041@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Ostrava Open\nOspite: WTA\nGio
+ rnata/Round: Ostrava Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Qatar Total Energies Open
+DTSTART:20260206T050000Z
+DTEND:20260206T073000Z
+UID:08d835470370e233f2161345f9958ece@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Qatar Total Energies Open\nOsp
+ ite: WTA\nGiornata/Round: Qatar Total Energies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras 1 Jamor Indoor
+DTSTART:20260208T050000Z
+DTEND:20260208T073000Z
+UID:c469d045c1566818ee89246017d09172@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras 1 Jamor Indoor\nOspite:
+  WTA\nGiornata/Round: Oeiras 1 Jamor Indoor\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Dubai Duty Free Tennis Championships
+DTSTART:20260213T050000Z
+DTEND:20260213T073000Z
+UID:7ce92f6b23ec4cf3b958c0731bf7649b@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Dubai Duty Free Tennis Champio
+ nships\nOspite: WTA\nGiornata/Round: Dubai Duty Free Tennis Championships\
+ nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Dow Tennis Classic
+DTSTART:20260215T050000Z
+DTEND:20260215T073000Z
+UID:7979716542755f80ae015c74e7df6f93@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Dow Tennis Classic\nOspite: WT
+ A\nGiornata/Round: Dow Tennis Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras 2 Jamor Indoor
+DTSTART:20260215T050000Z
+DTEND:20260215T073000Z
+UID:1e1aa380d6915a296703da0aa1d5a418@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras 2 Jamor Indoor\nOspite:
+  WTA\nGiornata/Round: Oeiras 2 Jamor Indoor\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Open Arena Les Sables d'Olonne
+DTSTART:20260215T050000Z
+DTEND:20260215T073000Z
+UID:430a94ee2c9bcff900e7ffb9f1ccb96d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Open Arena Les Sables d'Olonne
+ \nOspite: WTA\nGiornata/Round: Open Arena Les Sables d'Olonne\nStato: sche
+ duled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ ATX Open
+DTSTART:20260221T050000Z
+DTEND:20260221T073000Z
+UID:71f76c132da7c7ce2dfb6d2f9fc593fa@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: ATX Open\nOspite: WTA\nGiornat
+ a/Round: ATX Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mérida Open Akron
+DTSTART:20260221T050000Z
+DTEND:20260221T073000Z
+UID:908b6ec83e435b28916185a3dc1375e8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mérida Open Akron\nOspite: WT
+ A\nGiornata/Round: Mérida Open Akron\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Megasaray Hotels Open 1
+DTSTART:20260222T050000Z
+DTEND:20260222T073000Z
+UID:39545aea76df35a81a5a578157625be7@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Megasaray Hotels Open 1\nOspit
+ e: WTA\nGiornata/Round: Megasaray Hotels Open 1\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ BNP Paribas Open
+DTSTART:20260301T050000Z
+DTEND:20260301T073000Z
+UID:c6cbc389b258f8bd36d7a774526fb064@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: BNP Paribas Open\nOspite: WTA\
+ nGiornata/Round: BNP Paribas Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Megasaray Hotels Open 2
+DTSTART:20260301T050000Z
+DTEND:20260301T073000Z
+UID:231eed29f37c6ab3d3a23844cbeda3d3@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Megasaray Hotels Open 2\nOspit
+ e: WTA\nGiornata/Round: Megasaray Hotels Open 2\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Megasaray Hotels Open 3
+DTSTART:20260308T050000Z
+DTEND:20260308T073000Z
+UID:5ee69e184235039e5f1d0d1ae7fab9da@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Megasaray Hotels Open 3\nOspit
+ e: WTA\nGiornata/Round: Megasaray Hotels Open 3\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Austin 125 2
+DTSTART:20260309T040000Z
+DTEND:20260309T063000Z
+UID:f60ad871c60d9aabc22f76cd67259c4e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Austin 125 2\nOspite: WTA\nGio
+ rnata/Round: Austin 125 2\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Miami Open presented by Itau
+DTSTART:20260316T040000Z
+DTEND:20260316T063000Z
+UID:0ace0948a72fb024e6b2867de2e2583f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Miami Open presented by Itau\n
+ Ospite: WTA\nGiornata/Round: Miami Open presented by Itau\nStato: schedule
+ d
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Puerto Vallarta Open
+DTSTART:20260321T040000Z
+DTEND:20260321T063000Z
+UID:80485f9bb6954fa85383270f08cdd596@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Puerto Vallarta Open\nOspite: 
+ WTA\nGiornata/Round: Puerto Vallarta Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Dubrovnik Open
+DTSTART:20260322T040000Z
+DTEND:20260322T063000Z
+UID:c0835bd296b3b151c305c8b1f4b1eeff@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Dubrovnik Open\nOspite: WTA\nG
+ iornata/Round: Dubrovnik Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Credit One Charleston Open
+DTSTART:20260328T040000Z
+DTEND:20260328T063000Z
+UID:016cea8dbf659767119dbd8e1d0747c6@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Credit One Charleston Open\nOs
+ pite: WTA\nGiornata/Round: Credit One Charleston Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Copa Colsanitas Colsubsidio
+DTSTART:20260328T040000Z
+DTEND:20260328T063000Z
+UID:a39cd0f9dfa5f3a04edf34b025f653b9@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Copa Colsanitas Colsubsidio\nO
+ spite: WTA\nGiornata/Round: Copa Colsanitas Colsubsidio\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Upper Austria Ladies Linz
+DTSTART:20260405T040000Z
+DTEND:20260405T063000Z
+UID:8dc909783aa92944bfdc67ec90506f04@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Upper Austria Ladies Linz\nOsp
+ ite: WTA\nGiornata/Round: Upper Austria Ladies Linz\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Grand Prix Open Villa de Madrid by Silverway
+DTSTART:20260405T040000Z
+DTEND:20260405T063000Z
+UID:540052230b098a16959e23f83dcf9e78@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Prix Open Villa de Madri
+ d by Silverway\nOspite: WTA\nGiornata/Round: Grand Prix Open Villa de Madr
+ id by Silverway\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Porsche Tennis Grand Prix
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:0e42fd54a0df25c6e6bd1899057f468f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Porsche Tennis Grand Prix\nOsp
+ ite: WTA\nGiornata/Round: Porsche Tennis Grand Prix\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Open Capfinances Rouen Métropole
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:ba1b3520a88df7006000381639f7da5a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Open Capfinances Rouen Métrop
+ ole\nOspite: WTA\nGiornata/Round: Open Capfinances Rouen Métropole\nStato
+ : scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras Jamor Ladies Open
+DTSTART:20260412T040000Z
+DTEND:20260412T063000Z
+UID:c764479d6ac2a236e80dd66640efd9e8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras Jamor Ladies Open\nOspi
+ te: WTA\nGiornata/Round: Oeiras Jamor Ladies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras Open CETO
+DTSTART:20260419T040000Z
+DTEND:20260419T063000Z
+UID:792484387d6e237c911811ba2d9b8fce@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras Open CETO\nOspite: WTA\
+ nGiornata/Round: Oeiras Open CETO\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mutua Madrid Open
+DTSTART:20260420T040000Z
+DTEND:20260420T063000Z
+UID:8e41a64093fabb006836e6e133ca60ce@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mutua Madrid Open\nOspite: WTA
+ \nGiornata/Round: Mutua Madrid Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Huzhou Open
+DTSTART:20260425T040000Z
+DTEND:20260425T063000Z
+UID:89858ee0040cb63110876316d49c339f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Huzhou Open\nOspite: WTA\nGior
+ nata/Round: Huzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ L'Open 35 de Saint Malo
+DTSTART:20260426T040000Z
+DTEND:20260426T063000Z
+UID:7c27bf2c78defca1e55a270793b89e30@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: L'Open 35 de Saint Malo\nOspit
+ e: WTA\nGiornata/Round: L'Open 35 de Saint Malo\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Catalonia Open Solgironès
+DTSTART:20260427T040000Z
+DTEND:20260427T063000Z
+UID:113d16aa6c2607e60b9fb590df07442a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Catalonia Open Solgironès\nOs
+ pite: WTA\nGiornata/Round: Catalonia Open Solgironès\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Jiangxi Open
+DTSTART:20260501T040000Z
+DTEND:20260501T063000Z
+UID:e8c7c1a3ba53cf588530fe992b272110@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Jiangxi Open\nOspite: WTA\nGio
+ rnata/Round: Jiangxi Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Istanbul Open
+DTSTART:20260502T040000Z
+DTEND:20260502T063000Z
+UID:4dc7d7f44b7471d1b25a5f91b3252a68@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Istanbul Open\nOspite: WTA\nGi
+ ornata/Round: Istanbul Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Internazionali BNL d'Italia
+DTSTART:20260504T040000Z
+DTEND:20260504T063000Z
+UID:28cf3db4493f7bd7af287cddac0edd8a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Internazionali BNL d'Italia\nO
+ spite: WTA\nGiornata/Round: Internazionali BNL d'Italia\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Trophée Clarins
+DTSTART:20260511T040000Z
+DTEND:20260511T063000Z
+UID:98a816192384aa9235c72866d8a8ec80@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Trophée Clarins\nOspite: WTA\
+ nGiornata/Round: Trophée Clarins\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Parma Ladies Open presented by Iren
+DTSTART:20260511T040000Z
+DTEND:20260511T063000Z
+UID:7689ff93c621ac083ddc829c59d0e292@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Parma Ladies Open presented by
+  Iren\nOspite: WTA\nGiornata/Round: Parma Ladies Open presented by Iren\nS
+ tato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Grand Prix Son Altesse Royale  La Princesse Lalla Merye
+ m
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:35b43ad5b89e6018cf55264d974c424b@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Prix Son Altesse Royale 
+  La Princesse Lalla Meryem\nOspite: WTA\nGiornata/Round: Grand Prix Son Al
+ tesse Royale  La Princesse Lalla Meryem\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Internationaux de Strasbourg presented by Mammotion
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:c057a18740e5b56408de25e80c7a1c38@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Internationaux de Strasbourg p
+ resented by Mammotion\nOspite: WTA\nGiornata/Round: Internationaux de Stra
+ sbourg presented by Mammotion\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Roland Garros
+DTSTART:20260518T040000Z
+DTEND:20260518T063000Z
+UID:9eff9f9d67716f0320beb4fe18e505ee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Roland Garros\nOspite: WTA\nGi
+ ornata/Round: Roland Garros\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Birmingham Open
+DTSTART:20260530T040000Z
+DTEND:20260530T063000Z
+UID:d5c9fc390329cf2a7356ef7ed7a851de@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Birmingham Open\nOspite:
+  WTA\nGiornata/Round: Lexus Birmingham Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Open delle Puglie Trofeo
+DTSTART:20260601T040000Z
+DTEND:20260601T063000Z
+UID:3087c6e0bb0d31cb959b085f3735f870@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Open delle Puglie Trofeo\nOspi
+ te: WTA\nGiornata/Round: Open delle Puglie Trofeo\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Makarska Open
+DTSTART:20260602T040000Z
+DTEND:20260602T063000Z
+UID:217c670094d0c2b5383d23d0aa1a585e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Makarska Open\nOspite: WTA\nGi
+ ornata/Round: Makarska Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Libéma Open
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:9dc174a32f18f54ed850735549834e45@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Libéma Open\nOspite: WTA\nGio
+ rnata/Round: Libéma Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ The HSBC Championships
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:68a5aa2f8cba7aa6d379b7991eeab0f7@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: The HSBC Championships\nOspite
+ : WTA\nGiornata/Round: The HSBC Championships\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Ilkley Open
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:80da58d16380bb61bde888bd24975796@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Ilkley Open\nOspite: WTA
+ \nGiornata/Round: Lexus Ilkley Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Memorial Eugenio Fontana
+DTSTART:20260608T040000Z
+DTEND:20260608T063000Z
+UID:f7abd4f5a41741078125fece59706c44@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Memorial Eugenio Fontana\nOspi
+ te: WTA\nGiornata/Round: Memorial Eugenio Fontana\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ VANDA Pharmaceuticals Berlin Tennis Open
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:9ea8ce8164251b1835bec7f325b0018d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: VANDA Pharmaceuticals Berlin T
+ ennis Open\nOspite: WTA\nGiornata/Round: VANDA Pharmaceuticals Berlin Tenn
+ is Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Nottingham Open
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:697b011af452dc17e084abde7e2e5862@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Nottingham Open\nOspite:
+  WTA\nGiornata/Round: Lexus Nottingham Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Internazionali Femminili Di Brescia
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:fad13db2c575e10434b8e17080d88ae8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Internazionali Femminili Di Br
+ escia\nOspite: WTA\nGiornata/Round: Internazionali Femminili Di Brescia\nS
+ tato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Figueira Da Foz Open
+DTSTART:20260615T040000Z
+DTEND:20260615T063000Z
+UID:0781aef904050a4eb762280a6260d8ec@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Figueira Da Foz Open\nOspite: 
+ WTA\nGiornata/Round: Figueira Da Foz Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Eastbourne Open
+DTSTART:20260621T040000Z
+DTEND:20260621T063000Z
+UID:2fe04afa0c2e12a650aecbd7b2ca3714@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Eastbourne Open\nOspite:
+  WTA\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Bad Homburg Open powered by Solarwatt
+DTSTART:20260621T040000Z
+DTEND:20260621T063000Z
+UID:72ec0fd114be4ebb7babfad5981a6568@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Bad Homburg Open powered by So
+ larwatt\nOspite: WTA\nGiornata/Round: Bad Homburg Open powered by Solarwat
+ t\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Wimbledon
+DTSTART:20260629T040000Z
+DTEND:20260629T063000Z
+UID:e5c2ce645eebcb77140502269e06a8b9@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Wimbledon\nOspite: WTA\nGiorna
+ ta/Round: Wimbledon\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Nordea Open
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+UID:322053c7c085b82aebb2f4dad39ebbd3@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Nordea Open\nOspite: WTA\nGior
+ nata/Round: Nordea Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Grand Est Open 88
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+UID:3c92586f4f589cfde8d94f5c5fc0b03d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Est Open 88\nOspite: WTA
+ \nGiornata/Round: Grand Est Open 88\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Cerity Partners Hall of Fame Open presented by the Marg
+ aret Fund
+DTSTART:20260706T040000Z
+DTEND:20260706T063000Z
+UID:f0aeb53fa537fe0c5e01f81a8c507c41@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Cerity Partners Hall of Fame O
+ pen presented by the Margaret Fund\nOspite: WTA\nGiornata/Round: Cerity Pa
+ rtners Hall of Fame Open presented by the Margaret Fund\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Unicredit Iasi Open
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:ed9059778e58d3a1e2890e03a6ef7ffa@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Unicredit Iasi Open\nOspite: W
+ TA\nGiornata/Round: Unicredit Iasi Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ ATV Bancomat Tennis Open
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:5dfc010c2c7853a9ecde53feb468466d@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: ATV Bancomat Tennis Open\nOspi
+ te: WTA\nGiornata/Round: ATV Bancomat Tennis Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Athens Open
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:d41a917f063e02aaa7b13e24b3481d26@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Athens Open\nOspite: WTA\nGior
+ nata/Round: Athens Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Enka Open
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:41bc898b92c68e2448fe6e3f5d6d3ad7@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Enka Open\nOspite: WTA\nGiorna
+ ta/Round: Enka Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ KTC Ladies Open
+DTSTART:20260713T040000Z
+DTEND:20260713T063000Z
+UID:c7d6847424362860a3ba983e0a39f341@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: KTC Ladies Open\nOspite: WTA\n
+ Giornata/Round: KTC Ladies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Livesport Prague Open
+DTSTART:20260720T040000Z
+DTEND:20260720T063000Z
+UID:724c26c6f280d67f1992f021df1c48a6@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Livesport Prague Open\nOspite:
+  WTA\nGiornata/Round: Livesport Prague Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Palermo Ladies Open
+DTSTART:20260720T040000Z
+DTEND:20260720T063000Z
+UID:efd7d989cd6728f9ec47f71c31ec540f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Palermo Ladies Open\nOspite: W
+ TA\nGiornata/Round: Palermo Ladies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ MSC Hamburg Ladies Open
+DTSTART:20260720T040000Z
+DTEND:20260720T063000Z
+UID:6787e706f2468eb056b87fe490847236@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: MSC Hamburg Ladies Open\nOspit
+ e: WTA\nGiornata/Round: MSC Hamburg Ladies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Odlum Brown VanOpen
+DTSTART:20260726T040000Z
+DTEND:20260726T063000Z
+UID:36ba6447652c8bf9c39ab72a655ec6fb@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Odlum Brown VanOpen\nOspite: W
+ TA\nGiornata/Round: Odlum Brown VanOpen\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mubadala Citi DC Open
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:57680ca6b9522d84890e623cf46386f2@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mubadala Citi DC Open\nOspite:
+  WTA\nGiornata/Round: Mubadala Citi DC Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ The Memphis Classic
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:b072541751705f9600f0c39f39858698@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: The Memphis Classic\nOspite: W
+ TA\nGiornata/Round: The Memphis Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Axeria Open 2026 powered by Intaro Sport
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:998c9c151eedbc89d1e717a8b2eae333@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Axeria Open 2026 powered by In
+ taro Sport\nOspite: WTA\nGiornata/Round: Axeria Open 2026 powered by Intar
+ o Sport\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ National Bank Open presented by Rogers
+DTSTART:20260731T040000Z
+DTEND:20260731T063000Z
+UID:9e00915c7b651b0bb4c747131418d307@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: National Bank Open presented b
+ y Rogers\nOspite: WTA\nGiornata/Round: National Bank Open presented by Rog
+ ers\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ T-Mobile Polish Open
+DTSTART:20260801T040000Z
+DTEND:20260801T063000Z
+UID:4aea8e7a07b5139afb7b6fb93e4b9417@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: T-Mobile Polish Open\nOspite: 
+ WTA\nGiornata/Round: T-Mobile Polish Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Cincinnati Open
+DTSTART:20260810T040000Z
+DTEND:20260810T063000Z
+UID:028e66dd795a83511e55a5b9a988ab1e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Cincinnati Open\nOspite: WTA\n
+ Giornata/Round: Cincinnati Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Philadelphia Tennis Classic
+DTSTART:20260821T040000Z
+DTEND:20260821T063000Z
+UID:07d83c2e8b363a27ee860c3736d1dc94@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Philadelphia Tennis Classic\nO
+ spite: WTA\nGiornata/Round: Philadelphia Tennis Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Abierto GNP Seguros
+DTSTART:20260822T040000Z
+DTEND:20260822T063000Z
+UID:2badb476fb9b560d13e627582d2cadc9@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Abierto GNP Seguros\nOspite: W
+ TA\nGiornata/Round: Abierto GNP Seguros\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ US Open
+DTSTART:20260823T040000Z
+DTEND:20260823T063000Z
+UID:7bac85a009f9168f05e4ba0f1bb82273@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: US Open\nOspite: WTA\nGiornata
+ /Round: US Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Guadalajara Open Akron presented by Santander
+DTSTART:20260912T040000Z
+DTEND:20260912T063000Z
+UID:8c0f2935f725e8d02f2debd6d2095ee3@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Guadalajara Open Akron present
+ ed by Santander\nOspite: WTA\nGiornata/Round: Guadalajara Open Akron prese
+ nted by Santander\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ SP Open
+DTSTART:20260912T040000Z
+DTEND:20260912T063000Z
+UID:57f23acc4f26e9b36f4329778bfa95d8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: SP Open\nOspite: WTA\nGiornata
+ /Round: SP Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Korea Open Tennis Championships Presented by Motiva
+DTSTART:20260919T040000Z
+DTEND:20260919T063000Z
+UID:5ca522c58cc27fc122bc5c4cfc85cbd3@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Korea Open Tennis Championship
+ s Presented by Motiva\nOspite: WTA\nGiornata/Round: Korea Open Tennis Cham
+ pionships Presented by Motiva\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Singapore Tennis Open
+DTSTART:20260919T040000Z
+DTEND:20260919T063000Z
+UID:353b2347817a5cc1b1ad54b321d5150c@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Singapore Tennis Open\nOspite:
+  WTA\nGiornata/Round: Singapore Tennis Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ China Open
+DTSTART:20260928T040000Z
+DTEND:20260928T063000Z
+UID:9e7fb2ba83618a0565206d93aabee316@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: China Open\nOspite: WTA\nGiorn
+ ata/Round: China Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Dongfeng Voyah Wuhan Open
+DTSTART:20261010T040000Z
+DTEND:20261010T063000Z
+UID:786b57140e3d59c1b99b655caa38a943@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Dongfeng Voyah Wuhan Open\nOsp
+ ite: WTA\nGiornata/Round: Dongfeng Voyah Wuhan Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Kinoshita Group Japan Open
+DTSTART:20261017T040000Z
+DTEND:20261017T063000Z
+UID:96d2d8118ebe7995e4f76c149e4a9b7b@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Kinoshita Group Japan Open\nOs
+ pite: WTA\nGiornata/Round: Kinoshita Group Japan Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ AUX Ningbo Open
+DTSTART:20261017T040000Z
+DTEND:20261017T063000Z
+UID:fd13b8a1b9af2ae5cc2f9e1e034a8620@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: AUX Ningbo Open\nOspite: WTA\n
+ Giornata/Round: AUX Ningbo Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Guangzhou Open
+DTSTART:20261024T040000Z
+DTEND:20261024T063000Z
+UID:d660af4f35cf75e9b8890e3568c65d40@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Guangzhou Open\nOspite: WTA\nG
+ iornata/Round: Guangzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Toray Pan Pacific Open Tennis
+DTSTART:20261024T040000Z
+DTEND:20261024T063000Z
+UID:45c4dc229a14b9d75cc7b15d90ab955a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Toray Pan Pacific Open Tennis\
+ nOspite: WTA\nGiornata/Round: Toray Pan Pacific Open Tennis\nStato: schedu
+ led
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Prudential Hong Kong Tennis Open
+DTSTART:20261031T040000Z
+DTEND:20261031T063000Z
+UID:3a97af75be58e7a27ce5fd69164e23cf@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Prudential Hong Kong Tennis Op
+ en\nOspite: WTA\nGiornata/Round: Prudential Hong Kong Tennis Open\nStato: 
+ scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Chennai Open
+DTSTART:20261031T040000Z
+DTEND:20261031T063000Z
+UID:ed3e367bbb8a748751d4754578993c65@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Chennai Open\nOspite: WTA\nGio
+ rnata/Round: Chennai Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ WTA Finals
+DTSTART:20261106T050000Z
+DTEND:20261106T073000Z
+UID:2406a3c5f987e8a4419355984a6b1e2f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: WTA Finals\nOspite: WTA\nGiorn
+ ata/Round: WTA Finals\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Austin 125
+DTSTART:20261108T050000Z
+DTEND:20261108T073000Z
+UID:501b8afb8856cead112377adcafab926@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Austin 125\nOspite: WTA\nGiorn
+ ata/Round: Austin 125\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+END:VCALENDAR

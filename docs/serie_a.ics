@@ -1,0 +1,5378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basketball Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Calendario Serie A TIM 2025-26
+X-WR-CALNAME:Serie A 2025-26
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Genoa (0-0)
+DTSTART:20250823T163000Z
+DTEND:20250823T190000Z
+UID:113c9fa617f83ab4028cc8d1ac02ef4f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Lecce\nCircuito/Ar
+ ena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Genoa 0 - 0 Lecce\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Sassuolo (2-0)
+DTSTART:20250823T163000Z
+DTEND:20250823T190000Z
+UID:84b56a5dcb7a238c12d1575cf8ff9405@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Napoli\nCircuit
+ o/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Sassuolo 0 - 2 Napoli\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ AC Milan (2-1)
+DTSTART:20250823T184500Z
+DTEND:20250823T211500Z
+UID:227feb5fb5e57793c33ac36ceee11424@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Cremonese\nCirc
+ uito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: AC Milan 1 - 2 Cremonese\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ AS Roma (0-1)
+DTSTART:20250823T184500Z
+DTEND:20250823T211500Z
+UID:55ed4eaa5f9681e147ebe94b9a33e927@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Bologna\nCircuit
+ o/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: AS Roma 1 - 0 Bologna\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Cagliari (1-1)
+DTSTART:20250824T163000Z
+DTEND:20250824T190000Z
+UID:199ae723deb3bf3af43df6ea36393914@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Fiorentina\nCir
+ cuito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Cagliari 1 - 1 Fiorentina\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Como (0-2)
+DTSTART:20250824T163000Z
+DTEND:20250824T190000Z
+UID:d2dec3bc90709695fd3af06abc7e9e69@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Lazio\nCircuito/Are
+ na: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Como 2 - 0 Lazio\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Atalanta (1-1)
+DTSTART:20250824T184500Z
+DTEND:20250824T211500Z
+UID:c2ae0f233e2835ffd199a0298ffd16d8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Pisa\nCircuito/
+ Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Atalanta 1 - 1 Pisa\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Juventus (0-2)
+DTSTART:20250824T184500Z
+DTEND:20250824T211500Z
+UID:e5b76a09988a61d8a075d810f6b44e41@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Parma\nCircuito
+ /Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Juventus 2 - 0 Parma\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Udinese (1-1)
+DTSTART:20250825T163000Z
+DTEND:20250825T190000Z
+UID:d595fdd2d008ead11a2007e553f48d93@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Hellas Verona\nC
+ ircuito/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Udinese 1 - 1 Hellas Verona\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Internazionale (0-5)
+DTSTART:20250825T184500Z
+DTEND:20250825T211500Z
+UID:dbeed983f9f1edd8fd796d14b48caea0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Torino\nC
+ ircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Internazionale 5 - 0 Torino\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Cremonese (2-3)
+DTSTART:20250829T163000Z
+DTEND:20250829T190000Z
+UID:e41ff1b7537f430fee0b92b1ca573c16@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Sassuolo\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Cremonese 3 - 2 Sassuolo\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Lecce (2-0)
+DTSTART:20250829T184500Z
+DTEND:20250829T211500Z
+UID:3d03092f0fa0728847d6b6a49a4299b9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: AC Milan\nCircuito
+ /Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lecce 0 - 2 AC Milan\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Bologna (0-1)
+DTSTART:20250830T163000Z
+DTEND:20250830T190000Z
+UID:c3d9b1cfdbc3175dd50278f202ffc071@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Como\nCircuito/A
+ rena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Bologna 1 - 0 Como\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Parma (1-1)
+DTSTART:20250830T163000Z
+DTEND:20250830T190000Z
+UID:2aed08d71c8f36f3d95db58b8e1737f0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Atalanta\nCircuito
+ /Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Parma 1 - 1 Atalanta\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Napoli (0-1)
+DTSTART:20250830T184500Z
+DTEND:20250830T211500Z
+UID:1a4348204c5319cb45c9bf98f1175015@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Cagliari\nCircuit
+ o/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Napoli 1 - 0 Cagliari\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Pisa (1-0)
+DTSTART:20250830T184500Z
+DTEND:20250830T211500Z
+UID:ed5e8b55ba1f4e35cb15f4b4ae402fee@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: AS Roma\nCircuito/A
+ rena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Ro
+ und: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 1 AS Roma\nStato: finish
+ ed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Genoa (1-0)
+DTSTART:20250831T163000Z
+DTEND:20250831T190000Z
+UID:24d06de238cfb7885a1957ada46bb554@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Juventus\nCircuito
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Genoa 0 - 1 Juventus\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Torino (0-0)
+DTSTART:20250831T163000Z
+DTEND:20250831T190000Z
+UID:2909ad70481670be26a9b44ec50bce40@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Fiorentina\nCircu
+ ito/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 
+ 2025-26-italian-serie-a\nRisultato: Torino 0 - 0 Fiorentina\nStato: finish
+ ed
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Internazionale (2-1)
+DTSTART:20250831T184500Z
+DTEND:20250831T211500Z
+UID:9cc6794c45e7baca48b3ead09433692a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Udinese\n
+ Circuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Internazionale 1 - 2 Udinese\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Lazio (0-4)
+DTSTART:20250831T184500Z
+DTEND:20250831T211500Z
+UID:b37cb29e3a4fe7973fe39c13317040ae@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Hellas Verona\nCir
+ cuito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lazio 4 - 0 Hellas Verona\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Cagliari (0-2)
+DTSTART:20250913T130000Z
+DTEND:20250913T153000Z
+UID:c7f22645bdff91d76767f1f442d94720@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Parma\nCircuito
+ /Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Cagliari 2 - 0 Parma\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Juventus (3-4)
+DTSTART:20250913T160000Z
+DTEND:20250913T183000Z
+UID:4ab0ddb807032a14cbd2078aaf1abbe6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Internazionale\
+ nCircuito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Juventus 4 - 3 Internazionale\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Fiorentina (3-1)
+DTSTART:20250913T184500Z
+DTEND:20250913T211500Z
+UID:a4978fa9a58ba931d605bf68e2f6b7e3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Napoli\nCircu
+ ito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Fiorentina 1 - 3 Napoli\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ AS Roma (1-0)
+DTSTART:20250914T103000Z
+DTEND:20250914T130000Z
+UID:2c9375b8b21b801d0e6071acc41b0658@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Torino\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: AS Roma 0 - 1 Torino\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Atalanta (1-4)
+DTSTART:20250914T130000Z
+DTEND:20250914T153000Z
+UID:690948bc107493133fc1080a3ae36f48@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Lecce\nCircuito
+ /Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Atalanta 4 - 1 Lecce\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Pisa (1-0)
+DTSTART:20250914T130000Z
+DTEND:20250914T153000Z
+UID:ca4ae082066a596633be65da2e011483@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Udinese\nCircuito/A
+ rena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Ro
+ und: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 1 Udinese\nStato: finish
+ ed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Sassuolo (0-1)
+DTSTART:20250914T160000Z
+DTEND:20250914T183000Z
+UID:487f1ea1baeda27e36e02fb0e63db2f3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Lazio\nCircuito
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Sassuolo 1 - 0 Lazio\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ AC Milan (0-1)
+DTSTART:20250914T184500Z
+DTEND:20250914T211500Z
+UID:a6e4c21d60d00a3aabec41bbd875b0b6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Bologna\nCircui
+ to/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: AC Milan 1 - 0 Bologna\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Hellas Verona (0-0)
+DTSTART:20250915T163000Z
+DTEND:20250915T190000Z
+UID:91376ef5d0ca81725f2b196c0291ca3a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Cremonese\
+ nCircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Ro
+ und: 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 0 Cremonese\nSt
+ ato: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Como (1-1)
+DTSTART:20250915T184500Z
+DTEND:20250915T211500Z
+UID:a0fbba73733b0d22baa22cad3d31bcef@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Genoa\nCircuito/Are
+ na: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Como 1 - 1 Genoa\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Lecce (2-1)
+DTSTART:20250919T184500Z
+DTEND:20250919T211500Z
+UID:03b9eeeb217408d79f6d150a502aa794@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Cagliari\nCircuito
+ /Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lecce 1 - 2 Cagliari\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Bologna (1-2)
+DTSTART:20250920T130000Z
+DTEND:20250920T153000Z
+UID:065f5a938523a714e2ed6b9f59bcb36d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Genoa\nCircuito/
+ Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Bologna 2 - 1 Genoa\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Hellas Verona (1-1)
+DTSTART:20250920T160000Z
+DTEND:20250920T183000Z
+UID:e55b87810816adc6f9a871d257b077ae@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Juventus\n
+ Circuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Hellas Verona 1 - 1 Juventus\nStat
+ o: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Udinese (3-0)
+DTSTART:20250920T184500Z
+DTEND:20250920T211500Z
+UID:79a58d978c4ebee41ae486f3b0d5c0db@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: AC Milan\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Udinese 0 - 3 AC Milan\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Lazio (1-0)
+DTSTART:20250921T103000Z
+DTEND:20250921T130000Z
+UID:51cfda377c56d136eef4d7616736791d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: AS Roma\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: Lazio 0 - 1 AS Roma\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Cremonese (0-0)
+DTSTART:20250921T130000Z
+DTEND:20250921T153000Z
+UID:148a6f34b6bcfce92e250c1ab692dec3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Parma\nCircuit
+ o/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Cremonese 0 - 0 Parma\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Torino (3-0)
+DTSTART:20250921T130000Z
+DTEND:20250921T153000Z
+UID:aa3b898bf78915f79af1ee74aa8b83e4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Atalanta\nCircuit
+ o/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Torino 0 - 3 Atalanta\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Fiorentina (2-1)
+DTSTART:20250921T160000Z
+DTEND:20250921T183000Z
+UID:e9f26e295137e5500317bf070a017605@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Como\nCircuit
+ o/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Fiorentina 1 - 2 Como\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Internazionale (1-2)
+DTSTART:20250921T184500Z
+DTEND:20250921T211500Z
+UID:d3a3e2800953486c653ba96c5f04d622@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Sassuolo\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Internazionale 2 - 1 Sassuolo\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Napoli (2-3)
+DTSTART:20250922T184500Z
+DTEND:20250922T211500Z
+UID:d7c4005cfb53a6a952406e99e6c2d338@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Pisa\nCircuito/Ar
+ ena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Napoli 3 - 2 Pisa\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Como (1-1)
+DTSTART:20250927T130000Z
+DTEND:20250927T153000Z
+UID:bcb54857cbb70e3bff7d385a8afdffc9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Cremonese\nCircuito
+ /Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Como 1 - 1 Cremonese\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Juventus (1-1)
+DTSTART:20250927T160000Z
+DTEND:20250927T183000Z
+UID:0e548f32ff2ced25384eb4d4b235e058@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Atalanta\nCircu
+ ito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Juventus 1 - 1 Atalanta\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Cagliari (2-0)
+DTSTART:20250927T184500Z
+DTEND:20250927T211500Z
+UID:3da93dc9f433eff0c2ebd0b7a3ca6372@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Internazionale\
+ nCircuito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Cagliari 0 - 2 Internazionale\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Sassuolo (1-3)
+DTSTART:20250928T103000Z
+DTEND:20250928T130000Z
+UID:338de5e255944baae4d884118be0859d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Udinese\nCircui
+ to/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Sassuolo 3 - 1 Udinese\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ AS Roma (0-2)
+DTSTART:20250928T130000Z
+DTEND:20250928T153000Z
+UID:5f4a07fdf21f94f183fa9e62b776efef@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Hellas Verona\nC
+ ircuito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: AS Roma 2 - 0 Hellas Verona\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Pisa (0-0)
+DTSTART:20250928T130000Z
+DTEND:20250928T153000Z
+UID:7522606032fdd282454d3dc9af4d5a9c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Fiorentina\nCircuit
+ o/Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata
+ /Round: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 0 Fiorentina\nStato: 
+ finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Lecce (2-2)
+DTSTART:20250928T160000Z
+DTEND:20250928T183000Z
+UID:b12a7d277300539ca109a8debd158871@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Bologna\nCircuito/
+ Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Lecce 2 - 2 Bologna\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ AC Milan (1-2)
+DTSTART:20250928T184500Z
+DTEND:20250928T211500Z
+UID:deeb832d4521743cad9cd6be3b9fc53c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Napoli\nCircuit
+ o/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: AC Milan 2 - 1 Napoli\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Parma (1-2)
+DTSTART:20250929T163000Z
+DTEND:20250929T190000Z
+UID:582b7dfbc29ecb48b66fe0535941c562@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Torino\nCircuito/A
+ rena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Parma 2 - 1 Torino\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Genoa (3-0)
+DTSTART:20250929T184500Z
+DTEND:20250929T211500Z
+UID:87b8c8e955459be552e6952404148f92@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Lazio\nCircuito/Ar
+ ena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Genoa 0 - 3 Lazio\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Hellas Verona (1-0)
+DTSTART:20251003T184500Z
+DTEND:20251003T211500Z
+UID:13c79d39b11f4269d2b9a3984b8f5122@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Sassuolo\n
+ Circuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 1 Sassuolo\nStat
+ o: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Lazio (3-3)
+DTSTART:20251004T130000Z
+DTEND:20251004T153000Z
+UID:8bc7e4d8fad7a7aac028ea7175a9f7ec@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Torino\nCircuito/A
+ rena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRis
+ ultato: Lazio 3 - 3 Torino\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Parma (1-0)
+DTSTART:20251004T130000Z
+DTEND:20251004T153000Z
+UID:9c810f17bce8e446dbad3c1c866b85c2@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Lecce\nCircuito/Ar
+ ena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: Parma 0 - 1 Lecce\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Internazionale (1-4)
+DTSTART:20251004T160000Z
+DTEND:20251004T183000Z
+UID:efa781e961cad2e506c4f11724e90a8e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cremonese
+ \nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Internazionale 4 - 1 Cremonese\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Atalanta (1-1)
+DTSTART:20251004T184500Z
+DTEND:20251004T211500Z
+UID:5842dfc105ae4993f5632eda4807fb6d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Como\nCircuito/
+ Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Atalanta 1 - 1 Como\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Udinese (1-1)
+DTSTART:20251005T103000Z
+DTEND:20251005T130000Z
+UID:ed4142f1f5db9e0e095de9735262f8ac@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Cagliari\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Udinese 1 - 1 Cagliari\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Bologna (0-4)
+DTSTART:20251005T130000Z
+DTEND:20251005T153000Z
+UID:ad647e4fc6922182e26ac7424ab0874f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Pisa\nCircuito/A
+ rena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Bologna 4 - 0 Pisa\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Fiorentina (2-1)
+DTSTART:20251005T130000Z
+DTEND:20251005T153000Z
+UID:b5f041b4dcc3055c2cab6208ddce3cd0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: AS Roma\nCirc
+ uito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Fiorentina 1 - 2 AS Roma\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Napoli (1-2)
+DTSTART:20251005T160000Z
+DTEND:20251005T183000Z
+UID:07de31d6fae63e268d7ebb1d4ac0ed32@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Genoa\nCircuito/A
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Napoli 2 - 1 Genoa\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Juventus (0-0)
+DTSTART:20251005T184500Z
+DTEND:20251005T211500Z
+UID:a86817829c3f8c1e2d59da840a2bb538@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: AC Milan\nCircu
+ ito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Juventus 0 - 0 AC Milan\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Lecce (0-0)
+DTSTART:20251018T130000Z
+DTEND:20251018T153000Z
+UID:597f66ce8008096f77005f8647445629@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Sassuolo\nCircuito
+ /Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lecce 0 - 0 Sassuolo\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Pisa (0-0)
+DTSTART:20251018T130000Z
+DTEND:20251018T153000Z
+UID:2372432d71c4dca441bd9375b25f5d0c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Hellas Verona\nCirc
+ uito/Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiorn
+ ata/Round: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 0 Hellas Verona\nS
+ tato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Torino (0-1)
+DTSTART:20251018T160000Z
+DTEND:20251018T183000Z
+UID:b69dc2b3d1a8c0e1cbfb4836d976dee5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Napoli\nCircuito/
+ Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Torino 1 - 0 Napoli\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ AS Roma (1-0)
+DTSTART:20251018T184500Z
+DTEND:20251018T211500Z
+UID:7dad68ca019544255853298d2c076093@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Internazionale\n
+ Circuito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: AS Roma 0 - 1 Internazionale\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Como (0-2)
+DTSTART:20251019T103000Z
+DTEND:20251019T130000Z
+UID:e716b62015fe783f3b95004e1354d990@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Juventus\nCircuito/
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Como 2 - 0 Juventus\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Cagliari (2-0)
+DTSTART:20251019T130000Z
+DTEND:20251019T153000Z
+UID:0122fd443190e494ecdbf13cc0507242@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Bologna\nCircui
+ to/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Cagliari 0 - 2 Bologna\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Genoa (0-0)
+DTSTART:20251019T130000Z
+DTEND:20251019T153000Z
+UID:7e5c2ac0400e77741a440902cd515763@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Parma\nCircuito/Ar
+ ena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Genoa 0 - 0 Parma\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Atalanta (0-0)
+DTSTART:20251019T160000Z
+DTEND:20251019T183000Z
+UID:f98ca2e2f47af7ba2fd52daf3556b287@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Lazio\nCircuito
+ /Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Atalanta 0 - 0 Lazio\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ AC Milan (1-2)
+DTSTART:20251019T184500Z
+DTEND:20251019T211500Z
+UID:d5436c84d996526fe345730bc097e2dc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Fiorentina\nCir
+ cuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: AC Milan 2 - 1 Fiorentina\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Cremonese (1-1)
+DTSTART:20251020T184500Z
+DTEND:20251020T211500Z
+UID:676facbb301a470a5c284c1df4e2dbec@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Udinese\nCircu
+ ito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Cremonese 1 - 1 Udinese\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ AC Milan (2-2)
+DTSTART:20251024T184500Z
+DTEND:20251024T211500Z
+UID:c8fc7afcac216ed0c56fec6a20c7dc47@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Pisa\nCircuito/
+ Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: AC Milan 2 - 2 Pisa\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Parma (0-0)
+DTSTART:20251025T130000Z
+DTEND:20251025T153000Z
+UID:449feeece02c601fd741a932ae08c7f0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Como\nCircuito/Are
+ na: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Parma 0 - 0 Como\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Udinese (2-3)
+DTSTART:20251025T130000Z
+DTEND:20251025T153000Z
+UID:23ee054c5e3f21c1356310a907f69b32@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Lecce\nCircuito/
+ Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Udinese 3 - 2 Lecce\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Napoli (1-3)
+DTSTART:20251025T160000Z
+DTEND:20251025T183000Z
+UID:5fe5cab066166fcb05494ff0053191d1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Internazionale\nC
+ ircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Napoli 3 - 1 Internazionale\nStato
+ : finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Cremonese (1-1)
+DTSTART:20251025T184500Z
+DTEND:20251025T211500Z
+UID:fb49bc2ff6df7a6773cc3ddf8f275f69@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Atalanta\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Cremonese 1 - 1 Atalanta\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Torino (1-2)
+DTSTART:20251026T113000Z
+DTEND:20251026T140000Z
+UID:96126424ba44e697e3b88c7b24b22149@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Genoa\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Torino 2 - 1 Genoa\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Hellas Verona (2-2)
+DTSTART:20251026T140000Z
+DTEND:20251026T163000Z
+UID:fa547a63e97d1a813299e5a8c746851c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Cagliari\n
+ Circuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Hellas Verona 2 - 2 Cagliari\nStat
+ o: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Sassuolo (1-0)
+DTSTART:20251026T140000Z
+DTEND:20251026T163000Z
+UID:7326b596d08c22a15537eff6f764e635@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: AS Roma\nCircui
+ to/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Sassuolo 0 - 1 AS Roma\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Fiorentina (2-2)
+DTSTART:20251026T170000Z
+DTEND:20251026T193000Z
+UID:21cd2c36def39fd171e9301191424ea5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Bologna\nCirc
+ uito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Fiorentina 2 - 2 Bologna\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Lazio (0-1)
+DTSTART:20251026T194500Z
+DTEND:20251026T221500Z
+UID:bebe65b25e3c470b62057873a92c05ac@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Juventus\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: Lazio 1 - 0 Juventus\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Lecce (1-0)
+DTSTART:20251028T173000Z
+DTEND:20251028T200000Z
+UID:7745f1002a1deab6ecc2fd04e3917426@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Napoli\nCircuito/A
+ rena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: Lecce 0 - 1 Napoli\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Atalanta (1-1)
+DTSTART:20251028T194500Z
+DTEND:20251028T221500Z
+UID:93a1d3135eb0b8cfead5ce904a74f95f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: AC Milan\nCircu
+ ito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Atalanta 1 - 1 AC Milan\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ AS Roma (1-2)
+DTSTART:20251029T173000Z
+DTEND:20251029T200000Z
+UID:ac3020367f058c3c9b9c50fe20f9d67c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Parma\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: AS Roma 2 - 1 Parma\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Como (1-3)
+DTSTART:20251029T173000Z
+DTEND:20251029T200000Z
+UID:aa5dc82e2b5665d08f2765d1dedc5f8d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Hellas Verona\nCirc
+ uito/Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Como 3 - 1 Hellas Verona\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Juventus (1-3)
+DTSTART:20251029T173000Z
+DTEND:20251029T200000Z
+UID:b314483992eac9480a2a14b70048a107@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Udinese\nCircui
+ to/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Juventus 3 - 1 Udinese\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Bologna (0-0)
+DTSTART:20251029T194500Z
+DTEND:20251029T221500Z
+UID:3298eb412b5be45785e9c5f4f5e169ed@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Torino\nCircuito
+ /Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Bologna 0 - 0 Torino\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Genoa (2-0)
+DTSTART:20251029T194500Z
+DTEND:20251029T221500Z
+UID:6d649ec41fe71f2fb38e678200a73f66@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Cremonese\nCircuit
+ o/Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Genoa 0 - 2 Cremonese\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Internazionale (0-3)
+DTSTART:20251029T194500Z
+DTEND:20251029T221500Z
+UID:7350508c575034adb9bb865e81cf51f3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Fiorentin
+ a\nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Internazionale 3 - 0 Fiorentina\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Cagliari (2-1)
+DTSTART:20251030T173000Z
+DTEND:20251030T200000Z
+UID:cc0394a88769e50e9404d5c32779bec6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Sassuolo\nCircu
+ ito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Cagliari 1 - 2 Sassuolo\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Pisa (0-0)
+DTSTART:20251030T194500Z
+DTEND:20251030T221500Z
+UID:94802aa7a9d938f11ad7559d34d9dca9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Lazio\nCircuito/Are
+ na: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 0 Lazio\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Udinese (0-1)
+DTSTART:20251101T140000Z
+DTEND:20251101T163000Z
+UID:4263753d728acc9a0e2cc00a950da0da@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Atalanta\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Udinese 1 - 0 Atalanta\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Napoli (0-0)
+DTSTART:20251101T170000Z
+DTEND:20251101T193000Z
+UID:86471ef790a3e069ff8f8684022e4070@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Como\nCircuito/Ar
+ ena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Napoli 0 - 0 Como\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Cremonese (2-1)
+DTSTART:20251101T194500Z
+DTEND:20251101T221500Z
+UID:5e7eb652b00cc7fe9dcbe23469d7d26b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Juventus\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Cremonese 1 - 2 Juventus\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Hellas Verona (2-1)
+DTSTART:20251102T113000Z
+DTEND:20251102T140000Z
+UID:030b2298ae6159096cfa6f108f687a88@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Internazio
+ nale\nCircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiorna
+ ta/Round: 2025-26-italian-serie-a\nRisultato: Hellas Verona 1 - 2 Internaz
+ ionale\nStato: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Fiorentina (1-0)
+DTSTART:20251102T140000Z
+DTEND:20251102T163000Z
+UID:27fb6fcc53335457b43c59dcb13fdbe3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Lecce\nCircui
+ to/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Fiorentina 0 - 1 Lecce\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Torino (2-2)
+DTSTART:20251102T140000Z
+DTEND:20251102T163000Z
+UID:744eb0521626f7a4752619ed51aa1fa7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Pisa\nCircuito/Ar
+ ena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Torino 2 - 2 Pisa\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Parma (3-1)
+DTSTART:20251102T170000Z
+DTEND:20251102T193000Z
+UID:47f3931c7b47da38fc3d8d12404770c5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Bologna\nCircuito/
+ Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Parma 1 - 3 Bologna\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ AC Milan (0-1)
+DTSTART:20251102T194500Z
+DTEND:20251102T221500Z
+UID:971fe2cb02b221b194285eacabdf062f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: AS Roma\nCircui
+ to/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: AC Milan 1 - 0 AS Roma\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Sassuolo (2-1)
+DTSTART:20251103T173000Z
+DTEND:20251103T200000Z
+UID:919f695ebaefdffabbd331dfde55a217@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Genoa\nCircuito
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Sassuolo 1 - 2 Genoa\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Lazio (0-2)
+DTSTART:20251103T194500Z
+DTEND:20251103T221500Z
+UID:bdd471d706ae23a65f8b4950c4bf9258@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Cagliari\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: Lazio 2 - 0 Cagliari\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Pisa (0-1)
+DTSTART:20251107T194500Z
+DTEND:20251107T221500Z
+UID:87ccdeac2f632cfa2fe26a74df904cc4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Cremonese\nCircuito
+ /Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/
+ Round: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 0 Cremonese\nStato: fi
+ nished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Como (0-0)
+DTSTART:20251108T140000Z
+DTEND:20251108T163000Z
+UID:0059364ccd43a682551438814e279054@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Cagliari\nCircuito/
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Como 0 - 0 Cagliari\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Lecce (0-0)
+DTSTART:20251108T140000Z
+DTEND:20251108T163000Z
+UID:d2670c597792584d7059147ec4ad8917@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Hellas Verona\nCir
+ cuito/Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Lecce 0 - 0 Hellas Verona\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Juventus (0-0)
+DTSTART:20251108T170000Z
+DTEND:20251108T193000Z
+UID:8134f7cb350ca42f697dc862dc9d3ba7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Torino\nCircuit
+ o/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Juventus 0 - 0 Torino\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Parma (2-2)
+DTSTART:20251108T194500Z
+DTEND:20251108T221500Z
+UID:782bf8b70556f90f83ed1c4a63b54ddc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: AC Milan\nCircuito
+ /Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Parma 2 - 2 AC Milan\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Atalanta (3-0)
+DTSTART:20251109T113000Z
+DTEND:20251109T140000Z
+UID:2221626f194fc3b0293456ff9ffe3787@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Sassuolo\nCircu
+ ito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Atalanta 0 - 3 Sassuolo\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Bologna (0-2)
+DTSTART:20251109T140000Z
+DTEND:20251109T163000Z
+UID:380a73763667560e569703c8e70ae128@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Napoli\nCircuito
+ /Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Bologna 2 - 0 Napoli\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Genoa (2-2)
+DTSTART:20251109T140000Z
+DTEND:20251109T163000Z
+UID:5f4cab4233580d5554b843391ed82531@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Fiorentina\nCircui
+ to/Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Genoa 2 - 2 Fiorentina\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ AS Roma (0-2)
+DTSTART:20251109T170000Z
+DTEND:20251109T193000Z
+UID:ca1eaba769cdc528673b9dbdc9dfaded@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Udinese\nCircuit
+ o/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: AS Roma 2 - 0 Udinese\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Internazionale (0-2)
+DTSTART:20251109T194500Z
+DTEND:20251109T221500Z
+UID:f4fbc07a8dd5f35fbb7b6051673a52ec@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Lazio\nCi
+ rcuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Internazionale 2 - 0 Lazio\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Cagliari (3-3)
+DTSTART:20251122T140000Z
+DTEND:20251122T163000Z
+UID:d2c5a6d95dbc60c73c6e63bc81497c5d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Genoa\nCircuito
+ /Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Cagliari 3 - 3 Genoa\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Udinese (3-0)
+DTSTART:20251122T140000Z
+DTEND:20251122T163000Z
+UID:acfa8f43fa0d0651e80f02fd469799a7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Bologna\nCircuit
+ o/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Udinese 0 - 3 Bologna\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Fiorentina (1-1)
+DTSTART:20251122T170000Z
+DTEND:20251122T193000Z
+UID:a2dc4ec70bbf1027f71ffe4c28635e81@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Juventus\nCir
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Fiorentina 1 - 1 Juventus\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Napoli (1-3)
+DTSTART:20251122T194500Z
+DTEND:20251122T221500Z
+UID:685a6ce6a36032a3b929a45e7f765a20@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Atalanta\nCircuit
+ o/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Napoli 3 - 1 Atalanta\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Hellas Verona (2-1)
+DTSTART:20251123T113000Z
+DTEND:20251123T140000Z
+UID:33684cc2ae96e73be9c8faeb387d0c25@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Parma\nCir
+ cuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round:
+  2025-26-italian-serie-a\nRisultato: Hellas Verona 1 - 2 Parma\nStato: fin
+ ished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Cremonese (3-1)
+DTSTART:20251123T140000Z
+DTEND:20251123T163000Z
+UID:bfa568c40241b5372aee15d322d60225@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: AS Roma\nCircu
+ ito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Cremonese 1 - 3 AS Roma\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Lazio (0-2)
+DTSTART:20251123T170000Z
+DTEND:20251123T193000Z
+UID:7468be21152860bf66436cf7cc7511d3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Lecce\nCircuito/Ar
+ ena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRisu
+ ltato: Lazio 2 - 0 Lecce\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Internazionale (1-0)
+DTSTART:20251123T194500Z
+DTEND:20251123T221500Z
+UID:2cb0db25f6eb38a1e885d2894a476943@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AC Milan\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Internazionale 0 - 1 AC Milan\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Torino (5-1)
+DTSTART:20251124T173000Z
+DTEND:20251124T200000Z
+UID:0500e5a0fbd7b258713c8eb5416d616e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Como\nCircuito/Ar
+ ena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Torino 1 - 5 Como\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Sassuolo (2-2)
+DTSTART:20251124T194500Z
+DTEND:20251124T221500Z
+UID:775720f868db22ad020623f0cf936afb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Pisa\nCircuito/
+ Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Sassuolo 2 - 2 Pisa\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Como (0-2)
+DTSTART:20251128T194500Z
+DTEND:20251128T221500Z
+UID:d1d9121333769c6436608b6ef6290b0a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Sassuolo\nCircuito/
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Como 2 - 0 Sassuolo\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Genoa (1-2)
+DTSTART:20251129T140000Z
+DTEND:20251129T163000Z
+UID:1780d857025b4f5fb44e47545341b698@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Hellas Verona\nCir
+ cuito/Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Genoa 2 - 1 Hellas Verona\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Parma (2-0)
+DTSTART:20251129T140000Z
+DTEND:20251129T163000Z
+UID:5ba74e346cbc7d55555704bfe6c2b1bd@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Udinese\nCircuito/
+ Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Parma 0 - 2 Udinese\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Juventus (1-2)
+DTSTART:20251129T170000Z
+DTEND:20251129T193000Z
+UID:12238d259804c1d4dfc6a16076cd84ac@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Cagliari\nCircu
+ ito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Juventus 2 - 1 Cagliari\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ AC Milan (0-1)
+DTSTART:20251129T194500Z
+DTEND:20251129T221500Z
+UID:bef0de0fca8dbd531323fde10b53e90f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Lazio\nCircuito
+ /Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AC Milan 1 - 0 Lazio\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Lecce (1-2)
+DTSTART:20251130T113000Z
+DTEND:20251130T140000Z
+UID:ea963162fba5a7ab3f131d72e9a658be@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Torino\nCircuito/A
+ rena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: Lecce 2 - 1 Torino\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Pisa (2-0)
+DTSTART:20251130T140000Z
+DTEND:20251130T163000Z
+UID:5c680b12c7af63707b41b6e1792fddd7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Internazionale\nCir
+ cuito/Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGior
+ nata/Round: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 2 Internazionale\
+ nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Atalanta (0-2)
+DTSTART:20251130T170000Z
+DTEND:20251130T193000Z
+UID:e884d3005c6616f39965986e276da262@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Fiorentina\nCir
+ cuito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Atalanta 2 - 0 Fiorentina\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ AS Roma (1-0)
+DTSTART:20251130T194500Z
+DTEND:20251130T221500Z
+UID:a8c155643762c04096836a4cef15d291@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Napoli\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: AS Roma 0 - 1 Napoli\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Bologna (3-1)
+DTSTART:20251201T194500Z
+DTEND:20251201T221500Z
+UID:dcd017347702173fe1ec9c73e8dd484d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Cremonese\nCircu
+ ito/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Bologna 1 - 3 Cremonese\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Sassuolo (1-3)
+DTSTART:20251206T140000Z
+DTEND:20251206T163000Z
+UID:d5674642c9198f2bdfe5ec3bd0d3394d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Fiorentina\nCir
+ cuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Sassuolo 3 - 1 Fiorentina\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Internazionale (0-4)
+DTSTART:20251206T170000Z
+DTEND:20251206T193000Z
+UID:3596a8180bde094e8353e44286f9fdba@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Como\nCir
+ cuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Internazionale 4 - 0 Como\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Hellas Verona (1-3)
+DTSTART:20251206T194500Z
+DTEND:20251206T221500Z
+UID:f5f4acc738fc183927c5de9e78b4e96b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Atalanta\n
+ Circuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Hellas Verona 3 - 1 Atalanta\nStat
+ o: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Cremonese (0-2)
+DTSTART:20251207T113000Z
+DTEND:20251207T140000Z
+UID:be600513032eef816c73bd2c1178fbb5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Lecce\nCircuit
+ o/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Cremonese 2 - 0 Lecce\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Cagliari (0-1)
+DTSTART:20251207T140000Z
+DTEND:20251207T163000Z
+UID:faa17aad7c05f1d93866bbd45f96371e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: AS Roma\nCircui
+ to/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Cagliari 1 - 0 AS Roma\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Lazio (1-1)
+DTSTART:20251207T170000Z
+DTEND:20251207T193000Z
+UID:3eb054cd7ad7d65ed84acfd7664722f0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Bologna\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: Lazio 1 - 1 Bologna\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Napoli (1-2)
+DTSTART:20251207T194500Z
+DTEND:20251207T221500Z
+UID:3412ff072841c38b55350e5dd503106f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Juventus\nCircuit
+ o/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Napoli 2 - 1 Juventus\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Pisa (1-0)
+DTSTART:20251208T140000Z
+DTEND:20251208T163000Z
+UID:ba957dd2449984de42e366495664b053@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Parma\nCircuito/Are
+ na: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 1 Parma\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Udinese (2-1)
+DTSTART:20251208T170000Z
+DTEND:20251208T193000Z
+UID:9e899c6c81d8adf7a190bd756affdaa7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Genoa\nCircuito/
+ Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Udinese 1 - 2 Genoa\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Torino (3-2)
+DTSTART:20251208T194500Z
+DTEND:20251208T221500Z
+UID:6da3918f47a95bd3d950f8144412f752@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: AC Milan\nCircuit
+ o/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Torino 2 - 3 AC Milan\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Lecce (0-1)
+DTSTART:20251212T194500Z
+DTEND:20251212T221500Z
+UID:539be102369b0caf3aa92369d4ad6da4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Pisa\nCircuito/Are
+ na: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: Lecce 1 - 0 Pisa\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Torino (0-1)
+DTSTART:20251213T140000Z
+DTEND:20251213T163000Z
+UID:89cb34dc918ebf1e2168a70ecc79a52b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Cremonese\nCircui
+ to/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2
+ 025-26-italian-serie-a\nRisultato: Torino 1 - 0 Cremonese\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Parma (1-0)
+DTSTART:20251213T170000Z
+DTEND:20251213T193000Z
+UID:06bec0eb1db8196b0817b50f607ff66f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Lazio\nCircuito/Ar
+ ena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: Parma 0 - 1 Lazio\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Atalanta (1-2)
+DTSTART:20251213T194500Z
+DTEND:20251213T221500Z
+UID:9cd1481595a4d67bf5a431ddad76d3c7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Cagliari\nCircu
+ ito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Atalanta 2 - 1 Cagliari\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ AC Milan (2-2)
+DTSTART:20251214T113000Z
+DTEND:20251214T140000Z
+UID:51a821a362723507c1a17a7663585dab@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Sassuolo\nCircu
+ ito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: AC Milan 2 - 2 Sassuolo\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Fiorentina (2-1)
+DTSTART:20251214T140000Z
+DTEND:20251214T163000Z
+UID:b110d0ee6e5edf7e487769f2e48678ee@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Hellas Verona
+ \nCircuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round:
+  2025-26-italian-serie-a\nRisultato: Fiorentina 1 - 2 Hellas Verona\nStato
+ : finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Udinese (0-1)
+DTSTART:20251214T140000Z
+DTEND:20251214T163000Z
+UID:81f773aad3126ba1c79ef0817c5aef30@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Napoli\nCircuito
+ /Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Udinese 1 - 0 Napoli\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Genoa (2-1)
+DTSTART:20251214T170000Z
+DTEND:20251214T193000Z
+UID:4885b13d4e24ad7bc3e9ec167e6ecbf3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Internazionale\nCi
+ rcuito/Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Genoa 1 - 2 Internazionale\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Bologna (1-0)
+DTSTART:20251214T194500Z
+DTEND:20251214T221500Z
+UID:dc71246f9c0f52d428768fd5cde9c85d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Juventus\nCircui
+ to/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Bologna 0 - 1 Juventus\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ AS Roma (0-1)
+DTSTART:20251215T194500Z
+DTEND:20251215T221500Z
+UID:9bc61163002847c5fbdbb53bf843a207@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Como\nCircuito/A
+ rena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRis
+ ultato: AS Roma 1 - 0 Como\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Lazio (0-0)
+DTSTART:20251220T170000Z
+DTEND:20251220T193000Z
+UID:d9c163d9fcf063c3f5527c5477cfc87f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Cremonese\nCircuit
+ o/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: Lazio 0 - 0 Cremonese\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Juventus (1-2)
+DTSTART:20251220T194500Z
+DTEND:20251220T221500Z
+UID:ef969e679f0d67526628435a173b4af0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: AS Roma\nCircui
+ to/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Juventus 2 - 1 AS Roma\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Cagliari (2-2)
+DTSTART:20251221T113000Z
+DTEND:20251221T140000Z
+UID:51d7ad8da1c8506efdc2e3c2356c3b78@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Pisa\nCircuito/
+ Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Cagliari 2 - 2 Pisa\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Sassuolo (1-0)
+DTSTART:20251221T140000Z
+DTEND:20251221T163000Z
+UID:c133266762904718af8f30fbef2508d1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Torino\nCircuit
+ o/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Sassuolo 0 - 1 Torino\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Fiorentina (1-5)
+DTSTART:20251221T170000Z
+DTEND:20251221T193000Z
+UID:cb15a8517c304c5c57e11699f6ffbaa9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Udinese\nCirc
+ uito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Fiorentina 5 - 1 Udinese\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Genoa (1-0)
+DTSTART:20251221T194500Z
+DTEND:20251221T221500Z
+UID:156fd14d7314e1f5c10e4a180a13c26b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Atalanta\nCircuito
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Genoa 0 - 1 Atalanta\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Parma (0-1)
+DTSTART:20251227T113000Z
+DTEND:20251227T140000Z
+UID:be9f6e1e177591022cd023b4094ac211@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Fiorentina\nCircui
+ to/Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Parma 1 - 0 Fiorentina\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Lecce (3-0)
+DTSTART:20251227T140000Z
+DTEND:20251227T163000Z
+UID:682cef6e103968d4397b6310d4a01c54@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Como\nCircuito/Are
+ na: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: Lecce 0 - 3 Como\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Torino (2-1)
+DTSTART:20251227T140000Z
+DTEND:20251227T163000Z
+UID:0063595736915fea58aca84f92ff4838@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Cagliari\nCircuit
+ o/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Torino 1 - 2 Cagliari\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Udinese (1-1)
+DTSTART:20251227T170000Z
+DTEND:20251227T193000Z
+UID:7d97b72660bd3740326e7fbf4f23cd30@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Lazio\nCircuito/
+ Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Udinese 1 - 1 Lazio\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Pisa (2-0)
+DTSTART:20251227T194500Z
+DTEND:20251227T221500Z
+UID:7124f4d5378f70a77ad642599f66a588@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Juventus\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 2 Juventus\nStato: fini
+ shed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ AC Milan (0-3)
+DTSTART:20251228T113000Z
+DTEND:20251228T140000Z
+UID:d8a700a90bc859597c95a8c4fb1ab2f6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Hellas Verona\n
+ Circuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: AC Milan 3 - 0 Hellas Verona\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Cremonese (2-0)
+DTSTART:20251228T140000Z
+DTEND:20251228T163000Z
+UID:7dac9b8e40913a7f0acc8a3c9373f82b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Napoli\nCircui
+ to/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Cremonese 0 - 2 Napoli\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Bologna (1-1)
+DTSTART:20251228T170000Z
+DTEND:20251228T193000Z
+UID:fc6143de6b19df027d900cbb6ec1cc37@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Sassuolo\nCircui
+ to/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Bologna 1 - 1 Sassuolo\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Atalanta (1-0)
+DTSTART:20251228T194500Z
+DTEND:20251228T221500Z
+UID:135d74996462ff805f4e3c733705b0dd@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale\
+ nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Atalanta 0 - 1 Internazionale\nStato: finis
+ hed
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ AS Roma (1-3)
+DTSTART:20251229T194500Z
+DTEND:20251229T221500Z
+UID:d0de7833197a605554d9f981c3fd789b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Genoa\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: AS Roma 3 - 1 Genoa\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Cagliari (1-0)
+DTSTART:20260102T194500Z
+DTEND:20260102T221500Z
+UID:a6595015dd83b868b5beae44e0c3f6cb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: AC Milan\nCircu
+ ito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Cagliari 0 - 1 AC Milan\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Como (0-1)
+DTSTART:20260103T113000Z
+DTEND:20260103T140000Z
+UID:de692be609b4e0c028a393413a3fcf18@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Udinese\nCircuito/A
+ rena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Como 1 - 0 Udinese\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Genoa (1-1)
+DTSTART:20260103T140000Z
+DTEND:20260103T163000Z
+UID:c09e209cc895167e7d88085d69388994@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Pisa\nCircuito/Are
+ na: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Genoa 1 - 1 Pisa\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Sassuolo (1-1)
+DTSTART:20260103T140000Z
+DTEND:20260103T163000Z
+UID:3daeba4509e6fd9fd3e336d37acfc676@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Parma\nCircuito
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Sassuolo 1 - 1 Parma\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Juventus (1-1)
+DTSTART:20260103T170000Z
+DTEND:20260103T193000Z
+UID:770ba83e390c87d17df5d7ba47f229e2@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Lecce\nCircuito
+ /Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Juventus 1 - 1 Lecce\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Atalanta (0-1)
+DTSTART:20260103T194500Z
+DTEND:20260103T221500Z
+UID:31659770df2caefa536c8ccf5e54e1b2@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: AS Roma\nCircui
+ to/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Atalanta 1 - 0 AS Roma\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Lazio (2-0)
+DTSTART:20260104T113000Z
+DTEND:20260104T140000Z
+UID:0878a9645509c64a60addf311faba684@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Napoli\nCircuito/A
+ rena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRis
+ ultato: Lazio 0 - 2 Napoli\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Fiorentina (0-1)
+DTSTART:20260104T140000Z
+DTEND:20260104T163000Z
+UID:80f8ba7f9e3c4c2b9457e4787c93e072@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Cremonese\nCi
+ rcuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Fiorentina 1 - 0 Cremonese\nStato: finish
+ ed
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Hellas Verona (3-0)
+DTSTART:20260104T170000Z
+DTEND:20260104T193000Z
+UID:811213ecca0cf810aa53d296432f3980@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Torino\nCi
+ rcuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round
+ : 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 3 Torino\nStato: f
+ inished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Internazionale (1-3)
+DTSTART:20260104T194500Z
+DTEND:20260104T221500Z
+UID:ba70ccf327d692cd217e1df91b08767a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Bologna\n
+ Circuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Internazionale 3 - 1 Bologna\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Pisa (3-0)
+DTSTART:20260106T140000Z
+DTEND:20260106T163000Z
+UID:882a89531042e5402cd9bb15b682957b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Como\nCircuito/Aren
+ a: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Round
+ : 2025-26-italian-serie-a\nRisultato: Pisa 0 - 3 Como\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Lecce (2-0)
+DTSTART:20260106T170000Z
+DTEND:20260106T193000Z
+UID:17e2bb25cf5e1e9c4a6d9a37aaabc29b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: AS Roma\nCircuito/
+ Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Lecce 0 - 2 AS Roma\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Sassuolo (3-0)
+DTSTART:20260106T194500Z
+DTEND:20260106T221500Z
+UID:2a2013e43f79f58a2b8749c25d8d01c7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Juventus\nCircu
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Sassuolo 0 - 3 Juventus\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Bologna (2-0)
+DTSTART:20260107T173000Z
+DTEND:20260107T200000Z
+UID:305ccf1ade287c603b39e0775c5dbc53@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Atalanta\nCircui
+ to/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Bologna 0 - 2 Atalanta\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Napoli (2-2)
+DTSTART:20260107T173000Z
+DTEND:20260107T200000Z
+UID:2281900e67cf0e45e010efeaa7137afb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Hellas Verona\nCi
+ rcuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Napoli 2 - 2 Hellas Verona\nStato: 
+ finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Lazio (2-2)
+DTSTART:20260107T194500Z
+DTEND:20260107T221500Z
+UID:0a6be57e8e6cc1bcf6cedddfe3d523bc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Fiorentina\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Lazio 2 - 2 Fiorentina\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Parma (2-0)
+DTSTART:20260107T194500Z
+DTEND:20260107T221500Z
+UID:38cab1251adecc84ec03bdaee309f525@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Internazionale\nCi
+ rcuito/Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Parma 0 - 2 Internazionale\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Torino (2-1)
+DTSTART:20260107T194500Z
+DTEND:20260107T221500Z
+UID:7a61c2ebbe6450c502d3c4f429c3b2f3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Udinese\nCircuito
+ /Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Torino 1 - 2 Udinese\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Cremonese (2-2)
+DTSTART:20260108T173000Z
+DTEND:20260108T200000Z
+UID:6ba46ac5b85329dd786c4c591c14d46e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Cagliari\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Cremonese 2 - 2 Cagliari\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ AC Milan (1-1)
+DTSTART:20260108T194500Z
+DTEND:20260108T221500Z
+UID:e38744889a0bbd075d27bd6347f69e8c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Genoa\nCircuito
+ /Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AC Milan 1 - 1 Genoa\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Como (1-1)
+DTSTART:20260110T140000Z
+DTEND:20260110T163000Z
+UID:a0894e64e685a7193f6fbc7f7493d11a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Bologna\nCircuito/A
+ rena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Como 1 - 1 Bologna\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Udinese (2-2)
+DTSTART:20260110T140000Z
+DTEND:20260110T163000Z
+UID:2b6805bde63bdba751ca57adc316501c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Pisa\nCircuito/A
+ rena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Udinese 2 - 2 Pisa\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ AS Roma (0-2)
+DTSTART:20260110T170000Z
+DTEND:20260110T193000Z
+UID:2fe2b5e9faa66f26556750a5514ed18e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Sassuolo\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AS Roma 2 - 0 Sassuolo\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Atalanta (0-2)
+DTSTART:20260110T194500Z
+DTEND:20260110T221500Z
+UID:b9e186c9bd7850af30ec83ac6bebd0bb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Torino\nCircuit
+ o/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Atalanta 2 - 0 Torino\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Lecce (2-1)
+DTSTART:20260111T113000Z
+DTEND:20260111T140000Z
+UID:fc909c40e9fae1238f1d161a7ff2804a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Parma\nCircuito/Ar
+ ena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Lecce 1 - 2 Parma\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Fiorentina (1-1)
+DTSTART:20260111T140000Z
+DTEND:20260111T163000Z
+UID:026200343fb18df822bc8e487adda52b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: AC Milan\nCir
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Fiorentina 1 - 1 AC Milan\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Hellas Verona (1-0)
+DTSTART:20260111T170000Z
+DTEND:20260111T193000Z
+UID:d53df70a4be800b7eecae725beb274e0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Lazio\nCir
+ cuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round:
+  2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 1 Lazio\nStato: fin
+ ished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Internazionale (2-2)
+DTSTART:20260111T194500Z
+DTEND:20260111T221500Z
+UID:6501f2d9b6d7cf25a3dcf2d452426bb8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Napoli\nC
+ ircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Internazionale 2 - 2 Napoli\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Genoa (0-3)
+DTSTART:20260112T173000Z
+DTEND:20260112T200000Z
+UID:1b2a2240d257e74015a7ca6f1509d169@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Cagliari\nCircuito
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Genoa 3 - 0 Cagliari\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Juventus (0-5)
+DTSTART:20260112T194500Z
+DTEND:20260112T221500Z
+UID:bf2e71921596862699fd7be9654a88ff@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Cremonese\nCirc
+ uito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Juventus 5 - 0 Cremonese\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Napoli (0-0)
+DTSTART:20260114T173000Z
+DTEND:20260114T200000Z
+UID:78c57a1c940c6d2b0621567bd4706a4b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Parma\nCircuito/A
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Napoli 0 - 0 Parma\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Internazionale (0-1)
+DTSTART:20260114T194500Z
+DTEND:20260114T221500Z
+UID:5a25edc774b3271f2abd4ed15155d0c5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Lecce\nCi
+ rcuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Internazionale 1 - 0 Lecce\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Hellas Verona (3-2)
+DTSTART:20260115T173000Z
+DTEND:20260115T200000Z
+UID:2b713132a52bb4237eb52f0f825fd954@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Bologna\nC
+ ircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Hellas Verona 2 - 3 Bologna\nStato:
+  finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Como (3-1)
+DTSTART:20260115T194500Z
+DTEND:20260115T221500Z
+UID:dd571da0560c049a3b32848500f56265@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AC Milan\nCircuito/
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Como 1 - 3 AC Milan\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Pisa (1-1)
+DTSTART:20260116T194500Z
+DTEND:20260116T221500Z
+UID:9647b53ea768d6aac99307c48e7180c9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Atalanta\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 1 Atalanta\nStato: fini
+ shed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Udinese (1-0)
+DTSTART:20260117T140000Z
+DTEND:20260117T163000Z
+UID:72e98be6a10c1c0138641ac20a201b4d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Internazionale\n
+ Circuito/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Udinese 0 - 1 Internazionale\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Napoli (0-1)
+DTSTART:20260117T170000Z
+DTEND:20260117T193000Z
+UID:2134213bb7c5c8ac58ee35ac8cb8b5bd@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Sassuolo\nCircuit
+ o/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Napoli 1 - 0 Sassuolo\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Cagliari (0-1)
+DTSTART:20260117T194500Z
+DTEND:20260117T221500Z
+UID:bf9b35abf27065e932220ed52cd2d9de@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Juventus\nCircu
+ ito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Cagliari 1 - 0 Juventus\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Parma (0-0)
+DTSTART:20260118T113000Z
+DTEND:20260118T140000Z
+UID:03233ad47e2e574c974e4e66b3e55919@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Genoa\nCircuito/Ar
+ ena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: Parma 0 - 0 Genoa\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Bologna (2-1)
+DTSTART:20260118T140000Z
+DTEND:20260118T163000Z
+UID:5fc74f4ce26f213fcbd3f740411f53ed@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Fiorentina\nCirc
+ uito/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Bologna 1 - 2 Fiorentina\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Torino (2-0)
+DTSTART:20260118T170000Z
+DTEND:20260118T193000Z
+UID:c9d7a8d2631a8964d6b91f6d2e290194@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: AS Roma\nCircuito
+ /Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Torino 0 - 2 AS Roma\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ AC Milan (0-1)
+DTSTART:20260118T194500Z
+DTEND:20260118T221500Z
+UID:93d3b6c4e6655988a5e85ff22d1c2961@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Lecce\nCircuito
+ /Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AC Milan 1 - 0 Lecce\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Cremonese (0-0)
+DTSTART:20260119T173000Z
+DTEND:20260119T200000Z
+UID:0cad8dac7d6d06d2c7aa7a8685f664c0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Hellas Verona\
+ nCircuito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Cremonese 0 - 0 Hellas Verona\nStato: fi
+ nished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Lazio (3-0)
+DTSTART:20260119T194500Z
+DTEND:20260119T221500Z
+UID:dfbbdadde3c06b2701176ca7c5b90547@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Como\nCircuito/Are
+ na: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRisul
+ tato: Lazio 0 - 3 Como\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Internazionale (2-6)
+DTSTART:20260123T194500Z
+DTEND:20260123T221500Z
+UID:b6045f43416d80a780a45eb1459bab0e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Pisa\nCir
+ cuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Internazionale 6 - 2 Pisa\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Como (0-6)
+DTSTART:20260124T140000Z
+DTEND:20260124T163000Z
+UID:ab44523a67434c5d15e20f2e0c1ddc4b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Torino\nCircuito/Ar
+ ena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Como 6 - 0 Torino\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Fiorentina (2-1)
+DTSTART:20260124T170000Z
+DTEND:20260124T193000Z
+UID:d3123081d2c49f9114e6eb26cda9a458@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Cagliari\nCir
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Fiorentina 1 - 2 Cagliari\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Lecce (0-0)
+DTSTART:20260124T194500Z
+DTEND:20260124T221500Z
+UID:160216f95d0572a8c30e09f6b37c12dc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Lazio\nCircuito/Ar
+ ena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Lecce 0 - 0 Lazio\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Sassuolo (0-1)
+DTSTART:20260125T113000Z
+DTEND:20260125T140000Z
+UID:8f82dbac242f138fc0b75bde105174c1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Cremonese\nCirc
+ uito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Sassuolo 1 - 0 Cremonese\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Atalanta (0-4)
+DTSTART:20260125T140000Z
+DTEND:20260125T163000Z
+UID:9dd962a71f047e223c23ce0270bc9738@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Parma\nCircuito
+ /Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Atalanta 4 - 0 Parma\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Genoa (2-3)
+DTSTART:20260125T140000Z
+DTEND:20260125T163000Z
+UID:1c52cfebf53aeaaf0734d2d96744d331@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Bologna\nCircuito/
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Genoa 3 - 2 Bologna\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Juventus (0-3)
+DTSTART:20260125T170000Z
+DTEND:20260125T193000Z
+UID:7330f43533b0659f802336ec9dae85b6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Napoli\nCircuit
+ o/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Juventus 3 - 0 Napoli\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ AS Roma (1-1)
+DTSTART:20260125T194500Z
+DTEND:20260125T221500Z
+UID:e7ec3350466e92f568c9a27b06d25fa2@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: AC Milan\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AS Roma 1 - 1 AC Milan\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Hellas Verona (3-1)
+DTSTART:20260126T194500Z
+DTEND:20260126T221500Z
+UID:69522644b651257e26cfd56da00f7201@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Udinese\nC
+ ircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Hellas Verona 1 - 3 Udinese\nStato:
+  finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Lazio (2-3)
+DTSTART:20260130T194500Z
+DTEND:20260130T221500Z
+UID:832b2da32bc9cf0d709127078574d9a3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Genoa\nCircuito/Ar
+ ena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRisu
+ ltato: Lazio 3 - 2 Genoa\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Pisa (3-1)
+DTSTART:20260131T140000Z
+DTEND:20260131T163000Z
+UID:724a24bb4dc7edd84fb52239e5a38bf6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Sassuolo\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 3 Sassuolo\nStato: fini
+ shed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Napoli (1-2)
+DTSTART:20260131T170000Z
+DTEND:20260131T193000Z
+UID:08148dbe6f247bca48753aab305968ae@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Fiorentina\nCircu
+ ito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 
+ 2025-26-italian-serie-a\nRisultato: Napoli 2 - 1 Fiorentina\nStato: finish
+ ed
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Cagliari (0-4)
+DTSTART:20260131T194500Z
+DTEND:20260131T221500Z
+UID:3de82e5ab634257e9fbe3e9f667dd2e1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Hellas Verona\n
+ Circuito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Cagliari 4 - 0 Hellas Verona\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Torino (0-1)
+DTSTART:20260201T113000Z
+DTEND:20260201T140000Z
+UID:e9438f2f35b9326594ae1d5cdd1cc7a6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Lecce\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Torino 1 - 0 Lecce\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Como (0-0)
+DTSTART:20260201T140000Z
+DTEND:20260201T163000Z
+UID:69edf0a47c4bd029be4d57cccc621931@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Atalanta\nCircuito/
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Como 0 - 0 Atalanta\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Cremonese (2-0)
+DTSTART:20260201T170000Z
+DTEND:20260201T193000Z
+UID:259d034aa000fe3829bd56fa93a7eb63@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Internazionale
+ \nCircuito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2
+ 025-26-italian-serie-a\nRisultato: Cremonese 0 - 2 Internazionale\nStato: 
+ finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Parma (4-1)
+DTSTART:20260201T194500Z
+DTEND:20260201T221500Z
+UID:cc49b748fbb188e7f016d1fd80929b8a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Juventus\nCircuito
+ /Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Parma 1 - 4 Juventus\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Udinese (0-1)
+DTSTART:20260202T194500Z
+DTEND:20260202T221500Z
+UID:f0109992a9c7d83206963847285ae095@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: AS Roma\nCircuit
+ o/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Udinese 1 - 0 AS Roma\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Bologna (3-0)
+DTSTART:20260203T194500Z
+DTEND:20260203T221500Z
+UID:98f42afb6432621091de4f7e3cfa4e0e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: AC Milan\nCircui
+ to/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Bologna 0 - 3 AC Milan\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Hellas Verona (0-0)
+DTSTART:20260206T194500Z
+DTEND:20260206T221500Z
+UID:b2a9160e6806e847a60bb1e5bbe52d34@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Pisa\nCirc
+ uito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round: 
+ 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 0 Pisa\nStato: finis
+ hed
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Genoa (3-2)
+DTSTART:20260207T170000Z
+DTEND:20260207T193000Z
+UID:ecc66c4b41c030bb9e8584706f4beb7f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Napoli\nCircuito/A
+ rena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Genoa 2 - 3 Napoli\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Fiorentina (2-2)
+DTSTART:20260207T194500Z
+DTEND:20260207T221500Z
+UID:8d7a0855288e921c0d8c86ecc98688cb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Torino\nCircu
+ ito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Fiorentina 2 - 2 Torino\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Bologna (1-0)
+DTSTART:20260208T113000Z
+DTEND:20260208T140000Z
+UID:1b80824426774575283daf545b5323f7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Parma\nCircuito/
+ Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Bologna 0 - 1 Parma\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Lecce (1-2)
+DTSTART:20260208T140000Z
+DTEND:20260208T163000Z
+UID:401649c8345662b218d71c222044aef4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Udinese\nCircuito/
+ Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Lecce 2 - 1 Udinese\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Sassuolo (5-0)
+DTSTART:20260208T170000Z
+DTEND:20260208T193000Z
+UID:82d0b24675c77be6ebde1578f4cf35ff@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Internazionale\
+ nCircuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Sassuolo 0 - 5 Internazionale\nStato: fin
+ ished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Juventus (2-2)
+DTSTART:20260208T194500Z
+DTEND:20260208T221500Z
+UID:fb0a0f0000eb09fe919cce4174e8298a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Lazio\nCircuito
+ /Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Juventus 2 - 2 Lazio\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Atalanta (1-2)
+DTSTART:20260209T173000Z
+DTEND:20260209T200000Z
+UID:8488cff9ca44013c44c1472f4e878095@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Cremonese\nCirc
+ uito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Atalanta 2 - 1 Cremonese\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ AS Roma (0-2)
+DTSTART:20260209T194500Z
+DTEND:20260209T221500Z
+UID:853983c8d1bc0867ecc39ed738857d30@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Cagliari\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AS Roma 2 - 0 Cagliari\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Pisa (2-1)
+DTSTART:20260213T194500Z
+DTEND:20260213T221500Z
+UID:d147f1aab55e44e7aab871d06e72e7bf@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: AC Milan\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 2 AC Milan\nStato: fini
+ shed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Como (2-1)
+DTSTART:20260214T140000Z
+DTEND:20260214T163000Z
+UID:02678deb950116e5f81724da3457d130@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Fiorentina\nCircuit
+ o/Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Como 1 - 2 Fiorentina\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Lazio (2-0)
+DTSTART:20260214T170000Z
+DTEND:20260214T193000Z
+UID:63c563766fe0a985f7b13ae4608d8985@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Atalanta\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: Lazio 0 - 2 Atalanta\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Internazionale (2-3)
+DTSTART:20260214T194500Z
+DTEND:20260214T221500Z
+UID:47c17927ec91b74fa1a2e2d1e18f92de@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Juventus\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Internazionale 3 - 2 Juventus\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Udinese (2-1)
+DTSTART:20260215T113000Z
+DTEND:20260215T140000Z
+UID:72da4aaad75aac97d2d582172972e25d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Sassuolo\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Udinese 1 - 2 Sassuolo\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Cremonese (0-0)
+DTSTART:20260215T140000Z
+DTEND:20260215T163000Z
+UID:002709dc819e26225340458bb59a97f1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Genoa\nCircuit
+ o/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Cremonese 0 - 0 Genoa\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Parma (1-2)
+DTSTART:20260215T140000Z
+DTEND:20260215T163000Z
+UID:c3b8629c55537e051ef45ba108f9cdd3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Hellas Verona\nCir
+ cuito/Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Parma 2 - 1 Hellas Verona\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Torino (2-1)
+DTSTART:20260215T170000Z
+DTEND:20260215T193000Z
+UID:7787075befedb80312787bf235ca5857@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Bologna\nCircuito
+ /Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Torino 1 - 2 Bologna\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Napoli (2-2)
+DTSTART:20260215T194500Z
+DTEND:20260215T221500Z
+UID:c283bef5e8fb64a90ad6196ba875d822@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: AS Roma\nCircuito
+ /Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Napoli 2 - 2 AS Roma\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Cagliari (2-0)
+DTSTART:20260216T194500Z
+DTEND:20260216T221500Z
+UID:e12870acad784d4403a6682de462601d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Lecce\nCircuito
+ /Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Cagliari 0 - 2 Lecce\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ AC Milan (1-1)
+DTSTART:20260218T194500Z
+DTEND:20260218T221500Z
+UID:9c32c519db2e82338727ee62cd67bc97@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Como\nCircuito/
+ Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\n
+ Risultato: AC Milan 1 - 1 Como\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Sassuolo (0-3)
+DTSTART:20260220T194500Z
+DTEND:20260220T221500Z
+UID:a2e2f6948a3fe0f6b87d17c8c43ac9be@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Hellas Verona\n
+ Circuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Sassuolo 3 - 0 Hellas Verona\nStato: finis
+ hed
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Juventus (2-0)
+DTSTART:20260221T140000Z
+DTEND:20260221T163000Z
+UID:b6dd048c0e363ffd80f201477c12883d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Como\nCircuito/
+ Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Juventus 0 - 2 Como\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Lecce (2-0)
+DTSTART:20260221T170000Z
+DTEND:20260221T193000Z
+UID:d4306108f967ea0912955e4a72a29733@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Internazionale\nCi
+ rcuito/Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Lecce 0 - 2 Internazionale\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Cagliari (0-0)
+DTSTART:20260221T194500Z
+DTEND:20260221T221500Z
+UID:578158805a35e3d24f5db25460153321@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Lazio\nCircuito
+ /Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Cagliari 0 - 0 Lazio\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Genoa (0-3)
+DTSTART:20260222T113000Z
+DTEND:20260222T140000Z
+UID:e1d5a61698ac7b1506a2dd68d3497c19@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Torino\nCircuito/A
+ rena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Genoa 3 - 0 Torino\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Atalanta (1-2)
+DTSTART:20260222T140000Z
+DTEND:20260222T163000Z
+UID:a9ecf7a0bdac62ec599ec93fcccbc368@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Napoli\nCircuit
+ o/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Atalanta 2 - 1 Napoli\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ AC Milan (1-0)
+DTSTART:20260222T170000Z
+DTEND:20260222T193000Z
+UID:f5a5f7a0aa14fe0f40e2fc458ca3902d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Parma\nCircuito
+ /Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AC Milan 0 - 1 Parma\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ AS Roma (0-3)
+DTSTART:20260222T194500Z
+DTEND:20260222T221500Z
+UID:46b983577e1bb13240bc162c2baff7b4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Cremonese\nCircu
+ ito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: AS Roma 3 - 0 Cremonese\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Fiorentina (0-1)
+DTSTART:20260223T173000Z
+DTEND:20260223T200000Z
+UID:e03c1b83d0807f57f4e66e708ebda8e5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Pisa\nCircuit
+ o/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Fiorentina 1 - 0 Pisa\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Bologna (0-1)
+DTSTART:20260223T194500Z
+DTEND:20260223T221500Z
+UID:2fdc99d059a90972c0ad1e50e25d60a6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Udinese\nCircuit
+ o/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Bologna 1 - 0 Udinese\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Parma (1-1)
+DTSTART:20260227T194500Z
+DTEND:20260227T221500Z
+UID:3e9701ce0ce2f1e1986feccf83e7f2dc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Cagliari\nCircuito
+ /Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Parma 1 - 1 Cagliari\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Como (1-3)
+DTSTART:20260228T140000Z
+DTEND:20260228T163000Z
+UID:42c205ccfb3c43f0e829639fa9aa983d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Lecce\nCircuito/Are
+ na: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Como 3 - 1 Lecce\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Hellas Verona (2-1)
+DTSTART:20260228T170000Z
+DTEND:20260228T193000Z
+UID:b3b2f82927ff5a2c5b87a98549c1e70a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Napoli\nCi
+ rcuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round
+ : 2025-26-italian-serie-a\nRisultato: Hellas Verona 1 - 2 Napoli\nStato: f
+ inished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Internazionale (0-2)
+DTSTART:20260228T194500Z
+DTEND:20260228T221500Z
+UID:1db3f05b77efd116ff4b0a2527f3123b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Genoa\nCi
+ rcuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Internazionale 2 - 0 Genoa\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Cremonese (2-0)
+DTSTART:20260301T113000Z
+DTEND:20260301T140000Z
+UID:35a4220f2648b9f7a68858b84936c663@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: AC Milan\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Cremonese 0 - 2 AC Milan\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Sassuolo (1-2)
+DTSTART:20260301T140000Z
+DTEND:20260301T163000Z
+UID:314ab7404ac916ba1da6433f133c4581@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Atalanta\nCircu
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Sassuolo 2 - 1 Atalanta\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Torino (0-2)
+DTSTART:20260301T170000Z
+DTEND:20260301T193000Z
+UID:fe5971c13faecd7b60fc8cf960da546f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Lazio\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Torino 2 - 0 Lazio\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ AS Roma (3-3)
+DTSTART:20260301T194500Z
+DTEND:20260301T221500Z
+UID:80f8d45f10f1af86888a499e1a0e6e1d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Juventus\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AS Roma 3 - 3 Juventus\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Pisa (1-0)
+DTSTART:20260302T173000Z
+DTEND:20260302T200000Z
+UID:52533813ea2a6b36b2525a0f42891499@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Bologna\nCircuito/A
+ rena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Ro
+ und: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 1 Bologna\nStato: finish
+ ed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Udinese (0-3)
+DTSTART:20260302T194500Z
+DTEND:20260302T221500Z
+UID:ec270117c80e9a91797c2459625ebb93@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Fiorentina\nCirc
+ uito/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Udinese 3 - 0 Fiorentina\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Napoli (1-2)
+DTSTART:20260306T194500Z
+DTEND:20260306T221500Z
+UID:66901e578d6115e8cc908c40d0fac01f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Torino\nCircuito/
+ Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Napoli 2 - 1 Torino\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Cagliari (2-1)
+DTSTART:20260307T140000Z
+DTEND:20260307T163000Z
+UID:ad359e956eeccb67f6780b85a2050cc4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Como\nCircuito/
+ Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Cagliari 1 - 2 Como\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Atalanta (2-2)
+DTSTART:20260307T170000Z
+DTEND:20260307T193000Z
+UID:dd6b691df3102baf19c25c5ec9cee78b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Udinese\nCircui
+ to/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Atalanta 2 - 2 Udinese\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Juventus (0-4)
+DTSTART:20260307T194500Z
+DTEND:20260307T221500Z
+UID:0bd14a5a2e98de336312dcd788c9de1d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Pisa\nCircuito/
+ Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Juventus 4 - 0 Pisa\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Lecce (1-2)
+DTSTART:20260308T113000Z
+DTEND:20260308T140000Z
+UID:981d37e8fc449abd638352f9dafccdce@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Cremonese\nCircuit
+ o/Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Lecce 2 - 1 Cremonese\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Bologna (2-1)
+DTSTART:20260308T140000Z
+DTEND:20260308T163000Z
+UID:116c0d4b9bf9ecb3986ce9996f2bd980@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Hellas Verona\nC
+ ircuito/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Bologna 1 - 2 Hellas Verona\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Fiorentina (0-0)
+DTSTART:20260308T140000Z
+DTEND:20260308T163000Z
+UID:97b0d820de9027bc8f00914d9eda01ad@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Parma\nCircui
+ to/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Fiorentina 0 - 0 Parma\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Genoa (1-2)
+DTSTART:20260308T170000Z
+DTEND:20260308T193000Z
+UID:efd07495b3462a6ea5272402718c482d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: AS Roma\nCircuito/
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Genoa 2 - 1 AS Roma\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ AC Milan (0-1)
+DTSTART:20260308T194500Z
+DTEND:20260308T221500Z
+UID:a942a5ed90beffe6abfb2d1a7281b58b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: AC Milan 1 - 0 Internazionale\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Lazio (1-2)
+DTSTART:20260309T194500Z
+DTEND:20260309T221500Z
+UID:10905884a946b6a4ef322e6338060e8a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Sassuolo\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: Lazio 2 - 1 Sassuolo\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Torino (1-4)
+DTSTART:20260313T194500Z
+DTEND:20260313T221500Z
+UID:bab22683aac7e5965dddb07fee2d05c3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Parma\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Torino 4 - 1 Parma\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Internazionale (1-1)
+DTSTART:20260314T140000Z
+DTEND:20260314T163000Z
+UID:5415ebf1224dac0e788a1b01f4330eba@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Internazionale 1 - 1 Atalanta\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Napoli (1-2)
+DTSTART:20260314T170000Z
+DTEND:20260314T193000Z
+UID:db4b29c8647dab3d552100d25a4ab05c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Lecce\nCircuito/A
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Napoli 2 - 1 Lecce\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Udinese (1-0)
+DTSTART:20260314T194500Z
+DTEND:20260314T221500Z
+UID:9c6a6e1eab5fd2842dafbcb75a295ac8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Juventus\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Udinese 0 - 1 Juventus\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Hellas Verona (2-0)
+DTSTART:20260315T113000Z
+DTEND:20260315T140000Z
+UID:3bd7d5535c29441184280ff00236b5fb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Genoa\nCir
+ cuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round:
+  2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 2 Genoa\nStato: fin
+ ished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Pisa (1-3)
+DTSTART:20260315T140000Z
+DTEND:20260315T163000Z
+UID:ad8ed32fbd69983aeaa10399ccf4acef@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Cagliari\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Pisa 3 - 1 Cagliari\nStato: fini
+ shed
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Sassuolo (1-0)
+DTSTART:20260315T140000Z
+DTEND:20260315T163000Z
+UID:7980063f369addceaaa136d8ec47a56c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Bologna\nCircui
+ to/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Sassuolo 0 - 1 Bologna\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Como (1-2)
+DTSTART:20260315T170000Z
+DTEND:20260315T193000Z
+UID:fd3d8dcf09b60be97eb82464bb864f6a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AS Roma\nCircuito/A
+ rena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Como 2 - 1 AS Roma\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Lazio (0-1)
+DTSTART:20260315T194500Z
+DTEND:20260315T221500Z
+UID:79cf87343a8f99a81a0d43ef51e669fe@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: AC Milan\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nR
+ isultato: Lazio 1 - 0 AC Milan\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Cremonese (4-1)
+DTSTART:20260316T194500Z
+DTEND:20260316T221500Z
+UID:0d7a21f6a1266afda072607c3d6bf851@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Fiorentina\nCi
+ rcuito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Cremonese 1 - 4 Fiorentina\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Cagliari (1-0)
+DTSTART:20260320T173000Z
+DTEND:20260320T200000Z
+UID:5c26b8c17d598c01a9e83f2978afccb1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Napoli\nCircuit
+ o/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Cagliari 0 - 1 Napoli\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Genoa (2-0)
+DTSTART:20260320T194500Z
+DTEND:20260320T221500Z
+UID:9e671da84a0586cda433a816b90e09c6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Udinese\nCircuito/
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Genoa 0 - 2 Udinese\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Parma (2-0)
+DTSTART:20260321T140000Z
+DTEND:20260321T163000Z
+UID:a4444d8f7d8bfdba5df027e8cef0685b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Cremonese\nCircuit
+ o/Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Parma 0 - 2 Cremonese\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ AC Milan (2-3)
+DTSTART:20260321T170000Z
+DTEND:20260321T193000Z
+UID:cc00331409b586d0dc5fe88fff1b8331@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Torino\nCircuit
+ o/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-a
+ \nRisultato: AC Milan 3 - 2 Torino\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Juventus (1-1)
+DTSTART:20260321T194500Z
+DTEND:20260321T221500Z
+UID:dec9ec86ea68a99b8786f972e93f72f3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Sassuolo\nCircu
+ ito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Juventus 1 - 1 Sassuolo\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Como (0-5)
+DTSTART:20260322T113000Z
+DTEND:20260322T140000Z
+UID:609b5e1c08ebb604df2628da3adf8918@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Pisa\nCircuito/Aren
+ a: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Como 5 - 0 Pisa\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Atalanta (0-1)
+DTSTART:20260322T140000Z
+DTEND:20260322T163000Z
+UID:3cfc1f866af91ff5e89f92b241fda972@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Hellas Verona\n
+ Circuito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-2
+ 6-italian-serie-a\nRisultato: Atalanta 1 - 0 Hellas Verona\nStato: finishe
+ d
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Bologna (2-0)
+DTSTART:20260322T140000Z
+DTEND:20260322T163000Z
+UID:92e846ed65b450584c863e02364d264c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Lazio\nCircuito/
+ Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Bologna 0 - 2 Lazio\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ AS Roma (0-1)
+DTSTART:20260322T170000Z
+DTEND:20260322T193000Z
+UID:41a944e655349e11e01bafafa7a241e5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Lecce\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: AS Roma 1 - 0 Lecce\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Fiorentina (1-1)
+DTSTART:20260322T194500Z
+DTEND:20260322T221500Z
+UID:ebf2a23f5e577bfb787028574f8c206f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Internazional
+ e\nCircuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round
+ : 2025-26-italian-serie-a\nRisultato: Fiorentina 1 - 1 Internazionale\nSta
+ to: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Sassuolo (1-2)
+DTSTART:20260404T130000Z
+DTEND:20260404T153000Z
+UID:d710a5ab674904126f9bbed2da50f8ea@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Cagliari\nCircu
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Sassuolo 2 - 1 Cagliari\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Hellas Verona (1-0)
+DTSTART:20260404T160000Z
+DTEND:20260404T183000Z
+UID:8e9d87f9d2bbd5c286001f1f183e28b7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Fiorentina
+ \nCircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/R
+ ound: 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 1 Fiorentina\n
+ Stato: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Lazio (1-1)
+DTSTART:20260404T184500Z
+DTEND:20260404T211500Z
+UID:2d15d0c61ccb8fc87752d079fa777172@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Parma\nCircuito/Ar
+ ena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRisu
+ ltato: Lazio 1 - 1 Parma\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Cremonese (2-1)
+DTSTART:20260405T130000Z
+DTEND:20260405T153000Z
+UID:fb386e39a45b2827a6ba0bfca91e02f4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Bologna\nCircu
+ ito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Cremonese 1 - 2 Bologna\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Pisa (1-0)
+DTSTART:20260405T160000Z
+DTEND:20260405T183000Z
+UID:50101a5a332b6ce97292485eb3b9e881@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Torino\nCircuito/Ar
+ ena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 1 Torino\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Internazionale (2-5)
+DTSTART:20260405T184500Z
+DTEND:20260405T211500Z
+UID:76a77bb870f288adee989d89fa0a6f57@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AS Roma\n
+ Circuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Internazionale 5 - 2 AS Roma\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Udinese (0-0)
+DTSTART:20260406T103000Z
+DTEND:20260406T130000Z
+UID:f74eae8791903268d42adbd6f00cf419@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Como\nCircuito/A
+ rena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Udinese 0 - 0 Como\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Lecce (3-0)
+DTSTART:20260406T130000Z
+DTEND:20260406T153000Z
+UID:97f7399fe16df5a3a66519f4dd3e2ba5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Atalanta\nCircuito
+ /Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lecce 0 - 3 Atalanta\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Juventus (0-2)
+DTSTART:20260406T160000Z
+DTEND:20260406T183000Z
+UID:6035718259fec1411e6807bb94c1ba5b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Genoa\nCircuito
+ /Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Juventus 2 - 0 Genoa\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Napoli (0-1)
+DTSTART:20260406T184500Z
+DTEND:20260406T211500Z
+UID:3589d32ccc671ad7f3797f70084c8dcd@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: AC Milan\nCircuit
+ o/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Napoli 1 - 0 AC Milan\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ AS Roma (0-3)
+DTSTART:20260410T184500Z
+DTEND:20260410T211500Z
+UID:f9fbc0f43c80cf224dcd7e96a81a5f71@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Pisa\nCircuito/A
+ rena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRis
+ ultato: AS Roma 3 - 0 Pisa\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Cagliari (0-1)
+DTSTART:20260411T130000Z
+DTEND:20260411T153000Z
+UID:cf6139757cfec6ad6c363967b939447c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Cremonese\nCirc
+ uito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Cagliari 1 - 0 Cremonese\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Torino (1-2)
+DTSTART:20260411T130000Z
+DTEND:20260411T153000Z
+UID:34dcbae5c7ec7cdccf515305bd6eca1c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Hellas Verona\nCi
+ rcuito/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Torino 2 - 1 Hellas Verona\nStato: 
+ finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ AC Milan (3-0)
+DTSTART:20260411T160000Z
+DTEND:20260411T183000Z
+UID:fcf304b0461cad1c9b8080272c0571ad@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Udinese\nCircui
+ to/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: AC Milan 0 - 3 Udinese\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Atalanta (1-0)
+DTSTART:20260411T184500Z
+DTEND:20260411T211500Z
+UID:513a43ba9c841dcbccc5f8d3d32dafdc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Juventus\nCircu
+ ito/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Atalanta 0 - 1 Juventus\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Genoa (1-2)
+DTSTART:20260412T103000Z
+DTEND:20260412T130000Z
+UID:dd57fd23eca8a50dcce502bce8c81846@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Sassuolo\nCircuito
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Genoa 2 - 1 Sassuolo\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Parma (1-1)
+DTSTART:20260412T130000Z
+DTEND:20260412T153000Z
+UID:ce51710e141da1b1254848f35466a8e5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Napoli\nCircuito/A
+ rena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: Parma 1 - 1 Napoli\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Bologna (0-2)
+DTSTART:20260412T160000Z
+DTEND:20260412T183000Z
+UID:92b4ea5a720ebe331b8ac9e25de0b3d1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Lecce\nCircuito/
+ Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Bologna 2 - 0 Lecce\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Como (4-3)
+DTSTART:20260412T184500Z
+DTEND:20260412T211500Z
+UID:3eff07b4e5824ca728fb8a0e590ad75e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Internazionale\nCir
+ cuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Como 3 - 4 Internazionale\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Fiorentina (0-1)
+DTSTART:20260413T184500Z
+DTEND:20260413T211500Z
+UID:dbfdbe6103a1c40783d38dd5b7718d20@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Lazio\nCircui
+ to/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Fiorentina 1 - 0 Lazio\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Sassuolo (1-2)
+DTSTART:20260417T163000Z
+DTEND:20260417T190000Z
+UID:4c04dfe3de3b6874c422a429fbf7d532@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Como\nCircuito/
+ Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-itali
+ an-serie-a\nRisultato: Sassuolo 2 - 1 Como\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Internazionale (0-3)
+DTSTART:20260417T184500Z
+DTEND:20260417T211500Z
+UID:c740fdb4d240873b63e1ddddd27ee534@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cagliari\
+ nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Internazionale 3 - 0 Cagliari\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Udinese (1-0)
+DTSTART:20260418T130000Z
+DTEND:20260418T153000Z
+UID:d16d9751a8d667e89c55c7a41bb46a91@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Parma\nCircuito/
+ Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Udinese 0 - 1 Parma\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Napoli (2-0)
+DTSTART:20260418T160000Z
+DTEND:20260418T183000Z
+UID:4bccd13f69063de103a4f40c210c031d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Lazio\nCircuito/A
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2025-
+ 26-italian-serie-a\nRisultato: Napoli 0 - 2 Lazio\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ AS Roma (1-1)
+DTSTART:20260418T184500Z
+DTEND:20260418T211500Z
+UID:595093ee3afcc4587c9460fc07456a7f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Atalanta\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: AS Roma 1 - 1 Atalanta\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Cremonese (0-0)
+DTSTART:20260419T103000Z
+DTEND:20260419T130000Z
+UID:3839944ab5fab22ad8b86f34e8ab97c9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Torino\nCircui
+ to/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Cremonese 0 - 0 Torino\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Hellas Verona (1-0)
+DTSTART:20260419T130000Z
+DTEND:20260419T153000Z
+UID:fbabb84482eabe473ea4e5b01a9ee353@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: AC Milan\n
+ Circuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 1 AC Milan\nStat
+ o: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Pisa (2-1)
+DTSTART:20260419T160000Z
+DTEND:20260419T183000Z
+UID:137d92b6e3d58255dab233d04d7a568d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Genoa\nCircuito/Are
+ na: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 2 Genoa\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Juventus (0-2)
+DTSTART:20260419T184500Z
+DTEND:20260419T211500Z
+UID:e6bc51823497f644fa0023006b7088a7@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Bologna\nCircui
+ to/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Juventus 2 - 0 Bologna\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Lecce (1-1)
+DTSTART:20260420T184500Z
+DTEND:20260420T211500Z
+UID:d8626b73abbeb9d5f1b666dc6a9f6e5a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Fiorentina\nCircui
+ to/Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Lecce 1 - 1 Fiorentina\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Napoli (0-4)
+DTSTART:20260424T184500Z
+DTEND:20260424T211500Z
+UID:378124d70cbd1d89fff80f0dd8c93b31@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Cremonese\nCircui
+ to/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 2
+ 025-26-italian-serie-a\nRisultato: Napoli 4 - 0 Cremonese\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Parma (0-1)
+DTSTART:20260425T130000Z
+DTEND:20260425T153000Z
+UID:b581b89ff241e1e54a011610ebfeecda@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Pisa\nCircuito/Are
+ na: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Parma 1 - 0 Pisa\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Bologna (2-0)
+DTSTART:20260425T160000Z
+DTEND:20260425T183000Z
+UID:f0a485655227931e5a89daf18865717c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: AS Roma\nCircuit
+ o/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Bologna 0 - 2 AS Roma\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Hellas Verona (0-0)
+DTSTART:20260425T184500Z
+DTEND:20260425T211500Z
+UID:b1408c9f79d4548c1cbf3f9a0b52fd3e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Lecce\nCir
+ cuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round:
+  2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 0 Lecce\nStato: fin
+ ished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Fiorentina (0-0)
+DTSTART:20260426T103000Z
+DTEND:20260426T130000Z
+UID:15a87d65022265463ee4286d2e41c3a1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Sassuolo\nCir
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Fiorentina 0 - 0 Sassuolo\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Genoa (2-0)
+DTSTART:20260426T130000Z
+DTEND:20260426T153000Z
+UID:de4411606c02e5ab65a3b6ab168f1bfc@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Como\nCircuito/Are
+ na: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Genoa 0 - 2 Como\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Torino (2-2)
+DTSTART:20260426T160000Z
+DTEND:20260426T183000Z
+UID:f2b8ac96a1f3729c093a365c9a5012f5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Internazionale\nC
+ ircuito/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Torino 2 - 2 Internazionale\nStato
+ : finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ AC Milan (0-0)
+DTSTART:20260426T184500Z
+DTEND:20260426T211500Z
+UID:99eb03b8deeb2324100b158f5dbdeaa8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Juventus\nCircu
+ ito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: AC Milan 0 - 0 Juventus\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Cagliari (2-3)
+DTSTART:20260427T163000Z
+DTEND:20260427T190000Z
+UID:7dc0d8ed55af9a6107fa90ae83f60320@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Atalanta\nCircu
+ ito/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian
+ -serie-a\nRisultato: Cagliari 3 - 2 Atalanta\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Lazio (3-3)
+DTSTART:20260427T184500Z
+DTEND:20260427T211500Z
+UID:b40650d037d1e2a7b24d04bff8501450@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Udinese\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: Lazio 3 - 3 Udinese\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Pisa (2-1)
+DTSTART:20260501T184500Z
+DTEND:20260501T211500Z
+UID:06f49f63962986c18390c3676a45023f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Lecce\nCircuito/Are
+ na: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Pisa 1 - 2 Lecce\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Udinese (0-2)
+DTSTART:20260502T130000Z
+DTEND:20260502T153000Z
+UID:f0303727bb95b295cef376dbebc7e938@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Torino\nCircuito
+ /Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Udinese 2 - 0 Torino\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Como (0-0)
+DTSTART:20260502T160000Z
+DTEND:20260502T183000Z
+UID:f46ae16cae018996f7f7ad15c364bab4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Napoli\nCircuito/Ar
+ ena: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Como 0 - 0 Napoli\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Atalanta (0-0)
+DTSTART:20260502T184500Z
+DTEND:20260502T211500Z
+UID:55ebc3fada5ffa7ae53fae192b92f716@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Genoa\nCircuito
+ /Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Atalanta 0 - 0 Genoa\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Bologna (0-0)
+DTSTART:20260503T103000Z
+DTEND:20260503T130000Z
+UID:966305c06047a71c9eb09f1d5383cf72@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Cagliari\nCircui
+ to/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-italia
+ n-serie-a\nRisultato: Bologna 0 - 0 Cagliari\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Sassuolo (0-2)
+DTSTART:20260503T130000Z
+DTEND:20260503T153000Z
+UID:5382eda1c74f7d38c669644c5deaa457@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: AC Milan\nCircu
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Sassuolo 2 - 0 AC Milan\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Juventus (1-1)
+DTSTART:20260503T160000Z
+DTEND:20260503T183000Z
+UID:64735f6cabc27dc24b934042885ce662@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Hellas Verona\n
+ Circuito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-i
+ talian-serie-a\nRisultato: Juventus 1 - 1 Hellas Verona\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Internazionale (0-2)
+DTSTART:20260503T184500Z
+DTEND:20260503T211500Z
+UID:5effe021936dd08d11a66ce835682090@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Parma\nCi
+ rcuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-se
+ rie-a\nRisultato: Internazionale 2 - 0 Parma\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Cremonese (2-1)
+DTSTART:20260504T163000Z
+DTEND:20260504T190000Z
+UID:a36acb6859dc4bbfb2397a1a2cfcd920@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Lazio\nCircuit
+ o/Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Cremonese 1 - 2 Lazio\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ AS Roma (0-4)
+DTSTART:20260504T184500Z
+DTEND:20260504T211500Z
+UID:88105656dcfb6ab0da07eaad5b4afcfe@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Fiorentina\nCirc
+ uito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-
+ a\nRisultato: AS Roma 4 - 0 Fiorentina\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Torino (1-2)
+DTSTART:20260508T184500Z
+DTEND:20260508T211500Z
+UID:ba1240e89cdb138f06fa49724d4aaf50@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Sassuolo\nCircuit
+ o/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Torino 2 - 1 Sassuolo\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Cagliari (2-0)
+DTSTART:20260509T130000Z
+DTEND:20260509T153000Z
+UID:2f5e75d92a40abbe6b63e81f7c9dcd6d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Udinese\nCircui
+ to/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-
+ serie-a\nRisultato: Cagliari 0 - 2 Udinese\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Lazio (3-0)
+DTSTART:20260509T160000Z
+DTEND:20260509T183000Z
+UID:5811349965015c43123ad232db9a4287@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Internazionale\nCi
+ rcuito/Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Lazio 0 - 3 Internazionale\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Lecce (1-0)
+DTSTART:20260509T184500Z
+DTEND:20260509T211500Z
+UID:dcd9e8121ce05f2e204347e215294111@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Juventus\nCircuito
+ /Arena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Lecce 0 - 1 Juventus\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Hellas Verona (1-0)
+DTSTART:20260510T103000Z
+DTEND:20260510T130000Z
+UID:d3a7f6e1b8a0d58c78ff83192c46f9d9@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Como\nCirc
+ uito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Round: 
+ 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 1 Como\nStato: finis
+ hed
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Cremonese (0-3)
+DTSTART:20260510T130000Z
+DTEND:20260510T153000Z
+UID:f2e0e9126d2322a2ca7b00a309f6e8ba@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Pisa\nCircuito
+ /Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Cremonese 3 - 0 Pisa\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Fiorentina (0-0)
+DTSTART:20260510T130000Z
+DTEND:20260510T153000Z
+UID:7e81a9065449479da3ef35bc737b017e@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Genoa\nCircui
+ to/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025-26
+ -italian-serie-a\nRisultato: Fiorentina 0 - 0 Genoa\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Parma (3-2)
+DTSTART:20260510T160000Z
+DTEND:20260510T183000Z
+UID:cc0bdd4ecfd7c5ce0ff445291907613f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: AS Roma\nCircuito/
+ Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: Parma 2 - 3 AS Roma\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ AC Milan (3-2)
+DTSTART:20260510T184500Z
+DTEND:20260510T211500Z
+UID:9eaa4ef66470fa705c4c7d82fddbbf96@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Atalanta\nCircu
+ ito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: AC Milan 2 - 3 Atalanta\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Napoli (3-2)
+DTSTART:20260511T184500Z
+DTEND:20260511T211500Z
+UID:54aac2d8b38f167a59da74e7c603fe03@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Bologna\nCircuito
+ /Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Napoli 2 - 3 Bologna\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ AS Roma (0-2)
+DTSTART:20260517T100000Z
+DTEND:20260517T123000Z
+UID:3fc2f87df138207eae58efb905e8fd76@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Lazio\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRi
+ sultato: AS Roma 2 - 0 Lazio\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Como (0-1)
+DTSTART:20260517T100000Z
+DTEND:20260517T123000Z
+UID:af2bfdc4442aeb363a338db479f918a6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Parma\nCircuito/Are
+ na: Giuseppe Sinigaglia\nCittà: Como\nGiornata/Round: 2025-26-italian-ser
+ ie-a\nRisultato: Como 1 - 0 Parma\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Genoa (2-1)
+DTSTART:20260517T100000Z
+DTEND:20260517T123000Z
+UID:3986e8b93e9024c556f13abbb0fb591a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: AC Milan\nCircuito
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Genoa 1 - 2 AC Milan\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Juventus (2-0)
+DTSTART:20260517T100000Z
+DTEND:20260517T123000Z
+UID:59d1ecbf59ed99a3c2a71cb70f3fa000@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Fiorentina\nCir
+ cuito/Arena: Allianz Stadium\nCittà: Torino\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Juventus 0 - 2 Fiorentina\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Pisa (3-0)
+DTSTART:20260517T100000Z
+DTEND:20260517T123000Z
+UID:0dea64c46aaaa13d771d11498a0a43e6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Napoli\nCircuito/Ar
+ ena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nGiornata/Rou
+ nd: 2025-26-italian-serie-a\nRisultato: Pisa 0 - 3 Napoli\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Internazionale (1-1)
+DTSTART:20260517T130000Z
+DTEND:20260517T153000Z
+UID:fe8ce05de39e82c397e754bce5521d29@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Hellas Ve
+ rona\nCircuito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-it
+ alian-serie-a\nRisultato: Internazionale 1 - 1 Hellas Verona\nStato: finis
+ hed
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Atalanta (1-0)
+DTSTART:20260517T160000Z
+DTEND:20260517T183000Z
+UID:082ada675868b264ef7c881b6c721de8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Bologna\nCircui
+ to/Arena: New Balance Arena\nCittà: Bergamo\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Atalanta 0 - 1 Bologna\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Cagliari (1-2)
+DTSTART:20260517T184500Z
+DTEND:20260517T211500Z
+UID:bc1790c9d8edb6eafb9f392207d083c4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Torino\nCircuit
+ o/Arena: Unipol Domus\nCittà: Cagliari\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Cagliari 2 - 1 Torino\nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Sassuolo (3-2)
+DTSTART:20260517T184500Z
+DTEND:20260517T211500Z
+UID:e4e47d8511f43fb6295513e336dd4f69@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Lecce\nCircuito
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nGiornata/Round: 2025-26-ital
+ ian-serie-a\nRisultato: Sassuolo 2 - 3 Lecce\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Udinese (1-0)
+DTSTART:20260517T184500Z
+DTEND:20260517T211500Z
+UID:3694ff4ef2242ec9cf6cf3076cd30488@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Cremonese\nCircu
+ ito/Arena: Stadio Friuli\nCittà: Udine\nGiornata/Round: 2025-26-italian-s
+ erie-a\nRisultato: Udinese 0 - 1 Cremonese\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Fiorentina (1-1)
+DTSTART:20260522T184500Z
+DTEND:20260522T211500Z
+UID:7b92f78bbe49b3c830d095f7cf7ecec6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Atalanta\nCir
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nGiornata/Round: 2025
+ -26-italian-serie-a\nRisultato: Fiorentina 1 - 1 Atalanta\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Bologna (3-3)
+DTSTART:20260523T160000Z
+DTEND:20260523T183000Z
+UID:906aba1f561633e33cf8532400fa61a1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Internazionale\n
+ Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nGiornata/Round: 2025-26-
+ italian-serie-a\nRisultato: Bologna 3 - 3 Internazionale\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Lazio (1-2)
+DTSTART:20260523T184500Z
+DTEND:20260523T211500Z
+UID:795b831ff64f18d7bd013f0b8532b756@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Pisa\nCircuito/Are
+ na: Olimpico\nCittà: Roma\nGiornata/Round: 2025-26-italian-serie-a\nRisul
+ tato: Lazio 2 - 1 Pisa\nStato: finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Parma (0-1)
+DTSTART:20260524T130000Z
+DTEND:20260524T153000Z
+UID:43bc9594078b5628cbbc64c50694c844@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Sassuolo\nCircuito
+ /Arena: Ennio Tardini\nCittà: Parma\nGiornata/Round: 2025-26-italian-seri
+ e-a\nRisultato: Parma 1 - 0 Sassuolo\nStato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Napoli (0-1)
+DTSTART:20260524T160000Z
+DTEND:20260524T183000Z
+UID:2c77aa571574e34bd2c182b05eee7588@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Udinese\nCircuito
+ /Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nGiornata/Round: 202
+ 5-26-italian-serie-a\nRisultato: Napoli 1 - 0 Udinese\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ AC Milan (2-1)
+DTSTART:20260524T184500Z
+DTEND:20260524T211500Z
+UID:9c76c5eb732656a7fa76a66c38afa04a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Cagliari\nCircu
+ ito/Arena: San Siro\nCittà: Milano\nGiornata/Round: 2025-26-italian-serie
+ -a\nRisultato: AC Milan 1 - 2 Cagliari\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Cremonese (4-1)
+DTSTART:20260524T184500Z
+DTEND:20260524T211500Z
+UID:c994f72f3b87351ad0763667305a039c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Como\nCircuito
+ /Arena: Stadio Giovanni Zini\nCittà: Cremona\nGiornata/Round: 2025-26-ita
+ lian-serie-a\nRisultato: Cremonese 1 - 4 Como\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Hellas Verona (2-0)
+DTSTART:20260524T184500Z
+DTEND:20260524T211500Z
+UID:457de60b6535eb43fc44bffb2917e038@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: AS Roma\nC
+ ircuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nGiornata/Roun
+ d: 2025-26-italian-serie-a\nRisultato: Hellas Verona 0 - 2 AS Roma\nStato:
+  finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Lecce (0-1)
+DTSTART:20260524T184500Z
+DTEND:20260524T211500Z
+UID:ec305ce0733e9b693ca21bfe612d16e0@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Genoa\nCircuito/Ar
+ ena: Via Del Mare\nCittà: Lecce\nGiornata/Round: 2025-26-italian-serie-a\
+ nRisultato: Lecce 1 - 0 Genoa\nStato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Torino (2-2)
+DTSTART:20260524T194500Z
+DTEND:20260524T221500Z
+UID:4a3cc61708e4de37a121731c00dd9314@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Juventus\nCircuit
+ o/Arena: Stadio Olimpico Grande Torino\nCittà: Torino\nGiornata/Round: 20
+ 25-26-italian-serie-a\nRisultato: Torino 2 - 2 Juventus\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+END:VCALENDAR
