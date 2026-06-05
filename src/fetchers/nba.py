@@ -39,60 +39,53 @@ CDN_HEADERS = {
     "Sec-Fetch-Site": "same-site",
 }
 
-# NBA 2025-26 season window
-SEASON_START = date(2025, 10, 1)
-SEASON_END = date(2026, 7, 1)
+# Rolling window: 7 days ago → 7 days ahead (aggiornato ad ogni run)
+DAYS_BACK = 7
+DAYS_AHEAD = 7
 
 
 def fetch_games() -> list[dict]:
-    """Try ESPN first, fall back to NBA CDN."""
-    games = _fetch_espn()
+    """Fetch NBA games for the current 2-week window (7 giorni fa → 7 giorni avanti)."""
+    today = date.today()
+    window_start = today - timedelta(days=DAYS_BACK)
+    window_end   = today + timedelta(days=DAYS_AHEAD)
+
+    games = _fetch_espn(window_start, window_end)
     if games:
         logger.info("NBA (ESPN): %d games", len(games))
         return games
 
     logger.warning("NBA ESPN fetch returned 0 — trying NBA CDN fallback")
-    games = _fetch_nba_cdn()
+    games = _fetch_nba_cdn(window_start, window_end)
     logger.info("NBA (CDN): %d games", len(games))
     return games
 
 
 # ── ESPN ──────────────────────────────────────────────────────────────────────
 
-def _fetch_espn() -> list[dict]:
-    """Fetch full season by iterating month-by-month via ESPN scoreboard."""
+def _fetch_espn(start: date, end: date) -> list[dict]:
+    """Fetch games for a specific date range via ESPN scoreboard."""
     games: list[dict] = []
     seen: set[str] = set()
 
-    cursor = SEASON_START
-    while cursor < SEASON_END:
-        # Build a ~1-month window
-        if cursor.month == 12:
-            next_month = cursor.replace(year=cursor.year + 1, month=1, day=1)
-        else:
-            next_month = cursor.replace(month=cursor.month + 1, day=1)
-        window_end = min(next_month - timedelta(days=1), SEASON_END)
+    # Fetch the entire window in a single request (max 14 days, well within ESPN limits)
+    params = {
+        "dates": f"{start.strftime('%Y%m%d')}-{end.strftime('%Y%m%d')}",
+        "limit": 500,
+    }
+    try:
+        resp = requests.get(ESPN_URL, params=params, headers=ESPN_HEADERS, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as exc:
+        logger.warning("ESPN NBA fetch error: %s", exc)
+        return games
 
-        params = {
-            "dates": f"{cursor.strftime('%Y%m%d')}-{window_end.strftime('%Y%m%d')}",
-            "limit": 500,
-        }
-        try:
-            resp = requests.get(ESPN_URL, params=params, headers=ESPN_HEADERS, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-        except Exception as exc:
-            logger.warning("ESPN NBA %s: %s", cursor.strftime("%Y-%m"), exc)
-            cursor = next_month
-            continue
-
-        for event in data.get("events", []):
-            game = _parse_espn_event(event)
-            if game and game["id"] not in seen:
-                seen.add(game["id"])
-                games.append(game)
-
-        cursor = next_month
+    for event in data.get("events", []):
+        game = _parse_espn_event(event)
+        if game and game["id"] not in seen:
+            seen.add(game["id"])
+            games.append(game)
 
     return games
 
@@ -159,7 +152,7 @@ def _parse_espn_event(event: dict) -> dict | None:
 
 # ── NBA CDN fallback ──────────────────────────────────────────────────────────
 
-def _fetch_nba_cdn() -> list[dict]:
+def _fetch_nba_cdn(start: date, end: date) -> list[dict]:
     data = None
     for url in NBA_CDN_URLS:
         try:
@@ -180,6 +173,8 @@ def _fetch_nba_cdn() -> list[dict]:
             try:
                 dt_utc = _parse_utc(g.get("gameTimeUTC", ""))
                 if dt_utc is None:
+                    continue
+                if not (start <= dt_utc.date() <= end):
                     continue
                 home = g.get("homeTeam", {})
                 away = g.get("awayTeam", {})
