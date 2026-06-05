@@ -1,4 +1,4 @@
-# 🏆 Hoops Calendar
+# 🏆 Sports Calendar
 
 Calendari **ICS** aggiornati automaticamente per seguire i tuoi sport preferiti direttamente in Google Calendar, Apple Calendar o Outlook — senza registrazioni, senza app, gratis.
 
