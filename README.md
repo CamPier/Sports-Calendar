@@ -1,4 +1,4 @@
-# 🏀 Basketball Calendar
+# 🏀 Hoops Calendar
 
 Calendari **ICS** aggiornati automaticamente per seguire NBA, EuroLeague, EuroCup e Lega Basket (LBA) direttamente in Google Calendar, Apple Calendar o Outlook.
 
