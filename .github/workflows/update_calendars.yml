@@ -1,0 +1,47 @@
+name: Update Basketball Calendars
+
+on:
+  schedule:
+    # Runs every day at 05:00 UTC (covers overnight NBA games and morning updates)
+    - cron: "0 5 * * *"
+    # Also runs at 13:00 UTC for EuroLeague evening updates
+    - cron: "0 13 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:   # manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate ICS calendars
+        run: python src/main.py
+
+      - name: Commit updated calendars
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/*.ics
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update calendars $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

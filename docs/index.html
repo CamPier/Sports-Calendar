@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🏀 Basketball Calendar – NBA · EuroLeague · LBA</title>
+  <meta name="description" content="Calendari ICS gratuiti e sempre aggiornati per NBA, EuroLeague, EuroCup e Lega Basket (LBA). Abbonati a Google Calendar, Apple Calendar o Outlook." />
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --nba: #C9082A;
+      --el: #003DA5;
+      --ec: #0080C8;
+      --lba: #008751;
+      --accent: #f78166;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    header {
+      text-align: center;
+      padding: 4rem 1rem 2rem;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 { font-size: 2.4rem; font-weight: 700; }
+    header p  { color: var(--muted); margin-top: .5rem; font-size: 1.1rem; }
+    .badge {
+      display: inline-block;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: .2rem .8rem;
+      font-size: .8rem;
+      color: var(--muted);
+      margin-top: .8rem;
+    }
+
+    main { max-width: 900px; margin: 0 auto; padding: 2rem 1rem 4rem; }
+
+    h2 { font-size: 1.4rem; margin: 2rem 0 1rem; border-bottom: 1px solid var(--border); padding-bottom: .4rem; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: .8rem;
+    }
+    .card-header { display: flex; align-items: center; gap: .6rem; }
+    .dot {
+      width: 14px; height: 14px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+    .card h3 { font-size: 1.05rem; }
+    .card p  { color: var(--muted); font-size: .88rem; }
+
+    .btn-group { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: auto; }
+    .btn {
+      display: inline-block;
+      padding: .35rem .9rem;
+      border-radius: 6px;
+      font-size: .82rem;
+      font-weight: 600;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      transition: filter .15s;
+    }
+    .btn:hover { filter: brightness(1.15); }
+    .btn-primary { background: #238636; border-color: #2ea043; color: #fff; }
+    .btn-secondary { background: var(--bg); color: var(--text); }
+
+    .url-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: .5rem .8rem;
+      font-family: monospace;
+      font-size: .78rem;
+      color: var(--muted);
+      word-break: break-all;
+      cursor: pointer;
+      position: relative;
+    }
+    .url-box::after {
+      content: "📋 copia";
+      position: absolute;
+      right: .6rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: .7rem;
+      color: var(--accent);
+    }
+
+    .steps { counter-reset: step; list-style: none; padding: 0; }
+    .steps li {
+      counter-increment: step;
+      display: flex;
+      gap: 1rem;
+      padding: .8rem 0;
+      border-bottom: 1px solid var(--border);
+      font-size: .95rem;
+    }
+    .steps li::before {
+      content: counter(step);
+      background: var(--accent);
+      color: #000;
+      font-weight: 700;
+      width: 24px; height: 24px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: .8rem;
+    }
+    .steps code {
+      background: var(--surface);
+      padding: .1rem .4rem;
+      border-radius: 4px;
+      font-size: .85rem;
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: .85rem;
+      padding: 2rem 1rem;
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🏀 Basketball Calendar</h1>
+  <p>Calendari ICS sempre aggiornati — NBA · EuroLeague · EuroCup · LBA</p>
+  <span class="badge">⚡ Aggiornamento automatico ogni 6 ore via GitHub Actions</span>
+</header>
+
+<main>
+  <h2>Scegli il calendario</h2>
+  <div class="cards">
+
+    <div class="card">
+      <div class="card-header">
+        <span class="dot" style="background:var(--nba)"></span>
+        <h3>NBA</h3>
+      </div>
+      <p>Regular Season + Play-In + Playoffs NBA 2025-26</p>
+      <div class="url-box" onclick="copyUrl(this, 'nba.ics')"
+           data-url="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/nba.ics">
+        …/nba.ics
+      </div>
+      <div class="btn-group">
+        <a class="btn btn-primary" id="gcal-nba" href="#">Google Calendar</a>
+        <a class="btn btn-secondary" href="nba.ics" download>Download .ics</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="dot" style="background:var(--el)"></span>
+        <h3>EuroLeague</h3>
+      </div>
+      <p>EuroLeague + EuroCup 2025-26: Regular Season, Play-off, Final Four</p>
+      <div class="url-box" onclick="copyUrl(this, 'euroleague.ics')"
+           data-url="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/euroleague.ics">
+        …/euroleague.ics
+      </div>
+      <div class="btn-group">
+        <a class="btn btn-primary" id="gcal-el" href="#">Google Calendar</a>
+        <a class="btn btn-secondary" href="euroleague.ics" download>Download .ics</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="dot" style="background:var(--lba)"></span>
+        <h3>LBA</h3>
+      </div>
+      <p>Lega Basket Serie A 2025-26: Regular Season e Playoff</p>
+      <div class="url-box" onclick="copyUrl(this, 'lba.ics')"
+           data-url="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/lba.ics">
+        …/lba.ics
+      </div>
+      <div class="btn-group">
+        <a class="btn btn-primary" id="gcal-lba" href="#">Google Calendar</a>
+        <a class="btn btn-secondary" href="lba.ics" download>Download .ics</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <span class="dot" style="background:linear-gradient(135deg,var(--nba),var(--el),var(--lba))"></span>
+        <h3>Tutto insieme</h3>
+      </div>
+      <p>NBA + EuroLeague + EuroCup + LBA in un unico calendario</p>
+      <div class="url-box" onclick="copyUrl(this, 'all.ics')"
+           data-url="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/all.ics">
+        …/all.ics
+      </div>
+      <div class="btn-group">
+        <a class="btn btn-primary" id="gcal-all" href="#">Google Calendar</a>
+        <a class="btn btn-secondary" href="all.ics" download>Download .ics</a>
+      </div>
+    </div>
+
+  </div>
+
+  <h2>Come aggiungerlo a Google Calendar</h2>
+  <ol class="steps">
+    <li>Clicca il pulsante <strong>Google Calendar</strong> della lega che vuoi — oppure copia l'URL del file .ics.</li>
+    <li>Si aprirà Google Calendar con la finestra <em>"Aggiungi calendario tramite URL"</em>.</li>
+    <li>Clicca <strong>Aggiungi calendario</strong>. Il calendario si popolerà automaticamente.</li>
+    <li>Google Calendar sincronizza il feed ogni 12-24 ore. Per forzare l'aggiornamento usa <strong>Impostazioni → [Calendario] → Aggiorna</strong>.</li>
+  </ol>
+
+  <h2>Come aggiungerlo ad Apple Calendar / Outlook</h2>
+  <ol class="steps">
+    <li>Copia l'URL del file <code>.ics</code> che vuoi.</li>
+    <li>
+      <strong>Apple Calendar:</strong> File → Nuovo abbonamento calendario → incolla l'URL.<br>
+      <strong>Outlook:</strong> Aggiungi calendario → Da Internet → incolla l'URL.
+    </li>
+    <li>Imposta la frequenza di aggiornamento a <strong>ogni ora</strong> o <strong>ogni giorno</strong>.</li>
+  </ol>
+</main>
+
+<footer>
+  <p>
+    Dati: <a href="https://www.nba.com" target="_blank">NBA</a> ·
+    <a href="https://www.euroleaguebasketball.net" target="_blank">EuroLeague</a> ·
+    <a href="https://www.legabasket.it" target="_blank">Lega Basket</a> —
+    Progetto open source su <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO" target="_blank">GitHub</a>
+  </p>
+</footer>
+
+<script>
+  // Build absolute URLs at runtime based on the actual page location
+  (function () {
+    const base = window.location.origin + window.location.pathname.replace(/\/?$/, '/');
+    const files = ['nba', 'el', 'lba', 'all'];
+    const map = { nba: 'nba.ics', el: 'euroleague.ics', lba: 'lba.ics', all: 'all.ics' };
+
+    files.forEach(function (key) {
+      const btn = document.getElementById('gcal-' + key);
+      if (!btn) return;
+      const icsUrl = base + map[key];
+      btn.href = 'https://www.google.com/calendar/render?cid=' + encodeURIComponent(icsUrl);
+      btn.target = '_blank';
+    });
+
+    // Update copy boxes
+    document.querySelectorAll('.url-box').forEach(function (box) {
+      const file = box.getAttribute('onclick').match(/'([^']+)'/)[1];
+      box.setAttribute('data-url', base + file);
+    });
+  })();
+
+  function copyUrl(el, file) {
+    const url = el.getAttribute('data-url') ||
+      (window.location.origin + window.location.pathname.replace(/\/?$/, '/') + file);
+    navigator.clipboard.writeText(url).then(function () {
+      const original = el.style.color;
+      el.style.color = '#3fb950';
+      setTimeout(function () { el.style.color = original; }, 1200);
+    });
+  }
+</script>
+</body>
+</html>
