@@ -93,8 +93,12 @@ def main() -> None:
 
         logger.info("%s: %d events fetched", cfg["key"].upper(), len(games))
 
-        cal = build_calendar(games, cfg["name"], cfg["description"])
-        write_ics(cal, DOCS_DIR / cfg["filename"])
+        try:
+            cal = build_calendar(games, cfg["name"], cfg["description"])
+            write_ics(cal, DOCS_DIR / cfg["filename"])
+        except Exception as exc:
+            logger.error("Calendar build/write failed for %s: %s", cfg["key"], exc)
+            continue
         all_games.extend(games)
 
     # Combined calendar — tutti gli sport
