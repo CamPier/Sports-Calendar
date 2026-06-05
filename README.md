@@ -2,7 +2,7 @@
 
 Calendari **ICS** aggiornati automaticamente per seguire i tuoi sport preferiti direttamente in Google Calendar, Apple Calendar o Outlook — senza registrazioni, senza app, gratis.
 
-> **Demo live:** `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/`
+> **Demo live:** `[https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/](https://campier.github.io/Hoops-Calendar/)`
 
 ---
 
