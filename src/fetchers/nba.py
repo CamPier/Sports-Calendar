@@ -7,25 +7,46 @@ import requests
 
 logger = logging.getLogger(__name__)
 
-NBA_SCHEDULE_URL = (
-    "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json"
-)
+NBA_SCHEDULE_URLS = [
+    "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json",
+    "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json",
+]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; BasketballCalendar/1.0)",
-    "Accept": "application/json",
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Origin": "https://www.nba.com",
     "Referer": "https://www.nba.com/",
+    "sec-ch-ua": '"Chromium";v="124", "Google Chrome";v="124"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"Windows"',
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
 }
 
 
 def fetch_games() -> list[dict]:
     """Return list of NBA game dicts for the current season."""
-    try:
-        resp = requests.get(NBA_SCHEDULE_URL, headers=HEADERS, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as exc:
-        logger.error("NBA fetch failed: %s", exc)
+    data = None
+    for url in NBA_SCHEDULE_URLS:
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+            data = resp.json()
+            logger.info("NBA: loaded schedule from %s", url)
+            break
+        except Exception as exc:
+            logger.warning("NBA fetch failed (%s): %s", url, exc)
+
+    if data is None:
+        logger.error("NBA: all schedule URLs failed")
         return []
 
     games = []
