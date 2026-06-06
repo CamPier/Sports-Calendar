@@ -39,14 +39,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs
+SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-104)
 DTSTART:20260606T003000Z
 DTEND:20260606T030000Z
 UID:4856af8768f65da8fe1c37cab0801350@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
  nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 1-0\nStato: scheduled
+ eads series 2-0\nRisultato: San Antonio Spurs 104 - 105 New York Knicks\nS
+ tato: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60,7 +61,7 @@ UID:b522099466359585f7cf0a7dfb875e30@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 1-0\nStato: scheduled
+ leads series 2-0\nStato: scheduled
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -74,8 +75,22 @@ UID:17cc9053b3828aceb909922365f0200b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 1-0\nStato: scheduled
+ leads series 2-0\nStato: scheduled
 LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Knicks @ San Antonio Spurs
+DTSTART:20260614T003000Z
+DTEND:20260614T030000Z
+UID:e0f839b8dbbdf3e013b21f5ff6e87cbf@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
+ nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
+ eads series 2-0\nStato: scheduled
+LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -12754,14 +12769,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano
+SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (86-91)
 DTSTART:20260605T180000Z
 DTEND:20260605T203000Z
 UID:74794bdf299f522c49e7170616aa8261@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
  rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
- d: Semifinali - Gara 4\nFase: LBA Playoff\nStato: scheduled
+ d: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 91 - 86 Germani Brescia\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22639,8 +22655,8 @@ X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Boss Open
-DTSTART:20260608T040000Z
-DTEND:20260608T063000Z
+DTSTART:20260606T040000Z
+DTEND:20260606T063000Z
 UID:6a191a44454fb9aaf7417186f6a16741@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Boss Open\nOspite: ATP\nGiorna
@@ -23644,8 +23660,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ The HSBC Championships
-DTSTART:20260608T040000Z
-DTEND:20260608T063000Z
+DTSTART:20260606T040000Z
+DTEND:20260606T063000Z
 UID:68a5aa2f8cba7aa6d379b7991eeab0f7@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: The HSBC Championships\nOspite

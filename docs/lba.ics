@@ -3650,14 +3650,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano
+SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (86-91)
 DTSTART:20260605T180000Z
 DTEND:20260605T203000Z
 UID:74794bdf299f522c49e7170616aa8261@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
  rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
- d: Semifinali - Gara 4\nFase: LBA Playoff\nStato: scheduled
+ d: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 91 - 86 Germani Brescia\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
