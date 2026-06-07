@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Oklahoma City Thunder (111-103)
-DTSTART:20260531T000000Z
-DTEND:20260531T023000Z
-UID:56d99faecb6549798f6a10a8ebb85728@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: San An
- tonio Spurs\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nSerie: 
- SA wins series 4-3\nRisultato: Oklahoma City Thunder 103 - 111 San Antonio
-  Spurs\nStato: finished
-LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-95)
 DTSTART:20260604T003000Z
 DTEND:20260604T030000Z
@@ -12784,14 +12769,57 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (83-90)
 DTSTART:20260606T180000Z
 DTEND:20260606T203000Z
 UID:fcde926d312a64a2dc881d5068972b22@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
  lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
- ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nStato: scheduled
+ ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer 
+ Venezia 90 - 83 Virtus Olidata Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+DTSTART:20260611T180000Z
+DTEND:20260611T203000Z
+UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 1\nFase: LBA Playoff\nStato: scheduled
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+DTSTART:20260613T180000Z
+DTEND:20260613T203000Z
+UID:e0fff9a5685b4df90f6ad80116514f54@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 2\nFase: LBA Playoff\nStato: scheduled
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia
+DTSTART:20260616T180000Z
+DTEND:20260616T203000Z
+UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
+ rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
+ ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nStato: scheduled
 LOCATION:Palasport Taliercio\, Mestre
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23660,8 +23688,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ The HSBC Championships
-DTSTART:20260606T040000Z
-DTEND:20260606T063000Z
+DTSTART:20260607T040000Z
+DTEND:20260607T063000Z
 UID:68a5aa2f8cba7aa6d379b7991eeab0f7@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: The HSBC Championships\nOspite
@@ -23672,8 +23700,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Lexus Ilkley Open
-DTSTART:20260608T040000Z
-DTEND:20260608T063000Z
+DTSTART:20260607T040000Z
+DTEND:20260607T063000Z
 UID:80da58d16380bb61bde888bd24975796@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Ilkley Open\nOspite: WTA

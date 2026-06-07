@@ -3665,14 +3665,57 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (83-90)
 DTSTART:20260606T180000Z
 DTEND:20260606T203000Z
 UID:fcde926d312a64a2dc881d5068972b22@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
  lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
- ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nStato: scheduled
+ ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer 
+ Venezia 90 - 83 Virtus Olidata Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+DTSTART:20260611T180000Z
+DTEND:20260611T203000Z
+UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 1\nFase: LBA Playoff\nStato: scheduled
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+DTSTART:20260613T180000Z
+DTEND:20260613T203000Z
+UID:e0fff9a5685b4df90f6ad80116514f54@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 2\nFase: LBA Playoff\nStato: scheduled
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia
+DTSTART:20260616T180000Z
+DTEND:20260616T203000Z
+UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
+ rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
+ ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nStato: scheduled
 LOCATION:Palasport Taliercio\, Mestre
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

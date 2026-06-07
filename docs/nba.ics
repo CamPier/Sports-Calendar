@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Oklahoma City Thunder (111-103)
-DTSTART:20260531T000000Z
-DTEND:20260531T023000Z
-UID:56d99faecb6549798f6a10a8ebb85728@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: San An
- tonio Spurs\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nSerie: 
- SA wins series 4-3\nRisultato: Oklahoma City Thunder 103 - 111 San Antonio
-  Spurs\nStato: finished
-LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-95)
 DTSTART:20260604T003000Z
 DTEND:20260604T030000Z
