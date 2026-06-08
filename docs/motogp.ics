@@ -122,28 +122,28 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF CZECHIA
+SUMMARY:🏍 MONSTER ENERGY GRAND PRIX OF CZECHIA
 DTSTART:20260621T130000Z
 DTEND:20260621T150000Z
 UID:1c83de031c862c91f2e43899fd9b37ee@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF CZECHIA\nOspite: Gar
- a\nCircuito/Arena: Automotodrom Brno\nGiornata/Round: Round 9\nFase: MotoG
- P\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: MONSTER ENERGY GRAND PRIX OF CZECH
+ IA\nOspite: Gara\nCircuito/Arena: Automotodrom Brno\nGiornata/Round: Round
+  9\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Automotodrom Brno
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF THE NETHERLANDS
+SUMMARY:🏍 TISSOT GRAND PRIX OF THE NETHERLANDS
 DTSTART:20260628T130000Z
 DTEND:20260628T150000Z
 UID:9b65260a93cddcd00f699edfacde3b5c@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF THE NETHERLANDS\nOsp
- ite: Gara\nCircuito/Arena: TT Circuit Assen\nGiornata/Round: Round 10\nFas
- e: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: TISSOT GRAND PRIX OF THE NETHERLAN
+ DS\nOspite: Gara\nCircuito/Arena: TT Circuit Assen\nGiornata/Round: Round 
+ 10\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:TT Circuit Assen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

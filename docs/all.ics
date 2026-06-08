@@ -22141,28 +22141,28 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF CZECHIA
+SUMMARY:🏍 MONSTER ENERGY GRAND PRIX OF CZECHIA
 DTSTART:20260621T130000Z
 DTEND:20260621T150000Z
 UID:1c83de031c862c91f2e43899fd9b37ee@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF CZECHIA\nOspite: Gar
- a\nCircuito/Arena: Automotodrom Brno\nGiornata/Round: Round 9\nFase: MotoG
- P\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: MONSTER ENERGY GRAND PRIX OF CZECH
+ IA\nOspite: Gara\nCircuito/Arena: Automotodrom Brno\nGiornata/Round: Round
+  9\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Automotodrom Brno
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF THE NETHERLANDS
+SUMMARY:🏍 TISSOT GRAND PRIX OF THE NETHERLANDS
 DTSTART:20260628T130000Z
 DTEND:20260628T150000Z
 UID:9b65260a93cddcd00f699edfacde3b5c@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF THE NETHERLANDS\nOsp
- ite: Gara\nCircuito/Arena: TT Circuit Assen\nGiornata/Round: Round 10\nFas
- e: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: TISSOT GRAND PRIX OF THE NETHERLAN
+ DS\nOspite: Gara\nCircuito/Arena: TT Circuit Assen\nGiornata/Round: Round 
+ 10\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:TT Circuit Assen
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -24061,6 +24061,42 @@ UID:7bac85a009f9168f05e4ba0f1bb82273@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: US Open\nOspite: WTA\nGiornata
  /Round: US Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Kia Open
+DTSTART:20260905T040000Z
+DTEND:20260905T063000Z
+UID:7d62bd2ecfaeb7fd36988c21ebd83432@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Kia Open\nOspite: WTA\nGiornat
+ a/Round: Kia Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Montreux Nestlé Open
+DTSTART:20260905T040000Z
+DTEND:20260905T063000Z
+UID:af98890d71cf784d1dcde3963f30842a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Montreux Nestlé Open\nOspite:
+  WTA\nGiornata/Round: Montreux Nestlé Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ ATIK Antalya Open
+DTSTART:20260905T040000Z
+DTEND:20260905T063000Z
+UID:45729eb190a4b4321a76252caeb5f7c4@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: ATIK Antalya Open\nOspite: WTA
+ \nGiornata/Round: ATIK Antalya Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
