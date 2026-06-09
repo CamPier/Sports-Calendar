@@ -39,14 +39,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ New York Knicks
+SUMMARY:🏀 San Antonio Spurs @ New York Knicks (115-111)
 DTSTART:20260609T003000Z
 DTEND:20260609T030000Z
 UID:b522099466359585f7cf0a7dfb875e30@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 2-0\nStato: scheduled
+ leads series 2-1\nRisultato: New York Knicks 111 - 115 San Antonio Spurs\n
+ Stato: finished
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -60,7 +61,7 @@ UID:17cc9053b3828aceb909922365f0200b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 2-0\nStato: scheduled
+ leads series 2-1\nStato: scheduled
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -74,8 +75,22 @@ UID:e0f839b8dbbdf3e013b21f5ff6e87cbf@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
  nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 2-0\nStato: scheduled
+ eads series 2-1\nStato: scheduled
 LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 San Antonio Spurs @ New York Knicks
+DTSTART:20260617T003000Z
+DTEND:20260617T030000Z
+UID:312969f6e1198fc61398369de605b8e6@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
+ Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
+ leads series 2-1\nStato: scheduled
+LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
