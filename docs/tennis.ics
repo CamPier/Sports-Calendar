@@ -1432,13 +1432,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Figueira Da Foz Open
+SUMMARY:🎾 WTA @ Figueira Da Foz Ladies Open
 DTSTART:20260615T040000Z
 DTEND:20260615T063000Z
 UID:0781aef904050a4eb762280a6260d8ec@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Figueira Da Foz Open\nOspite: 
- WTA\nGiornata/Round: Figueira Da Foz Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Figueira Da Foz Ladies Open\nO
+ spite: WTA\nGiornata/Round: Figueira Da Foz Ladies Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

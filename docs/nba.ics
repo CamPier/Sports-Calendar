@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-95)
-DTSTART:20260604T003000Z
-DTEND:20260604T030000Z
-UID:dbf28cdb7a112233854c8edfa4df9fe8@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
- nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 1-0\nRisultato: San Antonio Spurs 95 - 105 New York Knicks\nSt
- ato: finished
-LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-104)
 DTSTART:20260606T003000Z
 DTEND:20260606T030000Z
@@ -54,14 +39,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ New York Knicks
+SUMMARY:🏀 San Antonio Spurs @ New York Knicks (106-107)
 DTSTART:20260611T003000Z
 DTEND:20260611T030000Z
 UID:17cc9053b3828aceb909922365f0200b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 2-1\nStato: scheduled
+ leads series 3-1\nRisultato: New York Knicks 107 - 106 San Antonio Spurs\n
+ Stato: finished
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -75,7 +61,7 @@ UID:e0f839b8dbbdf3e013b21f5ff6e87cbf@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
  nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 2-1\nStato: scheduled
+ eads series 3-1\nStato: scheduled
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -89,7 +75,7 @@ UID:312969f6e1198fc61398369de605b8e6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
  Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 2-1\nStato: scheduled
+ leads series 3-1\nStato: scheduled
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
