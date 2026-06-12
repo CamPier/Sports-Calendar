@@ -21152,7 +21152,7 @@ UID:9735d971482c47ee7b22457513db603c@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 FP1
  \nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona\, Spai
- n\nGiornata/Round: Round 7\nFase: FirstPractice\nStato: scheduled
+ n\nGiornata/Round: Round 7\nFase: FirstPractice\nStato: finished
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21166,7 +21166,7 @@ UID:47b05ef3a0572ec83363e616f5c45bba@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Barcelona Grand Prix\nOspite: 🏎 FP2
  \nCircuito/Arena: Circuit de Barcelona-Catalunya\nCittà: Barcelona\, Spai
- n\nGiornata/Round: Round 7\nFase: SecondPractice\nStato: scheduled
+ n\nGiornata/Round: Round 7\nFase: SecondPractice\nStato: finished
 LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23740,8 +23740,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ VANDA Pharmaceuticals Berlin Tennis Open
-DTSTART:20260615T040000Z
-DTEND:20260615T063000Z
+DTSTART:20260613T040000Z
+DTEND:20260613T063000Z
 UID:9ea8ce8164251b1835bec7f325b0018d@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: VANDA Pharmaceuticals Berlin T
@@ -23753,8 +23753,8 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Lexus Nottingham Open
-DTSTART:20260615T040000Z
-DTEND:20260615T063000Z
+DTSTART:20260614T040000Z
+DTEND:20260614T063000Z
 UID:697b011af452dc17e084abde7e2e5862@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Nottingham Open\nOspite:
