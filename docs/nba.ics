@@ -81,4 +81,18 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Knicks @ San Antonio Spurs
+DTSTART:20260620T003000Z
+DTEND:20260620T030000Z
+UID:cd1dd299fd482e868d267d4db59ceabf@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
+ nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
+ eads series 3-1\nStato: scheduled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
 END:VCALENDAR

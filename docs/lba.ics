@@ -3680,14 +3680,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (80-100)
 DTSTART:20260611T180000Z
 DTEND:20260611T203000Z
 UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
  ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
- Round: Finale - Gara 1\nFase: LBA Playoff\nStato: scheduled
+ Round: Finale - Gara 1\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 100 - 80 Umana Reyer Venezia\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -82,6 +82,20 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 New York Knicks @ San Antonio Spurs
+DTSTART:20260620T003000Z
+DTEND:20260620T030000Z
+UID:cd1dd299fd482e868d267d4db59ceabf@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
+ nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
+ eads series 3-1\nStato: scheduled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Olympiacos Piraeus (85-92)
 DTSTART:20260524T180000Z
 DTEND:20260524T203000Z
@@ -12785,14 +12799,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (80-100)
 DTSTART:20260611T180000Z
 DTEND:20260611T203000Z
 UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
  ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
- Round: Finale - Gara 1\nFase: LBA Playoff\nStato: scheduled
+ Round: Finale - Gara 1\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 100 - 80 Umana Reyer Venezia\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
