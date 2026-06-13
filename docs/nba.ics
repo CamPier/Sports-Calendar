@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs (105-104)
-DTSTART:20260606T003000Z
-DTEND:20260606T030000Z
-UID:4856af8768f65da8fe1c37cab0801350@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
- nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 2-0\nRisultato: San Antonio Spurs 104 - 105 New York Knicks\nS
- tato: finished
-LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 San Antonio Spurs @ New York Knicks (115-111)
 DTSTART:20260609T003000Z
 DTEND:20260609T030000Z
