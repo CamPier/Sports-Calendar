@@ -39,42 +39,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs
+SUMMARY:🏀 New York Knicks @ San Antonio Spurs (94-90)
 DTSTART:20260614T003000Z
 DTEND:20260614T030000Z
 UID:e0f839b8dbbdf3e013b21f5ff6e87cbf@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
- nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 3-1\nStato: scheduled
-LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ New York Knicks
-DTSTART:20260617T003000Z
-DTEND:20260617T030000Z
-UID:312969f6e1198fc61398369de605b8e6@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
- Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 3-1\nStato: scheduled
-LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs
-DTSTART:20260620T003000Z
-DTEND:20260620T030000Z
-UID:cd1dd299fd482e868d267d4db59ceabf@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
- nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY l
- eads series 3-1\nStato: scheduled
+ nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY w
+ ins series 4-1\nRisultato: San Antonio Spurs 90 - 94 New York Knicks\nStat
+ o: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
