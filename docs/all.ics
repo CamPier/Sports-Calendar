@@ -16494,6 +16494,510 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Cremonese (2-0)
+DTSTART:20260301T113000Z
+DTEND:20260301T140000Z
+UID:35a4220f2648b9f7a68858b84936c663@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: AC Milan\nCirc
+ uito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nRisultato: Cremonese 0 
+ - 2 AC Milan\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Sassuolo (1-2)
+DTSTART:20260301T140000Z
+DTEND:20260301T163000Z
+UID:314ab7404ac916ba1da6433f133c4581@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Atalanta\nCircu
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 2 - 1
+  Atalanta\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Torino (0-2)
+DTSTART:20260301T170000Z
+DTEND:20260301T193000Z
+UID:fe5971c13faecd7b60fc8cf960da546f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Lazio\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 2 -
+  0 Lazio\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ AS Roma (3-3)
+DTSTART:20260301T194500Z
+DTEND:20260301T221500Z
+UID:80f8d45f10f1af86888a499e1a0e6e1d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Juventus\nCircui
+ to/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 3 - 3 Juventus\nStato
+ : finished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Pisa (1-0)
+DTSTART:20260302T173000Z
+DTEND:20260302T200000Z
+UID:52533813ea2a6b36b2525a0f42891499@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Bologna\nCircuito/A
+ rena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nRisultato: 
+ Pisa 0 - 1 Bologna\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Udinese (0-3)
+DTSTART:20260302T194500Z
+DTEND:20260302T221500Z
+UID:ec270117c80e9a91797c2459625ebb93@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Fiorentina\nCirc
+ uito/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 3 - 0 Fiorent
+ ina\nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ Napoli (1-2)
+DTSTART:20260306T194500Z
+DTEND:20260306T221500Z
+UID:66901e578d6115e8cc908c40d0fac01f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Torino\nCircuito/
+ Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli 2 
+ - 1 Torino\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Como @ Cagliari (2-1)
+DTSTART:20260307T140000Z
+DTEND:20260307T163000Z
+UID:ad359e956eeccb67f6780b85a2050cc4@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Como\nCircuito/
+ Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 1 - 2 Como\nSta
+ to: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Atalanta (2-2)
+DTSTART:20260307T170000Z
+DTEND:20260307T193000Z
+UID:dd6b691df3102baf19c25c5ec9cee78b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Udinese\nCircui
+ to/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 2 - 2 Ud
+ inese\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Juventus (0-4)
+DTSTART:20260307T194500Z
+DTEND:20260307T221500Z
+UID:0bd14a5a2e98de336312dcd788c9de1d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Pisa\nCircuito/
+ Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 4 - 0 Pisa\nSt
+ ato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Lecce (1-2)
+DTSTART:20260308T113000Z
+DTEND:20260308T140000Z
+UID:981d37e8fc449abd638352f9dafccdce@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Cremonese\nCircuit
+ o/Arena: Via Del Mare\nCittà: Lecce\nRisultato: Lecce 2 - 1 Cremonese\nSt
+ ato: finished
+LOCATION:Via Del Mare\, Lecce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Bologna (2-1)
+DTSTART:20260308T140000Z
+DTEND:20260308T163000Z
+UID:116c0d4b9bf9ecb3986ce9996f2bd980@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Hellas Verona\nC
+ ircuito/Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 2 
+ Hellas Verona\nStato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Fiorentina (0-0)
+DTSTART:20260308T140000Z
+DTEND:20260308T163000Z
+UID:97b0d820de9027bc8f00914d9eda01ad@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Parma\nCircui
+ to/Arena: Stadio Artemio Franchi\nCittà: Firenze\nRisultato: Fiorentina 0
+  - 0 Parma\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Genoa (1-2)
+DTSTART:20260308T170000Z
+DTEND:20260308T193000Z
+UID:efd07495b3462a6ea5272402718c482d@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: AS Roma\nCircuito/
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 2 - 1 AS Ro
+ ma\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ AC Milan (0-1)
+DTSTART:20260308T194500Z
+DTEND:20260308T221500Z
+UID:a942a5ed90beffe6abfb2d1a7281b58b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale\
+ nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: AC Milan 1 - 0 Inter
+ nazionale\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Lazio (1-2)
+DTSTART:20260309T194500Z
+DTEND:20260309T221500Z
+UID:10905884a946b6a4ef322e6338060e8a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Sassuolo\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nRisultato: Lazio 2 - 1 Sassuolo\nStato: fi
+ nished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Parma @ Torino (1-4)
+DTSTART:20260313T194500Z
+DTEND:20260313T221500Z
+UID:bab22683aac7e5965dddb07fee2d05c3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Parma\nCircuito/A
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 4 -
+  1 Parma\nStato: finished
+LOCATION:Stadio Olimpico Grande Torino\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Atalanta @ Internazionale (1-1)
+DTSTART:20260314T140000Z
+DTEND:20260314T163000Z
+UID:5415ebf1224dac0e788a1b01f4330eba@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta\
+ nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 1 - 1
+  Atalanta\nStato: finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ Napoli (1-2)
+DTSTART:20260314T170000Z
+DTEND:20260314T193000Z
+UID:db4b29c8647dab3d552100d25a4ab05c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Lecce\nCircuito/A
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli 2 -
+  1 Lecce\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Juventus @ Udinese (1-0)
+DTSTART:20260314T194500Z
+DTEND:20260314T221500Z
+UID:9c6a6e1eab5fd2842dafbcb75a295ac8@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Juventus\nCircui
+ to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 1 Juventus\
+ nStato: finished
+LOCATION:Stadio Friuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Genoa @ Hellas Verona (2-0)
+DTSTART:20260315T113000Z
+DTEND:20260315T140000Z
+UID:3bd7d5535c29441184280ff00236b5fb@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Hellas Verona\nOspite: Genoa\nCir
+ cuito/Arena: Stadio Marcantonio Bentegodi\nCittà: Verona\nRisultato: Hell
+ as Verona 0 - 2 Genoa\nStato: finished
+LOCATION:Stadio Marcantonio Bentegodi\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cagliari @ Pisa (1-3)
+DTSTART:20260315T140000Z
+DTEND:20260315T163000Z
+UID:ad8ed32fbd69983aeaa10399ccf4acef@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Pisa\nOspite: Cagliari\nCircuito/
+ Arena: Arena Garibaldi - Stadio Romeo Anconetani\nCittà: Pisa\nRisultato:
+  Pisa 3 - 1 Cagliari\nStato: finished
+LOCATION:Arena Garibaldi - Stadio Romeo Anconetani\, Pisa
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Bologna @ Sassuolo (1-0)
+DTSTART:20260315T140000Z
+DTEND:20260315T163000Z
+UID:7980063f369addceaaa136d8ec47a56c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Bologna\nCircui
+ to/Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 0 - 1 
+ Bologna\nStato: finished
+LOCATION:Mapei Stadium\, Reggio Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AS Roma @ Como (1-2)
+DTSTART:20260315T170000Z
+DTEND:20260315T193000Z
+UID:fd3d8dcf09b60be97eb82464bb864f6a@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AS Roma\nCircuito/A
+ rena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 2 - 1 AS Roma\nSt
+ ato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ AC Milan @ Lazio (0-1)
+DTSTART:20260315T194500Z
+DTEND:20260315T221500Z
+UID:79cf87343a8f99a81a0d43ef51e669fe@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: AC Milan\nCircuito
+ /Arena: Olimpico\nCittà: Roma\nRisultato: Lazio 1 - 0 AC Milan\nStato: fi
+ nished
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Fiorentina @ Cremonese (4-1)
+DTSTART:20260316T194500Z
+DTEND:20260316T221500Z
+UID:0d7a21f6a1266afda072607c3d6bf851@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cremonese\nOspite: Fiorentina\nCi
+ rcuito/Arena: Stadio Giovanni Zini\nCittà: Cremona\nRisultato: Cremonese 
+ 1 - 4 Fiorentina\nStato: finished
+LOCATION:Stadio Giovanni Zini\, Cremona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Napoli @ Cagliari (1-0)
+DTSTART:20260320T173000Z
+DTEND:20260320T200000Z
+UID:5c26b8c17d598c01a9e83f2978afccb1@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Napoli\nCircuit
+ o/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 0 - 1 Napoli\
+ nStato: finished
+LOCATION:Unipol Domus\, Cagliari
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Udinese @ Genoa (2-0)
+DTSTART:20260320T194500Z
+DTEND:20260320T221500Z
+UID:9e671da84a0586cda433a816b90e09c6@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Udinese\nCircuito/
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 0 - 2 Udine
+ se\nStato: finished
+LOCATION:Stadio Luigi Ferraris\, Genova
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Cremonese @ Parma (2-0)
+DTSTART:20260321T140000Z
+DTEND:20260321T163000Z
+UID:a4444d8f7d8bfdba5df027e8cef0685b@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Cremonese\nCircuit
+ o/Arena: Ennio Tardini\nCittà: Parma\nRisultato: Parma 0 - 2 Cremonese\nS
+ tato: finished
+LOCATION:Ennio Tardini\, Parma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Torino @ AC Milan (2-3)
+DTSTART:20260321T170000Z
+DTEND:20260321T193000Z
+UID:cc00331409b586d0dc5fe88fff1b8331@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Torino\nCircuit
+ o/Arena: San Siro\nCittà: Milano\nRisultato: AC Milan 3 - 2 Torino\nStato
+ : finished
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Sassuolo @ Juventus (1-1)
+DTSTART:20260321T194500Z
+DTEND:20260321T221500Z
+UID:dec9ec86ea68a99b8786f972e93f72f3@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Sassuolo\nCircu
+ ito/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 1 - 1 Sass
+ uolo\nStato: finished
+LOCATION:Allianz Stadium\, Torino
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Pisa @ Como (0-5)
+DTSTART:20260322T113000Z
+DTEND:20260322T140000Z
+UID:609b5e1c08ebb604df2628da3adf8918@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Pisa\nCircuito/Aren
+ a: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 5 - 0 Pisa\nStato: f
+ inished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Hellas Verona @ Atalanta (0-1)
+DTSTART:20260322T140000Z
+DTEND:20260322T163000Z
+UID:3cfc1f866af91ff5e89f92b241fda972@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Hellas Verona\n
+ Circuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 1 
+ - 0 Hellas Verona\nStato: finished
+LOCATION:New Balance Arena\, Bergamo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lazio @ Bologna (2-0)
+DTSTART:20260322T140000Z
+DTEND:20260322T163000Z
+UID:92e846ed65b450584c863e02364d264c@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Lazio\nCircuito/
+ Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 0 - 2 Lazio\nS
+ tato: finished
+LOCATION:Renato Dall'Ara\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Lecce @ AS Roma (0-1)
+DTSTART:20260322T170000Z
+DTEND:20260322T193000Z
+UID:41a944e655349e11e01bafafa7a241e5@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Lecce\nCircuito/
+ Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 1 - 0 Lecce\nStato: fini
+ shed
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚽ Internazionale @ Fiorentina (1-1)
+DTSTART:20260322T194500Z
+DTEND:20260322T221500Z
+UID:ebf2a23f5e577bfb787028574f8c206f@basketball-calendar.github.io
+COLOR:#1A56DB
+DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Internazional
+ e\nCircuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nRisultato: Fio
+ rentina 1 - 1 Internazionale\nStato: finished
+LOCATION:Stadio Artemio Franchi\, Firenze
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1A56DB
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⚽ Cagliari @ Sassuolo (1-2)
 DTSTART:20260404T130000Z
 DTEND:20260404T153000Z
@@ -21740,8 +22244,8 @@ X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏍 GRAND PRIX OF AUSTRALIA
-DTSTART:20261025T130000Z
-DTEND:20261025T150000Z
+DTSTART:20261024T130000Z
+DTEND:20261024T150000Z
 UID:1931a5dbfcd406d4ea89b19e7929d517@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF AUSTRALIA\nOspite: G
