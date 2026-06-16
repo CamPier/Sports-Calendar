@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ New York Knicks (115-111)
-DTSTART:20260609T003000Z
-DTEND:20260609T030000Z
-UID:b522099466359585f7cf0a7dfb875e30@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: San Antonio 
- Spurs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nSerie: NY 
- leads series 2-1\nRisultato: New York Knicks 111 - 115 San Antonio Spurs\n
- Stato: finished
-LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 San Antonio Spurs @ New York Knicks (106-107)
 DTSTART:20260611T003000Z
 DTEND:20260611T030000Z
