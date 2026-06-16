@@ -3717,9 +3717,9 @@ UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
  rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nStato: scheduled
+ ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nStato: live
 LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

@@ -1567,13 +1567,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ KTC Ladies Open
+SUMMARY:🎾 WTA @ Generali Open Ladies Kitzbühel
 DTSTART:20260713T040000Z
 DTEND:20260713T063000Z
 UID:c7d6847424362860a3ba983e0a39f341@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: KTC Ladies Open\nOspite: WTA\n
- Giornata/Round: KTC Ladies Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Generali Open Ladies Kitzbühe
+ l\nOspite: WTA\nGiornata/Round: Generali Open Ladies Kitzbühel\nStato: sc
+ heduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
