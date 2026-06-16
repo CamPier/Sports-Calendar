@@ -6,6 +6,8 @@ on:
     - cron: "0 5 * * *"
     # Also runs at 13:00 UTC for EuroLeague evening updates
     - cron: "0 13 * * *"
+    # Runs at 22:30 UTC (00:30 Italian time) to catch LBA/Playoff evening game results and newly scheduled games
+    - cron: "30 22 * * *"
   push:
     branches: [main]
   workflow_dispatch:   # manual trigger from GitHub UI
