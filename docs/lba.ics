@@ -3710,16 +3710,31 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (97-109)
 DTSTART:20260616T180000Z
 DTEND:20260616T203000Z
 UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
  rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nStato: live
+ ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer V
+ enezia 109 - 97 EA7 Emporio Armani Milano\nStato: finished
 LOCATION:Palasport Taliercio\, Mestre
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia
+DTSTART:20260618T180000Z
+DTEND:20260618T203000Z
+UID:682f985578276efdd5e38a36496e91dd@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
+ rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
+ ornata/Round: Finale - Gara 4\nFase: LBA Playoff\nStato: scheduled
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
