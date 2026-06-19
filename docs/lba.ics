@@ -3725,14 +3725,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (86-72)
 DTSTART:20260618T180000Z
 DTEND:20260618T203000Z
 UID:682f985578276efdd5e38a36496e91dd@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
  rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 4\nFase: LBA Playoff\nStato: scheduled
+ ornata/Round: Finale - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer V
+ enezia 72 - 86 EA7 Emporio Armani Milano\nStato: finished
 LOCATION:Palasport Taliercio\, Mestre
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
