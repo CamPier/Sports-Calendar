@@ -305,6 +305,42 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Internazionali BNL d'Italia
+DTSTART:20260504T040000Z
+DTEND:20260504T063000Z
+UID:3e531f2d6c5c229b6b3b79cd8ed8a787@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Internazionali BNL d'Italia\nO
+ spite: ATP\nGiornata/Round: Internazionali BNL d'Italia\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Gonet Geneva Open
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:3a3a62da823d4bc98b48987d50470fc9@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Gonet Geneva Open\nOspite: ATP
+ \nGiornata/Round: Gonet Geneva Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Bitpanda Hamburg Open
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:9f774cf3508afb66ffbb3b46b3b5c609@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Bitpanda Hamburg Open\nOspite:
+  ATP\nGiornata/Round: Bitpanda Hamburg Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Roland Garros
 DTSTART:20260518T040000Z
 DTEND:20260518T063000Z
@@ -1052,6 +1088,216 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Upper Austria Ladies Linz
+DTSTART:20260405T040000Z
+DTEND:20260405T063000Z
+UID:8dc909783aa92944bfdc67ec90506f04@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Upper Austria Ladies Linz\nOsp
+ ite: WTA\nGiornata/Round: Upper Austria Ladies Linz\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Grand Prix Open Villa de Madrid by Silverway
+DTSTART:20260405T040000Z
+DTEND:20260405T063000Z
+UID:540052230b098a16959e23f83dcf9e78@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Prix Open Villa de Madri
+ d by Silverway\nOspite: WTA\nGiornata/Round: Grand Prix Open Villa de Madr
+ id by Silverway\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Porsche Tennis Grand Prix
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:0e42fd54a0df25c6e6bd1899057f468f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Porsche Tennis Grand Prix\nOsp
+ ite: WTA\nGiornata/Round: Porsche Tennis Grand Prix\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Open Capfinances Rouen Métropole
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:ba1b3520a88df7006000381639f7da5a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Open Capfinances Rouen Métrop
+ ole\nOspite: WTA\nGiornata/Round: Open Capfinances Rouen Métropole\nStato
+ : scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras Jamor Ladies Open
+DTSTART:20260412T040000Z
+DTEND:20260412T063000Z
+UID:c764479d6ac2a236e80dd66640efd9e8@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras Jamor Ladies Open\nOspi
+ te: WTA\nGiornata/Round: Oeiras Jamor Ladies Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Oeiras Open CETO
+DTSTART:20260419T040000Z
+DTEND:20260419T063000Z
+UID:792484387d6e237c911811ba2d9b8fce@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Oeiras Open CETO\nOspite: WTA\
+ nGiornata/Round: Oeiras Open CETO\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mutua Madrid Open
+DTSTART:20260420T040000Z
+DTEND:20260420T063000Z
+UID:8e41a64093fabb006836e6e133ca60ce@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mutua Madrid Open\nOspite: WTA
+ \nGiornata/Round: Mutua Madrid Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Huzhou Open
+DTSTART:20260425T040000Z
+DTEND:20260425T063000Z
+UID:89858ee0040cb63110876316d49c339f@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Huzhou Open\nOspite: WTA\nGior
+ nata/Round: Huzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ L'Open 35 de Saint Malo
+DTSTART:20260426T040000Z
+DTEND:20260426T063000Z
+UID:7c27bf2c78defca1e55a270793b89e30@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: L'Open 35 de Saint Malo\nOspit
+ e: WTA\nGiornata/Round: L'Open 35 de Saint Malo\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Catalonia Open Solgironès
+DTSTART:20260427T040000Z
+DTEND:20260427T063000Z
+UID:113d16aa6c2607e60b9fb590df07442a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Catalonia Open Solgironès\nOs
+ pite: WTA\nGiornata/Round: Catalonia Open Solgironès\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Jiangxi Open
+DTSTART:20260501T040000Z
+DTEND:20260501T063000Z
+UID:e8c7c1a3ba53cf588530fe992b272110@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Jiangxi Open\nOspite: WTA\nGio
+ rnata/Round: Jiangxi Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Istanbul Open
+DTSTART:20260502T040000Z
+DTEND:20260502T063000Z
+UID:4dc7d7f44b7471d1b25a5f91b3252a68@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Istanbul Open\nOspite: WTA\nGi
+ ornata/Round: Istanbul Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Internazionali BNL d'Italia
+DTSTART:20260504T040000Z
+DTEND:20260504T063000Z
+UID:28cf3db4493f7bd7af287cddac0edd8a@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Internazionali BNL d'Italia\nO
+ spite: WTA\nGiornata/Round: Internazionali BNL d'Italia\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Trophée Clarins
+DTSTART:20260511T040000Z
+DTEND:20260511T063000Z
+UID:98a816192384aa9235c72866d8a8ec80@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Trophée Clarins\nOspite: WTA\
+ nGiornata/Round: Trophée Clarins\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Parma Ladies Open presented by Iren
+DTSTART:20260511T040000Z
+DTEND:20260511T063000Z
+UID:7689ff93c621ac083ddc829c59d0e292@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Parma Ladies Open presented by
+  Iren\nOspite: WTA\nGiornata/Round: Parma Ladies Open presented by Iren\nS
+ tato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Grand Prix Son Altesse Royale  La Princesse Lalla Merye
+ m
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:35b43ad5b89e6018cf55264d974c424b@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Prix Son Altesse Royale 
+  La Princesse Lalla Meryem\nOspite: WTA\nGiornata/Round: Grand Prix Son Al
+ tesse Royale  La Princesse Lalla Meryem\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Internationaux de Strasbourg presented by Mammotion
+DTSTART:20260516T040000Z
+DTEND:20260516T063000Z
+UID:c057a18740e5b56408de25e80c7a1c38@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Internationaux de Strasbourg p
+ resented by Mammotion\nOspite: WTA\nGiornata/Round: Internationaux de Stra
+ sbourg presented by Mammotion\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Roland Garros
 DTSTART:20260518T040000Z
 DTEND:20260518T063000Z
@@ -1198,6 +1444,19 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Bad Homburg Open powered by Solarwatt
+DTSTART:20260620T040000Z
+DTEND:20260620T063000Z
+UID:72ec0fd114be4ebb7babfad5981a6568@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Bad Homburg Open powered by So
+ larwatt\nOspite: WTA\nGiornata/Round: Bad Homburg Open powered by Solarwat
+ t\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Lexus Eastbourne Open
 DTSTART:20260621T040000Z
 DTEND:20260621T063000Z
@@ -1205,19 +1464,6 @@ UID:2fe04afa0c2e12a650aecbd7b2ca3714@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Eastbourne Open\nOspite:
   WTA\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Bad Homburg Open powered by Solarwatt
-DTSTART:20260621T040000Z
-DTEND:20260621T063000Z
-UID:72ec0fd114be4ebb7babfad5981a6568@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Bad Homburg Open powered by So
- larwatt\nOspite: WTA\nGiornata/Round: Bad Homburg Open powered by Solarwat
- t\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
