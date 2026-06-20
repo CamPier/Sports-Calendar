@@ -23734,6 +23734,18 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Eastbourne Open
+DTSTART:20260620T040000Z
+DTEND:20260620T063000Z
+UID:2fe04afa0c2e12a650aecbd7b2ca3714@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Eastbourne Open\nOspite:
+  WTA\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Bad Homburg Open powered by Solarwatt
 DTSTART:20260620T040000Z
 DTEND:20260620T063000Z
@@ -23742,18 +23754,6 @@ COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Bad Homburg Open powered by So
  larwatt\nOspite: WTA\nGiornata/Round: Bad Homburg Open powered by Solarwat
  t\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Lexus Eastbourne Open
-DTSTART:20260620T040000Z
-DTEND:20260620T063000Z
-UID:2fe04afa0c2e12a650aecbd7b2ca3714@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Eastbourne Open\nOspite:
-  WTA\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
