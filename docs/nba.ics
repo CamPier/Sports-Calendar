@@ -8,19 +8,4 @@ X-WR-CALNAME:NBA 2025-26
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ San Antonio Spurs (94-90)
-DTSTART:20260614T003000Z
-DTEND:20260614T030000Z
-UID:e0f839b8dbbdf3e013b21f5ff6e87cbf@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New York K
- nicks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nSerie: NY w
- ins series 4-1\nRisultato: San Antonio Spurs 90 - 94 New York Knicks\nStat
- o: finished
-LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
 END:VCALENDAR
