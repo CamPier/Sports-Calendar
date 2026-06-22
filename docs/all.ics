@@ -22531,6 +22531,43 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rolex Monte-Carlo Masters
+DTSTART:20260404T040000Z
+DTEND:20260404T063000Z
+UID:4f9777c13bfb281a017b622d1aa05be6@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rolex Monte-Carlo Masters\nOsp
+ ite: ATP\nGiornata/Round: Rolex Monte-Carlo Masters\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ BMW Open by Bitpanda
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:1adedc600ee2e94f4c04148dc9e67493@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: BMW Open by Bitpanda\nOspite: 
+ ATP\nGiornata/Round: BMW Open by Bitpanda\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Barcelona Open Banc Sabadell
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+UID:849f1dae7ca2e954898faa96659b3085@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Barcelona Open Banc Sabadell\n
+ Ospite: ATP\nGiornata/Round: Barcelona Open Banc Sabadell\nStato: schedule
+ d
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Mutua Madrid Open
 DTSTART:20260420T040000Z
 DTEND:20260420T063000Z
@@ -22770,6 +22807,30 @@ COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: National Bank Open presented b
  y Rogers\nOspite: ATP\nGiornata/Round: National Bank Open presented by Rog
  ers\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Cincinnati Open
+DTSTART:20260810T040000Z
+DTEND:20260810T063000Z
+UID:7751564e56107d42df0fdbb34ff4dd31@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Cincinnati Open\nOspite: ATP\n
+ Giornata/Round: Cincinnati Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Winston-Salem Open
+DTSTART:20260821T040000Z
+DTEND:20260821T063000Z
+UID:fdeea326c6907d1eb9629a7157b0888b@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Winston-Salem Open\nOspite: AT
+ P\nGiornata/Round: Winston-Salem Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
