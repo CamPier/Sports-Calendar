@@ -411,7 +411,7 @@ UID:e80bb5496e7f8da94508341f73ade057@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP1\
  nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
- d: Round 8\nFase: FirstPractice\nStato: scheduled
+ d: Round 8\nFase: FirstPractice\nStato: finished
 LOCATION:Red Bull Ring\, Spielberg\, Austria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -425,7 +425,7 @@ UID:89140cd192a89cc454ca1a88004b272b@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP2\
  nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
- d: Round 8\nFase: SecondPractice\nStato: scheduled
+ d: Round 8\nFase: SecondPractice\nStato: finished
 LOCATION:Red Bull Ring\, Spielberg\, Austria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
