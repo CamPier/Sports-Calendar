@@ -24138,6 +24138,66 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lexus Tolentino Open
+DTSTART:20260919T040000Z
+DTEND:20260919T063000Z
+UID:3b3d33fe605d8366440c12046ea7aaee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Tolentino Open\nOspite: 
+ WTA\nGiornata/Round: Lexus Tolentino Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Eupago Porto Open
+DTSTART:20260919T040000Z
+DTEND:20260919T063000Z
+UID:fbe1c364620f4c80090f74ecadc84dbe@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Eupago Porto Open\nOspite: WTA
+ \nGiornata/Round: Eupago Porto Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Ankara Open
+DTSTART:20260919T040000Z
+DTEND:20260919T063000Z
+UID:5d96482fa6020af18ae8e8d47de9127e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Ankara Open\nOspite: WTA\nGior
+ nata/Round: Ankara Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Jingshan Tennis Open
+DTSTART:20260926T040000Z
+DTEND:20260926T063000Z
+UID:c4b1001e029cb11374e080e7d92037c5@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Jingshan Tennis Open\nOspite: 
+ WTA\nGiornata/Round: Jingshan Tennis Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Adana Open
+DTSTART:20260927T040000Z
+DTEND:20260927T063000Z
+UID:b5b7f6c9801467eee6a46b4a596b4ec5@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Adana Open\nOspite: WTA\nGiorn
+ ata/Round: Adana Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ China Open
 DTSTART:20260928T040000Z
 DTEND:20260928T063000Z
@@ -24150,6 +24210,43 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Suzhou Open
+DTSTART:20261003T040000Z
+DTEND:20261003T063000Z
+UID:c3ae11f70d91f9ebba30b5c0e464ea75@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Suzhou Open\nOspite: WTA\nGior
+ nata/Round: Suzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Samsun Open
+DTSTART:20261003T040000Z
+DTEND:20261003T063000Z
+UID:cad3971c078df297536c1fb6b0215254@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Samsun Open\nOspite: WTA\nGior
+ nata/Round: Samsun Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Río Ladies Open by MundoTênis Tours
+DTSTART:20261003T040000Z
+DTEND:20261003T063000Z
+UID:9a6d5033ebc09dbfa681e0d04795e7a9@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Río Ladies Open by MundoTêni
+ s Tours\nOspite: WTA\nGiornata/Round: Río Ladies Open by MundoTênis Tour
+ s\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Dongfeng Voyah Wuhan Open
 DTSTART:20261010T040000Z
 DTEND:20261010T063000Z
@@ -24157,6 +24254,46 @@ UID:786b57140e3d59c1b99b655caa38a943@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Dongfeng Voyah Wuhan Open\nOsp
  ite: WTA\nGiornata/Round: Dongfeng Voyah Wuhan Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Vanda Pharmaceuticals Mallorca Women's Championships pr
+ esented by Ecotrans Group
+DTSTART:20261010T040000Z
+DTEND:20261010T063000Z
+UID:909f999c187d6e083f6740cdac6154ee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Vanda Pharmaceuticals Mallorca
+  Women's Championships presented by Ecotrans Group\nOspite: WTA\nGiornata/
+ Round: Vanda Pharmaceuticals Mallorca Women's Championships presented by E
+ cotrans Group\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ RoveretOpen Città della Pace
+DTSTART:20261010T040000Z
+DTEND:20261010T063000Z
+UID:cfc7243750c3639c093672e3581c0afc@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: RoveretOpen Città della Pace\
+ nOspite: WTA\nGiornata/Round: RoveretOpen Città della Pace\nStato: schedu
+ led
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lisboa Belem Open
+DTSTART:20261010T040000Z
+DTEND:20261010T063000Z
+UID:7709892b5b2de460485ff0009b925691@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lisboa Belem Open\nOspite: WTA
+ \nGiornata/Round: Lisboa Belem Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
