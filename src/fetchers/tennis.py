@@ -15,15 +15,16 @@ HEADERS = {
     "Accept": "application/json",
 }
 
-SEASON_START_MONTH = 1   # January
-SEASON_END_MONTH = 11    # November
+# Rolling window: 7 days ago → 7 days ahead (aggiornato ad ogni run)
+DAYS_BACK = 7
+DAYS_AHEAD = 7
 
 
 def fetch_games() -> list[dict]:
-    """Return ATP + WTA tennis events for the current year."""
+    """Return ATP + WTA tennis events for the current 2-week window (7 giorni fa → 7 giorni avanti)."""
     today = date.today()
-    start = date(today.year, SEASON_START_MONTH, 1)
-    end = date(today.year, SEASON_END_MONTH, 30)
+    start = today - timedelta(days=DAYS_BACK)
+    end = today + timedelta(days=DAYS_AHEAD)
 
     atp = _fetch_circuit("ATP", ESPN_ATP_URL, start, end)
     wta = _fetch_circuit("WTA", ESPN_WTA_URL, start, end)
@@ -33,34 +34,25 @@ def fetch_games() -> list[dict]:
 def _fetch_circuit(circuit: str, url: str, start: date, end: date) -> list[dict]:
     games: list[dict] = []
     seen: set[str] = set()
-    cursor = start
 
-    while cursor <= end:
-        window_end = min(
-            date(cursor.year if cursor.month < 12 else cursor.year + 1,
-                 cursor.month % 12 + 1, 1) - timedelta(days=1),
-            end,
-        )
-        params = {
-            "dates": f"{cursor.strftime('%Y%m%d')}-{window_end.strftime('%Y%m%d')}",
-            "limit": 500,
-        }
-        try:
-            resp = requests.get(url, params=params, headers=HEADERS, timeout=30)
-            resp.raise_for_status()
-            data = resp.json()
-        except Exception as exc:
-            logger.warning("Tennis %s %s: %s", circuit, cursor.strftime("%Y-%m"), exc)
-            cursor = window_end + timedelta(days=1)
-            continue
+    # Fetch the entire window in a single request (max 14 days, well within ESPN limits)
+    params = {
+        "dates": f"{start.strftime('%Y%m%d')}-{end.strftime('%Y%m%d')}",
+        "limit": 500,
+    }
+    try:
+        resp = requests.get(url, params=params, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as exc:
+        logger.warning("Tennis %s fetch error: %s", circuit, exc)
+        return games
 
-        for event in data.get("events", []):
-            game = _parse_event(event, circuit)
-            if game and game["id"] not in seen:
-                seen.add(game["id"])
-                games.append(game)
-
-        cursor = window_end + timedelta(days=1)
+    for event in data.get("events", []):
+        game = _parse_event(event, circuit)
+        if game and game["id"] not in seen:
+            seen.add(game["id"])
+            games.append(game)
 
     logger.info("Tennis %s: %d events", circuit, len(games))
     return games
