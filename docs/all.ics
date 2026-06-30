@@ -24138,37 +24138,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Lexus Tolentino Open
-DTSTART:20260919T040000Z
-DTEND:20260919T063000Z
-UID:3b3d33fe605d8366440c12046ea7aaee@basketball-calendar.github.io
+SUMMARY:🎾 WTA @ China Open
+DTSTART:20260928T040000Z
+DTEND:20260928T063000Z
+UID:9e7fb2ba83618a0565206d93aabee316@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Lexus Tolentino Open\nOspite: 
- WTA\nGiornata/Round: Lexus Tolentino Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Eupago Porto Open
-DTSTART:20260919T040000Z
-DTEND:20260919T063000Z
-UID:fbe1c364620f4c80090f74ecadc84dbe@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Eupago Porto Open\nOspite: WTA
- \nGiornata/Round: Eupago Porto Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Ankara Open
-DTSTART:20260919T040000Z
-DTEND:20260919T063000Z
-UID:5d96482fa6020af18ae8e8d47de9127e@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Ankara Open\nOspite: WTA\nGior
- nata/Round: Ankara Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: China Open\nOspite: WTA\nGiorn
+ ata/Round: China Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
@@ -24193,18 +24169,6 @@ UID:b5b7f6c9801467eee6a46b4a596b4ec5@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Adana Open\nOspite: WTA\nGiorn
  ata/Round: Adana Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ China Open
-DTSTART:20260928T040000Z
-DTEND:20260928T063000Z
-UID:9e7fb2ba83618a0565206d93aabee316@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: China Open\nOspite: WTA\nGiorn
- ata/Round: China Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
