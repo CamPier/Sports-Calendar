@@ -12742,21 +12742,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (97-109)
-DTSTART:20260616T180000Z
-DTEND:20260616T203000Z
-UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
- rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer V
- enezia 109 - 97 EA7 Emporio Armani Milano\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (86-72)
 DTSTART:20260618T180000Z
 DTEND:20260618T203000Z
@@ -22370,15 +22355,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Cerity Partners Hall of Fame Open presented by the Marg
- aret Fund
+SUMMARY:🎾 WTA @ Cerity Partners Hall of Fame Open for the Van Alen Cup 
+ Presented by the Margaret Fund
 DTSTART:20260706T040000Z
 DTEND:20260706T063000Z
 UID:f0aeb53fa537fe0c5e01f81a8c507c41@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Cerity Partners Hall of Fame O
- pen presented by the Margaret Fund\nOspite: WTA\nGiornata/Round: Cerity Pa
- rtners Hall of Fame Open presented by the Margaret Fund\nStato: scheduled
+ pen for the Van Alen Cup Presented by the Margaret Fund\nOspite: WTA\nGior
+ nata/Round: Cerity Partners Hall of Fame Open for the Van Alen Cup Present
+ ed by the Margaret Fund\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
