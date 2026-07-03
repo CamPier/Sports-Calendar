@@ -12125,6 +12125,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ EA7 Emporio Armani Milano (78-86)
+DTSTART:20260503T150000Z
+DTEND:20260503T173000Z
+UID:55ae3fa908d8f1082dcf5cd6f0a098e6@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Pa
+ llacanestro Trieste\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
+ a/Round: 29� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: E
+ A7 Emporio Armani Milano 86 - 78 Pallacanestro Trieste\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Guerri Napoli @ UNA Hotels Reggio Emilia (80-91)
 DTSTART:20260503T150000Z
 DTEND:20260503T173000Z
@@ -12184,21 +12199,6 @@ DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Dolo
  Risultato: APU Old Wild West Udine 69 - 76 Dolomiti Energia Trentino\nStat
  o: finished
 LOCATION:PalaCarnera Credifriuli\, Udine
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ EA7 Emporio Armani Milano (78-86)
-DTSTART:20260503T150000Z
-DTEND:20260503T173000Z
-UID:55ae3fa908d8f1082dcf5cd6f0a098e6@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Pa
- llacanestro Trieste\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
- a/Round: 29� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: E
- A7 Emporio Armani Milano 86 - 78 Pallacanestro Trieste\nStato: finished
-LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -21194,7 +21194,7 @@ UID:1719a86bac3eda388a76f3adc0c8ef23@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: British Grand Prix\nOspite: 🏎 FP1\n
  Circuito/Arena: Silverstone Circuit\nCittà: Silverstone\, UK\nGiornata/Ro
- und: Round 9\nFase: FirstPractice\nStato: scheduled
+ und: Round 9\nFase: FirstPractice\nStato: finished
 LOCATION:Silverstone Circuit\, Silverstone\, UK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22143,14 +22143,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF ARAGON
+SUMMARY:🏍 MICHELIN® GRAND PRIX OF ARAGON
 DTSTART:20260830T130000Z
 DTEND:20260830T150000Z
 UID:abff51467f0eacdc9b1aca5e0c1b8196@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF ARAGON\nOspite: Gara
- \nCircuito/Arena: MotorLand Aragón\nGiornata/Round: Round 13\nFase: MotoG
- P\, Moto2\, Moto3\, Baggers\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: MICHELIN® GRAND PRIX OF ARAGON\nO
+ spite: Gara\nCircuito/Arena: MotorLand Aragón\nGiornata/Round: Round 13\n
+ Fase: MotoGP\, Moto2\, Moto3\, Baggers\nStato: scheduled
 LOCATION:MotorLand Aragón
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

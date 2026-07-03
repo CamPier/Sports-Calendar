@@ -3093,6 +3093,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ EA7 Emporio Armani Milano (78-86)
+DTSTART:20260503T150000Z
+DTEND:20260503T173000Z
+UID:55ae3fa908d8f1082dcf5cd6f0a098e6@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Pa
+ llacanestro Trieste\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
+ a/Round: 29� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: E
+ A7 Emporio Armani Milano 86 - 78 Pallacanestro Trieste\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Guerri Napoli @ UNA Hotels Reggio Emilia (80-91)
 DTSTART:20260503T150000Z
 DTEND:20260503T173000Z
@@ -3152,21 +3167,6 @@ DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Dolo
  Risultato: APU Old Wild West Udine 69 - 76 Dolomiti Energia Trentino\nStat
  o: finished
 LOCATION:PalaCarnera Credifriuli\, Udine
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ EA7 Emporio Armani Milano (78-86)
-DTSTART:20260503T150000Z
-DTEND:20260503T173000Z
-UID:55ae3fa908d8f1082dcf5cd6f0a098e6@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Pa
- llacanestro Trieste\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
- a/Round: 29� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: E
- A7 Emporio Armani Milano 86 - 78 Pallacanestro Trieste\nStato: finished
-LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

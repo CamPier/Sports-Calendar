@@ -178,14 +178,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF ARAGON
+SUMMARY:🏍 MICHELIN® GRAND PRIX OF ARAGON
 DTSTART:20260830T130000Z
 DTEND:20260830T150000Z
 UID:abff51467f0eacdc9b1aca5e0c1b8196@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF ARAGON\nOspite: Gara
- \nCircuito/Arena: MotorLand Aragón\nGiornata/Round: Round 13\nFase: MotoG
- P\, Moto2\, Moto3\, Baggers\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: MICHELIN® GRAND PRIX OF ARAGON\nO
+ spite: Gara\nCircuito/Arena: MotorLand Aragón\nGiornata/Round: Round 13\n
+ Fase: MotoGP\, Moto2\, Moto3\, Baggers\nStato: scheduled
 LOCATION:MotorLand Aragón
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
