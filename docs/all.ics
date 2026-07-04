@@ -22284,43 +22284,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Lexus Eastbourne Open
-DTSTART:20260620T040000Z
-DTEND:20260620T063000Z
-UID:51be2b897262f4a125a808a393c59a50@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Lexus Eastbourne Open\nOspite:
-  ATP\nGiornata/Round: Lexus Eastbourne Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Vanda Pharmaceuticals Mallorca Championships
-DTSTART:20260620T040000Z
-DTEND:20260620T063000Z
-UID:da0010d8a9b78600a037960f7bda392f@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Vanda Pharmaceuticals Mallorca
-  Championships\nOspite: ATP\nGiornata/Round: Vanda Pharmaceuticals Mallorc
- a Championships\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Nordea Open
-DTSTART:20260706T040000Z
-DTEND:20260706T063000Z
-UID:74dd76aa647abed4a6cb32e3685bd567@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Nordea Open\nOspite: ATP\nGior
- nata/Round: Nordea Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Lexus Eastbourne Open
 DTSTART:20260620T040000Z
 DTEND:20260620T063000Z
