@@ -12313,68 +12313,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ EA7 Emporio Armani Milano (84-
- 96)
-DTSTART:20260516T163000Z
-DTEND:20260516T190000Z
-UID:e9c1362a8a393dea8f527e334fcfb7e5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: UN
- A Hotels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGior
- nata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: EA7 
- Emporio Armani Milano 96 - 84 UNA Hotels Reggio Emilia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (92-90)
-DTSTART:20260516T183000Z
-DTEND:20260516T210000Z
-UID:982af5ff3c1a0c8d306a7fc1f2608faa@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
- o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
- nd: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Germani Bres
- cia 90 - 92 Pallacanestro Trieste\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (71-10
- 2)
-DTSTART:20260517T170000Z
-DTEND:20260517T193000Z
-UID:93e221b96e95a9ff7ff74852b530179e@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
- iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
- ata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Virtu
- s Olidata Bologna 102 - 71 Dolomiti Energia Trentino\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (82-89)
-DTSTART:20260517T180000Z
-DTEND:20260517T203000Z
-UID:ecea0016aa7d4ac07b3aa5aad1f18433@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
- rnata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Uma
- na Reyer Venezia 89 - 82 Bertram Derthona Tortona\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (82-90)
 DTSTART:20260518T180000Z
 DTEND:20260518T203000Z
@@ -12494,52 +12432,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
  na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
  und: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Bertram Der
  thona Tortona 82 - 71 Umana Reyer Venezia\nStato: finished
-LOCATION:Nova Arena\, Tortona
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ Pallacanestro Trieste (77-83)
-DTSTART:20260523T180000Z
-DTEND:20260523T203000Z
-UID:5c1c95ad0e690c855627391d3114b30d@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: German
- i Brescia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: Q
- uarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Pallacanestro Tri
- este 83 - 77 Germani Brescia\nStato: finished
-LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Dolomiti Energia Trentino (90-81
- )
-DTSTART:20260524T150000Z
-DTEND:20260524T173000Z
-UID:9bba989244c9c2f658724f458cec53aa@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
- rtus Olidata Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/
- Round: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Dolomiti 
- Energia Trentino 81 - 90 Virtus Olidata Bologna\nStato: finished
-LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Bertram Derthona Tortona (71-89)
-DTSTART:20260524T160000Z
-DTEND:20260524T183000Z
-UID:c62c0ac86125460dcccd790c0005e71b@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
- na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
- und: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Bertram Der
- thona Tortona 89 - 71 Umana Reyer Venezia\nStato: finished
 LOCATION:Nova Arena\, Tortona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
