@@ -551,7 +551,7 @@ UID:389884d0865f1c2a49077376ff01cc8d@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 FP3\n
  Circuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium\nGiorn
- ata/Round: Round 10\nFase: ThirdPractice\nStato: scheduled
+ ata/Round: Round 10\nFase: ThirdPractice\nStato: finished
 LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -565,7 +565,7 @@ UID:7962d5a6207b256059c5c99ff9b999dc@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Belgian Grand Prix\nOspite: 🏎 Quali
  fiche\nCircuito/Arena: Circuit de Spa-Francorchamps\nCittà: Spa\, Belgium
- \nGiornata/Round: Round 10\nFase: Qualifying\nStato: scheduled
+ \nGiornata/Round: Round 10\nFase: Qualifying\nStato: finished
 LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
