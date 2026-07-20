@@ -22284,18 +22284,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Wimbledon
-DTSTART:20260622T040000Z
-DTEND:20260622T063000Z
-UID:fd9e1b2acd0681e50761c0a9d7dca636@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Wimbledon\nOspite: ATP\nGiorna
- ta/Round: Wimbledon\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Nordea Open
 DTSTART:20260706T040000Z
 DTEND:20260706T063000Z
@@ -22357,43 +22345,29 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Wimbledon
-DTSTART:20260622T040000Z
-DTEND:20260622T063000Z
-UID:e5c2ce645eebcb77140502269e06a8b9@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Wimbledon\nOspite: WTA\nGiorna
- ta/Round: Wimbledon\nStato: scheduled
+SUMMARY:🎾 ATP @ Mifel Tennis Open by Telcel Oppo
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:ae917fe805c186ce79475deb5d8d8f1f@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Mifel Tennis Open by Telcel Op
+ po\nOspite: ATP\nGiornata/Round: Mifel Tennis Open by Telcel Oppo\nStato: 
+ scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
+X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Grand Est Open 88
-DTSTART:20260705T040000Z
-DTEND:20260705T063000Z
-UID:3c92586f4f589cfde8d94f5c5fc0b03d@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Grand Est Open 88\nOspite: WTA
- \nGiornata/Round: Grand Est Open 88\nStato: scheduled
+SUMMARY:🎾 ATP @ Mubadala Citi DC Open
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:002fa2c5457e28fc1532edd69571ccc0@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Mubadala Citi DC Open\nOspite:
+  ATP\nGiornata/Round: Mubadala Citi DC Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Cerity Partners Hall of Fame Open for the Van Alen Cup 
- Presented by the Margaret Fund
-DTSTART:20260705T040000Z
-DTEND:20260705T063000Z
-UID:f0aeb53fa537fe0c5e01f81a8c507c41@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Cerity Partners Hall of Fame O
- pen for the Van Alen Cup Presented by the Margaret Fund\nOspite: WTA\nGior
- nata/Round: Cerity Partners Hall of Fame Open for the Van Alen Cup Present
- ed by the Margaret Fund\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
+X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Nordea Open
@@ -22513,6 +22487,43 @@ UID:36ba6447652c8bf9c39ab72a655ec6fb@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Odlum Brown VanOpen\nOspite: W
  TA\nGiornata/Round: Odlum Brown VanOpen\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Mubadala Citi DC Open
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:57680ca6b9522d84890e623cf46386f2@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Mubadala Citi DC Open\nOspite:
+  WTA\nGiornata/Round: Mubadala Citi DC Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ The Memphis Classic
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:b072541751705f9600f0c39f39858698@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: The Memphis Classic\nOspite: W
+ TA\nGiornata/Round: The Memphis Classic\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Axeria Open 2026 powered by Intaro Sport
+DTSTART:20260727T040000Z
+DTEND:20260727T063000Z
+UID:998c9c151eedbc89d1e717a8b2eae333@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Axeria Open 2026 powered by In
+ taro Sport\nOspite: WTA\nGiornata/Round: Axeria Open 2026 powered by Intar
+ o Sport\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
