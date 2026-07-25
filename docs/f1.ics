@@ -607,7 +607,7 @@ UID:c06e45ed4944ffc7b38501fe3ee4e81a@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 FP3
  \nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata/Round:
-  Round 11\nFase: ThirdPractice\nStato: scheduled
+  Round 11\nFase: ThirdPractice\nStato: finished
 LOCATION:Hungaroring\, Budapest\, Hungary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -621,7 +621,7 @@ UID:78645de12f4c3be9413e42e84fa5c3a5@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Hungarian Grand Prix\nOspite: 🏎 Qua
  lifiche\nCircuito/Arena: Hungaroring\nCittà: Budapest\, Hungary\nGiornata
- /Round: Round 11\nFase: Qualifying\nStato: scheduled
+ /Round: Round 11\nFase: Qualifying\nStato: finished
 LOCATION:Hungaroring\, Budapest\, Hungary
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
