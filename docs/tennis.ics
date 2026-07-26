@@ -33,19 +33,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Plava Laguna Croatia Open Umag
-DTSTART:20260711T040000Z
-DTEND:20260711T063000Z
-UID:61436e4132b1f532ccb291b271a6ba4c@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Plava Laguna Croatia Open Umag
- \nOspite: ATP\nGiornata/Round: Plava Laguna Croatia Open Umag\nStato: sche
- duled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Generali Open
 DTSTART:20260718T040000Z
 DTEND:20260718T063000Z
@@ -90,6 +77,19 @@ UID:002fa2c5457e28fc1532edd69571ccc0@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Mubadala DC Open\nOspite: ATP\
  nGiornata/Round: Mubadala DC Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ National Bank Open presented by Rogers
+DTSTART:20260802T040000Z
+DTEND:20260802T063000Z
+UID:a41d78b2d56d84d2972fffb6d6231dec@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: National Bank Open presented b
+ y Rogers\nOspite: ATP\nGiornata/Round: National Bank Open presented by Rog
+ ers\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
@@ -249,6 +249,19 @@ COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Axeria Open 2026 powered by In
  taro Sport\nOspite: WTA\nGiornata/Round: Axeria Open 2026 powered by Intar
  o Sport\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ National Bank Open presented by Rogers
+DTSTART:20260802T040000Z
+DTEND:20260802T063000Z
+UID:9e00915c7b651b0bb4c747131418d307@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: National Bank Open presented b
+ y Rogers\nOspite: WTA\nGiornata/Round: National Bank Open presented by Rog
+ ers\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
