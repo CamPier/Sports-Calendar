@@ -22284,30 +22284,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Nordea Open
-DTSTART:20260706T040000Z
-DTEND:20260706T063000Z
-UID:74dd76aa647abed4a6cb32e3685bd567@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Nordea Open\nOspite: ATP\nGior
- nata/Round: Nordea Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ EFG Swiss Open Gstaad
-DTSTART:20260711T040000Z
-DTEND:20260711T063000Z
-UID:c0c1ebf1b068ce6e2e37aad0d8930f7a@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: EFG Swiss Open Gstaad\nOspite:
-  ATP\nGiornata/Round: EFG Swiss Open Gstaad\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Generali Open
 DTSTART:20260718T040000Z
 DTEND:20260718T063000Z
@@ -22370,31 +22346,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Nordea Open
-DTSTART:20260706T040000Z
-DTEND:20260706T063000Z
-UID:322053c7c085b82aebb2f4dad39ebbd3@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Nordea Open\nOspite: WTA\nGior
- nata/Round: Nordea Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Vanda Pharmaceuticals Athens Open
-DTSTART:20260711T040000Z
-DTEND:20260711T063000Z
-UID:d41a917f063e02aaa7b13e24b3481d26@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Vanda Pharmaceuticals Athens O
- pen\nOspite: WTA\nGiornata/Round: Vanda Pharmaceuticals Athens Open\nStato
- : scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Unicredit Iasi Open
 DTSTART:20260712T040000Z
 DTEND:20260712T063000Z
@@ -22402,43 +22353,6 @@ UID:ed9059778e58d3a1e2890e03a6ef7ffa@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Unicredit Iasi Open\nOspite: W
  TA\nGiornata/Round: Unicredit Iasi Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ ATV Bancomat Tennis Open
-DTSTART:20260712T040000Z
-DTEND:20260712T063000Z
-UID:5dfc010c2c7853a9ecde53feb468466d@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: ATV Bancomat Tennis Open\nOspi
- te: WTA\nGiornata/Round: ATV Bancomat Tennis Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Enka Open
-DTSTART:20260712T040000Z
-DTEND:20260712T063000Z
-UID:41bc898b92c68e2448fe6e3f5d6d3ad7@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Enka Open\nOspite: WTA\nGiorna
- ta/Round: Enka Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Generali Open Ladies Kitzbühel
-DTSTART:20260712T040000Z
-DTEND:20260712T063000Z
-UID:c7d6847424362860a3ba983e0a39f341@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Generali Open Ladies Kitzbühe
- l\nOspite: WTA\nGiornata/Round: Generali Open Ladies Kitzbühel\nStato: sc
- heduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
@@ -22537,6 +22451,18 @@ COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: National Bank Open presented b
  y Rogers\nOspite: WTA\nGiornata/Round: National Bank Open presented by Rog
  ers\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ T-Mobile Polish Open
+DTSTART:20260803T040000Z
+DTEND:20260803T063000Z
+UID:4aea8e7a07b5139afb7b6fb93e4b9417@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: T-Mobile Polish Open\nOspite: 
+ WTA\nGiornata/Round: T-Mobile Polish Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
