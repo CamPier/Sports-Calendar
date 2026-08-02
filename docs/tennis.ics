@@ -157,13 +157,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ T-Mobile Polish Open
+SUMMARY:🎾 WTA @ Warsaw T-Mobile Polish Open
 DTSTART:20260802T040000Z
 DTEND:20260802T063000Z
 UID:4aea8e7a07b5139afb7b6fb93e4b9417@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: T-Mobile Polish Open\nOspite: 
- WTA\nGiornata/Round: T-Mobile Polish Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Warsaw T-Mobile Polish Open\nO
+ spite: WTA\nGiornata/Round: Warsaw T-Mobile Polish Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
