@@ -199,8 +199,8 @@ UID:fcb9e9f3a4e860914c9d1d6ea35b164c@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: RED BULL GRAND PRIX OF SAN MARINO 
  AND THE RIMINI RIVIERA\nOspite: Gara\nCircuito/Arena: Misano World Circuit
-  Marco Simoncelli\nGiornata/Round: Round 14\nFase: MotoGP\, Moto2\, Moto3\
- nStato: scheduled
+  Marco Simoncelli\nGiornata/Round: Round 14\nFase: MotoGP\, Moto2\, Moto3
+ \nStato: scheduled
 LOCATION:Misano World Circuit Marco Simoncelli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -240,9 +240,9 @@ DTSTART:20261011T130000Z
 DTEND:20261011T150000Z
 UID:a72ab3e1d220dddc8a79b7d81f9bc684@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: PERTAMINA GRAND PRIX OF INDONESIA\
- nOspite: Gara\nCircuito/Arena: Pertamina Mandalika International Circuit\n
- Giornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: PERTAMINA GRAND PRIX OF INDONESIA
+ \nOspite: Gara\nCircuito/Arena: Pertamina Mandalika International Circuit
+ \nGiornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Pertamina Mandalika International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -282,9 +282,9 @@ DTSTART:20261108T130000Z
 DTEND:20261108T150000Z
 UID:29254821dcd3ad528b1547d02c353d38@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF QATAR\
- nOspite: Gara\nCircuito/Arena: Lusail International Circuit\nGiornata/Roun
- d: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF QATAR
+ \nOspite: Gara\nCircuito/Arena: Lusail International Circuit\nGiornata/Rou
+ nd: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Lusail International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -311,8 +311,8 @@ DTEND:20261129T150000Z
 UID:eafc5c2ed4ed1f94395c7bd19470ca67@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: MOTUL GRAND PRIX OF VALENCIA\nOspi
- te: Gara\nCircuito/Arena: Circuit Ricardo Tormo\nGiornata/Round: Round 22\
- nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ te: Gara\nCircuito/Arena: Circuit Ricardo Tormo\nGiornata/Round: Round 22
+ \nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Circuit Ricardo Tormo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

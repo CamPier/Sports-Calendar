@@ -210,9 +210,9 @@ DTEND:20260430T203000Z
 UID:77376c1f55ef51e6f6e27d9ceb94334c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: AS
-  Monaco\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Round: 42\
- nFase: Group PLAYOFF A \nRisultato: Olympiacos Piraeus 94 - 64 AS Monaco\n
- Stato: finished
+  Monaco\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Round: 42
+ \nFase: Group PLAYOFF A \nRisultato: Olympiacos Piraeus 94 - 64 AS Monaco
+ \nStato: finished
 LOCATION:PEACE AND FRIENDSHIP STADIUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -270,9 +270,9 @@ DTEND:20260428T203000Z
 UID:5b5de3a798eeb79f232cc1bcceabc39a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: AS
-  Monaco\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Round: 41\
- nFase: Group PLAYOFF A \nRisultato: Olympiacos Piraeus 91 - 70 AS Monaco\n
- Stato: finished
+  Monaco\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Round: 41
+ \nFase: Group PLAYOFF A \nRisultato: Olympiacos Piraeus 91 - 70 AS Monaco
+ \nStato: finished
 LOCATION:PEACE AND FRIENDSHIP STADIUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -435,10 +435,10 @@ DTSTART:20260416T183000Z
 DTEND:20260416T210000Z
 UID:6249fc2123899119a637ccc3436a3cb3@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: BELGRADE ARENA\n
- Giornata/Round: 38\nFase: Group Regular Season\nRisultato: Partizan Mozzar
- t Bet Belgrade 91 - 79 Kosner Baskonia Vitoria-Gasteiz\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: BELGRADE ARENA
+ \nGiornata/Round: 38\nFase: Group Regular Season\nRisultato: Partizan Mozz
+ art Bet Belgrade 91 - 79 Kosner Baskonia Vitoria-Gasteiz\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -542,10 +542,10 @@ DTSTART:20260410T183000Z
 DTEND:20260410T210000Z
 UID:2804ffc5e5183ea81a963174233ac4d5@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Zalgiris Kaunas\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
- 37\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 7
- 4 - 83 Zalgiris Kaunas\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Zalgiris Kaunas\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
+  37\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 
+ 74 - 83 Zalgiris Kaunas\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -996,10 +996,10 @@ DTSTART:20260327T193000Z
 DTEND:20260327T220000Z
 UID:512c115bd35457f0848cfae4de13ef66@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
- 34\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 1
- 10 - 104 Valencia Basket\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
+  34\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 
+ 110 - 104 Valencia Basket\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1150,10 +1150,10 @@ DTSTART:20260324T194500Z
 DTEND:20260324T221500Z
 UID:2d2fbae498d7a8fd0dddbe421e5854d4@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: LDLC ASVEL Villeurbanne\nCircuito/Arena: BELGRADE ARENA\nGiornata
- /Round: 33\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Be
- lgrade 79 - 78 LDLC ASVEL Villeurbanne\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: LDLC ASVEL Villeurbanne\nCircuito/Arena: BELGRADE ARENA\nGiornat
+ a/Round: 33\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet B
+ elgrade 79 - 78 LDLC ASVEL Villeurbanne\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1256,9 +1256,9 @@ DTEND:20260320T221500Z
 UID:3641ecacdc95efb4003d69ce1732ef50@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
- e: Maccabi Rapyd Tel Aviv\nCircuito/Arena: ASTROBALLE\nGiornata/Round: 32\
- nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 85 - 89 Ma
- ccabi Rapyd Tel Aviv\nStato: finished
+ e: Maccabi Rapyd Tel Aviv\nCircuito/Arena: ASTROBALLE\nGiornata/Round: 32
+ \nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 85 - 89 M
+ accabi Rapyd Tel Aviv\nStato: finished
 LOCATION:ASTROBALLE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1304,9 +1304,9 @@ DTEND:20260320T201500Z
 UID:9c1c1bcf32c76b65eb921333544d0f3c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Beko Istanbul\nOspi
- te: EA7 Emporio Armani Milan\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\
- nGiornata/Round: 32\nFase: Group Regular Season\nRisultato: Fenerbahce Bek
- o Istanbul 79 - 75 EA7 Emporio Armani Milan\nStato: finished
+ te: EA7 Emporio Armani Milan\nCircuito/Arena: ULKER SPORTS AND EVENT HALL
+ \nGiornata/Round: 32\nFase: Group Regular Season\nRisultato: Fenerbahce Be
+ ko Istanbul 79 - 75 EA7 Emporio Armani Milan\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1424,10 +1424,10 @@ DTSTART:20260317T190000Z
 DTEND:20260317T213000Z
 UID:aa0b91af773a3ec4c82416aebab2cc3d@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Dubai Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
-  30\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 
- 88 - 74 Dubai Basketball\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Dubai Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
+ : 30\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade
+  88 - 74 Dubai Basketball\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1592,9 +1592,9 @@ DTEND:20260311T221500Z
 UID:5677b4720d438e44566b5f2d859cf5dd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Partiz
- an Mozzart Bet Belgrade\nCircuito/Arena: VIRTUS ARENA\nGiornata/Round: 31\
- nFase: Group Regular Season\nRisultato: Virtus Bologna 82 - 88 Partizan Mo
- zzart Bet Belgrade\nStato: finished
+ an Mozzart Bet Belgrade\nCircuito/Arena: VIRTUS ARENA\nGiornata/Round: 31
+ \nFase: Group Regular Season\nRisultato: Virtus Bologna 82 - 88 Partizan M
+ ozzart Bet Belgrade\nStato: finished
 LOCATION:VIRTUS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1911,10 +1911,10 @@ DTSTART:20260213T193000Z
 DTEND:20260213T220000Z
 UID:89ce56b27eeaa2111092797fd9df63a8@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Real Madrid\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 28\n
- Fase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 73 - 
- 77 Real Madrid\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Real Madrid\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 28
+ \nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 73 
+ - 77 Real Madrid\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2141,10 +2141,10 @@ DTSTART:20260205T193000Z
 DTEND:20260205T220000Z
 UID:0a5c2a3a2c975b9cdc6feee4b244c768@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Panathinaikos AKTOR Athens\nCircuito/Arena: BELGRADE ARENA\nGiorn
- ata/Round: 27\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet
-  Belgrade 78 - 62 Panathinaikos AKTOR Athens\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Panathinaikos AKTOR Athens\nCircuito/Arena: BELGRADE ARENA\nGior
+ nata/Round: 27\nFase: Group Regular Season\nRisultato: Partizan Mozzart Be
+ t Belgrade 78 - 62 Panathinaikos AKTOR Athens\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2538,10 +2538,10 @@ DTSTART:20260123T193000Z
 DTEND:20260123T220000Z
 UID:a9f6f2794d4c589c3a1fd1295789c446@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Hapoel IBI Tel Aviv\nCircuito/Arena: BMW PARK\nGiornata/Round: 24
- \nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 104
-  - 101 Hapoel IBI Tel Aviv\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Hapoel IBI Tel Aviv\nCircuito/Arena: BMW PARK\nGiornata/Round: 2
+ 4\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 10
+ 4 - 101 Hapoel IBI Tel Aviv\nStato: finished
 LOCATION:BMW PARK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2705,9 +2705,9 @@ DTEND:20260120T220000Z
 UID:a96972ea7227234713daf584b707fce4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Part
- izan Mozzart Bet Belgrade\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 23\
- nFase: Group Regular Season\nRisultato: FC Bayern Munich 63 - 67 Partizan 
- Mozzart Bet Belgrade\nStato: finished
+ izan Mozzart Bet Belgrade\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 23
+ \nFase: Group Regular Season\nRisultato: FC Bayern Munich 63 - 67 Partizan
+  Mozzart Bet Belgrade\nStato: finished
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2947,10 +2947,10 @@ DTSTART:20260114T183000Z
 DTEND:20260114T210000Z
 UID:84d3dbbc30e3848a95697060374ecba6@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Olympiacos Piraeus\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGior
- nata/Round: 22\nFase: Group Regular Season\nRisultato: Partizan Mozzart Be
- t Belgrade 66 - 104 Olympiacos Piraeus\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Olympiacos Piraeus\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGio
+ rnata/Round: 22\nFase: Group Regular Season\nRisultato: Partizan Mozzart B
+ et Belgrade 66 - 104 Olympiacos Piraeus\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3084,9 +3084,9 @@ DTEND:20260108T183000Z
 UID:548d2b5f5cc5086e81ccc66153f27fc3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Fene
- rbahce Beko Istanbul\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 21\
- nFase: Group Regular Season\nRisultato: Dubai Basketball 92 - 81 Fenerbahc
- e Beko Istanbul\nStato: finished
+ rbahce Beko Istanbul\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 21
+ \nFase: Group Regular Season\nRisultato: Dubai Basketball 92 - 81 Fenerbah
+ ce Beko Istanbul\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3115,9 +3115,9 @@ DTEND:20260107T200000Z
 UID:c3880b20d1a6e40a84cf7b11da0ed16d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
- nGiornata/Round: 20\nFase: Group Regular Season\nRisultato: Anadolu Efes I
- stanbul 79 - 84 Paris Basketball\nStato: finished
+  Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
+ \nGiornata/Round: 20\nFase: Group Regular Season\nRisultato: Anadolu Efes 
+ Istanbul 79 - 84 Paris Basketball\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3433,10 +3433,10 @@ DTSTART:20251226T170000Z
 DTEND:20251226T193000Z
 UID:72afa66b39ee21f6798ddb1d7c3a1866@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata/
- Round: 18\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Bel
- grade 87 - 112 Maccabi Rapyd Tel Aviv\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata
+ /Round: 18\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Be
+ lgrade 87 - 112 Maccabi Rapyd Tel Aviv\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3510,9 +3510,9 @@ DTEND:20251223T203000Z
 UID:84896d9e72f8079239c7a5a06d667899@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Panat
- hinaikos AKTOR Athens\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 18\
- nFase: Group Regular Season\nRisultato: Zalgiris Kaunas 85 - 92 Panathinai
- kos AKTOR Athens\nStato: finished
+ hinaikos AKTOR Athens\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 18
+ \nFase: Group Regular Season\nRisultato: Zalgiris Kaunas 85 - 92 Panathina
+ ikos AKTOR Athens\nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3540,9 +3540,9 @@ DTEND:20251223T183000Z
 UID:baeb0d7721e709cf332da594651699f1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: EA7 
- Emporio Armani Milan\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 18\
- nFase: Group Regular Season\nRisultato: Dubai Basketball 99 - 92 EA7 Empor
- io Armani Milan\nStato: finished
+ Emporio Armani Milan\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 18
+ \nFase: Group Regular Season\nRisultato: Dubai Basketball 99 - 92 EA7 Empo
+ rio Armani Milan\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3631,9 +3631,9 @@ DTEND:20251219T200000Z
 UID:60e178a76d2bfe9fea3f3a93e9cc7ede@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  Dubai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
- nGiornata/Round: 17\nFase: Group Regular Season\nRisultato: Anadolu Efes I
- stanbul 76 - 80 Dubai Basketball\nStato: finished
+  Dubai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
+ \nGiornata/Round: 17\nFase: Group Regular Season\nRisultato: Anadolu Efes 
+ Istanbul 76 - 80 Dubai Basketball\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3706,10 +3706,10 @@ DTSTART:20251217T193000Z
 DTEND:20251217T220000Z
 UID:f2f735a5528f7f7a1388677c7aeb0387@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Virtus Bologna\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 1
- 6\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 68
-  - 86 Virtus Bologna\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Virtus Bologna\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
+ 16\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 6
+ 8 - 86 Virtus Bologna\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3874,11 +3874,11 @@ DTSTART:20251212T193000Z
 DTEND:20251212T220000Z
 UID:49586c6f03f3cb99950f5f80aa450fc2@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: BELGRADE AREN
- A\nGiornata/Round: 15\nFase: Group Regular Season\nRisultato: Partizan Moz
- zart Bet Belgrade 79 - 76 Crvena Zvezda Meridianbet Belgrade\nStato: finis
- hed
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: BELGRADE ARE
+ NA\nGiornata/Round: 15\nFase: Group Regular Season\nRisultato: Partizan Mo
+ zzart Bet Belgrade 79 - 76 Crvena Zvezda Meridianbet Belgrade\nStato: fini
+ shed
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3922,8 +3922,8 @@ UID:245a095e34e5f5d7058bdfead2b6ed5b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: FC B
  ayern Munich\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 15\nFase: G
- roup Regular Season\nRisultato: Dubai Basketball 89 - 88 FC Bayern Munich\
- nStato: finished
+ roup Regular Season\nRisultato: Dubai Basketball 89 - 88 FC Bayern Munich
+ \nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4072,10 +4072,10 @@ DTSTART:20251204T194500Z
 DTEND:20251204T221500Z
 UID:94168c42599347d9d2cba4fdcddfc60c@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: FC Bayern Munich\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
-  14\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 
- 92 - 85 FC Bayern Munich\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: FC Bayern Munich\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
+ : 14\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade
+  92 - 85 FC Bayern Munich\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4287,8 +4287,8 @@ UID:d46abca9c011971eaa8d31a210a5d4de@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Pari
  s Basketball\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 13\nFase: G
- roup Regular Season\nRisultato: Dubai Basketball 90 - 89 Paris Basketball\
- nStato: finished
+ roup Regular Season\nRisultato: Dubai Basketball 90 - 89 Paris Basketball
+ \nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4332,10 +4332,10 @@ DTSTART:20251121T193000Z
 DTEND:20251121T220000Z
 UID:f8d48dd8476206485692c3185068cce8@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Fenerbahce Beko Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornat
- a/Round: 12\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet B
- elgrade 87 - 99 Fenerbahce Beko Istanbul\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Fenerbahce Beko Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiorna
+ ta/Round: 12\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet 
+ Belgrade 87 - 99 Fenerbahce Beko Istanbul\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4394,9 +4394,9 @@ DTEND:20251120T220000Z
 UID:7b60f53c8c39e5366ba3f397e65ec75c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: EA7 Emporio Armani Milan\nOspi
- te: Hapoel IBI Tel Aviv\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 12\
- nFase: Group Regular Season\nRisultato: EA7 Emporio Armani Milan 83 - 105 
- Hapoel IBI Tel Aviv\nStato: finished
+ te: Hapoel IBI Tel Aviv\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 12
+ \nFase: Group Regular Season\nRisultato: EA7 Emporio Armani Milan 83 - 105
+  Hapoel IBI Tel Aviv\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4666,10 +4666,10 @@ DTSTART:20251111T193000Z
 DTEND:20251111T220000Z
 UID:3871b138b919aa49dc1da495bdd40467@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: AS Monaco\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 10\nFa
- se: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 78 - 76
-  AS Monaco\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: AS Monaco\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 10\nF
+ ase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 78 - 7
+ 6 AS Monaco\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4683,8 +4683,8 @@ UID:695bbeb08c335b08892c5f206ade15ce@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Anadol
  u Efes Istanbul\nCircuito/Arena: PALADOZZA\nGiornata/Round: 10\nFase: Grou
- p Regular Season\nRisultato: Virtus Bologna 99 - 89 Anadolu Efes Istanbul\
- nStato: finished
+ p Regular Season\nRisultato: Virtus Bologna 99 - 89 Anadolu Efes Istanbul
+ \nStato: finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4773,9 +4773,9 @@ DTEND:20251107T214500Z
 UID:ff98a01cc4e685416e92d5dd038fdf14@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
- rtizan Mozzart Bet Belgrade\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\
- nGiornata/Round: 9\nFase: Group Regular Season\nRisultato: Olympiacos Pira
- eus 80 - 71 Partizan Mozzart Bet Belgrade\nStato: finished
+ rtizan Mozzart Bet Belgrade\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM
+ \nGiornata/Round: 9\nFase: Group Regular Season\nRisultato: Olympiacos Pir
+ aeus 80 - 71 Partizan Mozzart Bet Belgrade\nStato: finished
 LOCATION:PEACE AND FRIENDSHIP STADIUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4848,9 +4848,9 @@ DTEND:20251106T220000Z
 UID:6980f599615e515b62bcd8afcf527ab0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
- z\nOspite: Virtus Bologna\nCircuito/Arena: BUESA ARENA\nGiornata/Round: 9\
- nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz 87
-  - 76 Virtus Bologna\nStato: finished
+ z\nOspite: Virtus Bologna\nCircuito/Arena: BUESA ARENA\nGiornata/Round: 9
+ \nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz 8
+ 7 - 76 Virtus Bologna\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4909,10 +4909,10 @@ DTSTART:20251031T193000Z
 DTEND:20251031T220000Z
 UID:d1a57e2d1f88d7b475cea650b8c3ee4e@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: FC Barcelona\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 8\n
- Fase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 76 - 
- 78 FC Barcelona\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: FC Barcelona\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 8
+ \nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 76 
+ - 78 FC Barcelona\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5229,10 +5229,10 @@ DTSTART:20251024T183000Z
 DTEND:20251024T210000Z
 UID:ad6fdeeacb62b0ab84b08dd702f26413@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
-  6\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 8
- 3 - 101 Paris Basketball\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
+ : 6\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 
+ 83 - 101 Paris Basketball\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5352,9 +5352,9 @@ DTEND:20251022T203500Z
 UID:23bd1d6d46283b617534fbaa88f6c358@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Real Madrid\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round: 6\
- nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv 92 - 91 Rea
- l Madrid\nStato: finished
+ : Real Madrid\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round: 6
+ \nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv 92 - 91 Re
+ al Madrid\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5763,10 +5763,10 @@ DTSTART:20251009T183000Z
 DTEND:20251009T210000Z
 UID:bbda62b80afd72c73e186dd0bcc83124@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
- ound: 3\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgr
- ade 93 - 87 Anadolu Efes Istanbul\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornata/
+ Round: 3\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belg
+ rade 93 - 87 Anadolu Efes Istanbul\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5946,10 +5946,10 @@ DTSTART:20251002T183000Z
 DTEND:20251002T210000Z
 UID:aa74c1904e20346f3209564a20a623f7@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: EA7 Emporio Armani Milan\nCircuito/Arena: BELGRADE ARENA\nGiornat
- a/Round: 2\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Be
- lgrade 80 - 78 EA7 Emporio Armani Milan\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
+ \nOspite: EA7 Emporio Armani Milan\nCircuito/Arena: BELGRADE ARENA\nGiorna
+ ta/Round: 2\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet B
+ elgrade 80 - 78 EA7 Emporio Armani Milan\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6414,9 +6414,9 @@ DTEND:20260211T203000Z
 UID:79961ab209ddf2150504377023708523@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Bahces
- ehir College Istanbul\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 18\
- nFase: Group A\nRisultato: Neptunas Klaipeda 86 - 91 Bahcesehir College Is
- tanbul\nStato: finished
+ ehir College Istanbul\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 18
+ \nFase: Group A\nRisultato: Neptunas Klaipeda 86 - 91 Bahcesehir College I
+ stanbul\nStato: finished
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6534,9 +6534,9 @@ DTEND:20260204T213000Z
 UID:7c4180227a53a3d30af3173627f1803b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki Betsson\nOspite
- : Neptunas Klaipeda\nCircuito/Arena: PALAIS DE SPORTS\nGiornata/Round: 17\
- nFase: Group A\nRisultato: Aris Thessaloniki Betsson 83 - 64 Neptunas Klai
- peda\nStato: finished
+ : Neptunas Klaipeda\nCircuito/Arena: PALAIS DE SPORTS\nGiornata/Round: 17
+ \nFase: Group A\nRisultato: Aris Thessaloniki Betsson 83 - 64 Neptunas Kla
+ ipeda\nStato: finished
 LOCATION:PALAIS DE SPORTS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6789,9 +6789,9 @@ DTEND:20260127T183000Z
 UID:f166619d33fef2c02c463ac7f08c6241@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Liet
- kabelis Panevezys\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 16\
- nFase: Group B\nRisultato: Turk Telekom Ankara 85 - 75 Lietkabelis Panevez
- ys\nStato: finished
+ kabelis Panevezys\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 16
+ \nFase: Group B\nRisultato: Turk Telekom Ankara 85 - 75 Lietkabelis Paneve
+ zys\nStato: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7058,9 +7058,9 @@ DTEND:20260113T193000Z
 UID:c401dd2b8adbca2a760750a12a8b9f4d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Cedevi
- ta Olimpija Ljubljana\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 14\
- nFase: Group A\nRisultato: Neptunas Klaipeda 85 - 104 Cedevita Olimpija Lj
- ubljana\nStato: finished
+ ta Olimpija Ljubljana\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 14
+ \nFase: Group A\nRisultato: Neptunas Klaipeda 85 - 104 Cedevita Olimpija L
+ jubljana\nStato: finished
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7103,8 +7103,8 @@ DTEND:20260107T220000Z
 UID:fdeafa60a9dd18ab309dd556931710af@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: NINERS Chem
- nitz\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 13\nFase: Group B\
- nRisultato: London Lions 70 - 78 NINERS Chemnitz\nStato: finished
+ nitz\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 13\nFase: Group B
+ \nRisultato: London Lions 70 - 78 NINERS Chemnitz\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7553,9 +7553,9 @@ DTEND:20251210T221500Z
 UID:2f49143abc9cedfb595f2cbf0b5ebd88@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BAXI Manresa\nOspite: Cedevita Ol
- impija Ljubljana\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 10\
- nFase: Group A\nRisultato: BAXI Manresa 99 - 82 Cedevita Olimpija Ljubljan
- a\nStato: finished
+ impija Ljubljana\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 10
+ \nFase: Group A\nRisultato: BAXI Manresa 99 - 82 Cedevita Olimpija Ljublja
+ na\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7912,9 +7912,9 @@ DTEND:20251119T183000Z
 UID:8de35dca3888ff4c05d1657f5e02e38d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Besi
- ktas GAIN Istanbul\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 8\
- nFase: Group B\nRisultato: Turk Telekom Ankara 84 - 93 Besiktas GAIN Istan
- bul\nStato: finished
+ ktas GAIN Istanbul\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 8
+ \nFase: Group B\nRisultato: Turk Telekom Ankara 84 - 93 Besiktas GAIN Ista
+ nbul\nStato: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7942,9 +7942,9 @@ DTEND:20251118T203000Z
 UID:b250e837818911900e07caf53ed59dd1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  ratiopharm ulm\nCircuito/Arena: MORACA\nGiornata/Round: 8\nFase: Group B\
- nRisultato: Buducnost VOLI Podgorica 101 - 71 ratiopharm ulm\nStato: finis
- hed
+  ratiopharm ulm\nCircuito/Arena: MORACA\nGiornata/Round: 8\nFase: Group B
+ \nRisultato: Buducnost VOLI Podgorica 101 - 71 ratiopharm ulm\nStato: fini
+ shed
 LOCATION:MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8464,8 +8464,8 @@ UID:86e728f34e71945c8e2c48d575135a91@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
   Lietkabelis Panevezys\nCircuito/Arena: EKINOX\nGiornata/Round: 4\nFase: G
- roup B\nRisultato: Cosea JL Bourg-en-Bresse 93 - 65 Lietkabelis Panevezys\
- nStato: finished
+ roup B\nRisultato: Cosea JL Bourg-en-Bresse 93 - 65 Lietkabelis Panevezys
+ \nStato: finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8749,8 +8749,8 @@ DTEND:20251008T211500Z
 UID:fc253f86ab235f3cf55bd28f66139dc3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BAXI Manresa\nOspite: Slask Wrocl
- aw\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 2\nFase: Group A\
- nRisultato: BAXI Manresa 74 - 62 Slask Wroclaw\nStato: finished
+ aw\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 2\nFase: Group A
+ \nRisultato: BAXI Manresa 74 - 62 Slask Wroclaw\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8958,9 +8958,9 @@ DTEND:20251001T183000Z
 UID:c79a5eb643f899d5cacecbc4f0024719@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Be
- siktas GAIN Istanbul\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 1\
- nFase: Group B\nRisultato: Lietkabelis Panevezys 85 - 79 Besiktas GAIN Ist
- anbul\nStato: finished
+ siktas GAIN Istanbul\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 1
+ \nFase: Group B\nRisultato: Lietkabelis Panevezys 85 - 79 Besiktas GAIN Is
+ tanbul\nStato: finished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
