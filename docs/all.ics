@@ -12652,36 +12652,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (68-93)
-DTSTART:20260603T180000Z
-DTEND:20260603T203000Z
-UID:86cc8a73a428de91c24c71f191f8651c@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
- rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
- d: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
- ilano 93 - 68 Germani Brescia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (85-89)
-DTSTART:20260604T180000Z
-DTEND:20260604T203000Z
-UID:04788c9985a1216688fe46b51d8b58a3@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
- lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
- ata/Round: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer 
- Venezia 89 - 85 Virtus Olidata Bologna\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (86-91)
 DTSTART:20260605T180000Z
 DTEND:20260605T203000Z
