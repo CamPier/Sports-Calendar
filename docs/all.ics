@@ -11769,6 +11769,115 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Vanoli Basket Cremona @ UNA Hotels Reggio Emilia (78-96)
+DTSTART:20260411T180000Z
+DTEND:20260411T203000Z
+UID:6e340a49c476773d2d442215ea5a0eab@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Van
+ oli Basket Cremona\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\n
+ Giornata/Round: 26� Giornata\nFase: LBA – Regular Season A 2025\nRisul
+ tato: UNA Hotels Reggio Emilia 96 - 78 Vanoli Basket Cremona\nStato: finis
+ hed
+LOCATION:PalaBigi\, Reggio nell'Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Germani Brescia @ Umana Reyer Venezia (89-74)
+DTSTART:20260411T183000Z
+DTEND:20260411T210000Z
+UID:8b51075b29e85c5de3e03b991addc642@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Germani 
+ Brescia\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiornata/Rou
+ nd: 26� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: Umana 
+ Reyer Venezia 74 - 89 Germani Brescia\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ APU Old Wild West Udine (89-70)
+DTSTART:20260412T140000Z
+DTEND:20260412T163000Z
+UID:502541f5fef516ce5a9a42436f689d96@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Pall
+ acanestro Trieste\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Udine
+ \nGiornata/Round: 26� Giornata\nFase: LBA – Regular Season A 2025\nRis
+ ultato: APU Old Wild West Udine 70 - 89 Pallacanestro Trieste\nStato: fini
+ shed
+LOCATION:PalaCarnera Credifriuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Banco di Sardegna Sassari @ Openjobmetis Varese (90-91)
+DTSTART:20260412T153000Z
+DTEND:20260412T180000Z
+UID:8656391e3bef69af7d1116f1006ef581@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Banco di
+  Sardegna Sassari\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata
+ /Round: 26� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: Op
+ enjobmetis Varese 91 - 90 Banco di Sardegna Sassari\nStato: finished
+LOCATION:Itelyum Arena\, Varese
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Bertram Derthona Tortona (84-
+ 103)
+DTSTART:20260412T160000Z
+DTEND:20260412T183000Z
+UID:03371ebe2c9b12e972be18dcda0e95e1@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Dol
+ omiti Energia Trentino\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiorn
+ ata/Round: 26� Giornata\nFase: LBA – Regular Season A 2025\nRisultato:
+  Bertram Derthona Tortona 103 - 84 Dolomiti Energia Trentino\nStato: finis
+ hed
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 NutriBullet Treviso Basket @ Guerri Napoli (71-88)
+DTSTART:20260412T163000Z
+DTEND:20260412T190000Z
+UID:b2bec5ed1d13ec59217a210a96d762ae@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Guerri Napoli\nOspite: NutriBullet Tr
+ eviso Basket\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round
+ : 26� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: Guerri N
+ apoli 88 - 71 NutriBullet Treviso Basket\nStato: finished
+LOCATION:Alcott Arena\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Virtus Olidata Bologna (79-89)
+DTSTART:20260413T180000Z
+DTEND:20260413T203000Z
+UID:ca458c7dcdb1f2da2b6f78a3bef30b15@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Acqua
+  S.Bernardo Cantù\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiornat
+ a/Round: 26� Giornata\nFase: LBA – Regular Season A 2025\nRisultato: V
+ irtus Olidata Bologna 89 - 79 Acqua S.Bernardo Cantù\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Dolomiti Energia Trentino (90-
  82)
 DTSTART:20260418T161500Z
