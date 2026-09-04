@@ -692,7 +692,7 @@ UID:1bbe3a0a5d56bb3e204b6a5a1e8dfce6@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 FP1\n
  Circuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy\nGiorn
- ata/Round: Round 13\nFase: FirstPractice\nStato: scheduled
+ ata/Round: Round 13\nFase: FirstPractice\nStato: finished
 LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -706,7 +706,7 @@ UID:478a022adef2ecc77e96c401783addd0@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Italian Grand Prix\nOspite: 🏎 FP2\n
  Circuito/Arena: Autodromo Nazionale di Monza\nCittà: Monza\, Italy\nGiorn
- ata/Round: Round 13\nFase: SecondPractice\nStato: scheduled
+ ata/Round: Round 13\nFase: SecondPractice\nStato: finished
 LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
