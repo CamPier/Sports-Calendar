@@ -207,14 +207,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF AUSTRIA
+SUMMARY:🏍 QATAR AIRWAYS GRAND PRIX OF AUSTRIA
 DTSTART:20260920T130000Z
 DTEND:20260920T150000Z
 UID:af9a362d5bff4bbbdaa8a8882b6d4e1c@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF AUSTRIA\nOspite: Gar
- a\nCircuito/Arena: Red Bull Ring - Spielberg\nGiornata/Round: Round 15\nFa
- se: MotoGP\, Moto2\, Moto3\, Baggers\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF AUSTRI
+ A\nOspite: Gara\nCircuito/Arena: Red Bull Ring - Spielberg\nGiornata/Round
+ : Round 15\nFase: MotoGP\, Moto2\, Moto3\, Baggers\nStato: scheduled
 LOCATION:Red Bull Ring - Spielberg
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
