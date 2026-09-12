@@ -13538,7 +13538,7 @@ UID:876c4370a77b074f4159b3644bfa9515@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP3\n
  Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14
- \nFase: ThirdPractice\nStato: scheduled
+ \nFase: ThirdPractice\nStato: finished
 LOCATION:Madring\, Madrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -13552,7 +13552,7 @@ UID:7b3e11b41bad6d0ce0c63e7f1c8ce72a@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 Quali
  fiche\nCircuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Ro
- und 14\nFase: Qualifying\nStato: scheduled
+ und 14\nFase: Qualifying\nStato: finished
 LOCATION:Madring\, Madrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
