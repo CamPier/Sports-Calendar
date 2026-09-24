@@ -9,6 +9,465 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ EA7 Emporio Armani Milano (84-
+ 96)
+DTSTART:20260516T163000Z
+DTEND:20260516T190000Z
+UID:e9c1362a8a393dea8f527e334fcfb7e5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: UN
+ A Hotels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGior
+ nata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: EA7 
+ Emporio Armani Milano 96 - 84 UNA Hotels Reggio Emilia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (92-90)
+DTSTART:20260516T183000Z
+DTEND:20260516T210000Z
+UID:982af5ff3c1a0c8d306a7fc1f2608faa@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
+ o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
+ nd: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Germani Bres
+ cia 90 - 92 Pallacanestro Trieste\nStato: finished
+LOCATION:Palaleonessa A2A\, Brescia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (71-10
+ 2)
+DTSTART:20260517T170000Z
+DTEND:20260517T193000Z
+UID:93e221b96e95a9ff7ff74852b530179e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
+ iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
+ ata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Virtu
+ s Olidata Bologna 102 - 71 Dolomiti Energia Trentino\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (82-89)
+DTSTART:20260517T180000Z
+DTEND:20260517T203000Z
+UID:ecea0016aa7d4ac07b3aa5aad1f18433@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
+ rnata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Uma
+ na Reyer Venezia 89 - 82 Bertram Derthona Tortona\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (82-90)
+DTSTART:20260518T180000Z
+DTEND:20260518T203000Z
+UID:561e1eff03ebeae1f4b7d8fa820cb82f@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
+ o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
+ nd: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Germani Bres
+ cia 90 - 82 Pallacanestro Trieste\nStato: finished
+LOCATION:Palaleonessa A2A\, Brescia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ EA7 Emporio Armani Milano (65-
+ 77)
+DTSTART:20260518T184500Z
+DTEND:20260518T211500Z
+UID:d3b181ece850158b524b7d092e8f211e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: UN
+ A Hotels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGior
+ nata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: EA7 
+ Emporio Armani Milano 77 - 65 UNA Hotels Reggio Emilia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (87-84
+ )
+DTSTART:20260519T180000Z
+DTEND:20260519T203000Z
+UID:2e8630aa7cb26f4262df88d4567e99bd@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
+ iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
+ ata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Virtu
+ s Olidata Bologna 84 - 87 Dolomiti Energia Trentino\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (75-87)
+DTSTART:20260519T183000Z
+DTEND:20260519T210000Z
+UID:43fddfa8230a243bdf9ec736484fedd5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
+ rnata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Uma
+ na Reyer Venezia 87 - 75 Bertram Derthona Tortona\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Germani Brescia @ Pallacanestro Trieste (84-80)
+DTSTART:20260521T180000Z
+DTEND:20260521T203000Z
+UID:eadfe16e7ea8e27e16a4026f1bf2e813@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: German
+ i Brescia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: Q
+ uarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Pallacanestro Tri
+ este 80 - 84 Germani Brescia\nStato: finished
+LOCATION:PalaTrieste\, Trieste
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ UNA Hotels Reggio Emilia (84-
+ 72)
+DTSTART:20260521T184500Z
+DTEND:20260521T211500Z
+UID:0eafaf39ac42bb82e7d04e73a674e52c@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: EA7
+  Emporio Armani Milano\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emil
+ ia\nGiornata/Round: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisulta
+ to: UNA Hotels Reggio Emilia 72 - 84 EA7 Emporio Armani Milano\nStato: fin
+ ished
+LOCATION:PalaBigi\, Reggio nell'Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Dolomiti Energia Trentino (85-10
+ 2)
+DTSTART:20260522T180000Z
+DTEND:20260522T203000Z
+UID:2484e68ab249d4be6dc6435d2553ed94@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
+ rtus Olidata Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/
+ Round: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Dolomiti 
+ Energia Trentino 102 - 85 Virtus Olidata Bologna\nStato: finished
+LOCATION:BTS Arena\, Trento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Bertram Derthona Tortona (71-82)
+DTSTART:20260522T184500Z
+DTEND:20260522T211500Z
+UID:6794496f45b9cdd73b27a6ef73531fe6@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
+ na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
+ und: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Bertram Der
+ thona Tortona 82 - 71 Umana Reyer Venezia\nStato: finished
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Germani Brescia @ Pallacanestro Trieste (77-83)
+DTSTART:20260523T180000Z
+DTEND:20260523T203000Z
+UID:5c1c95ad0e690c855627391d3114b30d@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: German
+ i Brescia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: Q
+ uarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Pallacanestro Tri
+ este 83 - 77 Germani Brescia\nStato: finished
+LOCATION:PalaTrieste\, Trieste
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Dolomiti Energia Trentino (90-81
+ )
+DTSTART:20260524T150000Z
+DTEND:20260524T173000Z
+UID:9bba989244c9c2f658724f458cec53aa@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
+ rtus Olidata Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/
+ Round: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Dolomiti 
+ Energia Trentino 81 - 90 Virtus Olidata Bologna\nStato: finished
+LOCATION:BTS Arena\, Trento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Bertram Derthona Tortona (71-89)
+DTSTART:20260524T160000Z
+DTEND:20260524T183000Z
+UID:c62c0ac86125460dcccd790c0005e71b@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
+ na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
+ und: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Bertram Der
+ thona Tortona 89 - 71 Umana Reyer Venezia\nStato: finished
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (75-90)
+DTSTART:20260525T180000Z
+DTEND:20260525T203000Z
+UID:a6f974fcfbc5d33b388d9e96e344c3f5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
+ o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
+ nd: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Germani Bres
+ cia 90 - 75 Pallacanestro Trieste\nStato: finished
+LOCATION:Palaleonessa A2A\, Brescia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (95-10
+ 6)
+DTSTART:20260526T180000Z
+DTEND:20260526T203000Z
+UID:b6634a3697019a3f25d255e5a082c817@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
+ iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
+ ata/Round: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Virtu
+ s Olidata Bologna 106 - 95 Dolomiti Energia Trentino\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (83-89)
+DTSTART:20260526T180000Z
+DTEND:20260526T203000Z
+UID:0e8c4b94cec02c1cc2cca766640f523c@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
+ rnata/Round: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Uma
+ na Reyer Venezia 89 - 83 Bertram Derthona Tortona\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Germani Brescia (88-72)
+DTSTART:20260529T180000Z
+DTEND:20260529T203000Z
+UID:330ff86d0c7ba99238c50ab673ccb7a2@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: EA7 Emporio 
+ Armani Milano\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata
+ /Round: Semifinali - Gara 1\nFase: LBA Playoff\nRisultato: Germani Brescia
+  72 - 88 EA7 Emporio Armani Milano\nStato: finished
+LOCATION:Palaleonessa A2A\, Brescia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Virtus Olidata Bologna (91-83)
+DTSTART:20260530T180000Z
+DTEND:20260530T203000Z
+UID:af94835753eb3b3956c484aa7163b5f2@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Umana
+  Reyer Venezia\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiornata/Ro
+ und: Semifinali - Gara 1\nFase: LBA Playoff\nRisultato: Virtus Olidata Bol
+ ogna 83 - 91 Umana Reyer Venezia\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Germani Brescia (79-85)
+DTSTART:20260531T180000Z
+DTEND:20260531T203000Z
+UID:8ee4d9495311e2e0dad33b5e85948456@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: EA7 Emporio 
+ Armani Milano\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata
+ /Round: Semifinali - Gara 2\nFase: LBA Playoff\nRisultato: Germani Brescia
+  85 - 79 EA7 Emporio Armani Milano\nStato: finished
+LOCATION:Palaleonessa A2A\, Brescia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Virtus Olidata Bologna (79-98)
+DTSTART:20260601T180000Z
+DTEND:20260601T203000Z
+UID:4d9e694fdf044286d45d6f8f522a0271@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Umana
+  Reyer Venezia\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiornata/Ro
+ und: Semifinali - Gara 2\nFase: LBA Playoff\nRisultato: Virtus Olidata Bol
+ ogna 98 - 79 Umana Reyer Venezia\nStato: finished
+LOCATION:Virtus Arena\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (68-93)
+DTSTART:20260603T180000Z
+DTEND:20260603T203000Z
+UID:86cc8a73a428de91c24c71f191f8651c@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
+ rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
+ d: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 93 - 68 Germani Brescia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (85-89)
+DTSTART:20260604T180000Z
+DTEND:20260604T203000Z
+UID:04788c9985a1216688fe46b51d8b58a3@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
+ lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
+ ata/Round: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer 
+ Venezia 89 - 85 Virtus Olidata Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (86-91)
+DTSTART:20260605T180000Z
+DTEND:20260605T203000Z
+UID:74794bdf299f522c49e7170616aa8261@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
+ rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
+ d: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 91 - 86 Germani Brescia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (83-90)
+DTSTART:20260606T180000Z
+DTEND:20260606T203000Z
+UID:fcde926d312a64a2dc881d5068972b22@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
+ lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
+ ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer 
+ Venezia 90 - 83 Virtus Olidata Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (80-100)
+DTSTART:20260611T180000Z
+DTEND:20260611T203000Z
+UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 1\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 100 - 80 Umana Reyer Venezia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (79-92)
+DTSTART:20260613T180000Z
+DTEND:20260613T203000Z
+UID:e0fff9a5685b4df90f6ad80116514f54@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
+ ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
+ Round: Finale - Gara 2\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
+ ilano 92 - 79 Umana Reyer Venezia\nStato: finished
+LOCATION:Unipol Forum\, Assago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (97-109)
+DTSTART:20260616T180000Z
+DTEND:20260616T203000Z
+UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
+ rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
+ ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer V
+ enezia 109 - 97 EA7 Emporio Armani Milano\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (86-72)
+DTSTART:20260618T180000Z
+DTEND:20260618T203000Z
+UID:682f985578276efdd5e38a36496e91dd@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
+ rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
+ ornata/Round: Finale - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer V
+ enezia 72 - 86 EA7 Emporio Armani Milano\nStato: finished
+LOCATION:Palasport Taliercio\, Mestre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ EA7 Emporio Armani Milano (74-
  71)
 DTSTART:20251005T140000Z
@@ -3276,465 +3735,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: EA
  Dolomiti Energia Trentino 84 - 74 EA7 Emporio Armani Milano\nStato: finish
  ed
 LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ EA7 Emporio Armani Milano (84-
- 96)
-DTSTART:20260516T163000Z
-DTEND:20260516T190000Z
-UID:e9c1362a8a393dea8f527e334fcfb7e5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: UN
- A Hotels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGior
- nata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: EA7 
- Emporio Armani Milano 96 - 84 UNA Hotels Reggio Emilia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (92-90)
-DTSTART:20260516T183000Z
-DTEND:20260516T210000Z
-UID:982af5ff3c1a0c8d306a7fc1f2608faa@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
- o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
- nd: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Germani Bres
- cia 90 - 92 Pallacanestro Trieste\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (71-10
- 2)
-DTSTART:20260517T170000Z
-DTEND:20260517T193000Z
-UID:93e221b96e95a9ff7ff74852b530179e@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
- iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
- ata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Virtu
- s Olidata Bologna 102 - 71 Dolomiti Energia Trentino\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (82-89)
-DTSTART:20260517T180000Z
-DTEND:20260517T203000Z
-UID:ecea0016aa7d4ac07b3aa5aad1f18433@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
- rnata/Round: Quarti di Finale - Gara  1\nFase: LBA Playoff\nRisultato: Uma
- na Reyer Venezia 89 - 82 Bertram Derthona Tortona\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (82-90)
-DTSTART:20260518T180000Z
-DTEND:20260518T203000Z
-UID:561e1eff03ebeae1f4b7d8fa820cb82f@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
- o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
- nd: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Germani Bres
- cia 90 - 82 Pallacanestro Trieste\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ EA7 Emporio Armani Milano (65-
- 77)
-DTSTART:20260518T184500Z
-DTEND:20260518T211500Z
-UID:d3b181ece850158b524b7d092e8f211e@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: UN
- A Hotels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGior
- nata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: EA7 
- Emporio Armani Milano 77 - 65 UNA Hotels Reggio Emilia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (87-84
- )
-DTSTART:20260519T180000Z
-DTEND:20260519T203000Z
-UID:2e8630aa7cb26f4262df88d4567e99bd@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
- iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
- ata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Virtu
- s Olidata Bologna 84 - 87 Dolomiti Energia Trentino\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (75-87)
-DTSTART:20260519T183000Z
-DTEND:20260519T210000Z
-UID:43fddfa8230a243bdf9ec736484fedd5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
- rnata/Round: Quarti di Finale - Gara  2\nFase: LBA Playoff\nRisultato: Uma
- na Reyer Venezia 87 - 75 Bertram Derthona Tortona\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ Pallacanestro Trieste (84-80)
-DTSTART:20260521T180000Z
-DTEND:20260521T203000Z
-UID:eadfe16e7ea8e27e16a4026f1bf2e813@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: German
- i Brescia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: Q
- uarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Pallacanestro Tri
- este 80 - 84 Germani Brescia\nStato: finished
-LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ UNA Hotels Reggio Emilia (84-
- 72)
-DTSTART:20260521T184500Z
-DTEND:20260521T211500Z
-UID:0eafaf39ac42bb82e7d04e73a674e52c@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: EA7
-  Emporio Armani Milano\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emil
- ia\nGiornata/Round: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisulta
- to: UNA Hotels Reggio Emilia 72 - 84 EA7 Emporio Armani Milano\nStato: fin
- ished
-LOCATION:PalaBigi\, Reggio nell'Emilia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Dolomiti Energia Trentino (85-10
- 2)
-DTSTART:20260522T180000Z
-DTEND:20260522T203000Z
-UID:2484e68ab249d4be6dc6435d2553ed94@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
- rtus Olidata Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/
- Round: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Dolomiti 
- Energia Trentino 102 - 85 Virtus Olidata Bologna\nStato: finished
-LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Bertram Derthona Tortona (71-82)
-DTSTART:20260522T184500Z
-DTEND:20260522T211500Z
-UID:6794496f45b9cdd73b27a6ef73531fe6@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
- na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
- und: Quarti di Finale - Gara  3\nFase: LBA Playoff\nRisultato: Bertram Der
- thona Tortona 82 - 71 Umana Reyer Venezia\nStato: finished
-LOCATION:Nova Arena\, Tortona
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ Pallacanestro Trieste (77-83)
-DTSTART:20260523T180000Z
-DTEND:20260523T203000Z
-UID:5c1c95ad0e690c855627391d3114b30d@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: German
- i Brescia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: Q
- uarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Pallacanestro Tri
- este 83 - 77 Germani Brescia\nStato: finished
-LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Dolomiti Energia Trentino (90-81
- )
-DTSTART:20260524T150000Z
-DTEND:20260524T173000Z
-UID:9bba989244c9c2f658724f458cec53aa@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
- rtus Olidata Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/
- Round: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Dolomiti 
- Energia Trentino 81 - 90 Virtus Olidata Bologna\nStato: finished
-LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Bertram Derthona Tortona (71-89)
-DTSTART:20260524T160000Z
-DTEND:20260524T183000Z
-UID:c62c0ac86125460dcccd790c0005e71b@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Uma
- na Reyer Venezia\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Ro
- und: Quarti di Finale - Gara  4\nFase: LBA Playoff\nRisultato: Bertram Der
- thona Tortona 89 - 71 Umana Reyer Venezia\nStato: finished
-LOCATION:Nova Arena\, Tortona
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Germani Brescia (75-90)
-DTSTART:20260525T180000Z
-DTEND:20260525T203000Z
-UID:a6f974fcfbc5d33b388d9e96e344c3f5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: Pallacanestr
- o Trieste\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata/Rou
- nd: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Germani Bres
- cia 90 - 75 Pallacanestro Trieste\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Virtus Olidata Bologna (95-10
- 6)
-DTSTART:20260526T180000Z
-DTEND:20260526T203000Z
-UID:b6634a3697019a3f25d255e5a082c817@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Dolom
- iti Energia Trentino\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiorn
- ata/Round: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Virtu
- s Olidata Bologna 106 - 95 Dolomiti Energia Trentino\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia (83-89)
-DTSTART:20260526T180000Z
-DTEND:20260526T203000Z
-UID:0e8c4b94cec02c1cc2cca766640f523c@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGio
- rnata/Round: Quarti di Finale - Gara  5\nFase: LBA Playoff\nRisultato: Uma
- na Reyer Venezia 89 - 83 Bertram Derthona Tortona\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Germani Brescia (88-72)
-DTSTART:20260529T180000Z
-DTEND:20260529T203000Z
-UID:330ff86d0c7ba99238c50ab673ccb7a2@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: EA7 Emporio 
- Armani Milano\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata
- /Round: Semifinali - Gara 1\nFase: LBA Playoff\nRisultato: Germani Brescia
-  72 - 88 EA7 Emporio Armani Milano\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Virtus Olidata Bologna (91-83)
-DTSTART:20260530T180000Z
-DTEND:20260530T203000Z
-UID:af94835753eb3b3956c484aa7163b5f2@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Umana
-  Reyer Venezia\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiornata/Ro
- und: Semifinali - Gara 1\nFase: LBA Playoff\nRisultato: Virtus Olidata Bol
- ogna 83 - 91 Umana Reyer Venezia\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Germani Brescia (79-85)
-DTSTART:20260531T180000Z
-DTEND:20260531T203000Z
-UID:8ee4d9495311e2e0dad33b5e85948456@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Germani Brescia\nOspite: EA7 Emporio 
- Armani Milano\nCircuito/Arena: Palaleonessa A2A\nCittà: Brescia\nGiornata
- /Round: Semifinali - Gara 2\nFase: LBA Playoff\nRisultato: Germani Brescia
-  85 - 79 EA7 Emporio Armani Milano\nStato: finished
-LOCATION:Palaleonessa A2A\, Brescia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Virtus Olidata Bologna (79-98)
-DTSTART:20260601T180000Z
-DTEND:20260601T203000Z
-UID:4d9e694fdf044286d45d6f8f522a0271@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Olidata Bologna\nOspite: Umana
-  Reyer Venezia\nCircuito/Arena: Virtus Arena\nCittà: Bologna\nGiornata/Ro
- und: Semifinali - Gara 2\nFase: LBA Playoff\nRisultato: Virtus Olidata Bol
- ogna 98 - 79 Umana Reyer Venezia\nStato: finished
-LOCATION:Virtus Arena\, Bologna
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (68-93)
-DTSTART:20260603T180000Z
-DTEND:20260603T203000Z
-UID:86cc8a73a428de91c24c71f191f8651c@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
- rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
- d: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
- ilano 93 - 68 Germani Brescia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (85-89)
-DTSTART:20260604T180000Z
-DTEND:20260604T203000Z
-UID:04788c9985a1216688fe46b51d8b58a3@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
- lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
- ata/Round: Semifinali - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer 
- Venezia 89 - 85 Virtus Olidata Bologna\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Germani Brescia @ EA7 Emporio Armani Milano (86-91)
-DTSTART:20260605T180000Z
-DTEND:20260605T203000Z
-UID:74794bdf299f522c49e7170616aa8261@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Ge
- rmani Brescia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
- d: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
- ilano 91 - 86 Germani Brescia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Olidata Bologna @ Umana Reyer Venezia (83-90)
-DTSTART:20260606T180000Z
-DTEND:20260606T203000Z
-UID:fcde926d312a64a2dc881d5068972b22@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus O
- lidata Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiorn
- ata/Round: Semifinali - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer 
- Venezia 90 - 83 Virtus Olidata Bologna\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (80-100)
-DTSTART:20260611T180000Z
-DTEND:20260611T203000Z
-UID:7c337653ec220d476f6acb939fd1612e@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
- ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
- Round: Finale - Gara 1\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
- ilano 100 - 80 Umana Reyer Venezia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ EA7 Emporio Armani Milano (79-92)
-DTSTART:20260613T180000Z
-DTEND:20260613T203000Z
-UID:e0fff9a5685b4df90f6ad80116514f54@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: EA7 Emporio Armani Milano\nOspite: Um
- ana Reyer Venezia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/
- Round: Finale - Gara 2\nFase: LBA Playoff\nRisultato: EA7 Emporio Armani M
- ilano 92 - 79 Umana Reyer Venezia\nStato: finished
-LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (97-109)
-DTSTART:20260616T180000Z
-DTEND:20260616T203000Z
-UID:2d147295da5324c0a5534741d1d7e77b@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
- rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 3\nFase: LBA Playoff\nRisultato: Umana Reyer V
- enezia 109 - 97 EA7 Emporio Armani Milano\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 EA7 Emporio Armani Milano @ Umana Reyer Venezia (86-72)
-DTSTART:20260618T180000Z
-DTEND:20260618T203000Z
-UID:682f985578276efdd5e38a36496e91dd@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: EA7 Empo
- rio Armani Milano\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGi
- ornata/Round: Finale - Gara 4\nFase: LBA Playoff\nRisultato: Umana Reyer V
- enezia 72 - 86 EA7 Emporio Armani Milano\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
