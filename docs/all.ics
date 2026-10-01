@@ -14378,4 +14378,186 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Chengdu Open
+DTSTART:20260922T040000Z
+DTEND:20260922T063000Z
+UID:25fd8757853bd4733f13a905e77188c8@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Chengdu Open\nOspite: ATP\nGio
+ rnata/Round: Chengdu Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ AITO Hangzhou Open
+DTSTART:20260922T040000Z
+DTEND:20260922T063000Z
+UID:88627dd4b0b36cd201618905d9241637@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: AITO Hangzhou Open\nOspite: AT
+ P\nGiornata/Round: AITO Hangzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Kinoshita Group Japan Open Tennis Championships
+DTSTART:20260927T040000Z
+DTEND:20260927T063000Z
+UID:cd7929a0fe8f079782c33ab474601b60@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Kinoshita Group Japan Open Ten
+ nis Championships\nOspite: ATP\nGiornata/Round: Kinoshita Group Japan Open
+  Tennis Championships\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ China Open
+DTSTART:20260927T040000Z
+DTEND:20260927T063000Z
+UID:4bd73549558ab6d7462b4556e34b29d6@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: China Open\nOspite: ATP\nGiorn
+ ata/Round: China Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 ATP @ Rolex Shanghai Masters
+DTSTART:20261007T040000Z
+DTEND:20261007T063000Z
+UID:e280ce94271f21d3643f78ec6cee1548@basketball-calendar.github.io
+COLOR:#4CAF50
+DESCRIPTION:Competizione: Tennis ATP\nCasa: Rolex Shanghai Masters\nOspite
+ : ATP\nGiornata/Round: Rolex Shanghai Masters\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#4CAF50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Korea Open
+DTSTART:20260918T040000Z
+DTEND:20260918T063000Z
+UID:5ca522c58cc27fc122bc5c4cfc85cbd3@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Korea Open\nOspite: WTA\nGiorn
+ ata/Round: Korea Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Singapore Tennis Open presented by BNP Paribas
+DTSTART:20260918T040000Z
+DTEND:20260918T063000Z
+UID:353b2347817a5cc1b1ad54b321d5150c@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Singapore Tennis Open presente
+ d by BNP Paribas\nOspite: WTA\nGiornata/Round: Singapore Tennis Open prese
+ nted by BNP Paribas\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Delta Motors Tolentino Open
+DTSTART:20260920T040000Z
+DTEND:20260920T063000Z
+UID:3b3d33fe605d8366440c12046ea7aaee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Delta Motors Tolentino Open\nO
+ spite: WTA\nGiornata/Round: Delta Motors Tolentino Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Eupago Porto Open
+DTSTART:20260920T040000Z
+DTEND:20260920T063000Z
+UID:fbe1c364620f4c80090f74ecadc84dbe@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Eupago Porto Open\nOspite: WTA
+ \nGiornata/Round: Eupago Porto Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Turk Telekom Ankara Open
+DTSTART:20260920T040000Z
+DTEND:20260920T063000Z
+UID:5d96482fa6020af18ae8e8d47de9127e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Turk Telekom Ankara Open\nOspi
+ te: WTA\nGiornata/Round: Turk Telekom Ankara Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Jingshan Tennis Open
+DTSTART:20260925T040000Z
+DTEND:20260925T063000Z
+UID:c4b1001e029cb11374e080e7d92037c5@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Jingshan Tennis Open\nOspite: 
+ WTA\nGiornata/Round: Jingshan Tennis Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Adana Open
+DTSTART:20260926T040000Z
+DTEND:20260926T063000Z
+UID:b5b7f6c9801467eee6a46b4a596b4ec5@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Adana Open\nOspite: WTA\nGiorn
+ ata/Round: Adana Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ China Open
+DTSTART:20260927T040000Z
+DTEND:20260927T063000Z
+UID:9e7fb2ba83618a0565206d93aabee316@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: China Open\nOspite: WTA\nGiorn
+ ata/Round: China Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Samsun Open
+DTSTART:20261004T040000Z
+DTEND:20261004T063000Z
+UID:cad3971c078df297536c1fb6b0215254@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Samsun Open\nOspite: WTA\nGior
+ nata/Round: Samsun Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Suzhou Open
+DTSTART:20261005T040000Z
+DTEND:20261005T063000Z
+UID:c3ae11f70d91f9ebba30b5c0e464ea75@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Suzhou Open\nOspite: WTA\nGior
+ nata/Round: Suzhou Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
 END:VCALENDAR
