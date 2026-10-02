@@ -12,6 +12,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ LASK Linz @ AEK Athens (0-1)
 DTSTART:20260908T164500Z
 DTEND:20260908T191500Z
+DTSTAMP:20261002T195648Z
 UID:94b6129b2c6d6fd3bd139afa4943e39e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: LASK
@@ -26,6 +27,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aston Villa @ Club Brugge (3-2)
 DTSTART:20260908T164500Z
 DTEND:20260908T191500Z
+DTSTAMP:20261002T195648Z
 UID:db66f7bdb3cb56002166d0708bad8ab3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Ast
@@ -40,6 +42,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Villarreal @ Borussia Dortmund (2-3)
 DTSTART:20260908T190000Z
 DTEND:20260908T213000Z
+DTSTAMP:20261002T195648Z
 UID:bb9b059f37d8c98d1394e61ce893fb9d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
@@ -54,6 +57,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester City @ FC Porto (2-0)
 DTSTART:20260908T190000Z
 DTEND:20260908T213000Z
+DTSTAMP:20261002T195648Z
 UID:6d76c175abb70085232100d1748364b4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Manche
@@ -68,6 +72,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Betis @ Lille (3-2)
 DTSTART:20260908T190000Z
 DTEND:20260908T213000Z
+DTSTAMP:20261002T195648Z
 UID:31ccaaedd51e29df2b3d2643182f82f8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Real Beti
@@ -82,6 +87,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Internazionale @ Real Madrid (1-2)
 DTSTART:20260908T190000Z
 DTEND:20260908T213000Z
+DTSTAMP:20261002T195648Z
 UID:40aee5ef11a145fea117e7c57b800954@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Int
@@ -96,6 +102,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Feyenoord Rotterdam @ Barcelona (1-5)
 DTSTART:20260909T164500Z
 DTEND:20260909T191500Z
+DTSTAMP:20261002T195648Z
 UID:012d5b23626afe0e37a76569cb91605d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Feyen
@@ -110,6 +117,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Viking FK @ VfB Stuttgart (1-3)
 DTSTART:20260909T164500Z
 DTEND:20260909T191500Z
+DTSTAMP:20261002T195648Z
 UID:a0b0e4ef0eb87585e468b1ed4162072a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: V
@@ -124,6 +132,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Atlético Madrid @ Liverpool (1-2)
 DTSTART:20260909T190000Z
 DTEND:20260909T213000Z
+DTSTAMP:20261002T195648Z
 UID:504727d4ccb9b3c82ecbeb9c4cc9105e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Atlé
@@ -138,6 +147,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Arsenal @ Napoli (1-0)
 DTSTART:20260909T190000Z
 DTEND:20260909T213000Z
+DTSTAMP:20261002T195648Z
 UID:09728103bea2958d9642b8de5ed70c40@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal
@@ -152,6 +162,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slovan Bratislava @ Paris Saint-Germain (1-6)
 DTSTART:20260909T190000Z
 DTEND:20260909T213000Z
+DTSTAMP:20261002T195648Z
 UID:74d1d1eb503fdcd71d63d5b9df4ace67@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
@@ -166,6 +177,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Galatasaray @ Sporting CP (1-3)
 DTSTART:20260909T190000Z
 DTEND:20260909T213000Z
+DTSTAMP:20261002T195648Z
 UID:24f0b02a23f68c44bb20b54c24a48651@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Gal
@@ -180,6 +192,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AS Roma @ Fenerbahce (1-1)
 DTSTART:20260910T164500Z
 DTEND:20260910T191500Z
+DTSTAMP:20261002T195648Z
 UID:113e56395583b98733902694569cf621@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: AS R
@@ -194,6 +207,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Shakhtar Donetsk @ PSV Eindhoven (1-1)
 DTSTART:20260910T164500Z
 DTEND:20260910T191500Z
+DTSTAMP:20261002T195648Z
 UID:710afe1dbe77051dd36711d6c0865087@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: S
@@ -208,6 +222,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bodo/Glimt @ Bayern Munich (0-5)
 DTSTART:20260910T190000Z
 DTEND:20260910T213000Z
+DTSTAMP:20261002T195648Z
 UID:1b6ae887f9cf84eedd2eaeba84388fe3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: B
@@ -222,6 +237,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ RB Leipzig @ Como (1-4)
 DTSTART:20260910T190000Z
 DTEND:20260910T213000Z
+DTSTAMP:20261002T195648Z
 UID:a184a079a446a7de95c215fc62c6e814@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: RB Leipzig
@@ -236,6 +252,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sabah FK @ Manchester United (0-4)
 DTSTART:20260910T190000Z
 DTEND:20260910T213000Z
+DTSTAMP:20261002T195648Z
 UID:428811953710afa217eba6eb1f4eb121@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
@@ -250,6 +267,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lens @ Slavia Prague (3-2)
 DTSTART:20260910T190000Z
 DTEND:20260910T213000Z
+DTSTAMP:20261002T195648Z
 UID:da69547a8f7bdf95f4d287da7dc4dd70@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: L
@@ -264,6 +282,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sporting CP @ Lens
 DTSTART:20261013T164500Z
 DTEND:20261013T191500Z
+DTSTAMP:20261002T195648Z
 UID:6da1ebaa3e0e19af4d07461d3c3d16c3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Sporting C
@@ -277,6 +296,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slavia Prague @ Sabah FK
 DTSTART:20261013T164500Z
 DTEND:20261013T191500Z
+DTSTAMP:20261002T195648Z
 UID:36ad6a9ab003f473950372ef343b65bb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Slavia
@@ -291,6 +311,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lille @ Arsenal
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:3f533b47a49abcd5d014601dbc3501ed@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Lille\n
@@ -304,6 +325,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Atlético Madrid
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:fdefcc7186b2cafeaa1937218af13e04@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
@@ -318,6 +340,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Barcelona @ Galatasaray
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:889966e63679dffb0a289a17d7da8dda@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Bar
@@ -331,6 +354,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Club Brugge @ Internazionale
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:eec7c4935f448e9f22455720559d9329@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
@@ -344,6 +368,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PSV Eindhoven @ RB Leipzig
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:c8eeda6a0749b1c6c0ad9ef7196114d4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: PSV 
@@ -358,6 +383,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bayern Munich @ Viking FK
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
@@ -372,6 +398,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli @ Villarreal
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195648Z
 UID:301c281b4b2939e150fe255c0ad69fa6@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Napo
@@ -386,6 +413,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Feyenoord Rotterdam
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
+DTSTAMP:20261002T195648Z
 UID:d1daeceb069f03e4c7ad9b813c9632b8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
@@ -399,6 +427,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ LASK Linz
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
+DTSTAMP:20261002T195648Z
 UID:bba28708c470142cd66c1d653bfca45e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Liver
@@ -413,6 +442,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Madrid @ AS Roma
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:ca40972b785e02d388a71dd9a7110049@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Real Ma
@@ -426,6 +456,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Fenerbahce @ Aston Villa
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:9a1f263b019206e4016e257249707d41@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Fen
@@ -439,6 +470,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Borussia Dortmund @ Bodo/Glimt
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:9bea5c1caefb4d1ac6165fa0006e9190@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Boru
@@ -453,6 +485,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Paris Saint-Germain @ Manchester City
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:d371e4eb282426aaa96255e75409bb1a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
@@ -467,6 +500,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ FC Porto @ Real Betis
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:e27344d5888d787d7439886eaefc4e86@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: FC P
@@ -481,6 +515,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AEK Athens @ Shakhtar Donetsk
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:d56a850d5fa18692f28fd143e423941d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
@@ -495,6 +530,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ VfB Stuttgart @ Slovan Bratislava
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195648Z
 UID:a78faf0106af3dce9ea36e8ab5d9826a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
@@ -509,6 +545,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slavia Prague @ Fenerbahce
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
+DTSTAMP:20261002T195648Z
 UID:62d7f2131bd7e60a38366ec67783be5e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Slav
@@ -523,6 +560,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Borussia Dortmund @ Sabah FK
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
+DTSTAMP:20261002T195648Z
 UID:d86e8d3219d567a6988bfea6f2df59b4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Boruss
@@ -537,6 +575,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slovan Bratislava @ AS Roma
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:b78428ffddc2157bc2758b6534ab2dd5@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Slovan 
@@ -550,6 +589,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PSV Eindhoven @ FC Porto
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:6bf5d2acc295dcf841db55623da1eec5@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: PSV Ei
@@ -564,6 +604,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Villarreal @ Liverpool
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:cde1ff0b63c956324037a6de1091a5c1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Villa
@@ -577,6 +618,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AEK Athens @ Manchester City
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:ef9f6fc8fb3ef5ae82e0fe8e23af3230@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
@@ -591,6 +633,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bodo/Glimt @ Napoli
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:9935edf361360960eedd34891ad2194d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Bodo/Gli
@@ -605,6 +648,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Barcelona @ Paris Saint-Germain
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:f5edb3dbed511ef4c5a7cdb299f94bd1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
@@ -619,6 +663,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Atlético Madrid @ VfB Stuttgart
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
+DTSTAMP:20261002T195648Z
 UID:67d680f28f48dbd9b11f3103575b1c6e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: A
@@ -633,6 +678,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Como
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
+DTSTAMP:20261002T195648Z
 UID:86be21f1e054f7098a30334b239da851@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Manchester
@@ -647,6 +693,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Galatasaray @ Lille
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
+DTSTAMP:20261002T195648Z
 UID:cd4ff13927f32b46540afafa38ad9861@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Galatasar
@@ -661,6 +708,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Viking FK @ Aston Villa
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:404c3b5295dbbcbfe99f4e83dd0f1ebb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Vik
@@ -674,6 +722,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Arsenal @ Bayern Munich
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:fd4e964374591150aeb2b81e3d3c7ce4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: A
@@ -687,6 +736,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lens @ Club Brugge
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:bfe96fe0504d1c3e86866199e22f9f18@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Len
@@ -700,6 +750,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Shakhtar Donetsk @ Internazionale
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:592ac8c7c848c8e212600130848adf37@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
@@ -714,6 +765,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Feyenoord Rotterdam @ Real Betis
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:3faeb25efc359365b04e465282b811ce@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Feye
@@ -728,6 +780,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ RB Leipzig @ Real Madrid
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:72beb9190e7fa4f995a7e1aff893e255@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: RB 
@@ -742,6 +795,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ LASK Linz @ Sporting CP
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195648Z
 UID:8dfb75c7bec9e82266dfdf58751e9885@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: LAS
@@ -756,6 +810,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ VfB Stuttgart @ Galatasaray
 DTSTART:20261103T174500Z
 DTEND:20261103T201500Z
+DTSTAMP:20261002T195648Z
 UID:effa6e99a37439682e08ab11cf227891@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: VfB
@@ -769,6 +824,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sporting CP @ Shakhtar Donetsk
 DTSTART:20261103T174500Z
 DTEND:20261103T201500Z
+DTSTAMP:20261002T195648Z
 UID:946148f7b471240eecd2e18e4490093f@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
@@ -783,6 +839,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bayern Munich @ Atlético Madrid
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
@@ -797,6 +854,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aston Villa @ Barcelona
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:1075067c780acf7c3dafd3965aa9ecd3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Aston
@@ -811,6 +869,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lille @ Bodo/Glimt
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:1cb20fec7152d21eb62a28304145c764@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Lill
@@ -824,6 +883,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:d69df5f3a6c1bda85b1a018b514c7f66@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
@@ -838,6 +898,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slovan Bratislava @ LASK Linz
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:55f0f9fa118f31ab8832fb028e48226e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Slova
@@ -852,6 +913,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AS Roma @ Manchester United
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:4d12a4ab781ec4f24a2339629e7db736@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
@@ -866,6 +928,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Paris Saint-Germain @ Villarreal
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
+DTSTAMP:20261002T195648Z
 UID:73dce5cada3808758505d68b827ca351@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Pari
@@ -880,6 +943,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Madrid @ AEK Athens
 DTSTART:20261104T174500Z
 DTEND:20261104T201500Z
+DTSTAMP:20261002T195648Z
 UID:17c210dd06a759dedd9319d66cafcb23@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: Real
@@ -893,6 +957,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ Fenerbahce
 DTSTART:20261104T174500Z
 DTEND:20261104T201500Z
+DTSTAMP:20261002T195648Z
 UID:80d2f4b2f17d563b784c29032d5b7f71@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Live
@@ -907,6 +972,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Betis @ Borussia Dortmund
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:01df2db624ff3c1e9687750b506cc7c3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
@@ -921,6 +987,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli @ FC Porto
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:e68a2b1f420ab432dc2a228c1a398ded@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Napoli
@@ -934,6 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Lens
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:43615f8d444e2b8ac3a0d5fb7f572e99@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Como\nCirc
@@ -947,6 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Club Brugge @ PSV Eindhoven
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:ec660a213b9fc86c284deace0e22d9e0@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: C
@@ -961,6 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester City @ RB Leipzig
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:df1ff0eaa0fbcb65c99eaf9d482849e8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Manc
@@ -975,6 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Arsenal @ Slavia Prague
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:7b01219ab02d1cf9989a2952b47110d7@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
@@ -988,6 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sabah FK @ Viking FK
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195648Z
 UID:02d26adfc7d30177e1432cf7101a9056@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Sabah
@@ -1001,6 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ LASK Linz @ Bodo/Glimt
 DTSTART:20261124T174500Z
 DTEND:20261124T201500Z
+DTSTAMP:20261002T195648Z
 UID:c884d6077e5bdd37ebc60b4fa2a3a161@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: LASK
@@ -1015,6 +1088,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aston Villa @ Galatasaray
 DTSTART:20261124T174500Z
 DTEND:20261124T201500Z
+DTSTAMP:20261002T195648Z
 UID:efb3f0852b56c8950880e53f40d78d99@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Ast
@@ -1028,6 +1102,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Borussia Dortmund @ Arsenal
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:291857af699cc52bbecf04e2bda5457c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Borussi
@@ -1042,6 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AEK Athens @ Como
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:d3ef93543701375ae64fa4db598caf91@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: AEK Athens
@@ -1055,6 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ FC Porto @ Feyenoord Rotterdam
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:79522487e62f0b38c535330cea37f68b@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
@@ -1069,6 +1146,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli @ Manchester City
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:f27b6ea58b3526a61caa086baf2ef33c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
@@ -1083,6 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lens @ RB Leipzig
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:2ca984054fe0c0b443825e4e768afa07@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Lens
@@ -1096,6 +1175,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PSV Eindhoven @ Real Madrid
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:b0ded9fce3c457363e8f6ac519000c51@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: PSV
@@ -1110,6 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Betis @ Slovan Bratislava
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195648Z
 UID:620a5319c27ca20d041063a1d6d37674@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
@@ -1124,6 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Barcelona @ Sabah FK
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
+DTSTAMP:20261002T195648Z
 UID:2a63d1f8f478320033315cfe90eb4be1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Barcel
@@ -1137,6 +1219,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Villarreal @ Slavia Prague
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
+DTSTAMP:20261002T195648Z
 UID:7207edb9b190822806dfdf2dba6c8211@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: V
@@ -1150,6 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Viking FK @ Atlético Madrid
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
@@ -1164,6 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ Club Brugge
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:ed2579c08313adeb738576b65ddc8efb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Liv
@@ -1178,6 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ VfB Stuttgart @ Internazionale
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:a40e970c04be7fdeea1644b9061f5c76@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
@@ -1191,6 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bayern Munich @ Lille
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:47452d3a0c4d4d7a5499b8f96abd8922@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Bayern Mu
@@ -1205,6 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AS Roma @ Paris Saint-Germain
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:9bcd3729a609912af8e8e9bffbdf0650@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
@@ -1219,6 +1307,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:89eb06a0b82caeea150c7ce53a6afd72@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
@@ -1233,6 +1322,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Sporting CP
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
+DTSTAMP:20261002T195648Z
 UID:fee496fc8c566cbe5a2eeb11a60934cc@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Man
@@ -1247,6 +1337,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Feyenoord Rotterdam @ Viking FK
 DTSTART:20261208T174500Z
 DTEND:20261208T201500Z
+DTSTAMP:20261002T195648Z
 UID:52820c29ded5c8b93150f2c1bc77c974@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Feyen
@@ -1261,6 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sabah FK @ Villarreal
 DTSTART:20261208T174500Z
 DTEND:20261208T201500Z
+DTSTAMP:20261002T195648Z
 UID:960b7f547296b51a2bbb37c1f542a209@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Saba
@@ -1275,6 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Galatasaray @ AEK Athens
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:0c0a601490d977c1fbfa62a09959192b@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: Gala
@@ -1288,6 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sporting CP @ AS Roma
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:f7cdd7a975c475a1ab6a79288aab4abd@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Sportin
@@ -1301,6 +1395,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Paris Saint-Germain @ Aston Villa
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:11cdba097b7cc073f6b412f1eab5c0e8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Par
@@ -1315,6 +1410,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester City @ Barcelona
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:6a08d7e9cf09654ce23eb5c554d15b68@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Manch
@@ -1329,6 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slavia Prague @ Bayern Munich
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:75c8960ae8f96deedb02c2dd1e05d1ce@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: S
@@ -1343,6 +1440,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ RB Leipzig @ Manchester United
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:e0ae599024c24d2631d5781acf181a4c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
@@ -1357,6 +1455,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Club Brugge @ Napoli
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195648Z
 UID:621bd2053fa96cd5d2f751cfec0b3c99@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Club Bru
@@ -1371,6 +1470,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Real Betis
 DTSTART:20261209T174500Z
 DTEND:20261209T201500Z
+DTSTAMP:20261002T195648Z
 UID:7500cd37787f9c2eab9ef48b2ffda8be@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Como
@@ -1384,6 +1484,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Shakhtar Donetsk @ Slovan Bratislava
 DTSTART:20261209T174500Z
 DTEND:20261209T201500Z
+DTSTAMP:20261002T195648Z
 UID:20dec5b71cf4c868eae89a630a625fc0@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
@@ -1398,6 +1499,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Madrid @ Arsenal
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:fcdc9fee8dc709fd9f5cc52588e1a35d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Real Ma
@@ -1411,6 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Internazionale @ Borussia Dortmund
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:c7a9939f2d927f72a08a7e14dba16a95@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
@@ -1425,6 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Fenerbahce @ LASK Linz
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:518cd2dac148466d7fcaaaa79740f4a5@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Fener
@@ -1439,6 +1543,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bodo/Glimt @ Lens
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:34b0c59b727b7b8cf5f111a07dca4932@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Bodo/Glimt
@@ -1452,6 +1557,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ FC Porto @ Liverpool
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:ab4c99d6cd2d892bad13c3c21e09d218@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: FC Po
@@ -1465,6 +1571,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Atlético Madrid @ PSV Eindhoven
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:d52c021a7ae7c19b186cbd8b1e5f6b1a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: A
@@ -1479,6 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lille @ VfB Stuttgart
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195648Z
 UID:dcb7d1bfa16c57a46031a17356c62f72@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: L
@@ -1492,6 +1600,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Atlético Madrid @ Bodo/Glimt
 DTSTART:20270119T174500Z
 DTEND:20270119T201500Z
+DTSTAMP:20261002T195648Z
 UID:41ce1a6f23ae547e7f95df37ca76f492@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Atl
@@ -1506,6 +1615,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Feyenoord Rotterdam @ Galatasaray
 DTSTART:20270119T174500Z
 DTEND:20270119T201500Z
+DTSTAMP:20261002T195648Z
 UID:5221dca3c87cfabb2a97dabae5e003b7@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Fey
@@ -1520,6 +1630,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AS Roma @ AEK Athens
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:16ef5b0a5b2edf191c1771a8b15e1c3e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: AS R
@@ -1533,6 +1644,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Borussia Dortmund @ Aston Villa
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:623f6ea48b8277d5015fc46c75c8006e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Bor
@@ -1547,6 +1659,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slavia Prague @ FC Porto
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:493f0270234eec8c6754f7b2e9d76e33@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Slavia
@@ -1561,6 +1674,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ Internazionale
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:077b032ad57a6d231921554f323bd604@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
@@ -1574,6 +1688,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slovan Bratislava @ Lille
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:4ae9ce862f451daeebe27cd3abe07615@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Slovan Br
@@ -1588,6 +1703,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ LASK Linz @ Real Madrid
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:27b45e41733f26c82cb963bbda035d41@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: LAS
@@ -1602,6 +1718,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Club Brugge @ VfB Stuttgart
 DTSTART:20270119T200000Z
 DTEND:20270119T223000Z
+DTSTAMP:20261002T195648Z
 UID:c05fbf822f3f9beb313b20430fa81068@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: C
@@ -1615,6 +1732,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Villarreal @ Fenerbahce
 DTSTART:20270120T174500Z
 DTEND:20270120T201500Z
+DTSTAMP:20261002T195648Z
 UID:6e0cd6072698bf6098959328c4bae911@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Vill
@@ -1629,6 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli @ Sabah FK
 DTSTART:20270120T174500Z
 DTEND:20270120T201500Z
+DTSTAMP:20261002T195648Z
 UID:0309beefa3c4431af348386a2cf1df55@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Napoli
@@ -1642,6 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Paris Saint-Germain @ Como
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:f82d21c7b5264f44153ac3ef6aab5e33@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Paris Sain
@@ -1656,6 +1776,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester City @ Lens
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:24bc2a239b529d532bed2725fbed5db4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Manchester
@@ -1670,6 +1791,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bayern Munich @ Manchester United
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:f659ec3e39d381074f6cfe475a951ce0@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
@@ -1684,6 +1806,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Shakhtar Donetsk @ RB Leipzig
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:3c3a7f45c04a2bb5384752080db358b8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Shak
@@ -1698,6 +1821,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Arsenal @ Real Betis
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:1a712274b17d8fd20dccc9933ad90acc@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Arse
@@ -1711,6 +1835,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Barcelona @ Sporting CP
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:c3a137e1293e9bebb99c65667f69523d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Bar
@@ -1725,6 +1850,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PSV Eindhoven @ Viking FK
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
+DTSTAMP:20261002T195648Z
 UID:0fef76eb937706529645b27035169359@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: PSV E
@@ -1739,6 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sabah FK @ Arsenal
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:e953bf1491262dd1df6b5c4809d31cf0@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Sabah F
@@ -1752,6 +1879,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lille @ AS Roma
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:7e8c299008e4dddb1e3c82c4dccedada@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Lille\n
@@ -1765,6 +1893,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Fenerbahce @ Atlético Madrid
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:1aec2256b129cdf34058d24673391f05@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
@@ -1779,6 +1908,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Barcelona
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:4f4fe93568bc622351b4a7135d2bb969@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como
@@ -1792,6 +1922,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Betis @ Bayern Munich
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:fa3cc4f9ce8cf5db17c4981cc1c94b42@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: R
@@ -1806,6 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ AEK Athens @ Borussia Dortmund
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:fb43ba126b72708926355240b7a4357f@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
@@ -1820,6 +1952,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bodo/Glimt @ Club Brugge
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:b934cace2d8beb1659ebe981488aefd4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Bod
@@ -1834,6 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ RB Leipzig @ Feyenoord Rotterdam
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:26a23e02a65f5a36b1f85d814f8f63e9@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
@@ -1848,6 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ FC Porto @ LASK Linz
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:df316080df763a884d1146ac09b79cd1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: FC Po
@@ -1862,6 +1997,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lens @ Liverpool
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:b0037afc391b115338d95f5c9a5b5956@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens
@@ -1875,6 +2011,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Sporting CP @ Manchester City
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:498e4824714795b046c535aa70b82674@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
@@ -1889,6 +2026,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Viking FK @ Napoli
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:1ddb50545b7108e32f4885a10fb292e4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Viking F
@@ -1903,6 +2041,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Galatasaray @ Paris Saint-Germain
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:2fc5836146b5f101bfd9cbab4cc5251c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
@@ -1917,6 +2056,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ VfB Stuttgart @ PSV Eindhoven
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:0971e9b30373e61b32961ac498315a2a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: V
@@ -1931,6 +2071,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Real Madrid @ Shakhtar Donetsk
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:9713abdfe4ece3a7036d0b0e3afab4fa@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
@@ -1945,6 +2086,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aston Villa @ Slavia Prague
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:13d1243e3e3d661fdcf1334b6cd2f5c9@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
@@ -1959,6 +2101,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Internazionale @ Slovan Bratislava
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:48b01f2338b1619cfdf4b4200764f239@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
@@ -1973,6 +2116,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Villarreal
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
+DTSTAMP:20261002T195648Z
 UID:3599a450d399e13d2aee15436990cc3a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Manc

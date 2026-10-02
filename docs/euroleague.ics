@@ -12,6 +12,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ FC Barcelona
 DTSTART:20270416T183000Z
 DTEND:20270416T210000Z
+DTSTAMP:20261002T195620Z
 UID:074c7c97eeb1a560b387c2876f08150c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Partizan
@@ -26,6 +27,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Olympiacos Piraeus
 DTSTART:20270416T181500Z
 DTEND:20270416T204500Z
+DTSTAMP:20261002T195620Z
 UID:ca8b09b0e98de27030934a5806fa0eda@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Va
@@ -40,6 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Besiktas Istanbul
 DTSTART:20270416T170000Z
 DTEND:20270416T193000Z
+DTSTAMP:20261002T195620Z
 UID:a205681b09cf9d5753e66e12bd0a1ad6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Vir
@@ -54,6 +57,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Dubai Basketball
 DTSTART:20270416T160000Z
 DTEND:20270416T183000Z
+DTSTAMP:20261002T195620Z
 UID:d1714a47c18718dd590af78996c72203@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: LDLC
@@ -68,6 +72,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Paris Basketball
 DTSTART:20270415T184500Z
 DTEND:20270415T211500Z
+DTSTAMP:20261002T195620Z
 UID:4b9a8d36e99dd1bff034d7b1fc455724@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: FC B
@@ -82,6 +87,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Panathinaikos AKTOR Athens
 DTSTART:20270415T181500Z
 DTEND:20270415T204500Z
+DTSTAMP:20261002T195620Z
 UID:2a732c4a59b5c144636b765e3dbc3b5c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -96,6 +102,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Maccabi Rapyd Tel Aviv
 DTSTART:20270415T180500Z
 DTEND:20270415T203500Z
+DTSTAMP:20261002T195620Z
 UID:9e5a6882179e090f18fbd05b9818801b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -110,6 +117,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270415T180000Z
 DTEND:20270415T203000Z
+DTSTAMP:20261002T195620Z
 UID:56011ba915f012d1646d29763cbc2326@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -124,6 +132,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Anadolu Efes Istanbul
 DTSTART:20270415T173000Z
 DTEND:20270415T200000Z
+DTSTAMP:20261002T195620Z
 UID:cf901145d15b6368430c2358450e77a7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -138,6 +147,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Zalgiris Kaunas
 DTSTART:20270415T170000Z
 DTEND:20270415T193000Z
+DTSTAMP:20261002T195620Z
 UID:5ee2c3648d16fe770ef88abaaecf3177@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Fener
@@ -152,6 +162,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Partizan Mozzart Bet Belgrade
 DTSTART:20270409T184500Z
 DTEND:20270409T211500Z
+DTSTAMP:20261002T195620Z
 UID:02068fb1d1a3a6da68c538e5a0e5bf83@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -166,6 +177,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Olympiacos Piraeus
 DTSTART:20270409T181500Z
 DTEND:20270409T204500Z
+DTSTAMP:20261002T195620Z
 UID:2ed8612f43ec8fcb3a958f9d77a7aa7c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Za
@@ -180,6 +192,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Besiktas Istanbul
 DTSTART:20270409T170000Z
 DTEND:20270409T193000Z
+DTSTAMP:20261002T195620Z
 UID:3ff93d97eb2b6121bd49ac114a95cf38@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Mac
@@ -194,6 +207,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Paris Basketball
 DTSTART:20270408T184500Z
 DTEND:20270408T211500Z
+DTSTAMP:20261002T195620Z
 UID:f482c5191aba185b9e86b86b872c83b4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: FC B
@@ -208,6 +222,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Valencia Basket
 DTSTART:20270408T183000Z
 DTEND:20270408T210000Z
+DTSTAMP:20261002T195620Z
 UID:fdf6131330c94b623b4a4f580e224d65@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Anado
@@ -222,6 +237,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Armani Olimpia Milan
 DTSTART:20270408T183000Z
 DTEND:20270408T210000Z
+DTSTAMP:20261002T195620Z
 UID:103b1e30b84da317a7da8f3ef1f42d43@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -236,6 +252,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Panathinaikos AKTOR Athens
 DTSTART:20270408T181500Z
 DTEND:20270408T204500Z
+DTSTAMP:20261002T195620Z
 UID:77b31fa647ef11c0bc21dc627a080855@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -250,6 +267,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ FC Bayern Munich
 DTSTART:20270408T180000Z
 DTEND:20270408T203000Z
+DTSTAMP:20261002T195620Z
 UID:368d9dbc7634e5ecc1c65f282112ea6a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Fene
@@ -264,6 +282,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ LDLC ASVEL Villeurbanne
 DTSTART:20270408T180000Z
 DTEND:20270408T203000Z
+DTSTAMP:20261002T195620Z
 UID:6772c20e3b72c8ce30fc7ef5dc1d1725@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -278,6 +297,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Hapoel IBI Tel Aviv
 DTSTART:20270408T170000Z
 DTEND:20270408T193000Z
+DTSTAMP:20261002T195620Z
 UID:7b722c1174a184fbf0f92e8446215924@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: C
@@ -292,6 +312,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Maccabi Rapyd Tel Aviv
 DTSTART:20270407T160000Z
 DTEND:20270407T183000Z
+DTSTAMP:20261002T195620Z
 UID:76e1fb2b1689e79996d248d41e07cca9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -306,6 +327,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Dubai Basketball
 DTSTART:20270407T160000Z
 DTEND:20270407T183000Z
+DTSTAMP:20261002T195620Z
 UID:17e2293607f532348c11c9c36cc8691b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Zalg
@@ -320,6 +342,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Real Madrid
 DTSTART:20270406T184500Z
 DTEND:20270406T211500Z
+DTSTAMP:20261002T195620Z
 UID:f75d7d5f4478ac0003cca66be7f86b29@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Armani Ol
@@ -334,6 +357,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Paris Basketball
 DTSTART:20270406T184500Z
 DTEND:20270406T211500Z
+DTSTAMP:20261002T195620Z
 UID:f0c5e8c5ae9bb53ca19509d9e29e37ee@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Anad
@@ -348,6 +372,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ FC Barcelona
 DTSTART:20270406T184500Z
 DTEND:20270406T211500Z
+DTSTAMP:20261002T195620Z
 UID:883f6fa3aa715b27b36a00ec904b08ff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: FC Bayer
@@ -362,6 +387,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Virtus Bologna
 DTSTART:20270406T183000Z
 DTEND:20270406T210000Z
+DTSTAMP:20261002T195620Z
 UID:25cdfa1693bababbb172a15722c0a771@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Valenc
@@ -376,6 +402,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20270406T183000Z
 DTEND:20270406T210000Z
+DTSTAMP:20261002T195620Z
 UID:525444144f241490e36275232dfa3b82@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -391,6 +418,7 @@ SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Crvena Zvezda Meridianbet Be
  lgrade
 DTSTART:20270406T183000Z
 DTEND:20270406T210000Z
+DTSTAMP:20261002T195620Z
 UID:639dfda9714a201d18fa4596bbb15f22@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -405,6 +433,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Fenerbahce Tarfin Istanbul
 DTSTART:20270406T174500Z
 DTEND:20270406T201500Z
+DTSTAMP:20261002T195620Z
 UID:4c55831020b7d9bfb0e64c4e483889b5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -419,6 +448,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Besiktas Istanbul
 DTSTART:20270406T170000Z
 DTEND:20270406T193000Z
+DTSTAMP:20261002T195620Z
 UID:c5a2b39f3d0746d21569bbd8a1fe7837@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Hap
@@ -433,6 +463,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Partizan Mozzart Bet Belgrade
 DTSTART:20270402T184500Z
 DTEND:20270402T211500Z
+DTSTAMP:20261002T195620Z
 UID:635c140296110e0521f04f1ec09eac48@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -447,6 +478,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ FC Barcelona
 DTSTART:20270402T183000Z
 DTEND:20270402T210000Z
+DTSTAMP:20261002T195620Z
 UID:8848a0b2572c123c0cdecc7f7f2c8884@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Panathin
@@ -461,6 +493,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20270402T183000Z
 DTEND:20270402T210000Z
+DTSTAMP:20261002T195620Z
 UID:d3803b061a96dd1058146357b1b62750@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -475,6 +508,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Paris Basketball
 DTSTART:20270401T184500Z
 DTEND:20270401T211500Z
+DTSTAMP:20261002T195620Z
 UID:0d09e59b745d9582eb4dc4fa5d6e065c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Duba
@@ -489,6 +523,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Valencia Basket
 DTSTART:20270401T183000Z
 DTEND:20270401T210000Z
+DTSTAMP:20261002T195620Z
 UID:894036cb71a68fdfdec3e035ad357b63@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Real 
@@ -503,6 +538,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Armani Olimpia Milan
 DTSTART:20270401T183000Z
 DTEND:20270401T210000Z
+DTSTAMP:20261002T195620Z
 UID:7a4f38357c30bd468b5f7827b8f61b1f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -517,6 +553,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Maccabi Rapyd Tel Aviv
 DTSTART:20270401T180500Z
 DTEND:20270401T203500Z
+DTSTAMP:20261002T195620Z
 UID:51a3acfe9ecb21f653e6f25b2167bdda@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -531,6 +568,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Virtus Bologna
 DTSTART:20270331T183000Z
 DTEND:20270331T210000Z
+DTSTAMP:20261002T195620Z
 UID:ed9b7823d4799bd874932e526a33497f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Crvena
@@ -545,6 +583,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Zalgiris Kaunas
 DTSTART:20270331T180000Z
 DTEND:20270331T203000Z
+DTSTAMP:20261002T195620Z
 UID:f94904cc5c017e2da3a85fe3566ea5c1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Hapoe
@@ -559,6 +598,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Anadolu Efes Istanbul
 DTSTART:20270331T173000Z
 DTEND:20270331T200000Z
+DTSTAMP:20261002T195620Z
 UID:620b1df6b86ab38a5d37b06a367b7eb2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -573,6 +613,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Real Madrid
 DTSTART:20270326T194500Z
 DTEND:20270326T221500Z
+DTSTAMP:20261002T195620Z
 UID:88e1bde049714cd066cb10f3e132e1d1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Besiktas 
@@ -587,6 +628,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Armani Olimpia Milan
 DTSTART:20270326T193000Z
 DTEND:20270326T220000Z
+DTSTAMP:20261002T195620Z
 UID:78733979d8b1efc9f32cd7da3d3f6011@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -601,6 +643,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Olympiacos Piraeus
 DTSTART:20270326T191500Z
 DTEND:20270326T214500Z
+DTSTAMP:20261002T195620Z
 UID:5aae7e454469354f1bcb478636877031@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Vi
@@ -615,6 +658,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Bayern Munich
 DTSTART:20270326T190000Z
 DTEND:20270326T213000Z
+DTSTAMP:20261002T195620Z
 UID:39169593817372d68308d525abb31e34@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Zalg
@@ -629,6 +673,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270326T190000Z
 DTEND:20270326T213000Z
+DTSTAMP:20261002T195620Z
 UID:92cd6062c3aea981f0093e5c79a4e099@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -643,6 +688,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Fenerbahce Tarfin Istanbul
 DTSTART:20270326T174500Z
 DTEND:20270326T201500Z
+DTSTAMP:20261002T195620Z
 UID:7246405a54cdb93aefa3962fdc1c594f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -658,6 +704,7 @@ SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Panathinaikos AKTOR Athen
  s
 DTSTART:20270325T191500Z
 DTEND:20270325T214500Z
+DTSTAMP:20261002T195620Z
 UID:66ffc80f101468d8ebbd275da1a712df@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -672,6 +719,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ LDLC ASVEL Villeurbanne
 DTSTART:20270325T190000Z
 DTEND:20270325T213000Z
+DTSTAMP:20261002T195620Z
 UID:15f888fb54af615cb9fe82d11c2b9467@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -686,6 +734,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Hapoel IBI Tel Aviv
 DTSTART:20270325T180000Z
 DTEND:20270325T203000Z
+DTSTAMP:20261002T195620Z
 UID:82c373284e62acb0da6d961f24ccc779@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: D
@@ -700,6 +749,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Anadolu Efes Istanbul
 DTSTART:20270325T173000Z
 DTEND:20270325T200000Z
+DTSTAMP:20261002T195620Z
 UID:1a9845875875aca533f772fcd66f632f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -715,6 +765,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Valencia Basket
 DTSTART:20270324T193000Z
 DTEND:20270324T220000Z
+DTSTAMP:20261002T195620Z
 UID:c083e2d6e0c0633a6f033a4b661e62a7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Besik
@@ -729,6 +780,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Olympiacos Piraeus
 DTSTART:20270324T191500Z
 DTEND:20270324T214500Z
+DTSTAMP:20261002T195620Z
 UID:3c7c6458383bd35475c48b4b9a0aedb8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: FC
@@ -743,6 +795,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ FC Bayern Munich
 DTSTART:20270324T190000Z
 DTEND:20270324T213000Z
+DTSTAMP:20261002T195620Z
 UID:c6f5605258fb26fd4be1fa8d54ae3d6c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Real
@@ -757,6 +810,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Zalgiris Kaunas
 DTSTART:20270324T180000Z
 DTEND:20270324T203000Z
+DTSTAMP:20261002T195620Z
 UID:af54042d6d41f1f9641c1ddb388c2506@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Macca
@@ -771,6 +825,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Partizan Mozzart Bet Belgrade
 DTSTART:20270323T194500Z
 DTEND:20270323T221500Z
+DTSTAMP:20261002T195620Z
 UID:9c8f47ec3679d3ef215d525ae36e1d3c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -785,6 +840,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Paris Basketball
 DTSTART:20270323T194500Z
 DTEND:20270323T221500Z
+DTSTAMP:20261002T195620Z
 UID:aea4df120f278b493ca66af9b6a8a168@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Arma
@@ -799,6 +855,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ LDLC ASVEL Villeurbanne
 DTSTART:20270323T190000Z
 DTEND:20270323T213000Z
+DTSTAMP:20261002T195620Z
 UID:e0f86530b0f76191c7ee5b85e06680ff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -813,6 +870,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Hapoel IBI Tel Aviv
 DTSTART:20270323T180000Z
 DTEND:20270323T203000Z
+DTSTAMP:20261002T195620Z
 UID:6e4762e8b1c82f0024a3ac4c3df831cf@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: F
@@ -828,6 +886,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Anadolu Efes Istanbu
  l
 DTSTART:20270323T173000Z
 DTEND:20270323T200000Z
+DTSTAMP:20261002T195620Z
 UID:2ffc840b419280fa878d9a997eb938c6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -843,6 +902,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Dubai Basketball
 DTSTART:20270323T160000Z
 DTEND:20270323T183000Z
+DTSTAMP:20261002T195620Z
 UID:7687a3295c6eee75b459a20bc04fbf55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Kosn
@@ -857,6 +917,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ FC Barcelona
 DTSTART:20270319T193000Z
 DTEND:20270319T220000Z
+DTSTAMP:20261002T195620Z
 UID:d605f807ed7ecf83ae0395632963e826@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Hapoel I
@@ -871,6 +932,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ LDLC ASVEL Villeurbanne
 DTSTART:20270319T190000Z
 DTEND:20270319T213000Z
+DTSTAMP:20261002T195620Z
 UID:d472cf7f9fae056206e40171d630c5bd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -885,6 +947,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270319T190000Z
 DTEND:20270319T213000Z
+DTSTAMP:20261002T195620Z
 UID:5e7733964722028a746449ef6b9e52a9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -899,6 +962,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Besiktas Istanbul
 DTSTART:20270319T170000Z
 DTEND:20270319T193000Z
+DTSTAMP:20261002T195620Z
 UID:b71ad3e007030ba7eb2f08203323a5ca@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Ana
@@ -913,6 +977,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Dubai Basketball
 DTSTART:20270319T160000Z
 DTEND:20270319T183000Z
+DTSTAMP:20261002T195620Z
 UID:1922d7caff9659125a3ad427ae9ec5dd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Arma
@@ -927,6 +992,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Real Madrid
 DTSTART:20270318T194500Z
 DTEND:20270318T221500Z
+DTSTAMP:20261002T195620Z
 UID:c5962c79898508caefcba2f27b27a12d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Kosner Ba
@@ -941,6 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Partizan Mozzart Bet Belgrade
 DTSTART:20270318T194500Z
 DTEND:20270318T221500Z
+DTSTAMP:20261002T195620Z
 UID:87981e959f2d533c4405bf97b98341ac@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -955,6 +1022,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Panathinaikos AKTOR Athens
 DTSTART:20270318T191500Z
 DTEND:20270318T214500Z
+DTSTAMP:20261002T195620Z
 UID:b43dcbabda0c09ad25a761041be5d345@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -969,6 +1037,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Maccabi Rapyd Tel Aviv
 DTSTART:20270318T190500Z
 DTEND:20270318T213500Z
+DTSTAMP:20261002T195620Z
 UID:b9555c9b779acde22d8f8b18849e1c3e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -983,6 +1052,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Fenerbahce Tarfin Istanbul
 DTSTART:20270318T174500Z
 DTEND:20270318T201500Z
+DTSTAMP:20261002T195620Z
 UID:97776879a07ab2463b1b13fd5febe4f8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -997,6 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ FC Barcelona
 DTSTART:20270312T193000Z
 DTEND:20270312T220000Z
+DTSTAMP:20261002T195620Z
 UID:4d7b134f42fd4bb304810b8cedb69e90@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Kosner B
@@ -1011,6 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Olympiacos Piraeus
 DTSTART:20270312T191500Z
 DTEND:20270312T214500Z
+DTSTAMP:20261002T195620Z
 UID:8a506f14dffccb91f87000bf948a178e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Be
@@ -1025,6 +1097,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270312T190000Z
 DTEND:20270312T213000Z
+DTSTAMP:20261002T195620Z
 UID:2fc83e04352481dd7cfc8c4e8987b3eb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -1039,6 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Zalgiris Kaunas
 DTSTART:20270312T180000Z
 DTEND:20270312T203000Z
+DTSTAMP:20261002T195620Z
 UID:caebe5fef16f3c04f09821ac8a4c0b36@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Arman
@@ -1053,6 +1127,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Fenerbahce Tarfin Istanbul
 DTSTART:20270312T174500Z
 DTEND:20270312T201500Z
+DTSTAMP:20261002T195620Z
 UID:f135e79aba132be11f6325355e55eba8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -1067,6 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Real Madrid
 DTSTART:20270311T194500Z
 DTEND:20270311T221500Z
+DTSTAMP:20261002T195620Z
 UID:d6462ff9350c2843a9fbc867bb7340af@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Virtus Bo
@@ -1081,6 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Paris Basketball
 DTSTART:20270311T194500Z
 DTEND:20270311T221500Z
+DTSTAMP:20261002T195620Z
 UID:53db63cb030145556c557c5956de55bc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Pana
@@ -1095,6 +1172,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Partizan Mozzart Bet Belgrade
 DTSTART:20270311T194500Z
 DTEND:20270311T221500Z
+DTSTAMP:20261002T195620Z
 UID:e97a3adec99bc4bb6f16b4acbd8d926c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -1109,6 +1187,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Maccabi Rapyd Tel Aviv
 DTSTART:20270311T190500Z
 DTEND:20270311T213500Z
+DTSTAMP:20261002T195620Z
 UID:2473e0214502b26122b50ebb0a6728eb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -1123,6 +1202,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ FC Bayern Munich
 DTSTART:20270311T190000Z
 DTEND:20270311T213000Z
+DTSTAMP:20261002T195620Z
 UID:42e424d1cb3a904b216651e68578cb12@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Hapo
@@ -1137,6 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Armani Olimpia Milan
 DTSTART:20270310T193000Z
 DTEND:20270310T220000Z
+DTSTAMP:20261002T195620Z
 UID:17863cdcdf2fb4d1b4d16ea9707d54ce@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -1151,6 +1232,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Dubai Basketball
 DTSTART:20270310T160000Z
 DTEND:20270310T183000Z
+DTSTAMP:20261002T195620Z
 UID:295a7f73cb796a378f5ee6184f9c9bb4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Vale
@@ -1165,6 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Real Madrid
 DTSTART:20270309T194500Z
 DTEND:20270309T221500Z
+DTSTAMP:20261002T195620Z
 UID:734822731c102ac845ee3b2baba513e2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Hapoel IB
@@ -1179,6 +1262,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Partizan Mozzart Bet Belgrade
 DTSTART:20270309T194500Z
 DTEND:20270309T221500Z
+DTSTAMP:20261002T195620Z
 UID:7fe6745b95198dcd310c2368760d20a1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -1193,6 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Virtus Bologna
 DTSTART:20270309T193000Z
 DTEND:20270309T220000Z
+DTSTAMP:20261002T195620Z
 UID:fc770fa3f4ef661d740b9a56d8904a34@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Fenerb
@@ -1208,6 +1293,7 @@ SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Kosner Baskonia Vitoria-Gast
  eiz
 DTSTART:20270309T193000Z
 DTEND:20270309T220000Z
+DTSTAMP:20261002T195620Z
 UID:41ee3eb48b78a1f27bb42ccdd6b2657a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -1223,6 +1309,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Maccabi Rapyd Tel Av
  iv
 DTSTART:20270309T190500Z
 DTEND:20270309T213500Z
+DTSTAMP:20261002T195620Z
 UID:4ca627a18adc6b8afb95e9b5fad9b94c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -1237,6 +1324,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ FC Bayern Munich
 DTSTART:20270309T190000Z
 DTEND:20270309T213000Z
+DTSTAMP:20261002T195620Z
 UID:3b73b1178ecc85f3a820e9ddf51c27a1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Anad
@@ -1251,6 +1339,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Zalgiris Kaunas
 DTSTART:20270309T180000Z
 DTEND:20270309T203000Z
+DTSTAMP:20261002T195620Z
 UID:d21f3ed83631709df99dbaf0815f02a8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: FC Ba
@@ -1265,6 +1354,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Besiktas Istanbul
 DTSTART:20270309T170000Z
 DTEND:20270309T193000Z
+DTSTAMP:20261002T195620Z
 UID:ed80c9195965a57bf28453ad6e6ee121@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: LDL
@@ -1279,6 +1369,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ FC Barcelona
 DTSTART:20270305T193000Z
 DTEND:20270305T220000Z
+DTSTAMP:20261002T195620Z
 UID:c2df9f78cab7b8ac6568ffee071aebb5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Real Mad
@@ -1293,6 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Armani Olimpia Milan
 DTSTART:20270305T193000Z
 DTEND:20270305T220000Z
+DTSTAMP:20261002T195620Z
 UID:63ed73d81869188c793a8f6da40bf886@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -1307,6 +1399,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ FC Bayern Munich
 DTSTART:20270305T190000Z
 DTEND:20270305T213000Z
+DTSTAMP:20261002T195620Z
 UID:ddf34b6d8506f83a3bc49f763b77b617@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: LDLC
@@ -1322,6 +1415,7 @@ SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Crvena Zvezda Meridianbet Be
  lgrade
 DTSTART:20270305T190000Z
 DTEND:20270305T213000Z
+DTSTAMP:20261002T195620Z
 UID:206045739587f7d0a1d4429b8460651b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -1336,6 +1430,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Dubai Basketball
 DTSTART:20270305T160000Z
 DTEND:20270305T183000Z
+DTSTAMP:20261002T195620Z
 UID:2ea88ae062382fa97e553ae249294e6f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Olym
@@ -1350,6 +1445,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Paris Basketball
 DTSTART:20270304T194500Z
 DTEND:20270304T221500Z
+DTSTAMP:20261002T195620Z
 UID:595e68a370d76f111e8f1c3e7aec3bd8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Macc
@@ -1365,6 +1461,7 @@ SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Kosner Baskonia Vitoria-G
  asteiz
 DTSTART:20270304T194500Z
 DTEND:20270304T221500Z
+DTSTAMP:20261002T195620Z
 UID:3109746552b8cd8e05c0be811f7ed297@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -1379,6 +1476,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Virtus Bologna
 DTSTART:20270304T193000Z
 DTEND:20270304T220000Z
+DTSTAMP:20261002T195620Z
 UID:122dc61b235d52be20ed99f9ce58c67e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Hapoel
@@ -1393,6 +1491,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Valencia Basket
 DTSTART:20270304T193000Z
 DTEND:20270304T220000Z
+DTSTAMP:20261002T195620Z
 UID:982299e2370617d9da2e2123e0ffb781@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Zalgi
@@ -1407,6 +1506,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Panathinaikos AKTOR Athens
 DTSTART:20270304T191500Z
 DTEND:20270304T214500Z
+DTSTAMP:20261002T195620Z
 UID:421e9f2cf93589216cc457e64ff15c95@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -1421,6 +1521,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Olympiacos Piraeus
 DTSTART:20270212T191500Z
 DTEND:20270212T214500Z
+DTSTAMP:20261002T195620Z
 UID:a03d7e939779a4c986858b933a5efcef@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
@@ -1435,6 +1536,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Zalgiris Kaunas
 DTSTART:20270212T180000Z
 DTEND:20270212T203000Z
+DTSTAMP:20261002T195620Z
 UID:e9c8972eb9d21f66a80d9581b5acf639@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Real 
@@ -1449,6 +1551,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Fenerbahce Tarfin Istanbul
 DTSTART:20270212T174500Z
 DTEND:20270212T201500Z
+DTSTAMP:20261002T195620Z
 UID:48ffd7f254fc7da4783a1315a2f99bdf@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -1463,6 +1566,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Virtus Bologna
 DTSTART:20270211T193000Z
 DTEND:20270211T220000Z
+DTSTAMP:20261002T195620Z
 UID:fe922e018b85a9f5b2abd7981e38e908@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: FC Bay
@@ -1477,6 +1581,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Valencia Basket
 DTSTART:20270211T193000Z
 DTEND:20270211T220000Z
+DTSTAMP:20261002T195620Z
 UID:cca5d30b7095584e5017e354be96c54a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Paris
@@ -1491,6 +1596,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Maccabi Rapyd Tel Aviv
 DTSTART:20270211T190500Z
 DTEND:20270211T213500Z
+DTSTAMP:20261002T195620Z
 UID:423e203a44192164e3a956c7c698983d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -1506,6 +1612,7 @@ SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Crvena Zvezda Meridianbet
   Belgrade
 DTSTART:20270211T190000Z
 DTEND:20270211T213000Z
+DTSTAMP:20261002T195620Z
 UID:d80cbda6d84a426a0098c893c81302de@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -1520,6 +1627,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Besiktas Istanbul
 DTSTART:20270211T170000Z
 DTEND:20270211T193000Z
+DTSTAMP:20261002T195620Z
 UID:a76f5571c03afa24ebdf5c2c210c285f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Dub
@@ -1534,6 +1642,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ LDLC ASVEL Villeurbanne
 DTSTART:20270210T190000Z
 DTEND:20270210T213000Z
+DTSTAMP:20261002T195620Z
 UID:850d3cfa3c752f60e50f250deaeff522@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -1548,6 +1657,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Hapoel IBI Tel Aviv
 DTSTART:20270210T180000Z
 DTEND:20270210T203000Z
+DTSTAMP:20261002T195620Z
 UID:cb0645265a73299a59bee75732a5063c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: K
@@ -1562,6 +1672,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Partizan Mozzart Bet Belgrade
 DTSTART:20270205T194500Z
 DTEND:20270205T221500Z
+DTSTAMP:20261002T195620Z
 UID:7e96e75b90334c6c2cde80349b785739@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -1576,6 +1687,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Valencia Basket
 DTSTART:20270205T194500Z
 DTEND:20270205T221500Z
+DTSTAMP:20261002T195620Z
 UID:ea80e5c46d78aa4ea4aaa6ea9ecb8976@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: FC Ba
@@ -1590,6 +1702,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Armani Olimpia Milan
 DTSTART:20270205T193000Z
 DTEND:20270205T220000Z
+DTSTAMP:20261002T195620Z
 UID:374f72917b5afc79d5c9ee64e74827eb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -1605,6 +1718,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Kosner Baskonia Vito
  ria-Gasteiz
 DTSTART:20270205T193000Z
 DTEND:20270205T220000Z
+DTSTAMP:20261002T195620Z
 UID:407a120aa44eb078239376cec4159876@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -1619,6 +1733,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ LDLC ASVEL Villeurbanne
 DTSTART:20270205T190000Z
 DTEND:20270205T213000Z
+DTSTAMP:20261002T195620Z
 UID:45735c966b9b020e30d37ab620cb907a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -1633,6 +1748,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Olympiacos Piraeus
 DTSTART:20270205T183000Z
 DTEND:20270205T210000Z
+DTSTAMP:20261002T195620Z
 UID:36b04571aca43ddcbce8b2314ffd8549@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: FC
@@ -1647,6 +1763,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Real Madrid
 DTSTART:20270204T194500Z
 DTEND:20270204T221500Z
+DTSTAMP:20261002T195620Z
 UID:94676252739042af50e14389f7918655@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Paris Bas
@@ -1661,6 +1778,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Zalgiris Kaunas
 DTSTART:20270204T180000Z
 DTEND:20270204T203000Z
+DTSTAMP:20261002T195620Z
 UID:69ff2d90867d40f60f34983431c22163@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Besik
@@ -1675,6 +1793,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Anadolu Efes Istanbul
 DTSTART:20270204T173000Z
 DTEND:20270204T200000Z
+DTSTAMP:20261002T195620Z
 UID:9ec82555a586128faba652b6f0590bee@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -1689,6 +1808,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Dubai Basketball
 DTSTART:20270204T160000Z
 DTEND:20270204T183000Z
+DTSTAMP:20261002T195620Z
 UID:c28352e56c065fee2e2b8368a0c87729@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Virt
@@ -1703,6 +1823,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Valencia Basket
 DTSTART:20270203T194500Z
 DTEND:20270203T221500Z
+DTSTAMP:20261002T195620Z
 UID:6ede3f01d23728d156c5cb12ddfa9cfc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Arman
@@ -1717,6 +1838,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ FC Barcelona
 DTSTART:20270203T193000Z
 DTEND:20270203T220000Z
+DTSTAMP:20261002T195620Z
 UID:6faada407f7fe11695cbe2764ba1f753@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: LDLC ASV
@@ -1731,6 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ FC Bayern Munich
 DTSTART:20270203T190000Z
 DTEND:20270203T213000Z
+DTSTAMP:20261002T195620Z
 UID:6455783f98fe6cce4f98179aad5f7035@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Crve
@@ -1745,6 +1868,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Hapoel IBI Tel Aviv
 DTSTART:20270203T180000Z
 DTEND:20270203T203000Z
+DTSTAMP:20261002T195620Z
 UID:f77fb87ff38af1b1f8c7987c7236100b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: O
@@ -1759,6 +1883,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Partizan Mozzart Bet Belgrade
 DTSTART:20270202T194500Z
 DTEND:20270202T221500Z
+DTSTAMP:20261002T195620Z
 UID:64708c1d7c40c931eb2713947f3c71b1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -1773,6 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Paris Basketball
 DTSTART:20270202T194500Z
 DTEND:20270202T221500Z
+DTSTAMP:20261002T195620Z
 UID:ee14b9c2e8a2fe87c071496e4590f457@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Besi
@@ -1788,6 +1914,7 @@ SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Kosner Baskonia Vitoria-Gast
  eiz
 DTSTART:20270202T193000Z
 DTEND:20270202T220000Z
+DTSTAMP:20261002T195620Z
 UID:7310ec272b3018f7f4662a76f28765d9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -1802,6 +1929,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Panathinaikos AKTOR Athens
 DTSTART:20270202T191500Z
 DTEND:20270202T214500Z
+DTSTAMP:20261002T195620Z
 UID:10fadddba888936daa943791e8413008@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -1816,6 +1944,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Maccabi Rapyd Tel Aviv
 DTSTART:20270202T190500Z
 DTEND:20270202T213500Z
+DTSTAMP:20261002T195620Z
 UID:bc559782e97fe5c73b12f30a2e3a730f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -1830,6 +1959,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Anadolu Efes Istanbul
 DTSTART:20270202T173000Z
 DTEND:20270202T200000Z
+DTSTAMP:20261002T195620Z
 UID:e626ce42138b220e70f3942d5df257a8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -1844,6 +1974,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ FC Barcelona
 DTSTART:20270129T193000Z
 DTEND:20270129T220000Z
+DTSTAMP:20261002T195620Z
 UID:a5e92fc9b732dc409adb8fc39f9e2647@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Dubai Ba
@@ -1858,6 +1989,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Armani Olimpia Milan
 DTSTART:20270129T193000Z
 DTEND:20270129T220000Z
+DTSTAMP:20261002T195620Z
 UID:c9043753b6e39ffb419950c12a9f0dbe@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -1872,6 +2004,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Panathinaikos AKTOR Athens
 DTSTART:20270129T191500Z
 DTEND:20270129T214500Z
+DTSTAMP:20261002T195620Z
 UID:c8fbce48f7861293f7839e239a66b372@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -1886,6 +2019,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ LDLC ASVEL Villeurbanne
 DTSTART:20270129T190000Z
 DTEND:20270129T213000Z
+DTSTAMP:20261002T195620Z
 UID:d768594046a291f5dfc818c40cd94534@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -1900,6 +2034,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Fenerbahce Tarfin Istanbul
 DTSTART:20270129T174500Z
 DTEND:20270129T201500Z
+DTSTAMP:20261002T195620Z
 UID:67c2f7916ada89465b670768ecc066fc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -1914,6 +2049,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Virtus Bologna
 DTSTART:20270128T193000Z
 DTEND:20270128T220000Z
+DTSTAMP:20261002T195620Z
 UID:e1bb1593e61798c2c354fa9da7717494@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Paris 
@@ -1928,6 +2064,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20270128T193000Z
 DTEND:20270128T220000Z
+DTSTAMP:20261002T195620Z
 UID:fa26867cff4eeb70d0b848ea7298726b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -1942,6 +2079,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Olympiacos Piraeus
 DTSTART:20270128T191500Z
 DTEND:20270128T214500Z
+DTSTAMP:20261002T195620Z
 UID:96473869ea852e0c73553e266e20456d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ma
@@ -1956,6 +2094,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ FC Bayern Munich
 DTSTART:20270128T190000Z
 DTEND:20270128T213000Z
+DTSTAMP:20261002T195620Z
 UID:3598fd5dda7ae6c860e7b98dcc1063e0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Vale
@@ -1970,6 +2109,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Besiktas Istanbul
 DTSTART:20270128T170000Z
 DTEND:20270128T193000Z
+DTSTAMP:20261002T195620Z
 UID:5504e392497ac0bdb433903fc5eb5440@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Crv
@@ -1985,6 +2125,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Valencia Basket
 DTSTART:20270122T193000Z
 DTEND:20270122T220000Z
+DTSTAMP:20261002T195620Z
 UID:3a8385b7996d909d887fd8e42936f8b1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: LDLC 
@@ -1999,6 +2140,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270122T190000Z
 DTEND:20270122T213000Z
+DTSTAMP:20261002T195620Z
 UID:914ca10b623565239325d0704f68a46a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -2013,6 +2155,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Zalgiris Kaunas
 DTSTART:20270122T180000Z
 DTEND:20270122T203000Z
+DTSTAMP:20261002T195620Z
 UID:2b142a1bce0bd584fb5faeaf36ecd3d7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Virtu
@@ -2027,6 +2170,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Anadolu Efes Istanbul
 DTSTART:20270122T173000Z
 DTEND:20270122T200000Z
+DTSTAMP:20261002T195620Z
 UID:e9487b51852bd1d571dd76658a9fc581@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -2041,6 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Real Madrid
 DTSTART:20270121T194500Z
 DTEND:20270121T221500Z
+DTSTAMP:20261002T195620Z
 UID:e9451c62984d7d8f0ff5d2b080537569@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Maccabi R
@@ -2055,6 +2200,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Partizan Mozzart Bet Belgrade
 DTSTART:20270121T194500Z
 DTEND:20270121T221500Z
+DTSTAMP:20261002T195620Z
 UID:f57426892e00d47656a3c880409a491c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -2069,6 +2215,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Paris Basketball
 DTSTART:20270121T194500Z
 DTEND:20270121T221500Z
+DTSTAMP:20261002T195620Z
 UID:1afbe80d2bfc165e5dee137d0314ef27@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Kosn
@@ -2083,6 +2230,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ FC Bayern Munich
 DTSTART:20270121T190000Z
 DTEND:20270121T213000Z
+DTSTAMP:20261002T195620Z
 UID:ad21cd73e49c95b92493f5f71e7b2aa0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Arma
@@ -2097,6 +2245,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Fenerbahce Tarfin Istanbul
 DTSTART:20270121T174500Z
 DTEND:20270121T201500Z
+DTSTAMP:20261002T195620Z
 UID:17d13d4c3b3a74cbb0e8bf02d4d5499e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -2111,6 +2260,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Hapoel IBI Tel Aviv
 DTSTART:20270121T170000Z
 DTEND:20270121T193000Z
+DTSTAMP:20261002T195620Z
 UID:35c897863a7900d616e61b451de82da5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: P
@@ -2126,6 +2276,7 @@ SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Partizan Mozzart Bet Belgrad
  e
 DTSTART:20270115T194500Z
 DTEND:20270115T221500Z
+DTSTAMP:20261002T195620Z
 UID:0e4ef7bb8e472139bb5ef4b50fd2b125@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -2140,6 +2291,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Virtus Bologna
 DTSTART:20270115T193000Z
 DTEND:20270115T220000Z
+DTSTAMP:20261002T195620Z
 UID:73d13d4513c23a9ea72fe712b7533b67@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: FC Bar
@@ -2154,6 +2306,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Olympiacos Piraeus
 DTSTART:20270115T191500Z
 DTEND:20270115T214500Z
+DTSTAMP:20261002T195620Z
 UID:2355799d380f1662e5cdc3a015633969@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
@@ -2168,6 +2321,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Besiktas Istanbul
 DTSTART:20270115T170000Z
 DTEND:20270115T193000Z
+DTSTAMP:20261002T195620Z
 UID:462650643758b924e2b5d4724cdb792f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Kos
@@ -2183,6 +2337,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Dubai Basketball
 DTSTART:20270115T160000Z
 DTEND:20270115T183000Z
+DTSTAMP:20261002T195620Z
 UID:357877de10b35fee2ba5bf981042ffeb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Macc
@@ -2197,6 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Real Madrid
 DTSTART:20270114T194500Z
 DTEND:20270114T221500Z
+DTSTAMP:20261002T195620Z
 UID:7ce95d98c7b7bc789e20700b0cc26347@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Anadolu E
@@ -2211,6 +2367,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Armani Olimpia Milan
 DTSTART:20270114T193000Z
 DTEND:20270114T220000Z
+DTSTAMP:20261002T195620Z
 UID:129f3b5d20afef097ef43bcbdebcc94c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -2225,6 +2382,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Panathinaikos AKTOR Athens
 DTSTART:20270114T191500Z
 DTEND:20270114T214500Z
+DTSTAMP:20261002T195620Z
 UID:c4032162fac1877af58915b4b164727f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -2239,6 +2397,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Zalgiris Kaunas
 DTSTART:20270114T180000Z
 DTEND:20270114T203000Z
+DTSTAMP:20261002T195620Z
 UID:65c6ccacb2adfc771b862238b3044a8d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Crven
@@ -2253,6 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Hapoel IBI Tel Aviv
 DTSTART:20270114T180000Z
 DTEND:20270114T203000Z
+DTSTAMP:20261002T195620Z
 UID:3da133c09dd0052a8d89a3c6d3a59522@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: V
@@ -2267,6 +2427,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Olympiacos Piraeus
 DTSTART:20270113T191500Z
 DTEND:20270113T214500Z
+DTSTAMP:20261002T195620Z
 UID:2857259656e53fca718fb2870c910747@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ko
@@ -2281,6 +2442,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Besiktas Istanbul
 DTSTART:20270113T170000Z
 DTEND:20270113T193000Z
+DTSTAMP:20261002T195620Z
 UID:de6171fbb3279ede9417bc7b85edbf76@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Par
@@ -2295,6 +2457,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Virtus Bologna
 DTSTART:20270112T193000Z
 DTEND:20270112T220000Z
+DTSTAMP:20261002T195620Z
 UID:bb6c10a90ce979cbe82688ea9dbca9c3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Anadol
@@ -2309,6 +2472,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ FC Barcelona
 DTSTART:20270112T193000Z
 DTEND:20270112T220000Z
+DTSTAMP:20261002T195620Z
 UID:2d7c08da4d6649f47a5bc3317ba31b8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Armani O
@@ -2323,6 +2487,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Maccabi Rapyd Tel Aviv
 DTSTART:20270112T193000Z
 DTEND:20270112T220000Z
+DTSTAMP:20261002T195620Z
 UID:4f9a3a71343d368f86894b24ed12ebc5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -2337,6 +2502,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Panathinaikos AKTOR Athens
 DTSTART:20270112T191500Z
 DTEND:20270112T214500Z
+DTSTAMP:20261002T195620Z
 UID:52ee46d72b8f40939c928739ad555c4a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -2351,6 +2517,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ LDLC ASVEL Villeurbanne
 DTSTART:20270112T190000Z
 DTEND:20270112T213000Z
+DTSTAMP:20261002T195620Z
 UID:f8595b7a83c23bc4104b50fa7f603c87@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -2365,6 +2532,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270112T190000Z
 DTEND:20270112T213000Z
+DTSTAMP:20261002T195620Z
 UID:3b9a54d64638c52827653a67f8ef1fdb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -2379,6 +2547,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Hapoel IBI Tel Aviv
 DTSTART:20270112T170000Z
 DTEND:20270112T193000Z
+DTSTAMP:20261002T195620Z
 UID:8c591eeb50d85163e0c887b627e2d761@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: P
@@ -2393,6 +2562,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Dubai Basketball
 DTSTART:20270112T160000Z
 DTEND:20270112T183000Z
+DTSTAMP:20261002T195620Z
 UID:671f583b0454ba486cb37f83c3a70832@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Fene
@@ -2407,6 +2577,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20270108T193000Z
 DTEND:20270108T220000Z
+DTSTAMP:20261002T195620Z
 UID:fda1b03099c2a4c27f63fe46661395a4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -2422,6 +2593,7 @@ SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Crvena Zvezda Meridianbet Belgr
  ade
 DTSTART:20270108T190000Z
 DTEND:20270108T213000Z
+DTSTAMP:20261002T195620Z
 UID:06386ee39c9e4e51d86f39dac33d3d08@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -2436,6 +2608,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Dubai Basketball
 DTSTART:20270108T160000Z
 DTEND:20270108T183000Z
+DTSTAMP:20261002T195620Z
 UID:2c065e50897202abae53b2f227b0b15c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: FC B
@@ -2450,6 +2623,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Real Madrid
 DTSTART:20270107T194500Z
 DTEND:20270107T221500Z
+DTSTAMP:20261002T195620Z
 UID:a0db693480ef98328be6d769d5901d61@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Olympiaco
@@ -2464,6 +2638,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Valencia Basket
 DTSTART:20270107T193000Z
 DTEND:20270107T220000Z
+DTSTAMP:20261002T195620Z
 UID:3c3c2a263efecd227fbf94dce7aab52a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Parti
@@ -2478,6 +2653,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Armani Olimpia Milan
 DTSTART:20270107T193000Z
 DTEND:20270107T220000Z
+DTSTAMP:20261002T195620Z
 UID:acae0aff4c3075cee69c88f20d0d1a7b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -2492,6 +2668,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Zalgiris Kaunas
 DTSTART:20270107T180000Z
 DTEND:20270107T203000Z
+DTSTAMP:20261002T195620Z
 UID:259513d0e920594df73227ca398fd12f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Paris
@@ -2506,6 +2683,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Anadolu Efes Istanbul
 DTSTART:20270107T173000Z
 DTEND:20270107T200000Z
+DTSTAMP:20261002T195620Z
 UID:9c4cd592205048ac8ba16c0c24cd3b37@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -2521,6 +2699,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Maccabi Rapyd Tel Aviv
 DTSTART:20270107T170000Z
 DTEND:20270107T193000Z
+DTSTAMP:20261002T195620Z
 UID:4c4dc566669f2c383408c21bcf8474ec@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -2535,6 +2714,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ FC Barcelona
 DTSTART:20270106T193000Z
 DTEND:20270106T220000Z
+DTSTAMP:20261002T195620Z
 UID:740720f7cbf3bbf8a8e5bdc78093da8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Besiktas
@@ -2549,6 +2729,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Paris Basketball
 DTSTART:20261230T194500Z
 DTEND:20261230T221500Z
+DTSTAMP:20261002T195620Z
 UID:d264c6e4d3b2fa2fd9ba1e2314b43ce6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Crve
@@ -2563,6 +2744,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Virtus Bologna
 DTSTART:20261230T193000Z
 DTEND:20261230T220000Z
+DTSTAMP:20261002T195620Z
 UID:584b9c6acaa7fc407f66aae5fdd47e89@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Armani
@@ -2577,6 +2759,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ FC Bayern Munich
 DTSTART:20261230T190000Z
 DTEND:20261230T213000Z
+DTSTAMP:20261002T195620Z
 UID:a9e21d5a7b2ac187793cc952c1ca540a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Besi
@@ -2591,6 +2774,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ LDLC ASVEL Villeurbanne
 DTSTART:20261230T190000Z
 DTEND:20261230T213000Z
+DTSTAMP:20261002T195620Z
 UID:ac623ce306fb50840d1af379a6fd74c2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -2605,6 +2789,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Anadolu Efes Istanbul
 DTSTART:20261230T173000Z
 DTEND:20261230T200000Z
+DTSTAMP:20261002T195620Z
 UID:ad018c8f7898ddf23d9dc6c1bea6c10b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -2619,6 +2804,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Real Madrid
 DTSTART:20261229T200000Z
 DTEND:20261229T223000Z
+DTSTAMP:20261002T195620Z
 UID:12eb1710bace026a3b520c35f59f4e4e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Dubai Bas
@@ -2633,6 +2819,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Partizan Mozzart Bet Belgrade
 DTSTART:20261229T194500Z
 DTEND:20261229T221500Z
+DTSTAMP:20261002T195620Z
 UID:c107275035ebad01566b06bd08e7010d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -2647,6 +2834,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261229T193000Z
 DTEND:20261229T220000Z
+DTSTAMP:20261002T195620Z
 UID:a0a199c77db6df434a9625c3293ac7be@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -2661,6 +2849,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Hapoel IBI Tel Aviv
 DTSTART:20261229T180000Z
 DTEND:20261229T203000Z
+DTSTAMP:20261002T195620Z
 UID:4fee500bbf78204d6832c0215fd8a3b5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: M
@@ -2675,6 +2864,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Fenerbahce Tarfin Istanbul
 DTSTART:20261229T174500Z
 DTEND:20261229T201500Z
+DTSTAMP:20261002T195620Z
 UID:8ba39018227f4bb7d1b9b22feedbbac1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -2689,6 +2879,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Armani Olimpia Milan
 DTSTART:20261223T193000Z
 DTEND:20261223T220000Z
+DTSTAMP:20261002T195620Z
 UID:c3f7df580fd0c46f0dcf439ddafcb376@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -2703,6 +2894,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Maccabi Rapyd Tel Aviv
 DTSTART:20261223T190500Z
 DTEND:20261223T213500Z
+DTSTAMP:20261002T195620Z
 UID:402e829cb9ae7d27244fa6a7c52dff85@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -2718,6 +2910,7 @@ SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Crvena Zvezda Meridianb
  et Belgrade
 DTSTART:20261223T190000Z
 DTEND:20261223T213000Z
+DTSTAMP:20261002T195620Z
 UID:5a9c0e0a68b8314805c762e1dfa067aa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -2732,6 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Zalgiris Kaunas
 DTSTART:20261223T180000Z
 DTEND:20261223T203000Z
+DTSTAMP:20261002T195620Z
 UID:2c5aa306356153275fa6b68cc35d414f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Valen
@@ -2746,6 +2940,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Dubai Basketball
 DTSTART:20261223T160000Z
 DTEND:20261223T183000Z
+DTSTAMP:20261002T195620Z
 UID:7d04bf686a36fd4e4c8c81579fa905fb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Pana
@@ -2760,6 +2955,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Virtus Bologna
 DTSTART:20261222T193000Z
 DTEND:20261222T220000Z
+DTSTAMP:20261002T195620Z
 UID:c16597d43ecb522457273513da155a6e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Real M
@@ -2774,6 +2970,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ FC Bayern Munich
 DTSTART:20261222T190000Z
 DTEND:20261222T213000Z
+DTSTAMP:20261002T195620Z
 UID:f7780d4b8bb9ec65705697820be42379@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Olym
@@ -2788,6 +2985,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ LDLC ASVEL Villeurbanne
 DTSTART:20261222T190000Z
 DTEND:20261222T213000Z
+DTSTAMP:20261002T195620Z
 UID:90cfd250fe229887391d0ae8cdb0b84b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -2802,6 +3000,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Hapoel IBI Tel Aviv
 DTSTART:20261222T180000Z
 DTEND:20261222T203000Z
+DTSTAMP:20261002T195620Z
 UID:cadebdbb2c1e6d39edcbc7bd7e668a49@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: P
@@ -2816,6 +3015,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Besiktas Istanbul
 DTSTART:20261222T170000Z
 DTEND:20261222T193000Z
+DTSTAMP:20261002T195620Z
 UID:110df14faab39c87fea74a069decabe3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Fen
@@ -2830,6 +3030,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ FC Barcelona
 DTSTART:20261218T194500Z
 DTEND:20261218T221500Z
+DTSTAMP:20261002T195620Z
 UID:21077c7a145265e1d3ddb80336b449ad@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Virtus B
@@ -2844,6 +3045,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261218T193000Z
 DTEND:20261218T220000Z
+DTSTAMP:20261002T195620Z
 UID:87465e463c2e662378fb580b6529eb05@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -2858,6 +3060,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261218T193000Z
 DTEND:20261218T220000Z
+DTSTAMP:20261002T195620Z
 UID:b718bff863d7e002dcaad6e001cdb341@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -2872,6 +3075,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ FC Bayern Munich
 DTSTART:20261218T190000Z
 DTEND:20261218T213000Z
+DTSTAMP:20261002T195620Z
 UID:9e1f4220de8dbae44be679e5396b3647@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Pana
@@ -2886,6 +3090,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Olympiacos Piraeus
 DTSTART:20261218T183000Z
 DTEND:20261218T210000Z
+DTSTAMP:20261002T195620Z
 UID:0a7d2c08ecde51a9e3a59e55f3d952d7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
@@ -2900,6 +3105,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Anadolu Efes Istanbul
 DTSTART:20261218T173000Z
 DTEND:20261218T200000Z
+DTSTAMP:20261002T195620Z
 UID:00d465cfaa97781beef51a8fe893182f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -2914,6 +3120,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Real Madrid
 DTSTART:20261217T194500Z
 DTEND:20261217T221500Z
+DTSTAMP:20261002T195620Z
 UID:74f7ccca54c69ce3f159a88c5599708c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Valencia 
@@ -2928,6 +3135,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ LDLC ASVEL Villeurbanne
 DTSTART:20261217T190000Z
 DTEND:20261217T213000Z
+DTSTAMP:20261002T195620Z
 UID:aa05cef1b81cd5006d0f79d544dde237@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -2942,6 +3150,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Hapoel IBI Tel Aviv
 DTSTART:20261217T180000Z
 DTEND:20261217T203000Z
+DTSTAMP:20261002T195620Z
 UID:90a00d017808c2be2d343e342ddc78c7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: Z
@@ -2956,6 +3165,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Fenerbahce Tarfin Istanbul
 DTSTART:20261217T174500Z
 DTEND:20261217T201500Z
+DTSTAMP:20261002T195620Z
 UID:b6418ffca472b9d54f545378202ffac6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -2970,6 +3180,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261216T193000Z
 DTEND:20261216T220000Z
+DTSTAMP:20261002T195620Z
 UID:bffcd7e607957699eb8b58ee8914badb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -2985,6 +3196,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Panathinaikos AKTOR
  Athens
 DTSTART:20261216T191500Z
 DTEND:20261216T214500Z
+DTSTAMP:20261002T195620Z
 UID:e49ccd9839b1b0adf2f23cfa194efa52@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -2999,6 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Besiktas Istanbul
 DTSTART:20261216T170000Z
 DTEND:20261216T193000Z
+DTSTAMP:20261002T195620Z
 UID:c51b903905cf9d52f15e839f9fd230a9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Arm
@@ -3013,6 +3226,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Maccabi Rapyd Tel Aviv
 DTSTART:20261215T200000Z
 DTEND:20261215T223000Z
+DTSTAMP:20261002T195620Z
 UID:7396db587578c5fbc2c6442e13c6e536@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -3027,6 +3241,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Real Madrid
 DTSTART:20261215T194500Z
 DTEND:20261215T221500Z
+DTSTAMP:20261002T195620Z
 UID:4719caecff58e9a08d610714ab4a9518@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: FC Bayern
@@ -3041,6 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Paris Basketball
 DTSTART:20261215T194500Z
 DTEND:20261215T221500Z
+DTSTAMP:20261002T195620Z
 UID:e13ced26c6db42534bf46f623fd3c2b4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Olym
@@ -3055,6 +3271,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Virtus Bologna
 DTSTART:20261215T193000Z
 DTEND:20261215T220000Z
+DTSTAMP:20261002T195620Z
 UID:662879f88042f35139f31da1c198a513@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: LDLC A
@@ -3069,6 +3286,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Valencia Basket
 DTSTART:20261215T193000Z
 DTEND:20261215T220000Z
+DTSTAMP:20261002T195620Z
 UID:9f504818dbcb0a37423afa8caf61199b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Dubai
@@ -3083,6 +3301,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Fenerbahce Tarfin Istanbul
 DTSTART:20261215T174500Z
 DTEND:20261215T201500Z
+DTSTAMP:20261002T195620Z
 UID:62944de154989f2971bb99a164e7eba3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -3097,6 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Anadolu Efes Istanbul
 DTSTART:20261215T173000Z
 DTEND:20261215T200000Z
+DTSTAMP:20261002T195620Z
 UID:ce090bc7b0066e8032c7ed13baabe8c8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -3112,6 +3332,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Partizan Mozzart Bet Belgrade
 DTSTART:20261211T194500Z
 DTEND:20261211T221500Z
+DTSTAMP:20261002T195620Z
 UID:ef0b7aa756a1f0362dbb3201a06834b3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -3126,6 +3347,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Virtus Bologna
 DTSTART:20261211T193000Z
 DTEND:20261211T220000Z
+DTSTAMP:20261002T195620Z
 UID:1b26aad99c1df71c73c7b281a6569ab2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Maccab
@@ -3140,6 +3362,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Panathinaikos AKTOR Athens
 DTSTART:20261211T191500Z
 DTEND:20261211T214500Z
+DTSTAMP:20261002T195620Z
 UID:6235ddc5c162835deba1f12918b89912@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -3154,6 +3377,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Dubai Basketball
 DTSTART:20261211T160000Z
 DTEND:20261211T183000Z
+DTSTAMP:20261002T195620Z
 UID:0c7ff4fc07ad6ee80fbad0d679bd718c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Besi
@@ -3168,6 +3392,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Paris Basketball
 DTSTART:20261210T194500Z
 DTEND:20261210T221500Z
+DTSTAMP:20261002T195620Z
 UID:bf83d666a1b30b60689c3aac93d0972f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Real
@@ -3182,6 +3407,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Valencia Basket
 DTSTART:20261210T193000Z
 DTEND:20261210T220000Z
+DTSTAMP:20261002T195620Z
 UID:05af8a575011aca757c5b9a6e8209bec@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Crven
@@ -3196,6 +3422,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Armani Olimpia Milan
 DTSTART:20261210T193000Z
 DTEND:20261210T220000Z
+DTSTAMP:20261002T195620Z
 UID:055872a9675ae0401426e39634bd6310@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -3210,6 +3437,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Zalgiris Kaunas
 DTSTART:20261210T180000Z
 DTEND:20261210T203000Z
+DTSTAMP:20261002T195620Z
 UID:0dee72bfc358de3d7eda4832e4545d74@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Kosne
@@ -3224,6 +3452,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Hapoel IBI Tel Aviv
 DTSTART:20261210T180000Z
 DTEND:20261210T203000Z
+DTSTAMP:20261002T195620Z
 UID:a5629847257df69881a18374c0617021@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: L
@@ -3238,6 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Fenerbahce Tarfin Istanbul
 DTSTART:20261210T174500Z
 DTEND:20261210T201500Z
+DTSTAMP:20261002T195620Z
 UID:41f66d3e504e0c64594b15351db25c08@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -3252,6 +3482,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Virtus Bologna
 DTSTART:20261204T193000Z
 DTEND:20261204T220000Z
+DTSTAMP:20261002T195620Z
 UID:a534d76ffebdcab7790e296ff830c095@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Partiz
@@ -3266,6 +3497,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261204T193000Z
 DTEND:20261204T220000Z
+DTSTAMP:20261002T195620Z
 UID:ac133d0f017130fad45768e5aa094192@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -3280,6 +3512,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Olympiacos Piraeus
 DTSTART:20261204T191500Z
 DTEND:20261204T214500Z
+DTSTAMP:20261002T195620Z
 UID:cbcf2141441db3f0f398391b9cab008d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: LD
@@ -3294,6 +3527,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Zalgiris Kaunas
 DTSTART:20261204T180000Z
 DTEND:20261204T203000Z
+DTSTAMP:20261002T195620Z
 UID:ef48b35b344610561535f14885594036@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Dubai
@@ -3308,6 +3542,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Besiktas Istanbul
 DTSTART:20261204T170000Z
 DTEND:20261204T193000Z
+DTSTAMP:20261002T195620Z
 UID:417dfdcdedb5c6e50e98c59563597948@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Pan
@@ -3322,6 +3557,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Real Madrid
 DTSTART:20261203T194500Z
 DTEND:20261203T221500Z
+DTSTAMP:20261002T195620Z
 UID:db4ef098d288816b911e43a90995dcf1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: FC Barcel
@@ -3336,6 +3572,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ FC Bayern Munich
 DTSTART:20261203T190000Z
 DTEND:20261203T213000Z
+DTSTAMP:20261002T195620Z
 UID:f5e96bbffff7a74bc8a2e1584f6e93a2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Pari
@@ -3350,6 +3587,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Hapoel IBI Tel Aviv
 DTSTART:20261203T180000Z
 DTEND:20261203T203000Z
+DTSTAMP:20261002T195620Z
 UID:ba719eda0167636f4eb66bff88f7ce10@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: A
@@ -3365,6 +3603,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Fenerbahce Tarfin Is
  tanbul
 DTSTART:20261203T174500Z
 DTEND:20261203T201500Z
+DTSTAMP:20261002T195620Z
 UID:f9de5a4b0a756e4e794994e6f11844b7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -3380,6 +3619,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Anadolu Efes Istanbul
 DTSTART:20261203T173000Z
 DTEND:20261203T200000Z
+DTSTAMP:20261002T195620Z
 UID:67b43e5f0a93b8ad0b6556d175838ce9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -3394,6 +3634,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Real Madrid
 DTSTART:20261125T194500Z
 DTEND:20261125T221500Z
+DTSTAMP:20261002T195620Z
 UID:4da20a23a193ab5a7aea7087f6bae84f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Zalgiris 
@@ -3408,6 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261125T193000Z
 DTEND:20261125T220000Z
+DTSTAMP:20261002T195620Z
 UID:dad3ff8bce2ad6445d223a396651ee69@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -3422,6 +3664,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Olympiacos Piraeus
 DTSTART:20261125T191500Z
 DTEND:20261125T214500Z
+DTSTAMP:20261002T195620Z
 UID:87db0bcf2c187af427e2f0125eabc41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ha
@@ -3436,6 +3679,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Dubai Basketball
 DTSTART:20261125T160000Z
 DTEND:20261125T183000Z
+DTSTAMP:20261002T195620Z
 UID:67923729e2cdef971742241f64af55dc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Part
@@ -3450,6 +3694,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ FC Barcelona
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
+DTSTAMP:20261002T195620Z
 UID:001a019111fa04574360288f2e390fcf@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Fenerbah
@@ -3464,6 +3709,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ LDLC ASVEL Villeurbanne
 DTSTART:20261124T194500Z
 DTEND:20261124T221500Z
+DTSTAMP:20261002T195620Z
 UID:5e17c8d95254b2198a66de9013dd0477@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -3478,6 +3724,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Valencia Basket
 DTSTART:20261124T193000Z
 DTEND:20261124T220000Z
+DTSTAMP:20261002T195620Z
 UID:f8c817db2bffde45a331b3a1638d874e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Panat
@@ -3492,6 +3739,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Bayern Munich
 DTSTART:20261124T190000Z
 DTEND:20261124T213000Z
+DTSTAMP:20261002T195620Z
 UID:1cf5a9f7793f1a41a3b7e8bb46d4164f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Macc
@@ -3506,6 +3754,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261124T180000Z
 DTEND:20261124T203000Z
+DTSTAMP:20261002T195620Z
 UID:4b5ae8e3561d57205b9232f007ce622c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -3520,6 +3769,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Besiktas Istanbul
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
+DTSTAMP:20261002T195620Z
 UID:4c4d97f1290f9ba757ebe6fdf8eb07b2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Par
@@ -3534,6 +3784,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Partizan Mozzart Bet Belgrade
 DTSTART:20261120T194500Z
 DTEND:20261120T221500Z
+DTSTAMP:20261002T195620Z
 UID:37f52d82d099367e9a917a4d945e9c1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -3548,6 +3799,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ FC Barcelona
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
+DTSTAMP:20261002T195620Z
 UID:96eb5e621846da01fd10f9a73a164c74@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Crvena Z
@@ -3562,6 +3814,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Olympiacos Piraeus
 DTSTART:20261120T191500Z
 DTEND:20261120T214500Z
+DTSTAMP:20261002T195620Z
 UID:a14465f3d6b38058316ce0cf73ab1ee5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Re
@@ -3576,6 +3829,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Anadolu Efes Istanbul
 DTSTART:20261120T173000Z
 DTEND:20261120T200000Z
+DTSTAMP:20261002T195620Z
 UID:711c4381bf919cfcba3e316ac8d52926@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -3590,6 +3844,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Valencia Basket
 DTSTART:20261119T200000Z
 DTEND:20261119T223000Z
+DTSTAMP:20261002T195620Z
 UID:19bb48868e90f8a390946ed31a1f1d1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Virtu
@@ -3604,6 +3859,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Paris Basketball
 DTSTART:20261119T194500Z
 DTEND:20261119T221500Z
+DTSTAMP:20261002T195620Z
 UID:2f658064d259d7b8d9a4a1d306d35d40@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Hapo
@@ -3618,6 +3874,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Armani Olimpia Milan
 DTSTART:20261119T193000Z
 DTEND:20261119T220000Z
+DTSTAMP:20261002T195620Z
 UID:8c48a4f0066b6e2a3963c6cc7c2cb79c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -3632,6 +3889,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ FC Bayern Munich
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
+DTSTAMP:20261002T195620Z
 UID:5f06b69c40c29351f3a53368b1124d93@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Kosn
@@ -3646,6 +3904,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Zalgiris Kaunas
 DTSTART:20261119T180000Z
 DTEND:20261119T203000Z
+DTSTAMP:20261002T195620Z
 UID:fe951ba56c11d6b0f24f19ddd51eab8c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Panat
@@ -3660,6 +3919,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Maccabi Rapyd Tel Aviv
 DTSTART:20261119T173000Z
 DTEND:20261119T200000Z
+DTSTAMP:20261002T195620Z
 UID:a9f54adeab3b28ef1378295aa7d79bf7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -3674,6 +3934,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Besiktas Istanbul
 DTSTART:20261118T170000Z
 DTEND:20261118T193000Z
+DTSTAMP:20261002T195620Z
 UID:a0d7a77bee10791dc5c3b49d99a50bec@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Rea
@@ -3688,6 +3949,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Virtus Bologna
 DTSTART:20261117T200000Z
 DTEND:20261117T223000Z
+DTSTAMP:20261002T195620Z
 UID:37198300d5cbe2aeb50eb72af0b02066@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Panath
@@ -3702,6 +3964,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Partizan Mozzart Bet Belgrade
 DTSTART:20261117T194500Z
 DTEND:20261117T221500Z
+DTSTAMP:20261002T195620Z
 UID:a42a6e199fecdde1fb0c96cfb4d4b4b8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -3716,6 +3979,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ FC Barcelona
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
+DTSTAMP:20261002T195620Z
 UID:9e37330dad0b19ecb8b0af341abc1531@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Paris Ba
@@ -3730,6 +3994,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Armani Olimpia Milan
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
+DTSTAMP:20261002T195620Z
 UID:a54c4b374f75d00cfbf7f518311b9b63@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -3744,6 +4009,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
+DTSTAMP:20261002T195620Z
 UID:b5893196f78a99a926e618cf9eb7358f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -3758,6 +4024,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Fenerbahce Tarfin Istanbul
 DTSTART:20261117T180000Z
 DTEND:20261117T203000Z
+DTSTAMP:20261002T195620Z
 UID:12c820d7ca522430a2f7c02581d7fc3e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -3772,6 +4039,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Zalgiris Kaunas
 DTSTART:20261117T180000Z
 DTEND:20261117T203000Z
+DTSTAMP:20261002T195620Z
 UID:ae898e07043b3c00a78e23fef4d579e0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: FC Ba
@@ -3786,6 +4054,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Maccabi Rapyd Tel Aviv
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
+DTSTAMP:20261002T195620Z
 UID:1e8aab3bc47639bb0151e76af080c57a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -3800,6 +4069,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Dubai Basketball
 DTSTART:20261117T160000Z
 DTEND:20261117T183000Z
+DTSTAMP:20261002T195620Z
 UID:f2718999bf9ed9db606241fccf775af4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Anad
@@ -3814,6 +4084,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ LDLC ASVEL Villeurbanne
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
+DTSTAMP:20261002T195620Z
 UID:2ba7311a0e1561793b671d54269b766f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -3828,6 +4099,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Panathinaikos AKTOR Athens
 DTSTART:20261113T191500Z
 DTEND:20261113T214500Z
+DTSTAMP:20261002T195620Z
 UID:6ff9b00af60cda1816f47bf9c9516b2c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -3842,6 +4114,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Anadolu Efes Istanbul
 DTSTART:20261113T173000Z
 DTEND:20261113T200000Z
+DTSTAMP:20261002T195620Z
 UID:bc324aa0bc3842e1087fd5ff48dbd235@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -3856,6 +4129,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Real Madrid
 DTSTART:20261112T200000Z
 DTEND:20261112T223000Z
+DTSTAMP:20261002T195620Z
 UID:8c0289efb03dcc57c7634eb2c13a133f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Crvena Zv
@@ -3870,6 +4144,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Valencia Basket
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
+DTSTAMP:20261002T195620Z
 UID:13d0bfefbcb8daa95971ae043cfc7118@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: FC Ba
@@ -3884,6 +4159,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Armani Olimpia Milan
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
+DTSTAMP:20261002T195620Z
 UID:b28592c682fcbe804e5ebe62e3b4bf47@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -3898,6 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Olympiacos Piraeus
 DTSTART:20261112T191500Z
 DTEND:20261112T214500Z
+DTSTAMP:20261002T195620Z
 UID:2a8d0d23c6af53993b4592adaeb60f48@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Du
@@ -3912,6 +4189,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Maccabi Rapyd Tel Aviv
 DTSTART:20261112T190500Z
 DTEND:20261112T213500Z
+DTSTAMP:20261002T195620Z
 UID:a23503e28779e7a4677ab446b5d1f41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -3927,6 +4205,7 @@ SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Partizan Mozzart Bet Be
  lgrade
 DTSTART:20261111T194500Z
 DTEND:20261111T221500Z
+DTSTAMP:20261002T195620Z
 UID:5cdadc96efc626d0e53ef8b9f54bd029@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -3941,6 +4220,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Paris Basketball
 DTSTART:20261111T194500Z
 DTEND:20261111T221500Z
+DTSTAMP:20261002T195620Z
 UID:342aae9cabc7f7ce2c6920938b86f6ba@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Fene
@@ -3955,6 +4235,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Partizan Mozzart Bet Belgrade
 DTSTART:20261106T194500Z
 DTEND:20261106T221500Z
+DTSTAMP:20261002T195620Z
 UID:d8fa700151c2ec6bad3d3cbeb47f17d6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -3969,6 +4250,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Virtus Bologna
 DTSTART:20261106T193000Z
 DTEND:20261106T220000Z
+DTSTAMP:20261002T195620Z
 UID:a70b38115fda4999deb70e792e6eef40@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Dubai 
@@ -3983,6 +4265,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Olympiacos Piraeus
 DTSTART:20261106T191500Z
 DTEND:20261106T214500Z
+DTSTAMP:20261002T195620Z
 UID:7199cd21ecc4096e387cf6317f9f13de@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Cr
@@ -3997,6 +4280,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul
 DTSTART:20261106T170000Z
 DTEND:20261106T193000Z
+DTSTAMP:20261002T195620Z
 UID:0146676080781dd6aeac39aa896bda0e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Zal
@@ -4011,6 +4295,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Armani Olimpia Milan
 DTSTART:20261105T193000Z
 DTEND:20261105T220000Z
+DTSTAMP:20261002T195620Z
 UID:f4becab98015f585a4e7c8db7be533e5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -4025,6 +4310,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ LDLC ASVEL Villeurbanne
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
+DTSTAMP:20261002T195620Z
 UID:0cb8c82afc79e61f17744329e545d3ff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -4039,6 +4325,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Hapoel IBI Tel Aviv
 DTSTART:20261105T180000Z
 DTEND:20261105T203000Z
+DTSTAMP:20261002T195620Z
 UID:f0670be8c7a2c52562d2466cba8c1187@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: F
@@ -4054,6 +4341,7 @@ SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Fenerbahce Tarfin Istan
  bul
 DTSTART:20261105T180000Z
 DTEND:20261105T203000Z
+DTSTAMP:20261002T195620Z
 UID:f3e36a63b13314df410a3de4b9de94d0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -4068,6 +4356,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Anadolu Efes Istanbul
 DTSTART:20261105T171500Z
 DTEND:20261105T194500Z
+DTSTAMP:20261002T195620Z
 UID:cd6fe3df01c2f639011bba889e4892be@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -4082,6 +4371,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Real Madrid
 DTSTART:20261104T194500Z
 DTEND:20261104T221500Z
+DTSTAMP:20261002T195620Z
 UID:33881b6c6b1adf0dfc2dd4cca590888c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Panathina
@@ -4096,6 +4386,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Virtus Bologna
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
+DTSTAMP:20261002T195620Z
 UID:5c8081676ac84359d1486a497dcfee33@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Besikt
@@ -4110,6 +4401,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ FC Barcelona
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
+DTSTAMP:20261002T195620Z
 UID:6ff88938186226beb0771888d3db177c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Valencia
@@ -4124,6 +4416,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Olympiacos Piraeus
 DTSTART:20261030T191500Z
 DTEND:20261030T214500Z
+DTSTAMP:20261002T195620Z
 UID:3ab2666a9fde1fbc35af70d45aa41f48@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ar
@@ -4138,6 +4431,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ LDLC ASVEL Villeurbanne
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
+DTSTAMP:20261002T195620Z
 UID:02592366950aec519b2fceda7401d8a6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -4152,6 +4446,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Zalgiris Kaunas
 DTSTART:20261030T180000Z
 DTEND:20261030T203000Z
+DTSTAMP:20261002T195620Z
 UID:f697219507323188c514bf87ff69a83f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Parti
@@ -4166,6 +4461,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Anadolu Efes Istanbul
 DTSTART:20261030T173000Z
 DTEND:20261030T200000Z
+DTSTAMP:20261002T195620Z
 UID:0b58b295f2d02c55a250d25419a02a58@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -4180,6 +4476,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Dubai Basketball
 DTSTART:20261030T160000Z
 DTEND:20261030T183000Z
+DTSTAMP:20261002T195620Z
 UID:591784ec264d67dcee3773e279542eea@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Hapo
@@ -4194,6 +4491,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Real Madrid
 DTSTART:20261029T194500Z
 DTEND:20261029T221500Z
+DTSTAMP:20261002T195620Z
 UID:fedf343c2ca78fdcb8aebdf1bf731aaa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Fenerbahc
@@ -4208,6 +4506,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Maccabi Rapyd Tel Aviv
 DTSTART:20261029T190500Z
 DTEND:20261029T213500Z
+DTSTAMP:20261002T195620Z
 UID:45ea9929ea2bc1f030de7f53b8474c55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -4222,6 +4521,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261029T190000Z
 DTEND:20261029T213000Z
+DTSTAMP:20261002T195620Z
 UID:49995c7402ea1eaefc41a7c8c145b571@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -4236,6 +4536,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Virtus Bologna
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
+DTSTAMP:20261002T195620Z
 UID:36223953a1d2706694bc4e5bf949d473@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Zalgir
@@ -4250,6 +4551,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ LDLC ASVEL Villeurbanne
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
+DTSTAMP:20261002T195620Z
 UID:296130534461c4f5ca87a6e790f35ed2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -4264,6 +4566,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Hapoel IBI Tel Aviv
 DTSTART:20261028T180000Z
 DTEND:20261028T203000Z
+DTSTAMP:20261002T195620Z
 UID:46fab805cb1bfda9a0d194f65e90edc5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: A
@@ -4278,6 +4581,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Besiktas Istanbul
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
+DTSTAMP:20261002T195620Z
 UID:8318700dd50de01bc89a3f810cf5a392@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Oly
@@ -4292,6 +4596,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261027T200000Z
 DTEND:20261027T223000Z
+DTSTAMP:20261002T195620Z
 UID:9c8cf30573fda0ceaa97c8fe17658f55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -4306,6 +4611,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Valencia Basket
 DTSTART:20261027T193000Z
 DTEND:20261027T220000Z
+DTSTAMP:20261002T195620Z
 UID:1ebe51aa8c491e3576cfc4f3e084b49c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Fener
@@ -4320,6 +4626,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Panathinaikos AKTOR Athens
 DTSTART:20261027T191500Z
 DTEND:20261027T214500Z
+DTSTAMP:20261002T195620Z
 UID:317e27618137bf84577cec7335184208@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -4334,6 +4641,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ FC Bayern Munich
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
+DTSTAMP:20261002T195620Z
 UID:402b45508b1f1c5b21b3f0c0b482c278@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: FC B
@@ -4349,6 +4657,7 @@ SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Crvena Zvezda Meridianbet Belgra
  de
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
+DTSTAMP:20261002T195620Z
 UID:98422bda6a4acf1c80191f6123ef5616@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -4363,6 +4672,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Dubai Basketball
 DTSTART:20261027T160000Z
 DTEND:20261027T183000Z
+DTSTAMP:20261002T195620Z
 UID:b1f3e14872723a7bc5216e6e41a45531@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Pari
@@ -4377,6 +4687,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Paris Basketball
 DTSTART:20261023T184500Z
 DTEND:20261023T211500Z
+DTSTAMP:20261002T195620Z
 UID:cdab64f4b88e1cbd03ee2a9913a79aff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Vale
@@ -4391,6 +4702,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Olympiacos Piraeus
 DTSTART:20261023T181500Z
 DTEND:20261023T204500Z
+DTSTAMP:20261002T195620Z
 UID:5cdfc7a8f3e10a894248b0cf1fdd11e4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Fe
@@ -4405,6 +4717,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Zalgiris Kaunas
 DTSTART:20261023T170000Z
 DTEND:20261023T193000Z
+DTSTAMP:20261002T195620Z
 UID:d0691079a8bb7c9efb9c650d554af95c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: LDLC 
@@ -4420,6 +4733,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Partizan Mozzart Bet
   Belgrade
 DTSTART:20261022T184500Z
 DTEND:20261022T211500Z
+DTSTAMP:20261002T195620Z
 UID:493bb96f1148487e7585f4f35705f3d2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -4434,6 +4748,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Armani Olimpia Milan
 DTSTART:20261022T183000Z
 DTEND:20261022T210000Z
+DTSTAMP:20261002T195620Z
 UID:679be5ba1f0c133772713b9a1b3e5800@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -4449,6 +4764,7 @@ SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Panathinaikos AKTOR Ath
  ens
 DTSTART:20261022T181500Z
 DTEND:20261022T204500Z
+DTSTAMP:20261002T195620Z
 UID:15ae2b93d74d070a6da528ce0e15d424@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -4463,6 +4779,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Maccabi Rapyd Tel Aviv
 DTSTART:20261022T180500Z
 DTEND:20261022T203500Z
+DTSTAMP:20261002T195620Z
 UID:3dc15a30fc910e76b9b307fcc9faae18@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -4477,6 +4794,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ FC Bayern Munich
 DTSTART:20261022T180000Z
 DTEND:20261022T203000Z
+DTSTAMP:20261002T195620Z
 UID:1ceccadb54cd86de5b8202b273cf8e60@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Duba
@@ -4491,6 +4809,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Anadolu Efes Istanbul
 DTSTART:20261022T173000Z
 DTEND:20261022T200000Z
+DTSTAMP:20261002T195620Z
 UID:7ace9b443d7e49db558fcb48862f4434@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -4505,6 +4824,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Hapoel IBI Tel Aviv
 DTSTART:20261021T160000Z
 DTEND:20261021T183000Z
+DTSTAMP:20261002T195620Z
 UID:67e34f20ecb0dd7d175eb59cc9f42867@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: V
@@ -4519,6 +4839,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Virtus Bologna
 DTSTART:20261016T183000Z
 DTEND:20261016T210000Z
+DTSTAMP:20261002T195620Z
 UID:5331222eb48521b42e92aebff0fe3c18@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Kosner
@@ -4533,6 +4854,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ FC Barcelona
 DTSTART:20261016T183000Z
 DTEND:20261016T210000Z
+DTSTAMP:20261002T195620Z
 UID:06554c038fdd471121cfc86844c811e5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Olympiac
@@ -4547,6 +4869,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Panathinaikos AKTOR Athens
 DTSTART:20261016T181500Z
 DTEND:20261016T204500Z
+DTSTAMP:20261002T195620Z
 UID:31b2c2b69cc03d8e20a016ba5f52e857@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -4561,6 +4884,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261016T180000Z
 DTEND:20261016T203000Z
+DTSTAMP:20261002T195620Z
 UID:5620114b6bdbd36c226ecae95dd2b519@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -4575,6 +4899,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Zalgiris Kaunas
 DTSTART:20261016T170000Z
 DTEND:20261016T193000Z
+DTSTAMP:20261002T195620Z
 UID:68db365685f5cc757d0072cb44c3f418@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Anado
@@ -4589,6 +4914,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Besiktas Istanbul
 DTSTART:20261016T170000Z
 DTEND:20261016T193000Z
+DTSTAMP:20261002T195620Z
 UID:57a5ee563037eba9d4b329c094fd04db@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: FC 
@@ -4603,6 +4929,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Real Madrid
 DTSTART:20261015T190000Z
 DTEND:20261015T213000Z
+DTSTAMP:20261002T195620Z
 UID:75909442e4af4a17e4045bd88ca89b23@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: LDLC ASVE
@@ -4617,6 +4944,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Valencia Basket
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
+DTSTAMP:20261002T195620Z
 UID:208d369806467203461fe0b4d4b375fa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Macca
@@ -4631,6 +4959,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Armani Olimpia Milan
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
+DTSTAMP:20261002T195620Z
 UID:5c79fd24853d59a8ab68b63fca133d8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -4646,6 +4975,7 @@ SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Fenerbahce Tarfin Istanbu
  l
 DTSTART:20261015T174500Z
 DTEND:20261015T201500Z
+DTSTAMP:20261002T195620Z
 UID:84c50c62e74de02e5a1aa49f059c9889@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -4660,6 +4990,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Paris Basketball
 DTSTART:20261014T184500Z
 DTEND:20261014T211500Z
+DTSTAMP:20261002T195620Z
 UID:4267177741f2104b08c8750f9637e0b7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Virt
@@ -4674,6 +5005,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Anadolu Efes Istanbul
 DTSTART:20261014T173000Z
 DTEND:20261014T200000Z
+DTSTAMP:20261002T195620Z
 UID:15bc38794c2866378971da20a622a9cd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -4688,6 +5020,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Hapoel IBI Tel Aviv
 DTSTART:20261014T160000Z
 DTEND:20261014T183000Z
+DTSTAMP:20261002T195620Z
 UID:520fb0af13e7f76ae30e2d44a3793a99@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: B
@@ -4702,6 +5035,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Valencia Basket
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
+DTSTAMP:20261002T195620Z
 UID:c7a1e4d8cd53a8c146ffbf11af38bb1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Olymp
@@ -4717,6 +5051,7 @@ SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Partizan Mozzart Bet Belgrad
  e
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
+DTSTAMP:20261002T195620Z
 UID:26fc3eff617b0153f9a9e662880e9177@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -4731,6 +5066,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Barcelona
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
+DTSTAMP:20261002T195620Z
 UID:d6fb044832a19016dfce0167e3333b2c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Maccabi 
@@ -4745,6 +5081,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Armani Olimpia Milan
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
+DTSTAMP:20261002T195620Z
 UID:ce96c56051a91fe94ab36eccb36eeda7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -4759,6 +5096,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
+DTSTAMP:20261002T195620Z
 UID:90ba3bc15f2eb6ea5d4ebaaa7d2055a5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -4774,6 +5112,7 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ LDLC ASVEL Villeurba
  nne
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
+DTSTAMP:20261002T195620Z
 UID:ef17d18fa68ccc090d784ccad132d03b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -4788,6 +5127,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Fenerbahce Tarfin Istanbul
 DTSTART:20261013T174500Z
 DTEND:20261013T201500Z
+DTSTAMP:20261002T195620Z
 UID:5e4bd7c7646144e6a4d0edcce86abd68@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -4802,6 +5142,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Barcelona
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
+DTSTAMP:20261002T195620Z
 UID:b1ee053d1318425afad00e23d9f642a5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Zalgiris
@@ -4816,6 +5157,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
+DTSTAMP:20261002T195620Z
 UID:76fb9558ec871090900230202e939ea8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -4830,6 +5172,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Olympiacos Piraeus
 DTSTART:20261009T181500Z
 DTEND:20261009T204500Z
+DTSTAMP:20261002T195620Z
 UID:71fcdbfa07ee0d811c18a0a2825fc184@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: An
@@ -4844,6 +5187,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Real Madrid
 DTSTART:20261008T184500Z
 DTEND:20261008T211500Z
+DTSTAMP:20261002T195620Z
 UID:2dda197d6cf8bccea7420f6681b270c7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Partizan 
@@ -4858,6 +5202,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Valencia Basket
 DTSTART:20261008T183000Z
 DTEND:20261008T210000Z
+DTSTAMP:20261002T195620Z
 UID:e367c12034cb24b16352e70c6e81359f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Hapoe
@@ -4872,6 +5217,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Panathinaikos AKTOR Athens
 DTSTART:20261008T181500Z
 DTEND:20261008T204500Z
+DTSTAMP:20261002T195620Z
 UID:089fb7866073f8a5a8618f46fff60583@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -4886,6 +5232,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ FC Bayern Munich
 DTSTART:20261008T180000Z
 DTEND:20261008T203000Z
+DTSTAMP:20261002T195620Z
 UID:d677be12401199da312d56c0258c8ec4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Virt
@@ -4900,6 +5247,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Dubai Basketball
 DTSTART:20261008T160000Z
 DTEND:20261008T183000Z
+DTSTAMP:20261002T195620Z
 UID:44b8e54b5dc33e7112e9b8997804f821@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Crve
@@ -4914,6 +5262,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Maccabi Rapyd Tel Aviv
 DTSTART:20261008T160000Z
 DTEND:20261008T183000Z
+DTSTAMP:20261002T195620Z
 UID:80b6179c2cb5b8f5d7186eb966082283@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -4928,6 +5277,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Paris Basketball
 DTSTART:20261007T184500Z
 DTEND:20261007T211500Z
+DTSTAMP:20261002T195620Z
 UID:6b210e065078aa9457184b53b2fc5fea@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: LDLC
@@ -4942,6 +5292,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20261002T183000Z
 DTEND:20261002T210000Z
+DTSTAMP:20261002T195620Z
 UID:6f734e0825d4e3cdf231d08c9048328e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -4956,6 +5307,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Panathinaikos AKTOR Athens
 DTSTART:20261002T181500Z
 DTEND:20261002T204500Z
+DTSTAMP:20261002T195620Z
 UID:10f73ae1880452d7e4e8a4d12a06aa92@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -4970,6 +5322,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ FC Bayern Munich
 DTSTART:20261002T180000Z
 DTEND:20261002T203000Z
+DTSTAMP:20261002T195620Z
 UID:82a57b2f6796b180ff163f7a564a63ef@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Part
@@ -4984,6 +5337,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ LDLC ASVEL Villeurbanne
 DTSTART:20261002T180000Z
 DTEND:20261002T203000Z
+DTSTAMP:20261002T195620Z
 UID:ed554d2a7a2d2746c7512994f90e85c7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -4998,6 +5352,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Fenerbahce Tarfin Istanbul
 DTSTART:20261002T174500Z
 DTEND:20261002T201500Z
+DTSTAMP:20261002T195620Z
 UID:f5395ea7f85947021c7e003fb937a167@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -5012,6 +5367,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Besiktas Istanbul (95-82)
 DTSTART:20261002T170000Z
 DTEND:20261002T193000Z
+DTSTAMP:20261002T195620Z
 UID:710be3923a619e51a36c5a844308077e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: FC 
@@ -5027,6 +5383,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Paris Basketball (78-82)
 DTSTART:20261001T184500Z
 DTEND:20261001T211500Z
+DTSTAMP:20261002T195620Z
 UID:b92d7fa9aad17d4a38f09b2b9f7315d7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Zalg
@@ -5042,6 +5399,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Virtus Bologna (94-96)
 DTSTART:20261001T183000Z
 DTEND:20261001T210000Z
+DTSTAMP:20261002T195620Z
 UID:9f936e83e5946cc46218266280112157@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Olympi
@@ -5058,6 +5416,7 @@ SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Crvena Zvezda Meridianbet Belgrad
  e (72-77)
 DTSTART:20261001T180000Z
 DTEND:20261001T203000Z
+DTSTAMP:20261002T195620Z
 UID:195f2d70a24f215609c5a09cbf5b0bd7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -5073,6 +5432,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Hapoel IBI Tel Aviv (98-102)
 DTSTART:20261001T160000Z
 DTEND:20261001T183000Z
+DTSTAMP:20261002T195620Z
 UID:81d13f00aa4aadc298a4197e8f5d3f35@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: R
@@ -5089,6 +5449,7 @@ SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Panathinaikos AKTOR Athens (79-
  102)
 DTSTART:20260930T181500Z
 DTEND:20260930T204500Z
+DTSTAMP:20261002T195620Z
 UID:c85f5e80983b4944ef31b6fb2df46332@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -5104,6 +5465,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Besiktas Istanbul @ Maccabi Rapyd Tel Aviv (109-93)
 DTSTART:20260930T180500Z
 DTEND:20260930T203500Z
+DTSTAMP:20261002T195620Z
 UID:4a1129fd51edbaa6b06f6d7c0a7fb0bd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -5119,6 +5481,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Paris Basketball (92-79)
 DTSTART:20260929T184500Z
 DTEND:20260929T211500Z
+DTSTAMP:20261002T195620Z
 UID:b19ee47af4801ac331bc9f87ffc76956@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Part
@@ -5134,6 +5497,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Armani Olimpia Milan (85-87)
 DTSTART:20260929T183000Z
 DTEND:20260929T210000Z
+DTSTAMP:20261002T195620Z
 UID:e109bc4330e9d789399d6844bb65caac@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
@@ -5150,6 +5514,7 @@ SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Valencia Basket (88-111
  )
 DTSTART:20260929T183000Z
 DTEND:20260929T210000Z
+DTSTAMP:20261002T195620Z
 UID:2a3871c03c5c598a7f55e9ea7e17f9c5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Kosne
@@ -5166,6 +5531,7 @@ SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Crvena Zvezda Meridianbet Belgrade
  (81-80)
 DTSTART:20260929T180000Z
 DTEND:20260929T203000Z
+DTSTAMP:20261002T195620Z
 UID:70b1286d547a9db9f17a0937eca89de9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -5181,6 +5547,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Fenerbahce Tarfin Istanbul (76-100)
 DTSTART:20260929T174500Z
 DTEND:20260929T201500Z
+DTSTAMP:20261002T195620Z
 UID:9ff2ca299e3b162172dd6a9ec5874710@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -5196,6 +5563,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Zalgiris Kaunas (93-91)
 DTSTART:20260929T170000Z
 DTEND:20260929T193000Z
+DTSTAMP:20261002T195620Z
 UID:e0e10b5a1d792f9dc17ef7bc5686e7b1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Olymp
@@ -5211,6 +5579,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Anadolu Efes Istanbul (84-94)
 DTSTART:20260929T170000Z
 DTEND:20260929T193000Z
+DTSTAMP:20261002T195620Z
 UID:5804386eeeaf8d1d1994000837c60fd6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
@@ -5226,6 +5595,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Dubai Basketball (87-94)
 DTSTART:20260929T160000Z
 DTEND:20260929T183000Z
+DTSTAMP:20261002T195620Z
 UID:e309bcd4f183767b275cbf9960febea5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: FC B
@@ -5242,6 +5612,7 @@ SUMMARY:🇪🇺 Armani Olimpia Milan @ Partizan Mozzart Bet Belgrade (76-
  92)
 DTSTART:20260925T184500Z
 DTEND:20260925T211500Z
+DTSTAMP:20261002T195620Z
 UID:3605407352cdeaeb8cf478127fcc7356@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
@@ -5257,6 +5628,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Fenerbahce Tarfin Istanbul (68-78)
 DTSTART:20260925T174500Z
 DTEND:20260925T201500Z
+DTSTAMP:20261002T195620Z
 UID:b9511ce035facc5686ef8c3cc05bb6a2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -5272,6 +5644,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Besiktas Istanbul (96-94)
 DTSTART:20260925T170000Z
 DTEND:20260925T193000Z
+DTSTAMP:20261002T195620Z
 UID:2ba9d24492bc0acfe638c219407692d6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Val
@@ -5287,6 +5660,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ LDLC ASVEL Villeurbanne (74-84)
 DTSTART:20260924T184500Z
 DTEND:20260924T211500Z
+DTSTAMP:20261002T195620Z
 UID:020cf5a847dd164fcea759ad7f9ab684@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
@@ -5303,6 +5677,7 @@ SUMMARY:🇪🇺 Olympiacos Piraeus @ Kosner Baskonia Vitoria-Gasteiz (106
  -89)
 DTSTART:20260924T183000Z
 DTEND:20260924T210000Z
+DTSTAMP:20261002T195620Z
 UID:af126381609190d391790e32911905b2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
@@ -5318,6 +5693,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ FC Barcelona (82-89)
 DTSTART:20260924T183000Z
 DTEND:20260924T210000Z
+DTSTAMP:20261002T195620Z
 UID:80f664dd554aa36ca7e3e2f4e4e75740@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Anadolu 
@@ -5333,6 +5709,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Panathinaikos AKTOR Athens (72-91)
 DTSTART:20260924T181500Z
 DTEND:20260924T204500Z
+DTSTAMP:20261002T195620Z
 UID:34e9bae671c068958fde27948ebc0100@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
@@ -5349,6 +5726,7 @@ SUMMARY:🇪🇺 Zalgiris Kaunas @ Crvena Zvezda Meridianbet Belgrade (83-
  77)
 DTSTART:20260924T180000Z
 DTEND:20260924T203000Z
+DTSTAMP:20261002T195620Z
 UID:ef0c7a1a54860e3f26b5315c69467290@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
@@ -5364,6 +5742,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Hapoel IBI Tel Aviv (86-84)
 DTSTART:20260924T160000Z
 DTEND:20260924T183000Z
+DTSTAMP:20261002T195620Z
 UID:74bab5b461a7a5c507be811e4c6e4e38@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: F
@@ -5379,6 +5758,7 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Real Madrid @ Dubai Basketball (77-78)
 DTSTART:20260924T160000Z
 DTEND:20260924T183000Z
+DTSTAMP:20261002T195620Z
 UID:22ed22d04310b9aeeee88ae02918c7af@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Real
@@ -5394,6 +5774,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ La Laguna Tenerife
 DTSTART:20270113T200000Z
 DTEND:20270113T223000Z
+DTSTAMP:20261002T195620Z
 UID:e6841d1b40016952d73e2409c267c90a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Siaul
@@ -5408,6 +5789,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Recoletas Salud San Pablo Burgos
 DTSTART:20270113T193000Z
 DTEND:20270113T220000Z
+DTSTAMP:20261002T195620Z
 UID:17ff1e50b124604231c4f84cfc93f5ff@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -5422,6 +5804,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Napoli Basketball
 DTSTART:20270113T190000Z
 DTEND:20270113T213000Z
+DTSTAMP:20261002T195620Z
 UID:522fb97442dea35e1074aae741d62141@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: NINERS
@@ -5436,6 +5819,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Hapoel Midtown Jerusalem
 DTSTART:20270113T190000Z
 DTEND:20270113T213000Z
+DTSTAMP:20261002T195620Z
 UID:f5e58b6b95b48ba6a748711264a83098@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -5450,6 +5834,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ BOSNA BH Telecom Sarajevo
 DTSTART:20270113T183000Z
 DTEND:20270113T210000Z
+DTSTAMP:20261002T195620Z
 UID:924cffdee2754a93ae34c2c961b68dc3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -5464,6 +5849,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Buducnost VOLI Podgorica
 DTSTART:20270113T180000Z
 DTEND:20270113T203000Z
+DTSTAMP:20261002T195620Z
 UID:8a98c0a75cc2b385e83642a8fbb89c0c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -5478,6 +5864,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ PAOK Thessaloniki
 DTSTART:20270113T173000Z
 DTEND:20270113T200000Z
+DTSTAMP:20261002T195620Z
 UID:bd03b51b962f838760faf79afb505aef@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Balkan
@@ -5492,6 +5879,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Cedevita Olimpija Ljubljana
 DTSTART:20270113T173000Z
 DTEND:20270113T200000Z
+DTSTAMP:20261002T195620Z
 UID:386fd31f91e02a1ae237b68841ab41f6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -5506,6 +5894,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ Lietkabelis Panevezys
 DTSTART:20270113T170000Z
 DTEND:20270113T193000Z
+DTSTAMP:20261002T195620Z
 UID:01221a2e2fc1e7479a320b9b56e7510c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Ba
@@ -5520,6 +5909,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Turk Telekom Ankara
 DTSTART:20270113T163000Z
 DTEND:20270113T190000Z
+DTSTAMP:20261002T195620Z
 UID:83aa44b77c847c4ef09719cef19e6b13@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: U-BT
@@ -5534,6 +5924,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ Maxima Roma
 DTSTART:20270112T200000Z
 DTEND:20270112T223000Z
+DTSTAMP:20261002T195620Z
 UID:b83804cf7225377f1b832996a6a6d658@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: Skyliners Fr
@@ -5548,6 +5939,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ Umana Reyer Venice
 DTSTART:20270112T190000Z
 DTEND:20270112T213000Z
+DTSTAMP:20261002T195620Z
 UID:ba249f7f08a34b627fb2c64f140f17b4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Londo
@@ -5562,6 +5954,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ ratiopharm ulm
 DTSTART:20270112T180000Z
 DTEND:20270112T203000Z
+DTSTAMP:20261002T195620Z
 UID:5edaafbbc77e456ad3814fe67984e08e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Roma Bask
@@ -5576,6 +5969,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Slask Wroclaw
 DTSTART:20270112T180000Z
 DTEND:20270112T203000Z
+DTSTAMP:20261002T195620Z
 UID:e4a28f1c129aaff9d3add41c815b198f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Neptunas K
@@ -5590,6 +5984,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Tofas Bursa
 DTSTART:20270112T170000Z
 DTEND:20270112T193000Z
+DTSTAMP:20261002T195620Z
 UID:a608857a3688c2cfac18d54a8566fe3d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Dolomiti Ene
@@ -5604,6 +5999,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Riga Zelli
 DTSTART:20270112T170000Z
 DTEND:20270112T193000Z
+DTSTAMP:20261002T195620Z
 UID:192f2323cbfa2a8efad0c41c2be36562@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Aris Thessalo
@@ -5618,6 +6014,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ Roma Basketball
 DTSTART:20270106T190000Z
 DTEND:20270106T213000Z
+DTSTAMP:20261002T195620Z
 UID:715d30c836023a164c6265ec946c3094@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: PAOK The
@@ -5632,6 +6029,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Cosea JL Bourg-en-Bresse
 DTSTART:20270106T183000Z
 DTEND:20270106T210000Z
+DTSTAMP:20261002T195620Z
 UID:ffc759ce16171bf2c6fb26e198247470@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -5646,6 +6044,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ Skyliners Frankfurt
 DTSTART:20270106T183000Z
 DTEND:20270106T210000Z
+DTSTAMP:20261002T195620Z
 UID:0ff39be153a9e7296c315a8565ef105b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Turk
@@ -5660,6 +6059,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Baglietto Derthona Tortona
 DTSTART:20270106T183000Z
 DTEND:20270106T210000Z
+DTSTAMP:20261002T195620Z
 UID:d6e8e6d987c42da2b59b4ba0f28ae797@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -5674,6 +6074,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ Kids&Us Manresa
 DTSTART:20270106T180000Z
 DTEND:20270106T203000Z
+DTSTAMP:20261002T195620Z
 UID:edff8d827ca97b51398c59b2c95f54cc@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Lietkabe
@@ -5688,6 +6089,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Balkan Botevgrad
 DTSTART:20270106T170000Z
 DTEND:20270106T193000Z
+DTSTAMP:20261002T195620Z
 UID:124b00a626375a1f127c8d0484c7dd93@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: BOSNA B
@@ -5702,6 +6104,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ Siauliai Basketball
 DTSTART:20270106T163000Z
 DTEND:20270106T190000Z
+DTSTAMP:20261002T195620Z
 UID:890ff88505ee4847a76b675cde47df66@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Uman
@@ -5716,6 +6119,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ Bahcesehir College Istanbul
 DTSTART:20270106T160000Z
 DTEND:20270106T183000Z
+DTSTAMP:20261002T195620Z
 UID:c830a0df8d1abe754fbb7f15d86618a5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -5730,6 +6134,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ London Lions
 DTSTART:20270105T193000Z
 DTEND:20270105T220000Z
+DTSTAMP:20261002T195620Z
 UID:9a6d2a3075132e562813e85317f1b66c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Maxima Roma
@@ -5744,6 +6149,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Dolomiti Energia Trento
 DTSTART:20270105T190000Z
 DTEND:20270105T213000Z
+DTSTAMP:20261002T195620Z
 UID:b59177030cdc8185b8ba197776317c61@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -5758,6 +6164,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Le Mans Sarthe Basket
 DTSTART:20270105T190000Z
 DTEND:20270105T213000Z
+DTSTAMP:20261002T195620Z
 UID:51eeafe171bb1b3a814d01abc3c5f1f2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ri
@@ -5772,6 +6179,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Rostock Seawolves
 DTSTART:20270105T190000Z
 DTEND:20270105T213000Z
+DTSTAMP:20261002T195620Z
 UID:e1546d579dba62dea9816dd961fdb6ef@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Recole
@@ -5786,6 +6194,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ NINERS Chemnitz
 DTSTART:20270105T180000Z
 DTEND:20270105T203000Z
+DTSTAMP:20261002T195620Z
 UID:a1b064bd7ace09d5fb537937d25fea55@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Buducnos
@@ -5800,6 +6209,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Aris Thessaloniki
 DTSTART:20270105T180000Z
 DTEND:20270105T203000Z
+DTSTAMP:20261002T195620Z
 UID:106154a75898eabadc685c29572c6d74@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Hapoel
@@ -5814,6 +6224,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Neptunas Klaipeda
 DTSTART:20270105T170000Z
 DTEND:20270105T193000Z
+DTSTAMP:20261002T195620Z
 UID:a15bcae995325bc2314966ba8ba6222d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Tofas 
@@ -5828,6 +6239,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ U-BT Cluj-Napoca
 DTSTART:20270105T170000Z
 DTEND:20270105T193000Z
+DTSTAMP:20261002T195620Z
 UID:758f4c419587ab5c7c684603e042a059@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: La Lagu
@@ -5842,6 +6254,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Napoli Basketball
 DTSTART:20261230T190000Z
 DTEND:20261230T213000Z
+DTSTAMP:20261002T195620Z
 UID:aa168229674e38651b0c5dda22c42176@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Neptun
@@ -5856,6 +6269,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Hapoel Midtown Jerusalem
 DTSTART:20261230T190000Z
 DTEND:20261230T213000Z
+DTSTAMP:20261002T195620Z
 UID:282c8f7043c37845de38d08ce107c66c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -5870,6 +6284,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ BOSNA BH Telecom Sarajevo
 DTSTART:20261230T183000Z
 DTEND:20261230T210000Z
+DTSTAMP:20261002T195620Z
 UID:bcc624e029e6bb2f56f44bb9afd2d618@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -5884,6 +6299,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ ratiopharm ulm
 DTSTART:20261230T180000Z
 DTEND:20261230T203000Z
+DTSTAMP:20261002T195620Z
 UID:e5da11a7ef7b625ba0e204c3b01283a2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Lietkabel
@@ -5898,6 +6314,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Cedevita Olimpija Ljubljana
 DTSTART:20261230T173000Z
 DTEND:20261230T200000Z
+DTSTAMP:20261002T195620Z
 UID:8be3998b21e50825c31923fcdfd1c934@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -5912,6 +6329,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Tofas Bursa
 DTSTART:20261230T170000Z
 DTEND:20261230T193000Z
+DTSTAMP:20261002T195620Z
 UID:9cc62a476076d4816e466b5c5ab41656@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Slask Wrocla
@@ -5926,6 +6344,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ U-BT Cluj-Napoca
 DTSTART:20261230T170000Z
 DTEND:20261230T193000Z
+DTSTAMP:20261002T195620Z
 UID:08b1fa401ccd22835ab97022b4a09343@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Skyline
@@ -5940,6 +6359,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Riga Zelli
 DTSTART:20261230T170000Z
 DTEND:20261230T193000Z
+DTSTAMP:20261002T195620Z
 UID:4e9b88a2a3ca033a4b51ee7cda5b015b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Recoletas Sal
@@ -5954,6 +6374,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ Maxima Roma
 DTSTART:20261229T200000Z
 DTEND:20261229T223000Z
+DTSTAMP:20261002T195620Z
 UID:db0084f8ddeb192a27e3cd2c711ceab4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: Siauliai Bas
@@ -5968,6 +6389,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ Kids&Us Manresa
 DTSTART:20261229T193000Z
 DTEND:20261229T220000Z
+DTSTAMP:20261002T195620Z
 UID:bfc04411b50c7623a167f6254aadd21c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Balkan B
@@ -5982,6 +6404,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ Umana Reyer Venice
 DTSTART:20261229T190000Z
 DTEND:20261229T213000Z
+DTSTAMP:20261002T195620Z
 UID:bf789ef73e0574e837faf4c470255e7c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: La La
@@ -5996,6 +6419,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Rostock Seawolves
 DTSTART:20261229T190000Z
 DTEND:20261229T213000Z
+DTSTAMP:20261002T195620Z
 UID:28cdb14f80b70ab0512b90bffefc00f3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Baglie
@@ -6010,6 +6434,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ PAOK Thessaloniki
 DTSTART:20261229T183000Z
 DTEND:20261229T210000Z
+DTSTAMP:20261002T195620Z
 UID:a39a8f62b5b59ee0d62332e2adbceaf2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Bahces
@@ -6024,6 +6449,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Cosea JL Bourg-en-Bresse
 DTSTART:20261229T183000Z
 DTEND:20261229T210000Z
+DTSTAMP:20261002T195620Z
 UID:1a95810b8075b325c87e2dc83f333b5a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -6038,6 +6464,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Buducnost VOLI Podgorica
 DTSTART:20261229T180000Z
 DTEND:20261229T203000Z
+DTSTAMP:20261002T195620Z
 UID:2d0c6a9a6c0eac7540c378cf93118c91@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -6052,6 +6479,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ Turk Telekom Ankara
 DTSTART:20261229T163000Z
 DTEND:20261229T190000Z
+DTSTAMP:20261002T195620Z
 UID:09ca34076a4ed7029cd8369b65207913@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Lond
@@ -6066,6 +6494,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ La Laguna Tenerife
 DTSTART:20261223T200000Z
 DTEND:20261223T223000Z
+DTSTAMP:20261002T195620Z
 UID:45457e7e1cacadf5c5b7fdb0838b5d7c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Skyli
@@ -6080,6 +6509,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ London Lions
 DTSTART:20261223T193000Z
 DTEND:20261223T220000Z
+DTSTAMP:20261002T195620Z
 UID:d9a75690e2348b5b16300576cb900786@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: U-BT Cluj-N
@@ -6094,6 +6524,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ Umana Reyer Venice
 DTSTART:20261223T190000Z
 DTEND:20261223T213000Z
+DTSTAMP:20261002T195620Z
 UID:8cdfebb2b275216e93f71b3132533fd9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Maxim
@@ -6108,6 +6539,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Le Mans Sarthe Basket
 DTSTART:20261223T190000Z
 DTEND:20261223T213000Z
+DTSTAMP:20261002T195620Z
 UID:1ec69f43b0e052692723e70224c8b636@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ce
@@ -6122,6 +6554,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ ratiopharm ulm
 DTSTART:20261223T180000Z
 DTEND:20261223T203000Z
+DTSTAMP:20261002T195620Z
 UID:19c1ab72b2c5abbfc5093a1049b1bd05@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: PAOK Thes
@@ -6136,6 +6569,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Tofas Bursa
 DTSTART:20261223T170000Z
 DTEND:20261223T193000Z
+DTSTAMP:20261002T195620Z
 UID:3b055d87b4594b0adb7d77aad3d8819b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Napoli Baske
@@ -6150,6 +6584,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Riga Zelli
 DTSTART:20261223T170000Z
 DTEND:20261223T193000Z
+DTSTAMP:20261002T195620Z
 UID:875e4ca8afd7c61d4be7140eafc9be37@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Hapoel Midtow
@@ -6164,6 +6599,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ Siauliai Basketball
 DTSTART:20261223T163000Z
 DTEND:20261223T190000Z
+DTSTAMP:20261002T195620Z
 UID:185310f14da420aa29b2f4930590900f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Turk
@@ -6178,6 +6614,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ Roma Basketball
 DTSTART:20261222T200000Z
 DTEND:20261222T223000Z
+DTSTAMP:20261002T195620Z
 UID:fc94f59394fddc4b41196be03d5d41b8@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Kids&Us 
@@ -6192,6 +6629,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Recoletas Salud San Pablo Burgos
 DTSTART:20261222T193000Z
 DTEND:20261222T220000Z
+DTSTAMP:20261002T195620Z
 UID:e24b87534c798d087be6ea9849429c3c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -6206,6 +6644,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Dolomiti Energia Trento
 DTSTART:20261222T180000Z
 DTEND:20261222T203000Z
+DTSTAMP:20261002T195620Z
 UID:a74640ce81921e2d94c24c2037322732@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -6220,6 +6659,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Slask Wroclaw
 DTSTART:20261222T180000Z
 DTEND:20261222T203000Z
+DTSTAMP:20261002T195620Z
 UID:4ab84000a4b81066e876f92191cd5199@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: NINERS Che
@@ -6234,6 +6674,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Aris Thessaloniki
 DTSTART:20261222T180000Z
 DTEND:20261222T203000Z
+DTSTAMP:20261002T195620Z
 UID:e95e38a8f594ed9d8f2e114391f546ac@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Rostoc
@@ -6248,6 +6689,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ Lietkabelis Panevezys
 DTSTART:20261222T170000Z
 DTEND:20261222T193000Z
+DTSTAMP:20261002T195620Z
 UID:a5f302d32732f54c8b52f02fa860174a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Ba
@@ -6262,6 +6704,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Neptunas Klaipeda
 DTSTART:20261222T170000Z
 DTEND:20261222T193000Z
+DTSTAMP:20261002T195620Z
 UID:1e89b3bde74aece4fd3d1913a585b33d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Buducn
@@ -6276,6 +6719,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Bahcesehir College Istanbul
 DTSTART:20261222T160000Z
 DTEND:20261222T183000Z
+DTSTAMP:20261002T195620Z
 UID:e81dc91aa4eb315e465d8ccfe2b4d012@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -6290,6 +6734,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ Maxima Roma
 DTSTART:20261216T200000Z
 DTEND:20261216T223000Z
+DTSTAMP:20261002T195620Z
 UID:7c305f3ca35873d0bef16cdffaef3cd2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: La Laguna Te
@@ -6304,6 +6749,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Hapoel Midtown Jerusalem
 DTSTART:20261216T190000Z
 DTEND:20261216T213000Z
+DTSTAMP:20261002T195620Z
 UID:91ed517d5457617bac29ec95c164008d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -6318,6 +6764,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ BOSNA BH Telecom Sarajevo
 DTSTART:20261216T183000Z
 DTEND:20261216T210000Z
+DTSTAMP:20261002T195620Z
 UID:b99dabe7520e17fba5bd158f8aba92a0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -6332,6 +6779,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Cosea JL Bourg-en-Bresse
 DTSTART:20261216T183000Z
 DTEND:20261216T210000Z
+DTSTAMP:20261002T195620Z
 UID:5269c5511ebb729e084834b578d41940@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -6346,6 +6794,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ PAOK Thessaloniki
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
+DTSTAMP:20261002T195620Z
 UID:1646232469cba2565dabe89d91fb933c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Lietka
@@ -6360,6 +6809,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ NINERS Chemnitz
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
+DTSTAMP:20261002T195620Z
 UID:08664e90eb90c29492bce4de066d8141@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Dolomiti
@@ -6374,6 +6824,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Buducnost VOLI Podgorica
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
+DTSTAMP:20261002T195620Z
 UID:e3196a8c491bb931cec926aee13cee1f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -6388,6 +6839,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Cedevita Olimpija Ljubljana
 DTSTART:20261216T173000Z
 DTEND:20261216T200000Z
+DTSTAMP:20261002T195620Z
 UID:af4b7921e1fc1bb5c7dde2ff4ef1e958@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -6402,6 +6854,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ U-BT Cluj-Napoca
 DTSTART:20261216T170000Z
 DTEND:20261216T193000Z
+DTSTAMP:20261002T195620Z
 UID:fe171a5b6c87d566785c411e6e1857cc@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Siaulia
@@ -6416,6 +6869,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ Turk Telekom Ankara
 DTSTART:20261216T163000Z
 DTEND:20261216T190000Z
+DTSTAMP:20261002T195620Z
 UID:3c209434279de6f0f7c7c3dd439bfc62@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Uman
@@ -6430,6 +6884,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ Kids&Us Manresa
 DTSTART:20261215T193000Z
 DTEND:20261215T220000Z
+DTSTAMP:20261002T195620Z
 UID:2540bc77e9df8c4644151ef841a1b974@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Bahceseh
@@ -6444,6 +6899,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Napoli Basketball
 DTSTART:20261215T190000Z
 DTEND:20261215T213000Z
+DTSTAMP:20261002T195620Z
 UID:dba40470d80ac25a4d5004f27ba544e7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Slask 
@@ -6458,6 +6914,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Rostock Seawolves
 DTSTART:20261215T190000Z
 DTEND:20261215T213000Z
+DTSTAMP:20261002T195620Z
 UID:8e904c1b14f717e09f4f0b060d09a139@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Le Man
@@ -6472,6 +6929,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ Skyliners Frankfurt
 DTSTART:20261215T183000Z
 DTEND:20261215T210000Z
+DTSTAMP:20261002T195620Z
 UID:68ce7edf2ac049295c80e58dacd6f74b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Lond
@@ -6486,6 +6944,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Baglietto Derthona Tortona
 DTSTART:20261215T183000Z
 DTEND:20261215T210000Z
+DTSTAMP:20261002T195620Z
 UID:146c969334791e2f637bc32e635dda9d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -6500,6 +6959,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ Balkan Botevgrad
 DTSTART:20261215T170000Z
 DTEND:20261215T193000Z
+DTSTAMP:20261002T195620Z
 UID:0f11115e588073d25b1211dce9bc94f6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Roma Ba
@@ -6514,6 +6974,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ Maxima Roma
 DTSTART:20261209T200000Z
 DTEND:20261209T223000Z
+DTSTAMP:20261002T195620Z
 UID:0d27aa3bfc7151e361c3e1f8eca84459@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: Turk Telekom
@@ -6528,6 +6989,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Recoletas Salud San Pablo Burgos
 DTSTART:20261209T193000Z
 DTEND:20261209T220000Z
+DTSTAMP:20261002T195620Z
 UID:7399d14865d99fc8bf5a3a36706ed7d5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -6542,6 +7004,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Umana Reyer Venice
 DTSTART:20261209T190000Z
 DTEND:20261209T213000Z
+DTSTAMP:20261002T195620Z
 UID:c85f28af8f146b6a369e780808009ed5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: U-BT 
@@ -6556,6 +7019,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Hapoel Midtown Jerusalem
 DTSTART:20261209T190000Z
 DTEND:20261209T213000Z
+DTSTAMP:20261002T195620Z
 UID:57b619bb22d59bd8ddb057536c73d369@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -6570,6 +7034,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ ratiopharm ulm
 DTSTART:20261209T180000Z
 DTEND:20261209T203000Z
+DTSTAMP:20261002T195620Z
 UID:f33e2257b31a65358a9491a0fcfc178d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Kids&Us M
@@ -6584,6 +7049,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Slask Wroclaw
 DTSTART:20261209T180000Z
 DTEND:20261209T203000Z
+DTSTAMP:20261002T195620Z
 UID:585598a9bac790764351d18e7d1f3746@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Dolomiti E
@@ -6598,6 +7064,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ Lietkabelis Panevezys
 DTSTART:20261209T170000Z
 DTEND:20261209T193000Z
+DTSTAMP:20261002T195620Z
 UID:51dc1fffc6b8e7800a49b137b0f37dba@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Ro
@@ -6612,6 +7079,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Tofas Bursa
 DTSTART:20261209T170000Z
 DTEND:20261209T193000Z
+DTSTAMP:20261002T195620Z
 UID:448db8e90405f75763cc53d5bc64dad6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Cosea JL Bou
@@ -6626,6 +7094,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Riga Zelli
 DTSTART:20261209T170000Z
 DTEND:20261209T193000Z
+DTSTAMP:20261002T195620Z
 UID:88ba7368ea2c3e32e60b7b029b76192c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Rostock Seawo
@@ -6640,6 +7109,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ La Laguna Tenerife
 DTSTART:20261208T200000Z
 DTEND:20261208T223000Z
+DTSTAMP:20261002T195620Z
 UID:b69f3dbd2b49a6c51e36971e826ae197@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Londo
@@ -6654,6 +7124,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Napoli Basketball
 DTSTART:20261208T190000Z
 DTEND:20261208T213000Z
+DTSTAMP:20261002T195620Z
 UID:5825ab6c1b327e0affcd2938321154ba@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Buducn
@@ -6668,6 +7139,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Le Mans Sarthe Basket
 DTSTART:20261208T190000Z
 DTEND:20261208T213000Z
+DTSTAMP:20261002T195620Z
 UID:c6d05126db204ccf7c121268c2e9cbed@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ba
@@ -6682,6 +7154,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ PAOK Thessaloniki
 DTSTART:20261208T180000Z
 DTEND:20261208T203000Z
+DTSTAMP:20261002T195620Z
 UID:68512cc676b27401e48904a0edd8bd8e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: BOSNA 
@@ -6696,6 +7169,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Neptunas Klaipeda
 DTSTART:20261208T170000Z
 DTEND:20261208T193000Z
+DTSTAMP:20261002T195620Z
 UID:17eb0b10291ddc17ff0037d1504ec29c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: NINERS
@@ -6710,6 +7184,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ Siauliai Basketball
 DTSTART:20261208T163000Z
 DTEND:20261208T190000Z
+DTSTAMP:20261002T195620Z
 UID:269eebcb2b2cdb4283cdb856027a8a7d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Skyl
@@ -6724,6 +7199,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ Bahcesehir College Istanbul
 DTSTART:20261208T160000Z
 DTEND:20261208T183000Z
+DTSTAMP:20261002T195620Z
 UID:f07d481ef0551a5e3b672ccb3f3d9885@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -6738,6 +7214,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ Kids&Us Manresa
 DTSTART:20261118T193000Z
 DTEND:20261118T220000Z
+DTSTAMP:20261002T195620Z
 UID:a374c87c2efd9a7216c7122aeb1a33c6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: PAOK The
@@ -6752,6 +7229,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Dolomiti Energia Trento
 DTSTART:20261118T190000Z
 DTEND:20261118T213000Z
+DTSTAMP:20261002T195620Z
 UID:a02a0d8365ac7a9d490c7ff093643ac7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -6766,6 +7244,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ BOSNA BH Telecom Sarajevo
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
+DTSTAMP:20261002T195620Z
 UID:b1699a3d13fa6e1316bebb011243ca8f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -6780,6 +7259,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Cosea JL Bourg-en-Bresse
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
+DTSTAMP:20261002T195620Z
 UID:fcb80c7f9533d0f990cd3dc31d234026@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -6794,6 +7274,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ Skyliners Frankfurt
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
+DTSTAMP:20261002T195620Z
 UID:cec4ede21101eea650b6e3051184ea90@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Uman
@@ -6808,6 +7289,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ NINERS Chemnitz
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
+DTSTAMP:20261002T195620Z
 UID:bed5345c507c42b80a9cdc454bfb6144@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Tofas Bu
@@ -6822,6 +7304,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Buducnost VOLI Podgorica
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
+DTSTAMP:20261002T195620Z
 UID:2d70e68d70ff3334a9cfc22320a74e99@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -6836,6 +7319,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Aris Thessaloniki
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
+DTSTAMP:20261002T195620Z
 UID:487ff171e195d8466422cf1390d44ef3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Le Man
@@ -6850,6 +7334,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Cedevita Olimpija Ljubljana
 DTSTART:20261118T173000Z
 DTEND:20261118T200000Z
+DTSTAMP:20261002T195620Z
 UID:3969eccd45b1cf81b746e4c4d3e87acd@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -6864,6 +7349,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ U-BT Cluj-Napoca
 DTSTART:20261118T170000Z
 DTEND:20261118T193000Z
+DTSTAMP:20261002T195620Z
 UID:6846d689f29b879bc938870b74ddc3c9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Maxima 
@@ -6878,6 +7364,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Baglietto Derthona Tortona
 DTSTART:20261118T163000Z
 DTEND:20261118T190000Z
+DTSTAMP:20261002T195620Z
 UID:7fc255665f02929b7cdca38abcab2973@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -6892,6 +7379,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ London Lions
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
+DTSTAMP:20261002T195620Z
 UID:2cbf0c21aa9d9fedb49c1561d331e112@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Siauliai Ba
@@ -6906,6 +7394,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ Roma Basketball
 DTSTART:20261117T190000Z
 DTEND:20261117T213000Z
+DTSTAMP:20261002T195620Z
 UID:f664ba4e8ef379750cb20d26a51932eb@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Bahceseh
@@ -6920,6 +7409,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Rostock Seawolves
 DTSTART:20261117T190000Z
 DTEND:20261117T213000Z
+DTSTAMP:20261002T195620Z
 UID:5a956d68c861ff4c67f9e961059514a6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Hapoel
@@ -6934,6 +7424,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ Balkan Botevgrad
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
+DTSTAMP:20261002T195620Z
 UID:2f3ceb2807927446614e089fce5f8c27@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: ratioph
@@ -6948,6 +7439,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ Turk Telekom Ankara
 DTSTART:20261117T163000Z
 DTEND:20261117T190000Z
+DTSTAMP:20261002T195620Z
 UID:0d0e3aa86c0b979654b4920e10a0a426@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: La L
@@ -6962,6 +7454,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ Skyliners Frankfurt
 DTSTART:20261112T190000Z
 DTEND:20261112T213000Z
+DTSTAMP:20261002T195620Z
 UID:1890de83764cf615b992bb82a383e65a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Maxi
@@ -6976,6 +7469,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ Roma Basketball
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
+DTSTAMP:20261002T195620Z
 UID:f939f63aa0a47a6582d3407887a56fd4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: ratiopha
@@ -6990,6 +7484,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Le Mans Sarthe Basket
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
+DTSTAMP:20261002T195620Z
 UID:9f7b92b618ea121fa786f473e040fba5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Re
@@ -7004,6 +7499,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Baglietto Derthona Tortona
 DTSTART:20261111T183000Z
 DTEND:20261111T210000Z
+DTSTAMP:20261002T195620Z
 UID:c5cdc7ffc0e194086e4f8774961c1753@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -7018,6 +7514,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ NINERS Chemnitz
 DTSTART:20261111T180000Z
 DTEND:20261111T203000Z
+DTSTAMP:20261002T195620Z
 UID:baff951b6db3e8f30d8d194baa166177@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Napoli B
@@ -7032,6 +7529,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Aris Thessaloniki
 DTSTART:20261111T180000Z
 DTEND:20261111T203000Z
+DTSTAMP:20261002T195620Z
 UID:9f36ac21084550459c7fb6ad712db149@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Riga Z
@@ -7046,6 +7544,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ Siauliai Basketball
 DTSTART:20261111T163000Z
 DTEND:20261111T190000Z
+DTSTAMP:20261002T195620Z
 UID:4374a039c71e41db422b92cc77de47ae@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: La L
@@ -7060,6 +7559,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ Bahcesehir College Istanbul
 DTSTART:20261111T160000Z
 DTEND:20261111T183000Z
+DTSTAMP:20261002T195620Z
 UID:ea7c64c6dd6a103c288ebd1d409d234f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -7074,6 +7574,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Kids&Us Manresa
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
+DTSTAMP:20261002T195620Z
 UID:b94581c15096d08e119d21f638f60748@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: BOSNA BH
@@ -7088,6 +7589,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ London Lions
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
+DTSTAMP:20261002T195620Z
 UID:b92c6241c768e6f9f7fb5cb7893bb566@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Umana Reyer
@@ -7102,6 +7604,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Dolomiti Energia Trento
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
+DTSTAMP:20261002T195620Z
 UID:cb6ca2ee42e477e8999a8ec02e6f1016@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -7116,6 +7619,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Rostock Seawolves
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
+DTSTAMP:20261002T195620Z
 UID:f2cba18c81d9facabd7bb304dd967bce@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Cedevi
@@ -7130,6 +7634,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Cosea JL Bourg-en-Bresse
 DTSTART:20261110T183000Z
 DTEND:20261110T210000Z
+DTSTAMP:20261002T195620Z
 UID:56b4aa31741af01d0a17be307e689cb2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -7144,6 +7649,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ Balkan Botevgrad
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
+DTSTAMP:20261002T195620Z
 UID:139571a13e400108e25907ab250e15a9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: PAOK Th
@@ -7158,6 +7664,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Neptunas Klaipeda
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
+DTSTAMP:20261002T195620Z
 UID:8413e0a109e9bc19948a8bf49c7df19b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Slask 
@@ -7172,6 +7679,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ U-BT Cluj-Napoca
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
+DTSTAMP:20261002T195620Z
 UID:8f739606bb3e42e82e40ccfae7e4fc18@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Turk Te
@@ -7186,6 +7694,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ Maxima Roma
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195620Z
 UID:8de29863dd707b0fb3e1558e9b6a5945@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: London Lions
@@ -7200,6 +7709,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ La Laguna Tenerife
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
+DTSTAMP:20261002T195620Z
 UID:da37258c5fd307739285e97ece06747e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: U-BT 
@@ -7214,6 +7724,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Recoletas Salud San Pablo Burgos
 DTSTART:20261104T193000Z
 DTEND:20261104T220000Z
+DTSTAMP:20261002T195620Z
 UID:f32becb20b19e4002abaaa629a661b64@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -7228,6 +7739,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ Umana Reyer Venice
 DTSTART:20261104T190000Z
 DTEND:20261104T213000Z
+DTSTAMP:20261002T195620Z
 UID:42a05f83fe7c143387b7276a287ce4e6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Siaul
@@ -7242,6 +7754,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Hapoel Midtown Jerusalem
 DTSTART:20261104T190000Z
 DTEND:20261104T213000Z
+DTSTAMP:20261002T195620Z
 UID:403679555861a7feb1627bd61f770818@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -7256,6 +7769,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ BOSNA BH Telecom Sarajevo
 DTSTART:20261104T183000Z
 DTEND:20261104T210000Z
+DTSTAMP:20261002T195620Z
 UID:4bf092c3c292ce3982aa7745b7067464@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -7270,6 +7784,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Slask Wroclaw
 DTSTART:20261104T180000Z
 DTEND:20261104T203000Z
+DTSTAMP:20261002T195620Z
 UID:dab5b04abccc4e41f3051e3b734e094e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Cosea JL B
@@ -7284,6 +7799,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Cedevita Olimpija Ljubljana
 DTSTART:20261104T173000Z
 DTEND:20261104T200000Z
+DTSTAMP:20261002T195620Z
 UID:dace554b1b4d9630d6857abb1c0883e7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -7298,6 +7814,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ Lietkabelis Panevezys
 DTSTART:20261104T170000Z
 DTEND:20261104T193000Z
+DTSTAMP:20261002T195620Z
 UID:091f47d6ab901fbd3a35d0b279a6971c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Ki
@@ -7312,6 +7829,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Riga Zelli
 DTSTART:20261104T170000Z
 DTEND:20261104T193000Z
+DTSTAMP:20261002T195620Z
 UID:12e0e42d9a4119b1b4ab3d2c458b1409@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Le Mans Sarth
@@ -7326,6 +7844,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ Turk Telekom Ankara
 DTSTART:20261104T163000Z
 DTEND:20261104T190000Z
+DTSTAMP:20261002T195620Z
 UID:ea7a043968146996236b05afdd6c0786@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Skyl
@@ -7340,6 +7859,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Napoli Basketball
 DTSTART:20261103T190000Z
 DTEND:20261103T213000Z
+DTSTAMP:20261002T195620Z
 UID:9cf312423c4c47008bc3789458aa4648@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Dolomi
@@ -7354,6 +7874,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ ratiopharm ulm
 DTSTART:20261103T183000Z
 DTEND:20261103T210000Z
+DTSTAMP:20261002T195620Z
 UID:80910d662144a131bfa2706502703d79@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Bahcesehi
@@ -7368,6 +7889,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ PAOK Thessaloniki
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
+DTSTAMP:20261002T195620Z
 UID:fb002f7a39e338ef2b7b5cb0946d4da1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Roma B
@@ -7382,6 +7904,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
+DTSTAMP:20261002T195620Z
 UID:7b2069eda7884de8e72128e69ea94e2b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -7396,6 +7919,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Tofas Bursa
 DTSTART:20261103T170000Z
 DTEND:20261103T193000Z
+DTSTAMP:20261002T195620Z
 UID:c949059f94597539fa8314142dcab061@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Neptunas Kla
@@ -7410,6 +7934,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ La Laguna Tenerife
 DTSTART:20261028T200000Z
 DTEND:20261028T223000Z
+DTSTAMP:20261002T195620Z
 UID:defbc291365b0d19a02275e29bf1ae41@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Umana
@@ -7424,6 +7949,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ London Lions
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
+DTSTAMP:20261002T195620Z
 UID:2c56371d69c3980b1e490cef878c8daa@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Turk Teleko
@@ -7438,6 +7964,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Recoletas Salud San Pablo Burgos
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
+DTSTAMP:20261002T195620Z
 UID:8d254670069d56cf553853b6e754676c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -7452,6 +7979,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Le Mans Sarthe Basket
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
+DTSTAMP:20261002T195620Z
 UID:68bd1a3a8f05d9f6e60fb3d4eeb05bd2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ha
@@ -7466,6 +7994,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Baglietto Derthona Tortona
 DTSTART:20261028T183000Z
 DTEND:20261028T210000Z
+DTSTAMP:20261002T195620Z
 UID:8044803641d894281d23b83aac9bf75b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -7480,6 +8009,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ NINERS Chemnitz
 DTSTART:20261028T180000Z
 DTEND:20261028T203000Z
+DTSTAMP:20261002T195620Z
 UID:1c589ae7e9a79ddaa5bb13d56b2190e7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Cosea JL
@@ -7494,6 +8024,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Slask Wroclaw
 DTSTART:20261028T180000Z
 DTEND:20261028T203000Z
+DTSTAMP:20261002T195620Z
 UID:666888c691dfdcbdb4998f28d34b352f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Tofas Burs
@@ -7508,6 +8039,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Aris Thessaloniki
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
+DTSTAMP:20261002T195620Z
 UID:33a12fc4da1b420ebe1e6eeffdfba5ac@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Cedevi
@@ -7522,6 +8054,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Neptunas Klaipeda
 DTSTART:20261028T170000Z
 DTEND:20261028T193000Z
+DTSTAMP:20261002T195620Z
 UID:69dc5db281dbc4ab1ffdfaf2bbf1fcc2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Napoli
@@ -7536,6 +8069,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ Siauliai Basketball
 DTSTART:20261028T163000Z
 DTEND:20261028T190000Z
+DTSTAMP:20261002T195620Z
 UID:c83eb26bc5979d7f1f3e2b6d7382e101@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Maxi
@@ -7550,6 +8084,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Roma Basketball
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
+DTSTAMP:20261002T195620Z
 UID:645bb840aa3a872528c13278ace76c0b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: BOSNA BH
@@ -7564,6 +8099,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Dolomiti Energia Trento
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
+DTSTAMP:20261002T195620Z
 UID:75adfa88bedec823d7f0460a6d9a1c53@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -7578,6 +8114,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Skyliners Frankfurt
 DTSTART:20261027T183000Z
 DTEND:20261027T210000Z
+DTSTAMP:20261002T195620Z
 UID:52a6f0528b5e4a5d8322864b8cd8ac77@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: U-BT
@@ -7592,6 +8129,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ Balkan Botevgrad
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
+DTSTAMP:20261002T195620Z
 UID:fd03fd647bb316ad27f05c5fb53712e9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Kids&Us
@@ -7606,6 +8144,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ Lietkabelis Panevezys
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
+DTSTAMP:20261002T195620Z
 UID:fc2cce6d704f731c23214e299e436976@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: ra
@@ -7620,6 +8159,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ Bahcesehir College Istanbul
 DTSTART:20261027T160000Z
 DTEND:20261027T183000Z
+DTSTAMP:20261002T195620Z
 UID:b043ffc3616abef838a4d2f798f02cf8@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -7634,6 +8174,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ Maxima Roma
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
+DTSTAMP:20261002T195620Z
 UID:98e14100b3711a20db04a1fab9fd5a83@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: Umana Reyer 
@@ -7648,6 +8189,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Hapoel Midtown Jerusalem
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
+DTSTAMP:20261002T195620Z
 UID:567c6828353b0d99dd1c80602438814c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -7662,6 +8204,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ BOSNA BH Telecom Sarajevo
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
+DTSTAMP:20261002T195620Z
 UID:9f57c5a43cb5d9e540ce2f34516bc2ce@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -7676,6 +8219,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Cosea JL Bourg-en-Bresse
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
+DTSTAMP:20261002T195620Z
 UID:51ebe7003c7465af67aef7d9895d517d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -7690,6 +8234,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ Skyliners Frankfurt
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
+DTSTAMP:20261002T195620Z
 UID:0da09f2fe59ff7ca5e8e3a47b504f456@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: La L
@@ -7704,6 +8249,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ PAOK Thessaloniki
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
+DTSTAMP:20261002T195620Z
 UID:e6001e364c361f764d473257347517d0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: ratiop
@@ -7718,6 +8264,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ NINERS Chemnitz
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
+DTSTAMP:20261002T195620Z
 UID:adbeaa97c4b92b70639f2a9ef29ab3b4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Slask Wr
@@ -7732,6 +8279,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Baglietto Derthona Tortona
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
+DTSTAMP:20261002T195620Z
 UID:d4200b6ee9778aec81c9ef3261ec8017@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -7746,6 +8294,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Cedevita Olimpija Ljubljana
 DTSTART:20261021T163000Z
 DTEND:20261021T190000Z
+DTSTAMP:20261002T195620Z
 UID:93f98a13ecf23d5cf1bc8b4c5cbe130a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -7760,6 +8309,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ U-BT Cluj-Napoca
 DTSTART:20261021T160000Z
 DTEND:20261021T183000Z
+DTSTAMP:20261002T195620Z
 UID:5db554841cb3e41376400afdfbcfa3e3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: London 
@@ -7774,6 +8324,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ Kids&Us Manresa
 DTSTART:20261020T183000Z
 DTEND:20261020T210000Z
+DTSTAMP:20261002T195620Z
 UID:1b05bab185d4554032ad6486af8417f2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Roma Bas
@@ -7788,6 +8339,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Napoli Basketball
 DTSTART:20261020T180000Z
 DTEND:20261020T203000Z
+DTSTAMP:20261002T195620Z
 UID:21eda4998091d1e5a4ef299b2968489c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Tofas 
@@ -7802,6 +8354,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Rostock Seawolves
 DTSTART:20261020T180000Z
 DTEND:20261020T203000Z
+DTSTAMP:20261002T195620Z
 UID:e3e430f260ba0dbd6b785866edb13eaa@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Aris T
@@ -7816,6 +8369,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ Buducnost VOLI Podgorica
 DTSTART:20261020T170000Z
 DTEND:20261020T193000Z
+DTSTAMP:20261002T195620Z
 UID:2b6a1234bae961100fcc8f67d3adcfad@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -7830,6 +8384,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ Turk Telekom Ankara
 DTSTART:20261020T163000Z
 DTEND:20261020T190000Z
+DTSTAMP:20261002T195620Z
 UID:f8d152586199be6228a5b1523da6ec57@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Siau
@@ -7844,6 +8399,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ Balkan Botevgrad
 DTSTART:20261020T160000Z
 DTEND:20261020T183000Z
+DTSTAMP:20261002T195620Z
 UID:87b26202d8e3f3a9e4117f654afebb7e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Lietkab
@@ -7858,6 +8414,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ London Lions
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
+DTSTAMP:20261002T195620Z
 UID:beec412a5a472a67e60485800c22ed38@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Skyliners F
@@ -7872,6 +8429,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ Umana Reyer Venice
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195620Z
 UID:297f4e76e81604c9541bb5cfea652c0e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Turk 
@@ -7886,6 +8444,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ La Laguna Tenerife
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
+DTSTAMP:20261002T195620Z
 UID:7deea5ef43d8b735fe23796db23f4b15@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Maxim
@@ -7900,6 +8459,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Recoletas Salud San Pablo Burgos
 DTSTART:20261014T183000Z
 DTEND:20261014T210000Z
+DTSTAMP:20261002T195620Z
 UID:6fef0819730ecb5e409e43ae02f193f0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -7914,6 +8474,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Le Mans Sarthe Basket
 DTSTART:20261014T180000Z
 DTEND:20261014T203000Z
+DTSTAMP:20261002T195620Z
 UID:b0b9a734196a4e88977f36f3dd6c3dbd@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ro
@@ -7928,6 +8489,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Tofas Bursa
 DTSTART:20261014T170000Z
 DTEND:20261014T193000Z
+DTSTAMP:20261002T195620Z
 UID:491e036612f41e220db476431a41ef34@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Buducnost VO
@@ -7942,6 +8504,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Slask Wroclaw
 DTSTART:20261014T170000Z
 DTEND:20261014T193000Z
+DTSTAMP:20261002T195620Z
 UID:a3397cf7be3e4f58b230017affb1c46e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Napoli Bas
@@ -7956,6 +8519,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Aris Thessaloniki
 DTSTART:20261014T170000Z
 DTEND:20261014T193000Z
+DTSTAMP:20261002T195620Z
 UID:0e1e284bbd929cc3b112af4b2e854b4d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Baglie
@@ -7970,6 +8534,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ ratiopharm ulm
 DTSTART:20261014T163000Z
 DTEND:20261014T190000Z
+DTSTAMP:20261002T195620Z
 UID:8042e60a501e1675cf438efc2ae6c7c6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: BOSNA BH 
@@ -7984,6 +8549,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Riga Zelli
 DTSTART:20261014T160000Z
 DTEND:20261014T183000Z
+DTSTAMP:20261002T195620Z
 UID:78443cddd5172062640694affa662226@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Cedevita Olim
@@ -7998,6 +8564,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Siauliai Basketball
 DTSTART:20261014T153000Z
 DTEND:20261014T180000Z
+DTSTAMP:20261002T195620Z
 UID:cc50c5649cb9ced026612686de0c5094@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: U-BT
@@ -8012,6 +8579,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ Roma Basketball
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
+DTSTAMP:20261002T195620Z
 UID:c428ce00cc7653ae8ef72528b8223838@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Balkan B
@@ -8026,6 +8594,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Dolomiti Energia Trento
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
+DTSTAMP:20261002T195620Z
 UID:029d3cef94c519f497934dc0c59f7148@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -8040,6 +8609,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ Bahcesehir College Istanbul
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
+DTSTAMP:20261002T195620Z
 UID:0d973ae3ecc9e1f0e819fdb76a7d5dee@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -8054,6 +8624,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ Lietkabelis Panevezys
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
+DTSTAMP:20261002T195620Z
 UID:4a2f0909d5fbd70ea839e7a1255f69d1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: PA
@@ -8068,6 +8639,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Neptunas Klaipeda
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
+DTSTAMP:20261002T195620Z
 UID:37e744f96cb364cdd2321a2477b82f63@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Cosea 
@@ -8082,6 +8654,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ ratiopharm ulm @ Kids&Us Manresa
 DTSTART:20261007T183000Z
 DTEND:20261007T210000Z
+DTSTAMP:20261002T195620Z
 UID:db3d6b67174e05f513d6a84bf0418e8d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: ratiopha
@@ -8096,6 +8669,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lietkabelis Panevezys @ Roma Basketball
 DTSTART:20261007T180000Z
 DTEND:20261007T203000Z
+DTSTAMP:20261002T195620Z
 UID:b1f69e3800a8abb73d8fb39b2d3d8bf4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Lietkabe
@@ -8110,6 +8684,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Le Mans Sarthe Basket @ Baglietto Derthona Tortona
 DTSTART:20261007T173000Z
 DTEND:20261007T200000Z
+DTSTAMP:20261002T195620Z
 UID:0b390a4bae7e376c2cfdcaf598cc9ada@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
@@ -8124,6 +8699,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Neptunas Klaipeda @ NINERS Chemnitz
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
+DTSTAMP:20261002T195620Z
 UID:bf5b7cbf6d26b9cf6cef39efbadd7044@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Neptunas
@@ -8138,6 +8714,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Aris Thessaloniki
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
+DTSTAMP:20261002T195620Z
 UID:422564d37998a21d298c4a39d3b70d47@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Recole
@@ -8152,6 +8729,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bahcesehir College Istanbul @ Balkan Botevgrad
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
+DTSTAMP:20261002T195620Z
 UID:d489835a63f48280ffb13a8070f75ca5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Bahcese
@@ -8166,6 +8744,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Umana Reyer Venice @ U-BT Cluj-Napoca
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
+DTSTAMP:20261002T195620Z
 UID:951feb4d93e34769e7d9d1f5b1aa635c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Umana R
@@ -8180,6 +8759,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ La Laguna Tenerife @ London Lions
 DTSTART:20261006T183000Z
 DTEND:20261006T210000Z
+DTSTAMP:20261002T195620Z
 UID:0b15ff45ca742bfce0626c58273573ab@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: La Laguna T
@@ -8194,6 +8774,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Dolomiti Energia Trento
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
+DTSTAMP:20261002T195620Z
 UID:f6eefbdc21fb23773bb21729211be83a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
@@ -8208,6 +8789,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Rostock Seawolves
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
+DTSTAMP:20261002T195620Z
 UID:281575eb2740ecbcb2ab43abbfa7d372@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Riga Z
@@ -8222,6 +8804,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ PAOK Thessaloniki @ BOSNA BH Telecom Sarajevo
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
+DTSTAMP:20261002T195620Z
 UID:6fa7948de62635ebc59d3bff9312d060@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
@@ -8236,6 +8819,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Cosea JL Bourg-en-Bresse
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
+DTSTAMP:20261002T195620Z
 UID:d8b705e01127a6a3a19db9cf6639e3f9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
@@ -8250,6 +8834,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Siauliai Basketball @ Skyliners Frankfurt
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
+DTSTAMP:20261002T195620Z
 UID:0983f56084be7c7e623f83136fef0c44@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Siau
@@ -8264,6 +8849,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli Basketball @ Buducnost VOLI Podgorica
 DTSTART:20261006T170000Z
 DTEND:20261006T193000Z
+DTSTAMP:20261002T195620Z
 UID:8ac689427fe1290b43bfb4b024a6bde0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
@@ -8278,6 +8864,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Maxima Roma @ Turk Telekom Ankara
 DTSTART:20261006T163000Z
 DTEND:20261006T190000Z
+DTSTAMP:20261002T195620Z
 UID:159074e467c5801e04bd7fd701423c85@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Maxi
@@ -8292,6 +8879,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Hapoel Midtown Jerusalem @ Cedevita Olimpija Ljubljana
 DTSTART:20261006T163000Z
 DTEND:20261006T190000Z
+DTSTAMP:20261002T195620Z
 UID:8f25aa06be864ecce892599d7cfaf131@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
@@ -8306,6 +8894,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Maxima Roma (55-89)
 DTSTART:20260930T190000Z
 DTEND:20260930T213000Z
+DTSTAMP:20261002T195620Z
 UID:82b8583f7d42b858e115f4752bf1039d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: U-BT Cluj-Na
@@ -8320,6 +8909,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Turk Telekom Ankara @ La Laguna Tenerife (75-82)
 DTSTART:20260930T190000Z
 DTEND:20260930T213000Z
+DTSTAMP:20261002T195620Z
 UID:171683025e2d8e2833c5710dac29d8bd@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Turk 
@@ -8336,6 +8926,7 @@ SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Recoletas Salud San Pablo Burgos
   (81-85)
 DTSTART:20260930T183000Z
 DTEND:20260930T210000Z
+DTSTAMP:20261002T195620Z
 UID:55adea7d32b542e3fbdd04664ea35c12@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
@@ -8351,6 +8942,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Napoli Basketball (76-84)
 DTSTART:20260930T180000Z
 DTEND:20260930T203000Z
+DTSTAMP:20261002T195620Z
 UID:a727918508b00423aa47886175a6c8a5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Cosea 
@@ -8366,6 +8958,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Balkan Botevgrad @ ratiopharm ulm (84-98)
 DTSTART:20260930T170000Z
 DTEND:20260930T193000Z
+DTSTAMP:20261002T195620Z
 UID:40fd2f9a561b997fa29eee15f4e41ab3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Balkan Bo
@@ -8380,6 +8973,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Buducnost VOLI Podgorica @ Slask Wroclaw (99-75)
 DTSTART:20260930T170000Z
 DTEND:20260930T193000Z
+DTSTAMP:20261002T195620Z
 UID:a446df0ebdef91fe730c357ee9d75ce6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Buducnost 
@@ -8395,6 +8989,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Kids&Us Manresa @ PAOK Thessaloniki (78-93)
 DTSTART:20260930T163000Z
 DTEND:20260930T190000Z
+DTSTAMP:20261002T195620Z
 UID:b7ea1993310816f8e136f569d5d6ada3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Kids&U
@@ -8410,6 +9005,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Lietkabelis Panevezys (72-75)
 DTSTART:20260930T163000Z
 DTEND:20260930T190000Z
+DTSTAMP:20261002T195620Z
 UID:a98df7407288ea4e1109055f1169742e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: BO
@@ -8425,6 +9021,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Roma Basketball @ Bahcesehir College Istanbul (78-91)
 DTSTART:20260930T160000Z
 DTEND:20260930T183000Z
+DTSTAMP:20261002T195620Z
 UID:75f4f35d21fe99422f435558506f89b4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
@@ -8440,6 +9037,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Baglietto Derthona Tortona @ Riga Zelli (84-86)
 DTSTART:20260930T160000Z
 DTEND:20260930T183000Z
+DTSTAMP:20261002T195620Z
 UID:6b1e4a9b51bb86c6bf15a4ee0ebc8596@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Baglietto Der
@@ -8455,6 +9053,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ London Lions @ Siauliai Basketball (71-74)
 DTSTART:20260930T153000Z
 DTEND:20260930T180000Z
+DTSTAMP:20261002T195620Z
 UID:4e126e209d8f1b56d8a4b53de3faab58@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Lond
@@ -8469,6 +9068,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Skyliners Frankfurt @ Umana Reyer Venice (72-104)
 DTSTART:20260929T183000Z
 DTEND:20260929T210000Z
+DTSTAMP:20261002T195620Z
 UID:d634fe8804e0494e64c3c463fd129272@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Skyli
@@ -8484,6 +9084,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Aris Thessaloniki @ Le Mans Sarthe Basket (87-74)
 DTSTART:20260929T180000Z
 DTEND:20260929T203000Z
+DTSTAMP:20261002T195620Z
 UID:b6dab340beb12a905a98b47bfbb00729@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ar
@@ -8499,6 +9100,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Tofas Bursa (69-82)
 DTSTART:20260929T170000Z
 DTEND:20260929T193000Z
+DTSTAMP:20261002T195620Z
 UID:f58e87f7c0a65dd72b166a655eb97518@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: NINERS Chemn
@@ -8513,6 +9115,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Rostock Seawolves @ Hapoel Midtown Jerusalem (73-94)
 DTSTART:20260929T170000Z
 DTEND:20260929T193000Z
+DTSTAMP:20261002T195620Z
 UID:9f125c3c520737791d5917552aae5756@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
@@ -8528,6 +9131,7 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Neptunas Klaipeda (76-73)
 DTSTART:20260929T160000Z
 DTEND:20260929T183000Z
+DTSTAMP:20261002T195620Z
 UID:690401d7bca8ec4ccaf9c370ed195139@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Dolomi

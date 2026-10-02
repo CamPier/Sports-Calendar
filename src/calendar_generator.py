@@ -138,7 +138,59 @@ def _stable_uid(competition: str, game_id: str, dt: datetime, home: str, away: s
     return f"{digest}@basketball-calendar.github.io"
 
 
+def _fingerprint(event) -> str:
+    """Canonical form of an event, ignoring DTSTAMP.
+
+    Used to tell whether an event actually changed between two runs, so that an
+    unchanged event can keep its previous DTSTAMP.
+    """
+    parts = []
+    for key in sorted(event.keys()):
+        if key.upper() == "DTSTAMP":
+            continue
+        value = event[key]
+        raw = value.to_ical() if hasattr(value, "to_ical") else str(value).encode()
+        if isinstance(raw, bytes):
+            raw = raw.decode("utf-8", "replace")
+        parts.append(f"{key.upper()}={raw}")
+    return "|".join(parts)
+
+
+def _previous_dtstamps(path: Path) -> dict[str, tuple[str, object]]:
+    """Map UID -> (fingerprint, DTSTAMP) from an already written ICS file."""
+    if not path.exists():
+        return {}
+    try:
+        old_cal = Calendar.from_ical(path.read_bytes())
+    except Exception as exc:
+        logger.warning("Could not reuse DTSTAMPs from %s: %s", path.name, exc)
+        return {}
+
+    previous: dict[str, tuple[str, object]] = {}
+    for event in old_cal.walk("VEVENT"):
+        uid = str(event.get("UID", ""))
+        stamp = event.get("DTSTAMP")
+        if uid and stamp is not None:
+            previous[uid] = (_fingerprint(event), stamp.dt)
+    return previous
+
+
 def write_ics(cal: Calendar, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+
+    # DTSTAMP is REQUIRED in every VEVENT (RFC 5545 §3.6.1); without it strict
+    # consumers — Google Calendar among them — refuse the whole feed. It is
+    # stamped here rather than in _make_event so that an event whose contents
+    # did not change keeps its old DTSTAMP, leaving the file byte-identical and
+    # preserving the workflow's "commit only on real changes" behaviour.
+    previous = _previous_dtstamps(path)
+    now = datetime.now(timezone.utc).replace(microsecond=0)
+
+    for event in cal.walk("VEVENT"):
+        uid = str(event.get("UID", ""))
+        fingerprint = _fingerprint(event)
+        prev = previous.get(uid)
+        event.add("DTSTAMP", prev[1] if prev and prev[0] == fingerprint else now)
+
     path.write_bytes(cal.to_ical())
     logger.info("Written %s (%d bytes)", path, path.stat().st_size)
