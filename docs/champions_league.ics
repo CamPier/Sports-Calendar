@@ -140,9 +140,9 @@ DTSTART:20260909T190000Z
 DTEND:20260909T213000Z
 UID:09728103bea2958d9642b8de5ed70c40@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal\
- nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato:
-  Napoli 0 - 1 Arsenal\nStato: finished
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal
+ \nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato
+ : Napoli 0 - 1 Arsenal\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -786,8 +786,8 @@ DTEND:20261103T223000Z
 UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\
- nStato: scheduled
+ : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid
+ \nStato: scheduled
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1781,8 +1781,8 @@ DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
 UID:4f4fe93568bc622351b4a7135d2bb969@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como\
- nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como
+ \nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: scheduled
 LOCATION:Spotify Camp Nou\, Barcelona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1864,8 +1864,8 @@ DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
 UID:b0037afc391b115338d95f5c9a5b5956@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens\
- nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens
+ \nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
 LOCATION:Anfield\, Liverpool
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

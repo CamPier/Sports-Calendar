@@ -238,9 +238,9 @@ DTSTART:20260830T184500Z
 DTEND:20260830T211500Z
 UID:55931426d15307ef70dd4c047e176dbd@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Internazionale\
- nCircuito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 0 - 1
-  Internazionale\nStato: finished
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Internazionale
+ \nCircuito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 0 - 
+ 1 Internazionale\nStato: finished
 LOCATION:Unipol Domus\, Cagliari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -588,8 +588,8 @@ DTEND:20260919T153000Z
 UID:a1ce8a6b491330018847a507bbabd460@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Torino\nCircuito
- /Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 1 Torino\
- nStato: finished
+ /Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 1 Torino
+ \nStato: finished
 LOCATION:Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -602,8 +602,8 @@ DTEND:20260919T153000Z
 UID:f12575173957ee81a826e57dc3211068@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Cagliari\nCircui
- to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 1 Cagliari\
- nStato: finished
+ to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 1 Cagliari
+ \nStato: finished
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1259,8 +1259,8 @@ DTSTART:20261031T194500Z
 DTEND:20261031T221500Z
 UID:f20d0564a551a21c53dceae305f5b0a8@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1597,8 +1597,8 @@ DTSTART:20261122T194500Z
 DTEND:20261122T221500Z
 UID:78ea2e2ca0d7741158b9f5707974fd40@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale\
- nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale
+ \nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
 LOCATION:New Balance Arena\, Bergamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2209,8 +2209,8 @@ DTSTART:20270103T113000Z
 DTEND:20270103T140000Z
 UID:29fe5575f2839189f2dd566869c80379@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Sassuolo\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Sassuolo
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2495,8 +2495,8 @@ DTSTART:20270110T194500Z
 DTEND:20270110T221500Z
 UID:7d38bae813e7e65fa8f17d6b3b7e964f@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Juventus\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Juventus
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2990,8 +2990,8 @@ DTSTART:20270207T200000Z
 DTEND:20270207T223000Z
 UID:bb7094daa4eb1f9d293ed5634c7defd6@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cagliari\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cagliari
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3120,8 +3120,8 @@ DTSTART:20270214T200000Z
 DTEND:20270214T223000Z
 UID:4dd9c4d8d50405654c6d0ea6385846a4@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AC Milan\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AC Milan
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3394,8 +3394,8 @@ DTSTART:20270228T200000Z
 DTEND:20270228T223000Z
 UID:10a0dfb311c6d6622a06e615479383c5@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta\
- nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta
+ \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4669,8 +4669,8 @@ DTSTART:20270516T180000Z
 DTEND:20270516T203000Z
 UID:a0ce2600f027114980dee76e7ea37abd@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Internazionale\
- nCircuito/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Internazionale
+ \nCircuito/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
 LOCATION:Allianz Stadium\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4994,8 +4994,8 @@ DTSTART:20270530T180000Z
 DTEND:20270530T203000Z
 UID:8025f754c21fe03e9e346ea411f809d3@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Internazionale\
- nCircuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Internazionale
+ \nCircuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
 LOCATION:Mapei Stadium\, Reggio Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
