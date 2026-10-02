@@ -1,5 +1,5 @@
 requests>=2.31.0
-icalendar>=5.0.12
+icalendar==7.1.2        # pinned: la versione decide il line-folding ICS, e un folding diverso tra CI e locale genera diff fantasma
 pytz>=2024.1
 python-dateutil>=2.9.0
 beautifulsoup4>=4.12.0

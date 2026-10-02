@@ -498,8 +498,8 @@ DTSTAMP:20261002T195652Z
 UID:5ee2c3648d16fe770ef88abaaecf3177@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Fener
- bahce Tarfin Istanbul\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 38
- \nFase: Group Regular Season\nStato: scheduled
+ bahce Tarfin Istanbul\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 38\
+ nFase: Group Regular Season\nStato: scheduled
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -512,9 +512,9 @@ DTEND:20270409T211500Z
 DTSTAMP:20261002T195652Z
 UID:02068fb1d1a3a6da68c538e5a0e5bf83@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Dubai Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
- : 37\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Dubai Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
+  37\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -813,9 +813,9 @@ DTEND:20270402T211500Z
 DTSTAMP:20261002T195652Z
 UID:635c140296110e0521f04f1ec09eac48@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: LDLC ASVEL Villeurbanne\nCircuito/Arena: BELGRADE ARENA\nGiornat
- a/Round: 35\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: LDLC ASVEL Villeurbanne\nCircuito/Arena: BELGRADE ARENA\nGiornata
+ /Round: 35\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1175,9 +1175,9 @@ DTEND:20270323T221500Z
 DTSTAMP:20261002T195652Z
 UID:9c8f47ec3679d3ef215d525ae36e1d3c@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Virtus Bologna\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
- 33\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Virtus Bologna\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 3
+ 3\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1357,9 +1357,9 @@ DTEND:20270318T221500Z
 DTSTAMP:20261002T195652Z
 UID:87981e959f2d533c4405bf97b98341ac@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: FC Bayern Munich\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
- : 32\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: FC Bayern Munich\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
+  32\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1522,9 +1522,9 @@ DTEND:20270311T221500Z
 DTSTAMP:20261002T195652Z
 UID:e97a3adec99bc4bb6f16b4acbd8d926c@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornata/
- Round: 31\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
+ ound: 31\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1612,9 +1612,9 @@ DTEND:20270309T221500Z
 DTSTAMP:20261002T195652Z
 UID:7fe6745b95198dcd310c2368760d20a1@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round
- : 30\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
+  30\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2022,9 +2022,9 @@ DTEND:20270205T221500Z
 DTSTAMP:20261002T195652Z
 UID:7e96e75b90334c6c2cde80349b785739@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Hapoel IBI Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata/Ro
- und: 27\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Hapoel IBI Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata/Rou
+ nd: 27\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2233,9 +2233,9 @@ DTEND:20270202T221500Z
 DTSTAMP:20261002T195652Z
 UID:64708c1d7c40c931eb2713947f3c71b1@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Real Madrid\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 26
- \nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Real Madrid\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 26\n
+ Fase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2521,8 +2521,8 @@ DTSTAMP:20261002T195652Z
 UID:e9487b51852bd1d571dd76658a9fc581@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  Dubai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 24\nFase: Group Regular Season\nStato: scheduled
+  Dubai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
+ nGiornata/Round: 24\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2550,9 +2550,9 @@ DTEND:20270121T221500Z
 DTSTAMP:20261002T195652Z
 UID:f57426892e00d47656a3c880409a491c@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Olympiacos Piraeus\nCircuito/Arena: BELGRADE ARENA\nGiornata/Rou
- nd: 24\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Olympiacos Piraeus\nCircuito/Arena: BELGRADE ARENA\nGiornata/Roun
+ d: 24\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2626,9 +2626,9 @@ DTEND:20270115T221500Z
 DTSTAMP:20261002T195652Z
 UID:0e4ef7bb8e472139bb5ef4b50fd2b125@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Fenerbahce Tarfin Istanbul\nCircuito/Arena: BELGRADE ARENA\nGior
- nata/Round: 23\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Fenerbahce Tarfin Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiorn
+ ata/Round: 23\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2718,8 +2718,8 @@ DTSTAMP:20261002T195652Z
 UID:129f3b5d20afef097ef43bcbdebcc94c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
- LDLC ASVEL Villeurbanne\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 23
- \nFase: Group Regular Season\nStato: scheduled
+ LDLC ASVEL Villeurbanne\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 23\
+ nFase: Group Regular Season\nStato: scheduled
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3169,9 +3169,9 @@ DTEND:20261229T221500Z
 DTSTAMP:20261002T195652Z
 UID:c107275035ebad01566b06bd08e7010d@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Zalgiris Kaunas\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
-  20\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Zalgiris Kaunas\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
+ 20\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3516,8 +3516,8 @@ DTSTAMP:20261002T195652Z
 UID:b6418ffca472b9d54f545378202ffac6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
- pite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: ULKER SPORTS AND EVENT HALL
- \nGiornata/Round: 18\nFase: Group Regular Season\nStato: scheduled
+ pite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\
+ nGiornata/Round: 18\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3562,8 +3562,8 @@ DTSTAMP:20261002T195652Z
 UID:c51b903905cf9d52f15e839f9fd230a9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Arm
- ani Olimpia Milan\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 17\nFase: Group Regular Season\nStato: scheduled
+ ani Olimpia Milan\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
+ nGiornata/Round: 17\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3682,9 +3682,9 @@ DTEND:20261211T221500Z
 DTSTAMP:20261002T195652Z
 UID:ef0b7aa756a1f0362dbb3201a06834b3@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: FC Barcelona\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/
- Round: 16\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: FC Barcelona\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/R
+ ound: 16\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4134,9 +4134,9 @@ DTEND:20261120T221500Z
 DTSTAMP:20261002T195652Z
 UID:37f52d82d099367e9a917a4d945e9c1d@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Besiktas Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGior
- nata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Besiktas Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiorn
+ ata/Round: 13\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4255,8 +4255,8 @@ DTSTAMP:20261002T195652Z
 UID:fe951ba56c11d6b0f24f19ddd51eab8c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Panat
- hinaikos AKTOR Athens\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 13
- \nFase: Group Regular Season\nStato: scheduled
+ hinaikos AKTOR Athens\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 13\
+ nFase: Group Regular Season\nStato: scheduled
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4314,9 +4314,9 @@ DTEND:20261117T221500Z
 DTSTAMP:20261002T195652Z
 UID:a42a6e199fecdde1fb0c96cfb4d4b4b8@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round:
-  12\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
+ 12\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4555,9 +4555,9 @@ DTEND:20261111T221500Z
 DTSTAMP:20261002T195652Z
 UID:5cdadc96efc626d0e53ef8b9f54bd029@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: BELGRADE ARENA
- \nGiornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: BELGRADE ARENA\n
+ Giornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4585,9 +4585,9 @@ DTEND:20261106T221500Z
 DTSTAMP:20261002T195652Z
 UID:d8fa700151c2ec6bad3d3cbeb47f17d6@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata
- /Round: 10\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata/
+ Round: 10\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4707,8 +4707,8 @@ DTSTAMP:20261002T195652Z
 UID:cd6fe3df01c2f639011bba889e4892be@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 10\nFase: Group Regular Season\nStato: scheduled
+  Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
+ nGiornata/Round: 10\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5083,9 +5083,9 @@ DTEND:20261022T211500Z
 DTSTAMP:20261002T195652Z
 UID:493bb96f1148487e7585f4f35705f3d2@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: BELGRADE ARE
- NA\nGiornata/Round: 7\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: BELGRADE AREN
+ A\nGiornata/Round: 7\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5130,8 +5130,8 @@ DTSTAMP:20261002T195652Z
 UID:3dc15a30fc910e76b9b307fcc9faae18@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Real Madrid\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round: 7
- \nFase: Group Regular Season\nStato: scheduled
+ : Real Madrid\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round: 7\
+ nFase: Group Regular Season\nStato: scheduled
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5356,8 +5356,8 @@ DTSTAMP:20261002T195652Z
 UID:15bc38794c2866378971da20a622a9cd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  FC Bayern Munich\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 5\nFase: Group Regular Season\nStato: scheduled
+  FC Bayern Munich\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
+ nGiornata/Round: 5\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5401,9 +5401,9 @@ DTEND:20261013T210000Z
 DTSTAMP:20261002T195652Z
 UID:26fc3eff617b0153f9a9e662880e9177@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Panathinaikos AKTOR Athens\nCircuito/Arena: BELGRADE ARENA\nGior
- nata/Round: 5\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Panathinaikos AKTOR Athens\nCircuito/Arena: BELGRADE ARENA\nGiorn
+ ata/Round: 5\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5849,8 +5849,8 @@ UID:e109bc4330e9d789399d6844bb65caac@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Virtus Bologna\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 2\nFase: Gro
- up Regular Season\nRisultato: Armani Olimpia Milan 87 - 85 Virtus Bologna
- \nStato: finished
+ up Regular Season\nRisultato: Armani Olimpia Milan 87 - 85 Virtus Bologna\
+ nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5865,9 +5865,9 @@ DTSTAMP:20261002T195652Z
 UID:2a3871c03c5c598a7f55e9ea7e17f9c5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Kosne
- r Baskonia Vitoria-Gasteiz\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 2
- \nFase: Group Regular Season\nRisultato: Valencia Basket 111 - 88 Kosner B
- askonia Vitoria-Gasteiz\nStato: finished
+ r Baskonia Vitoria-Gasteiz\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 2\
+ nFase: Group Regular Season\nRisultato: Valencia Basket 111 - 88 Kosner Ba
+ skonia Vitoria-Gasteiz\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5915,8 +5915,8 @@ UID:e0e10b5a1d792f9dc17ef7bc5686e7b1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Olymp
  iacos Piraeus\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 2\nFase: Gr
- oup Regular Season\nRisultato: Zalgiris Kaunas 91 - 93 Olympiacos Piraeus
- \nStato: finished
+ oup Regular Season\nRisultato: Zalgiris Kaunas 91 - 93 Olympiacos Piraeus\
+ nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5962,10 +5962,10 @@ DTEND:20260925T211500Z
 DTSTAMP:20261002T195652Z
 UID:3605407352cdeaeb8cf478127fcc7356@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade
- \nOspite: Armani Olimpia Milan\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
- ound: 1\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgr
- ade 92 - 76 Armani Olimpia Milan\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
+ nOspite: Armani Olimpia Milan\nCircuito/Arena: BELGRADE ARENA\nGiornata/Ro
+ und: 1\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgra
+ de 92 - 76 Armani Olimpia Milan\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6139,9 +6139,9 @@ DTEND:20270113T220000Z
 DTSTAMP:20261002T195652Z
 UID:17ff1e50b124604231c4f84cfc93f5ff@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Le Mans Sarthe Basket\nCircuito/Arena: COLISEUM BURGOS\nGiornata
- /Round: 14\nFase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Le Mans Sarthe Basket\nCircuito/Arena: COLISEUM BURGOS\nGiornata/
+ Round: 14\nFase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6170,8 +6170,8 @@ DTSTAMP:20261002T195652Z
 UID:f5e58b6b95b48ba6a748711264a83098@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
-  Baglietto Derthona Tortona\nCircuito/Arena: HALA SPORTOVA RANKO ZERAVICA
- \nGiornata/Round: 14\nFase: Group A\nStato: scheduled
+  Baglietto Derthona Tortona\nCircuito/Arena: HALA SPORTOVA RANKO ZERAVICA\
+ nGiornata/Round: 14\nFase: Group A\nStato: scheduled
 LOCATION:HALA SPORTOVA RANKO ZERAVICA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6380,8 +6380,8 @@ DTSTAMP:20261002T195652Z
 UID:ffc759ce16171bf2c6fb26e198247470@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
-  Slask Wroclaw\nCircuito/Arena: EKINOX\nGiornata/Round: 13\nFase: Group C
- \nStato: scheduled
+  Slask Wroclaw\nCircuito/Arena: EKINOX\nGiornata/Round: 13\nFase: Group C\
+ nStato: scheduled
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6695,8 +6695,8 @@ DTSTAMP:20261002T195652Z
 UID:08b1fa401ccd22835ab97022b4a09343@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Skyline
- rs Frankfurt\nCircuito/Arena: BT ARENA\nGiornata/Round: 12\nFase: Group B
- \nStato: scheduled
+ rs Frankfurt\nCircuito/Arena: BT ARENA\nGiornata/Round: 12\nFase: Group B\
+ nStato: scheduled
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6979,9 +6979,9 @@ DTEND:20261222T220000Z
 DTSTAMP:20261002T195652Z
 UID:e24b87534c798d087be6ea9849429c3c@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Baglietto Derthona Tortona\nCircuito/Arena: COLISEUM BURGOS\nGio
- rnata/Round: 11\nFase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Baglietto Derthona Tortona\nCircuito/Arena: COLISEUM BURGOS\nGior
+ nata/Round: 11\nFase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7205,8 +7205,8 @@ DTSTAMP:20261002T195652Z
 UID:fe171a5b6c87d566785c411e6e1857cc@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Siaulia
- i Basketball\nCircuito/Arena: BT ARENA\nGiornata/Round: 10\nFase: Group B
- \nStato: scheduled
+ i Basketball\nCircuito/Arena: BT ARENA\nGiornata/Round: 10\nFase: Group B\
+ nStato: scheduled
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7339,9 +7339,9 @@ DTEND:20261209T220000Z
 DTSTAMP:20261002T195652Z
 UID:7399d14865d99fc8bf5a3a36706ed7d5@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Aris Thessaloniki\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Rou
- nd: 9\nFase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Aris Thessaloniki\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Roun
+ d: 9\nFase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7505,8 +7505,8 @@ DTSTAMP:20261002T195652Z
 UID:68512cc676b27401e48904a0edd8bd8e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: BOSNA 
- BH Telecom Sarajevo\nCircuito/Arena: PAOK SPORTS ARENA\nGiornata/Round: 9
- \nFase: Group D\nStato: scheduled
+ BH Telecom Sarajevo\nCircuito/Arena: PAOK SPORTS ARENA\nGiornata/Round: 9\
+ nFase: Group D\nStato: scheduled
 LOCATION:PAOK SPORTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7760,8 +7760,8 @@ DTSTAMP:20261002T195652Z
 UID:5a956d68c861ff4c67f9e961059514a6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Hapoel
-  Midtown Jerusalem\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 8
- \nFase: Group A\nStato: scheduled
+  Midtown Jerusalem\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 8\
+ nFase: Group A\nStato: scheduled
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7925,8 +7925,8 @@ DTSTAMP:20261002T195652Z
 UID:b94581c15096d08e119d21f638f60748@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: BOSNA BH
-  Telecom Sarajevo\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 7
- \nFase: Group D\nStato: scheduled
+  Telecom Sarajevo\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 7\
+ nFase: Group D\nStato: scheduled
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8015,8 +8015,8 @@ DTSTAMP:20261002T195652Z
 UID:8413e0a109e9bc19948a8bf49c7df19b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Slask 
- Wroclaw\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 7\nFase: Group C
- \nStato: scheduled
+ Wroclaw\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 7\nFase: Group C\
+ nStato: scheduled
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8074,9 +8074,9 @@ DTEND:20261104T220000Z
 DTSTAMP:20261002T195652Z
 UID:f32becb20b19e4002abaaa629a661b64@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Rostock Seawolves\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Rou
- nd: 6\nFase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Rostock Seawolves\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Roun
+ d: 6\nFase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8314,9 +8314,9 @@ DTEND:20261028T220000Z
 DTSTAMP:20261002T195652Z
 UID:8d254670069d56cf553853b6e754676c@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Riga Zelli\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Round: 5\n
- Fase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Riga Zelli\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Round: 5\nF
+ ase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8420,8 +8420,8 @@ DTSTAMP:20261002T195652Z
 UID:c83eb26bc5979d7f1f3e2b6d7382e101@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Maxi
- ma Roma\nCircuito/Arena: SIAULIAI ARENA\nGiornata/Round: 5\nFase: Group B
- \nStato: scheduled
+ ma Roma\nCircuito/Arena: SIAULIAI ARENA\nGiornata/Round: 5\nFase: Group B\
+ nStato: scheduled
 LOCATION:SIAULIAI ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8809,9 +8809,9 @@ DTEND:20261014T210000Z
 DTSTAMP:20261002T195652Z
 UID:6fef0819730ecb5e409e43ae02f193f0@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Hapoel Midtown Jerusalem\nCircuito/Arena: COLISEUM BURGOS\nGiorn
- ata/Round: 3\nFase: Group A\nStato: scheduled
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Hapoel Midtown Jerusalem\nCircuito/Arena: COLISEUM BURGOS\nGiorna
+ ta/Round: 3\nFase: Group A\nStato: scheduled
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9276,10 +9276,10 @@ DTEND:20260930T210000Z
 DTSTAMP:20261002T195652Z
 UID:55adea7d32b542e3fbdd04664ea35c12@basketball-calendar.github.io
 COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos
- \nOspite: Cedevita Olimpija Ljubljana\nCircuito/Arena: COLISEUM BURGOS\nGi
- ornata/Round: 1\nFase: Group A\nRisultato: Recoletas Salud San Pablo Burgo
- s 85 - 81 Cedevita Olimpija Ljubljana\nStato: finished
+DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
+ nOspite: Cedevita Olimpija Ljubljana\nCircuito/Arena: COLISEUM BURGOS\nGio
+ rnata/Round: 1\nFase: Group A\nRisultato: Recoletas Salud San Pablo Burgos
+  85 - 81 Cedevita Olimpija Ljubljana\nStato: finished
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9876,9 +9876,9 @@ DTEND:20261017T200000Z
 DTSTAMP:20261002T195652Z
 UID:f6c1671f0ca2480bd4f15c949c1811be@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia
- \nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 4� 
- Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia\
+ nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 4� G
+ iornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Palazzo dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9999,9 +9999,9 @@ DTEND:20261024T203000Z
 DTSTAMP:20261002T195652Z
 UID:bb59baf568369eb46f6626d346411b55@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: BC Roma
- \nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 5� Gior
- nata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: BC Roma\
+ nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 5� Giorn
+ ata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -10697,8 +10697,8 @@ DTSTAMP:20261002T195652Z
 UID:dd49ee8ee95eb8d3002984974fe3262f@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Maxima R
- oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -10823,8 +10823,8 @@ DTSTAMP:20261002T195652Z
 UID:ac62223790a2c9da0befd1a37dce7819@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: BC R
- oma\nGiornata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11005,8 +11005,8 @@ DTSTAMP:20261002T195652Z
 UID:7bdbe2122023a7539767f5ca4a2df332@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Acqua S.Bernardo Can
- tù\nGiornata/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ tù\nGiornata/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11242,9 +11242,9 @@ DTEND:20270117T013000Z
 DTSTAMP:20261002T195652Z
 UID:7b43941487e71b7000b9ea187c03f224@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: BC Roma
- \nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: BC Roma\
+ nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11705,8 +11705,8 @@ DTSTAMP:20261002T195652Z
 UID:e0f585dfb3cb86b5aee2d0242a3e1f49@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: BC R
- oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12573,8 +12573,8 @@ DTSTAMP:20261002T195652Z
 UID:566e792b0443ce99b87b179f4e683872@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Umana Reyer Vene
- zia\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ zia\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12684,9 +12684,9 @@ DTEND:20270425T003000Z
 DTSTAMP:20261002T195652Z
 UID:f8a5bf4060afd497a6cf3d7a79eb4b11@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Openjobmetis Varese
- \nGiornata/Round: 28� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Openjobmetis Varese\
+ nGiornata/Round: 28� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12783,8 +12783,8 @@ DTSTAMP:20261002T195652Z
 UID:3151df6b052c39bc10ad50d3f4f039fb@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Openjobmetis Var
- ese\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ ese\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12909,8 +12909,8 @@ DTSTAMP:20261002T195652Z
 UID:7920c8cab50d6f0580214084622aca0b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: APU Old Wild West Ud
- ine\nGiornata/Round: 30� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ ine\nGiornata/Round: 30� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -13162,9 +13162,9 @@ DTEND:20260830T211500Z
 DTSTAMP:20261002T195652Z
 UID:55931426d15307ef70dd4c047e176dbd@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Internazionale
- \nCircuito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 0 - 
- 1 Internazionale\nStato: finished
+DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Internazionale\
+ nCircuito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 0 - 1
+  Internazionale\nStato: finished
 LOCATION:Unipol Domus\, Cagliari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -13537,8 +13537,8 @@ DTSTAMP:20261002T195652Z
 UID:a1ce8a6b491330018847a507bbabd460@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Torino\nCircuito
- /Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 1 Torino
- \nStato: finished
+ /Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 1 Torino\
+ nStato: finished
 LOCATION:Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -13552,8 +13552,8 @@ DTSTAMP:20261002T195652Z
 UID:f12575173957ee81a826e57dc3211068@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: Cagliari\nCircui
- to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 1 Cagliari
- \nStato: finished
+ to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 1 Cagliari\
+ nStato: finished
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14259,8 +14259,8 @@ DTEND:20261031T221500Z
 DTSTAMP:20261002T195652Z
 UID:f20d0564a551a21c53dceae305f5b0a8@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Internazionale\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14623,8 +14623,8 @@ DTEND:20261122T221500Z
 DTSTAMP:20261002T195652Z
 UID:78ea2e2ca0d7741158b9f5707974fd40@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale
- \nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale\
+ nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
 LOCATION:New Balance Arena\, Bergamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15282,8 +15282,8 @@ DTEND:20270103T140000Z
 DTSTAMP:20261002T195652Z
 UID:29fe5575f2839189f2dd566869c80379@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Sassuolo
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Sassuolo\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15590,8 +15590,8 @@ DTEND:20270110T221500Z
 DTSTAMP:20261002T195652Z
 UID:7d38bae813e7e65fa8f17d6b3b7e964f@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Juventus
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Juventus\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -16123,8 +16123,8 @@ DTEND:20270207T223000Z
 DTSTAMP:20261002T195652Z
 UID:bb7094daa4eb1f9d293ed5634c7defd6@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cagliari
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Cagliari\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -16263,8 +16263,8 @@ DTEND:20270214T223000Z
 DTSTAMP:20261002T195652Z
 UID:4dd9c4d8d50405654c6d0ea6385846a4@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AC Milan
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: AC Milan\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -16558,8 +16558,8 @@ DTEND:20270228T223000Z
 DTSTAMP:20261002T195652Z
 UID:10a0dfb311c6d6622a06e615479383c5@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta
- \nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Atalanta\
+ nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -17931,8 +17931,8 @@ DTEND:20270516T203000Z
 DTSTAMP:20261002T195652Z
 UID:a0ce2600f027114980dee76e7ea37abd@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Internazionale
- \nCircuito/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Internazionale\
+ nCircuito/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
 LOCATION:Allianz Stadium\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -18281,8 +18281,8 @@ DTEND:20270530T203000Z
 DTSTAMP:20261002T195652Z
 UID:8025f754c21fe03e9e346ea411f809d3@basketball-calendar.github.io
 COLOR:#1A56DB
-DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Internazionale
- \nCircuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Internazionale\
+ nCircuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
 LOCATION:Mapei Stadium\, Reggio Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -18430,9 +18430,9 @@ DTEND:20260909T213000Z
 DTSTAMP:20261002T195652Z
 UID:09728103bea2958d9642b8de5ed70c40@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal
- \nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato
- : Napoli 0 - 1 Arsenal\nStato: finished
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal\
+ nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato:
+  Napoli 0 - 1 Arsenal\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19123,8 +19123,8 @@ DTSTAMP:20261002T195652Z
 UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid
- \nStato: scheduled
+ : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\
+ nStato: scheduled
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20191,8 +20191,8 @@ DTEND:20270127T223000Z
 DTSTAMP:20261002T195652Z
 UID:4f4fe93568bc622351b4a7135d2bb969@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como
- \nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como\
+ nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: scheduled
 LOCATION:Spotify Camp Nou\, Barcelona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20280,8 +20280,8 @@ DTEND:20270127T223000Z
 DTSTAMP:20261002T195652Z
 UID:b0037afc391b115338d95f5c9a5b5956@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens
- \nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens\
+ nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
 LOCATION:Anfield\, Liverpool
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20535,9 +20535,9 @@ DTEND:20260327T033000Z
 DTSTAMP:20261002T195652Z
 UID:490f93209e48c90e473c95b73953e184@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP1
- \nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: 
- Round 3\nFase: FirstPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: FirstPractice\nStato: finished
 LOCATION:Suzuka Circuit\, Suzuka\, Japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20550,9 +20550,9 @@ DTEND:20260327T070000Z
 DTSTAMP:20261002T195652Z
 UID:30048da6c0fce5c73eef6ff578725db7@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP2
- \nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: 
- Round 3\nFase: SecondPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP2\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: SecondPractice\nStato: finished
 LOCATION:Suzuka Circuit\, Suzuka\, Japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20565,9 +20565,9 @@ DTEND:20260328T033000Z
 DTSTAMP:20261002T195652Z
 UID:768e10edb4eef91d9b3866afbdeab513@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP3
- \nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: 
- Round 3\nFase: ThirdPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Japanese Grand Prix\nOspite: 🏎 FP3\
+ nCircuito/Arena: Suzuka Circuit\nCittà: Suzuka\, Japan\nGiornata/Round: R
+ ound 3\nFase: ThirdPractice\nStato: finished
 LOCATION:Suzuka Circuit\, Suzuka\, Japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20625,9 +20625,9 @@ DTEND:20260502T164500Z
 DTSTAMP:20261002T195652Z
 UID:60eca2e71eb0a771aa776a4ee6525882@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 Sprint
- \nCircuito/Arena: Miami International Autodrome\nCittà: Miami\, USA\nGior
- nata/Round: Round 4\nFase: Sprint\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Miami Grand Prix\nOspite: 🏎 Sprint\
+ nCircuito/Arena: Miami International Autodrome\nCittà: Miami\, USA\nGiorn
+ ata/Round: Round 4\nFase: Sprint\nStato: finished
 LOCATION:Miami International Autodrome\, Miami\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20655,9 +20655,9 @@ DTEND:20260522T173000Z
 DTSTAMP:20261002T195652Z
 UID:47fb3ba61d7568690d59ca01664e3d7e@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 FP1
- \nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal\, Canada\nGi
- ornata/Round: Round 5\nFase: FirstPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Canadian Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Circuit Gilles Villeneuve\nCittà: Montreal\, Canada\nGio
+ rnata/Round: Round 5\nFase: FirstPractice\nStato: finished
 LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20836,9 +20836,9 @@ DTEND:20260626T123000Z
 DTSTAMP:20261002T195652Z
 UID:e80bb5496e7f8da94508341f73ade057@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP1
- \nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Rou
- nd: Round 8\nFase: FirstPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP1\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: FirstPractice\nStato: finished
 LOCATION:Red Bull Ring\, Spielberg\, Austria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20851,9 +20851,9 @@ DTEND:20260626T160000Z
 DTSTAMP:20261002T195652Z
 UID:89140cd192a89cc454ca1a88004b272b@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP2
- \nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Rou
- nd: Round 8\nFase: SecondPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP2\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: SecondPractice\nStato: finished
 LOCATION:Red Bull Ring\, Spielberg\, Austria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20866,9 +20866,9 @@ DTEND:20260627T113000Z
 DTSTAMP:20261002T195652Z
 UID:4612ccc00e83c2796c190ffb69556fe9@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP3
- \nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Rou
- nd: Round 8\nFase: ThirdPractice\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Austrian Grand Prix\nOspite: 🏎 FP3\
+ nCircuito/Arena: Red Bull Ring\nCittà: Spielberg\, Austria\nGiornata/Roun
+ d: Round 8\nFase: ThirdPractice\nStato: finished
 LOCATION:Red Bull Ring\, Spielberg\, Austria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21107,9 +21107,9 @@ DTEND:20260822T104500Z
 DTSTAMP:20261002T195652Z
 UID:6b5b834fdf0650410251e8f592b933ff@basketball-calendar.github.io
 COLOR:#E10600
-DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 Sprint
- \nCircuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Netherlands
- \nGiornata/Round: Round 12\nFase: Sprint\nStato: finished
+DESCRIPTION:Competizione: F1\nCasa: Dutch Grand Prix\nOspite: 🏎 Sprint\
+ nCircuito/Arena: Circuit Park Zandvoort\nCittà: Zandvoort\, Netherlands\n
+ Giornata/Round: Round 12\nFase: Sprint\nStato: finished
 LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21198,8 +21198,8 @@ DTSTAMP:20261002T195652Z
 UID:d0f6bf17daa86bd7af585d830620c5eb@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP1\n
- Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14
- \nFase: FirstPractice\nStato: finished
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: FirstPractice\nStato: finished
 LOCATION:Madring\, Madrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21213,8 +21213,8 @@ DTSTAMP:20261002T195652Z
 UID:956e23ffe34bb776933ef25afa4de546@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP2\n
- Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14
- \nFase: SecondPractice\nStato: finished
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: SecondPractice\nStato: finished
 LOCATION:Madring\, Madrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21228,8 +21228,8 @@ DTSTAMP:20261002T195652Z
 UID:876c4370a77b074f4159b3644bfa9515@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Spanish Grand Prix\nOspite: 🏎 FP3\n
- Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14
- \nFase: ThirdPractice\nStato: finished
+ Circuito/Arena: Madring\nCittà: Madrid\, Spain\nGiornata/Round: Round 14\
+ nFase: ThirdPractice\nStato: finished
 LOCATION:Madring\, Madrid\, Spain
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21609,8 +21609,8 @@ DTSTAMP:20261002T195652Z
 UID:268eecd1e654d6a9c9745263f5deca6c@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 Qua
- lifiche\nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo
- \, Brazil\nGiornata/Round: Round 20\nFase: Qualifying\nStato: scheduled
+ lifiche\nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\
+ , Brazil\nGiornata/Round: Round 20\nFase: Qualifying\nStato: scheduled
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21624,8 +21624,8 @@ DTSTAMP:20261002T195652Z
 UID:6c35a60b36fab5ae5a33aa6377bc4e85@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP1
- \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA
- \nGiornata/Round: Round 21\nFase: FirstPractice\nStato: scheduled
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 21\nFase: FirstPractice\nStato: scheduled
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21639,8 +21639,8 @@ DTSTAMP:20261002T195652Z
 UID:e6a2555c315f8f467f649c67cac76216@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP2
- \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA
- \nGiornata/Round: Round 21\nFase: SecondPractice\nStato: scheduled
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 21\nFase: SecondPractice\nStato: scheduled
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21654,8 +21654,8 @@ DTSTAMP:20261002T195652Z
 UID:44becfc3fb4cd8fbb4b10c43063a0f3a@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP3
- \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA
- \nGiornata/Round: Round 21\nFase: ThirdPractice\nStato: scheduled
+ \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
+ nGiornata/Round: Round 21\nFase: ThirdPractice\nStato: scheduled
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21729,8 +21729,8 @@ DTSTAMP:20261002T195652Z
 UID:5a01543cb6ded08e62a1b4a8573503bb@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 Qualifi
- che\nCircuito/Arena: Lusail International Circuit\nCittà: Lusail\, Qatar
- \nGiornata/Round: Round 22\nFase: Qualifying\nStato: scheduled
+ che\nCircuito/Arena: Lusail International Circuit\nCittà: Lusail\, Qatar\
+ nGiornata/Round: Round 22\nFase: Qualifying\nStato: scheduled
 LOCATION:Lusail International Circuit\, Lusail\, Qatar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22001,8 +22001,8 @@ UID:fcb9e9f3a4e860914c9d1d6ea35b164c@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: RED BULL GRAND PRIX OF SAN MARINO 
  AND THE RIMINI RIVIERA\nOspite: Gara\nCircuito/Arena: Misano World Circuit
-  Marco Simoncelli\nGiornata/Round: Round 14\nFase: MotoGP\, Moto2\, Moto3
- \nStato: finished
+  Marco Simoncelli\nGiornata/Round: Round 14\nFase: MotoGP\, Moto2\, Moto3\
+ nStato: finished
 LOCATION:Misano World Circuit Marco Simoncelli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22045,9 +22045,9 @@ DTEND:20261011T150000Z
 DTSTAMP:20261002T195652Z
 UID:a72ab3e1d220dddc8a79b7d81f9bc684@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: PERTAMINA GRAND PRIX OF INDONESIA
- \nOspite: Gara\nCircuito/Arena: Pertamina Mandalika International Circuit
- \nGiornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: PERTAMINA GRAND PRIX OF INDONESIA\
+ nOspite: Gara\nCircuito/Arena: Pertamina Mandalika International Circuit\n
+ Giornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Pertamina Mandalika International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22090,9 +22090,9 @@ DTEND:20261108T150000Z
 DTSTAMP:20261002T195652Z
 UID:29254821dcd3ad528b1547d02c353d38@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF QATAR
- \nOspite: Gara\nCircuito/Arena: Lusail International Circuit\nGiornata/Rou
- nd: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF QATAR\
+ nOspite: Gara\nCircuito/Arena: Lusail International Circuit\nGiornata/Roun
+ d: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Lusail International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22121,8 +22121,8 @@ DTSTAMP:20261002T195652Z
 UID:eafc5c2ed4ed1f94395c7bd19470ca67@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: MOTUL GRAND PRIX OF VALENCIA\nOspi
- te: Gara\nCircuito/Arena: Circuit Ricardo Tormo\nGiornata/Round: Round 22
- \nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ te: Gara\nCircuito/Arena: Circuit Ricardo Tormo\nGiornata/Round: Round 22\
+ nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Circuit Ricardo Tormo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

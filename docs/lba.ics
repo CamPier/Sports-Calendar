@@ -394,9 +394,9 @@ DTEND:20261017T200000Z
 DTSTAMP:20261002T195635Z
 UID:f6c1671f0ca2480bd4f15c949c1811be@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia
- \nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 4� 
- Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia\
+ nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 4� G
+ iornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Palazzo dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -517,9 +517,9 @@ DTEND:20261024T203000Z
 DTSTAMP:20261002T195635Z
 UID:bb59baf568369eb46f6626d346411b55@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: BC Roma
- \nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 5� Gior
- nata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: BC Roma\
+ nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 5� Giorn
+ ata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1215,8 +1215,8 @@ DTSTAMP:20261002T195635Z
 UID:dd49ee8ee95eb8d3002984974fe3262f@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Maxima R
- oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1341,8 +1341,8 @@ DTSTAMP:20261002T195635Z
 UID:ac62223790a2c9da0befd1a37dce7819@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: BC R
- oma\nGiornata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1523,8 +1523,8 @@ DTSTAMP:20261002T195635Z
 UID:7bdbe2122023a7539767f5ca4a2df332@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Acqua S.Bernardo Can
- tù\nGiornata/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ tù\nGiornata/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1760,9 +1760,9 @@ DTEND:20270117T013000Z
 DTSTAMP:20261002T195635Z
 UID:7b43941487e71b7000b9ea187c03f224@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: BC Roma
- \nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: BC Roma\
+ nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -2223,8 +2223,8 @@ DTSTAMP:20261002T195635Z
 UID:e0f585dfb3cb86b5aee2d0242a3e1f49@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: BC R
- oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -3091,8 +3091,8 @@ DTSTAMP:20261002T195635Z
 UID:566e792b0443ce99b87b179f4e683872@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Umana Reyer Vene
- zia\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ zia\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -3202,9 +3202,9 @@ DTEND:20270425T003000Z
 DTSTAMP:20261002T195635Z
 UID:f8a5bf4060afd497a6cf3d7a79eb4b11@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Openjobmetis Varese
- \nGiornata/Round: 28� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Openjobmetis Varese\
+ nGiornata/Round: 28� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -3301,8 +3301,8 @@ DTSTAMP:20261002T195635Z
 UID:3151df6b052c39bc10ad50d3f4f039fb@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Openjobmetis Var
- ese\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ ese\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -3427,8 +3427,8 @@ DTSTAMP:20261002T195635Z
 UID:7920c8cab50d6f0580214084622aca0b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: APU Old Wild West Ud
- ine\nGiornata/Round: 30� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ ine\nGiornata/Round: 30� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
