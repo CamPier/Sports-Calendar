@@ -1,7 +1,7 @@
 """Fetches EuroLeague and EuroCup schedules from the official live API (v2)."""
 
 import logging
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 
 import requests
 
@@ -9,9 +9,11 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://api-live.euroleague.net/v2/competitions"
 
+# Competition code per competition; the season code is derived at runtime
+# (see _current_season_year) so the calendars roll over on their own.
 COMPETITIONS = {
-    "EuroLeague": ("E", "E2025"),
-    "EuroCup": ("U", "U2025"),
+    "EuroLeague": "E",
+    "EuroCup": "U",
 }
 
 HEADERS = {
@@ -24,10 +26,23 @@ PAGE_SIZE = 200
 
 def fetch_games() -> list[dict]:
     """Return combined list of EuroLeague + EuroCup game dicts."""
+    season_year = _current_season_year()
     all_games: list[dict] = []
-    for competition, (comp_code, season_code) in COMPETITIONS.items():
-        all_games.extend(_fetch_competition(competition, comp_code, season_code))
+    for competition, comp_code in COMPETITIONS.items():
+        games = _fetch_competition(competition, comp_code, f"{comp_code}{season_year}")
+        if not games:
+            # Season not published yet (e.g. during the summer break) — fall back
+            # to the previous one so the calendar is never empty.
+            logger.warning("%s %d empty — falling back to %d", competition, season_year, season_year - 1)
+            games = _fetch_competition(competition, comp_code, f"{comp_code}{season_year - 1}")
+        all_games.extend(games)
     return all_games
+
+
+def _current_season_year() -> int:
+    """Season code year: the 2026-27 season is E2026, and it starts in the autumn."""
+    today = date.today()
+    return today.year if today.month >= 7 else today.year - 1
 
 
 def _fetch_competition(competition: str, comp_code: str, season_code: str) -> list[dict]:

@@ -2,6 +2,7 @@
 
 import logging
 import sys
+from datetime import date
 from pathlib import Path
 
 from calendar_generator import build_calendar, write_ics
@@ -16,65 +17,73 @@ logger = logging.getLogger(__name__)
 
 DOCS_DIR = Path(__file__).parent.parent / "docs"
 
+# Season labels are derived at runtime so they never go stale. Cross-year
+# seasons (basket, calcio) roll over in July; motorsport and tennis follow
+# the calendar year.
+_TODAY = date.today()
+_SEASON_START = _TODAY.year if _TODAY.month >= 7 else _TODAY.year - 1
+SEASON = f"{_SEASON_START}-{str(_SEASON_START + 1)[-2:]}"   # es. "2026-27"
+YEAR = _TODAY.year
+
 CALENDARS = [
     # ── Basket ────────────────────────────────────────────────────────────────
     {
         "key": "nba",
         "fetcher": nba.fetch_games,
-        "name": "NBA 2025-26",
-        "description": "Calendario completo NBA 2025-26: Regular Season e Playoffs",
+        "name": f"NBA {SEASON}",
+        "description": f"Calendario completo NBA {SEASON}: Regular Season e Playoffs",
         "filename": "nba.ics",
     },
     {
         "key": "euroleague",
         "fetcher": euroleague.fetch_games,
-        "name": "EuroLeague & EuroCup 2025-26",
-        "description": "Calendario EuroLeague e EuroCup 2025-26",
+        "name": f"EuroLeague & EuroCup {SEASON}",
+        "description": f"Calendario EuroLeague e EuroCup {SEASON}",
         "filename": "euroleague.ics",
     },
     {
         "key": "lba",
         "fetcher": lba.fetch_games,
-        "name": "LBA Legabasket 2025-26",
-        "description": "Calendario Lega Basket Serie A 2025-26",
+        "name": f"LBA Legabasket {SEASON}",
+        "description": f"Calendario Lega Basket Serie A {SEASON}",
         "filename": "lba.ics",
     },
     # ── Calcio ────────────────────────────────────────────────────────────────
     {
         "key": "serie_a",
         "fetcher": serie_a.fetch_games,
-        "name": "Serie A 2025-26",
-        "description": "Calendario Serie A TIM 2025-26",
+        "name": f"Serie A {SEASON}",
+        "description": f"Calendario Serie A TIM {SEASON}",
         "filename": "serie_a.ics",
     },
     {
         "key": "champions_league",
         "fetcher": champions_league.fetch_games,
-        "name": "UEFA Champions League 2025-26",
-        "description": "Calendario UEFA Champions League 2025-26",
+        "name": f"UEFA Champions League {SEASON}",
+        "description": f"Calendario UEFA Champions League {SEASON}",
         "filename": "champions_league.ics",
     },
     # ── Motorsport ────────────────────────────────────────────────────────────
     {
         "key": "f1",
         "fetcher": f1.fetch_games,
-        "name": "Formula 1 2026",
-        "description": "Calendario Formula 1 2026: tutte le sessioni (FP1, FP2, FP3, Qualifiche, Gara)",
+        "name": f"Formula 1 {YEAR}",
+        "description": f"Calendario Formula 1 {YEAR}: tutte le sessioni (FP1, FP2, FP3, Qualifiche, Gara)",
         "filename": "f1.ics",
     },
     {
         "key": "motogp",
         "fetcher": motogp.fetch_games,
-        "name": "MotoGP 2026",
-        "description": "Calendario MotoGP 2026: tutti i Grand Prix",
+        "name": f"MotoGP {YEAR}",
+        "description": f"Calendario MotoGP {YEAR}: tutti i Grand Prix",
         "filename": "motogp.ics",
     },
     # ── Tennis ────────────────────────────────────────────────────────────────
     {
         "key": "tennis",
         "fetcher": tennis.fetch_games,
-        "name": "Tennis ATP & WTA 2026",
-        "description": "Calendario ATP e WTA 2026: Grand Slam e principali tornei",
+        "name": f"Tennis ATP & WTA {YEAR}",
+        "description": f"Calendario ATP e WTA {YEAR}: Grand Slam e principali tornei",
         "filename": "tennis.ics",
     },
 ]

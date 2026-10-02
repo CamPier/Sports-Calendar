@@ -4,7 +4,7 @@ The public `fetch_espn_soccer` function is shared with other football fetchers.
 """
 
 import logging
-from datetime import date, datetime, timedelta, timezone
+from datetime import date, datetime, timezone
 
 import requests
 
@@ -38,10 +38,16 @@ def _season_window() -> tuple[date, date]:
 
 
 def _fetch_range(league: str, competition_name: str, start: date, end: date) -> list[dict]:
+    """Fetch one month at a time.
+
+    ESPN rejects explicit day ranges (`dates=YYYYMMDD-YYYYMMDD` → HTTP 400) but
+    still accepts a whole month as `dates=YYYYMM`, so we walk the season month by
+    month and filter the results back down to [start, end].
+    """
     url = ESPN_BASE.format(league=league)
     games: list[dict] = []
     seen: set[str] = set()
-    cursor = start
+    cursor = date(start.year, start.month, 1)
 
     while cursor <= end:
         next_month_day1 = date(
@@ -49,11 +55,7 @@ def _fetch_range(league: str, competition_name: str, start: date, end: date) -> 
             cursor.month % 12 + 1,
             1,
         )
-        window_end = min(next_month_day1 - timedelta(days=1), end)
-        params = {
-            "dates": f"{cursor.strftime('%Y%m%d')}-{window_end.strftime('%Y%m%d')}",
-            "limit": 500,
-        }
+        params = {"dates": cursor.strftime("%Y%m"), "limit": 500}
         try:
             resp = requests.get(url, params=params, headers=HEADERS, timeout=30)
             resp.raise_for_status()
@@ -65,9 +67,12 @@ def _fetch_range(league: str, competition_name: str, start: date, end: date) -> 
 
         for event in data.get("events", []):
             game = _parse_event(event, competition_name)
-            if game and game["id"] not in seen:
-                seen.add(game["id"])
-                games.append(game)
+            if not game or game["id"] in seen:
+                continue
+            if not (start <= game["datetime_utc"].date() <= end):
+                continue
+            seen.add(game["id"])
+            games.append(game)
 
         cursor = next_month_day1
 

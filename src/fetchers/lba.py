@@ -17,8 +17,10 @@ HEADERS = {
     "Referer": "https://www.legabasket.it/",
 }
 
-# Leagues that correspond to Serie A (cs_id=1 = Serie A bucket)
-SERIE_A_NAMES = {"regular season a", "playoff serie a", "play off a"}
+# cs_id=1 already restricts the API to the Serie A bucket, so we only need to
+# recognise the phase. Names vary year to year ("Regular Season A 2025",
+# "Regular Season 2026/27", "Playoff Serie A", "Play Off A"), hence the short keys.
+SERIE_A_NAMES = {"regular season", "playoff", "play off"}
 
 
 def fetch_games() -> list[dict]:

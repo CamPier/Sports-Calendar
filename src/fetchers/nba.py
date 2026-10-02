@@ -64,30 +64,49 @@ def fetch_games() -> list[dict]:
 # ── ESPN ──────────────────────────────────────────────────────────────────────
 
 def _fetch_espn(start: date, end: date) -> list[dict]:
-    """Fetch games for a specific date range via ESPN scoreboard."""
+    """Fetch games for a date range via ESPN scoreboard, one month per request.
+
+    ESPN rejects explicit day ranges (`dates=YYYYMMDD-YYYYMMDD` → HTTP 400) but
+    still accepts a whole month as `dates=YYYYMM`, so we request every month the
+    window touches and filter the results back down to [start, end].
+    """
     games: list[dict] = []
     seen: set[str] = set()
 
-    # Fetch the entire window in a single request (max 14 days, well within ESPN limits)
-    params = {
-        "dates": f"{start.strftime('%Y%m%d')}-{end.strftime('%Y%m%d')}",
-        "limit": 500,
-    }
-    try:
-        resp = requests.get(ESPN_URL, params=params, headers=ESPN_HEADERS, timeout=30)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as exc:
-        logger.warning("ESPN NBA fetch error: %s", exc)
-        return games
+    for month in _months_between(start, end):
+        params = {"dates": month, "limit": 500}
+        try:
+            resp = requests.get(ESPN_URL, params=params, headers=ESPN_HEADERS, timeout=30)
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as exc:
+            logger.warning("ESPN NBA fetch error (%s): %s", month, exc)
+            continue
 
-    for event in data.get("events", []):
-        game = _parse_espn_event(event)
-        if game and game["id"] not in seen:
+        for event in data.get("events", []):
+            game = _parse_espn_event(event)
+            if not game or game["id"] in seen:
+                continue
+            if not (start <= game["datetime_utc"].date() <= end):
+                continue
             seen.add(game["id"])
             games.append(game)
 
     return games
+
+
+def _months_between(start: date, end: date) -> list[str]:
+    """Return the YYYYMM keys covering [start, end] inclusive."""
+    months: list[str] = []
+    cursor = date(start.year, start.month, 1)
+    while cursor <= end:
+        months.append(cursor.strftime("%Y%m"))
+        cursor = date(
+            cursor.year if cursor.month < 12 else cursor.year + 1,
+            cursor.month % 12 + 1,
+            1,
+        )
+    return months
 
 
 def _parse_espn_event(event: dict) -> dict | None:

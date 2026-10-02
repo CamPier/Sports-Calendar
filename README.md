@@ -2,7 +2,7 @@
 
 Calendari **ICS** aggiornati automaticamente per seguire i tuoi sport preferiti direttamente in Google Calendar, Apple Calendar o Outlook — senza registrazioni, senza app, gratis.
 
-> **Demo live:** `(https://campier.github.io/Sports-Calendar/`
+> **Demo live:** <https://campier.github.io/Sports-Calendar/>
 
 ---
 
@@ -11,31 +11,31 @@ Calendari **ICS** aggiornati automaticamente per seguire i tuoi sport preferiti 
 ### 🏀 Basket
 | Competizione | File | Download |
 |---|---|---|
-| NBA 2025-26 | `…/nba.ics` | [nba.ics](docs/nba.ics) |
-| EuroLeague + EuroCup 2025-26 | `…/euroleague.ics` | [euroleague.ics](docs/euroleague.ics) |
-| LBA Legabasket 2025-26 | `…/lba.ics` | [lba.ics](docs/lba.ics) |
+| NBA 2026-27 | `https://campier.github.io/Sports-Calendar/nba.ics` | [nba.ics](docs/nba.ics) |
+| EuroLeague + EuroCup 2026-27 | `https://campier.github.io/Sports-Calendar/euroleague.ics` | [euroleague.ics](docs/euroleague.ics) |
+| LBA Legabasket 2026-27 | `https://campier.github.io/Sports-Calendar/lba.ics` | [lba.ics](docs/lba.ics) |
 
 ### ⚽ Calcio
 | Competizione | File | Download |
 |---|---|---|
-| Serie A 2025-26 | `…/serie_a.ics` | [serie_a.ics](docs/serie_a.ics) |
-| Champions League 2025-26 | `…/champions_league.ics` | [champions_league.ics](docs/champions_league.ics) |
+| Serie A 2026-27 | `https://campier.github.io/Sports-Calendar/serie_a.ics` | [serie_a.ics](docs/serie_a.ics) |
+| Champions League 2026-27 | `https://campier.github.io/Sports-Calendar/champions_league.ics` | [champions_league.ics](docs/champions_league.ics) |
 
 ### 🏎 Motorsport
 | Competizione | File | Download |
 |---|---|---|
-| Formula 1 2026 (FP1·FP2·FP3·Quali·Gara) | `…/f1.ics` | [f1.ics](docs/f1.ics) |
-| MotoGP 2026 | `…/motogp.ics` | [motogp.ics](docs/motogp.ics) |
+| Formula 1 2026 (FP1·FP2·FP3·Quali·Gara) | `https://campier.github.io/Sports-Calendar/f1.ics` | [f1.ics](docs/f1.ics) |
+| MotoGP 2026 | `https://campier.github.io/Sports-Calendar/motogp.ics` | [motogp.ics](docs/motogp.ics) |
 
 ### 🎾 Tennis
 | Competizione | File | Download |
 |---|---|---|
-| ATP + WTA 2026 | `…/tennis.ics` | [tennis.ics](docs/tennis.ics) |
+| ATP + WTA 2026 | `https://campier.github.io/Sports-Calendar/tennis.ics` | [tennis.ics](docs/tennis.ics) |
 
 ### ⭐ Tutto insieme
 | | File | Download |
 |---|---|---|
-| Tutti gli sport | `…/all.ics` | [all.ics](docs/all.ics) |
+| Tutti gli sport | `https://campier.github.io/Sports-Calendar/all.ics` | [all.ics](docs/all.ics) |
 
 ---
 
@@ -60,7 +60,7 @@ Calendari **ICS** aggiornati automaticamente per seguire i tuoi sport preferiti 
 ## Come funziona
 
 ```
-GitHub Actions (2×/giorno: 05:00 e 13:00 UTC)
+GitHub Actions (3×/giorno: 05:00, 13:00 e 22:30 UTC)
        │
        ▼
    src/main.py
@@ -88,8 +88,8 @@ Gli URL rimangono sempre stabili: abbonati una volta e il calendario si aggiorna
 ## Installazione locale
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/CamPier/Sports-Calendar.git
+cd Sports-Calendar
 pip install -r requirements.txt
 python src/main.py
 # → I file .ics vengono scritti in docs/
@@ -102,17 +102,17 @@ python src/main.py
 ### 1. Pubblica il repo su GitHub
 Usa **GitHub Desktop → Publish repository** oppure da terminale:
 ```bash
-gh repo create YOUR_REPO --public --push --source .
+gh repo create Sports-Calendar --public --push --source .
 ```
 
 ### 2. Abilita GitHub Pages
 **Settings → Pages → Source: Deploy from a branch → `master` (o `main`) / `/docs`** → Save.
 
 ### 3. Primo aggiornamento manuale
-**Actions → "Update Basketball Calendars" → Run workflow**
+**Actions → "Update Sports Calendars" → Run workflow**
 
 Dopo ~2 minuti i calendari sono live su:
-`https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/`
+`https://campier.github.io/Sports-Calendar/`
 
 ---
 

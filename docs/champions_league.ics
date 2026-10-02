@@ -3,9 +3,1984 @@ VERSION:2.0
 PRODID:-//Basketball Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALDESC:Calendario UEFA Champions League 2025-26
-X-WR-CALNAME:UEFA Champions League 2025-26
+X-WR-CALDESC:Calendario UEFA Champions League 2026-27
+X-WR-CALNAME:UEFA Champions League 2026-27
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:⭐ LASK Linz @ AEK Athens (0-1)
+DTSTART:20260908T164500Z
+DTEND:20260908T191500Z
+UID:94b6129b2c6d6fd3bd139afa4943e39e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: LASK
+  Linz\nCircuito/Arena: OPAP Arena\nCittà: Athens\nRisultato: AEK Athens 1
+  - 0 LASK Linz\nStato: finished
+LOCATION:OPAP Arena\, Athens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Aston Villa @ Club Brugge (3-2)
+DTSTART:20260908T164500Z
+DTEND:20260908T191500Z
+UID:db66f7bdb3cb56002166d0708bad8ab3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Ast
+ on Villa\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: 
+ Club Brugge 2 - 3 Aston Villa\nStato: finished
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Borussia Dortmund (2-3)
+DTSTART:20260908T190000Z
+DTEND:20260908T213000Z
+UID:bb9b059f37d8c98d1394e61ce893fb9d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Villarreal\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultato: 
+ Borussia Dortmund 3 - 2 Villarreal\nStato: finished
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ FC Porto (2-0)
+DTSTART:20260908T190000Z
+DTEND:20260908T213000Z
+UID:6d76c175abb70085232100d1748364b4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Manche
+ ster City\nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nRisultato: 
+ FC Porto 0 - 2 Manchester City\nStato: finished
+LOCATION:Estádio do Dragão\, Porto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Betis @ Lille (3-2)
+DTSTART:20260908T190000Z
+DTEND:20260908T213000Z
+UID:31ccaaedd51e29df2b3d2643182f82f8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Real Beti
+ s\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille\nR
+ isultato: Lille 2 - 3 Real Betis\nStato: finished
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Real Madrid (1-2)
+DTSTART:20260908T190000Z
+DTEND:20260908T213000Z
+UID:40aee5ef11a145fea117e7c57b800954@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: Int
+ ernazionale\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato
+ : Real Madrid 2 - 1 Internazionale\nStato: finished
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Feyenoord Rotterdam @ Barcelona (1-5)
+DTSTART:20260909T164500Z
+DTEND:20260909T191500Z
+UID:012d5b23626afe0e37a76569cb91605d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Feyen
+ oord Rotterdam\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisul
+ tato: Barcelona 5 - 1 Feyenoord Rotterdam\nStato: finished
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Viking FK @ VfB Stuttgart (1-3)
+DTSTART:20260909T164500Z
+DTEND:20260909T191500Z
+UID:a0b0e4ef0eb87585e468b1ed4162072a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: V
+ iking FK\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: VfB Stut
+ tgart 3 - 1 Viking FK\nStato: finished
+LOCATION:MHPArena\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Liverpool (1-2)
+DTSTART:20260909T190000Z
+DTEND:20260909T213000Z
+UID:504727d4ccb9b3c82ecbeb9c4cc9105e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Atlé
+ tico Madrid\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverp
+ ool 2 - 1 Atlético Madrid\nStato: finished
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Napoli (1-0)
+DTSTART:20260909T190000Z
+DTEND:20260909T213000Z
+UID:09728103bea2958d9642b8de5ed70c40@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Arsenal\
+ nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato:
+  Napoli 0 - 1 Arsenal\nStato: finished
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slovan Bratislava @ Paris Saint-Germain (1-6)
+DTSTART:20260909T190000Z
+DTEND:20260909T213000Z
+UID:74d1d1eb503fdcd71d63d5b9df4ace67@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Slovan Bratislava\nCircuito/Arena: Parc des Princes\nCittà: Paris\nR
+ isultato: Paris Saint-Germain 6 - 1 Slovan Bratislava\nStato: finished
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Sporting CP (1-3)
+DTSTART:20260909T190000Z
+DTEND:20260909T213000Z
+UID:24f0b02a23f68c44bb20b54c24a48651@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Gal
+ atasaray\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisulta
+ to: Sporting CP 3 - 1 Galatasaray\nStato: finished
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Roma @ Fenerbahce (1-1)
+DTSTART:20260910T164500Z
+DTEND:20260910T191500Z
+UID:113e56395583b98733902694569cf621@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: AS R
+ oma\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\nRisult
+ ato: Fenerbahce 1 - 1 AS Roma\nStato: finished
+LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Shakhtar Donetsk @ PSV Eindhoven (1-1)
+DTSTART:20260910T164500Z
+DTEND:20260910T191500Z
+UID:710afe1dbe77051dd36711d6c0865087@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: S
+ hakhtar Donetsk\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRisul
+ tato: PSV Eindhoven 1 - 1 Shakhtar Donetsk\nStato: finished
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Bayern Munich (0-5)
+DTSTART:20260910T190000Z
+DTEND:20260910T213000Z
+UID:1b6ae887f9cf84eedd2eaeba84388fe3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: B
+ odo/Glimt\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Bay
+ ern Munich 5 - 0 Bodo/Glimt\nStato: finished
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ RB Leipzig @ Como (1-4)
+DTSTART:20260910T190000Z
+DTEND:20260910T213000Z
+UID:a184a079a446a7de95c215fc62c6e814@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: RB Leipzig
+ \nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 4 - 1
+  RB Leipzig\nStato: finished
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sabah FK @ Manchester United (0-4)
+DTSTART:20260910T190000Z
+DTEND:20260910T213000Z
+UID:428811953710afa217eba6eb1f4eb121@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
+ e: Sabah FK\nCircuito/Arena: Old Trafford\nCittà: Manchester\nRisultato: 
+ Manchester United 4 - 0 Sabah FK\nStato: finished
+LOCATION:Old Trafford\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lens @ Slavia Prague (3-2)
+DTSTART:20260910T190000Z
+DTEND:20260910T213000Z
+UID:da69547a8f7bdf95f4d287da7dc4dd70@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: L
+ ens\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavia Prag
+ ue 2 - 3 Lens\nStato: finished
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Lens
+DTSTART:20261013T164500Z
+DTEND:20261013T191500Z
+UID:6da1ebaa3e0e19af4d07461d3c3d16c3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Sporting C
+ P\nCircuito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: scheduled
+LOCATION:Stade Bollaert-Delelis\, Lens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Sabah FK
+DTSTART:20261013T164500Z
+DTEND:20261013T191500Z
+UID:36ad6a9ab003f473950372ef343b65bb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Slavia
+  Prague\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: schedu
+ led
+LOCATION:Baku Olympic Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lille @ Arsenal
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:3f533b47a49abcd5d014601dbc3501ed@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Lille\n
+ Circuito/Arena: Emirates Stadium\nCittà: London\nStato: scheduled
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester United @ Atlético Madrid
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:fdefcc7186b2cafeaa1937218af13e04@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Manchester United\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Mad
+ rid\nStato: scheduled
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Galatasaray
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:889966e63679dffb0a289a17d7da8dda@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Bar
+ celona\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Internazionale
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:eec7c4935f448e9f22455720559d9329@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Club Brugge\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ RB Leipzig
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:c8eeda6a0749b1c6c0ad9ef7196114d4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: PSV 
+ Eindhoven\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: schedul
+ ed
+LOCATION:Red Bull Arena\, Leipzig
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Viking FK
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
+ n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: schedu
+ led
+LOCATION:Viking Stadion\, Stavanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ Villarreal
+DTSTART:20261013T190000Z
+DTEND:20261013T213000Z
+UID:301c281b4b2939e150fe255c0ad69fa6@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Napo
+ li\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nStato: sc
+ heduled
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Como @ Feyenoord Rotterdam
+DTSTART:20261014T164500Z
+DTEND:20261014T191500Z
+UID:d1daeceb069f03e4c7ad9b813c9632b8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
+ ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: scheduled
+LOCATION:De Kuip\, Rotterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ LASK Linz
+DTSTART:20261014T164500Z
+DTEND:20261014T191500Z
+UID:bba28708c470142cd66c1d653bfca45e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Liver
+ pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: schedu
+ led
+LOCATION:Raiffeisen Arena (Linz)\, Linz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ AS Roma
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:ca40972b785e02d388a71dd9a7110049@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Real Ma
+ drid\nCircuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Fenerbahce @ Aston Villa
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:9a1f263b019206e4016e257249707d41@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Fen
+ erbahce\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+LOCATION:Villa Park\, Birmingham
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Bodo/Glimt
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:9bea5c1caefb4d1ac6165fa0006e9190@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Boru
+ ssia Dortmund\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato
+ : scheduled
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Manchester City
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:d371e4eb282426aaa96255e75409bb1a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Paris Saint-Germain\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\n
+ Stato: scheduled
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FC Porto @ Real Betis
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:e27344d5888d787d7439886eaefc4e86@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: FC P
+ orto\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStato: schedule
+ d
+LOCATION:Estadio La Cartuja\, Sevilla
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AEK Athens @ Shakhtar Donetsk
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:d56a850d5fa18692f28fd143e423941d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
+ : AEK Athens\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sche
+ duled
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ VfB Stuttgart @ Slovan Bratislava
+DTSTART:20261014T190000Z
+DTEND:20261014T213000Z
+UID:a78faf0106af3dce9ea36e8ab5d9826a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
+ e: VfB Stuttgart\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: Bra
+ tislava\nStato: scheduled
+LOCATION:Národny Futbalovy Stadión\, Bratislava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Fenerbahce
+DTSTART:20261020T164500Z
+DTEND:20261020T191500Z
+UID:62d7f2131bd7e60a38366ec67783be5e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Slav
+ ia Prague\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\n
+ Stato: scheduled
+LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Sabah FK
+DTSTART:20261020T164500Z
+DTEND:20261020T191500Z
+UID:d86e8d3219d567a6988bfea6f2df59b4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Boruss
+ ia Dortmund\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: sc
+ heduled
+LOCATION:Baku Olympic Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slovan Bratislava @ AS Roma
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:b78428ffddc2157bc2758b6534ab2dd5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Slovan 
+ Bratislava\nCircuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ FC Porto
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:6bf5d2acc295dcf841db55623da1eec5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: PSV Ei
+ ndhoven\nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nStato: schedu
+ led
+LOCATION:Estádio do Dragão\, Porto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Liverpool
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:cde1ff0b63c956324037a6de1091a5c1@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Villa
+ rreal\nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AEK Athens @ Manchester City
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:ef9f6fc8fb3ef5ae82e0fe8e23af3230@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  AEK Athens\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nStato: sc
+ heduled
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Napoli
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:9935edf361360960eedd34891ad2194d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Bodo/Gli
+ mt\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: 
+ scheduled
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Paris Saint-Germain
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:f5edb3dbed511ef4c5a7cdb299f94bd1@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Barcelona\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: sc
+ heduled
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ VfB Stuttgart
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+UID:67d680f28f48dbd9b11f3103575b1c6e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: A
+ tlético Madrid\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nStato: sched
+ uled
+LOCATION:MHPArena\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester United @ Como
+DTSTART:20261021T164500Z
+DTEND:20261021T191500Z
+UID:86be21f1e054f7098a30334b239da851@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Manchester
+  United\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: schedul
+ ed
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Lille
+DTSTART:20261021T164500Z
+DTEND:20261021T191500Z
+UID:cd4ff13927f32b46540afafa38ad9861@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Galatasar
+ ay\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille\n
+ Stato: scheduled
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Viking FK @ Aston Villa
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:404c3b5295dbbcbfe99f4e83dd0f1ebb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Vik
+ ing FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+LOCATION:Villa Park\, Birmingham
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Bayern Munich
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:fd4e964374591150aeb2b81e3d3c7ce4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: A
+ rsenal\nCircuito/Arena: Allianz Arena\nCittà: München\nStato: scheduled
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lens @ Club Brugge
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:bfe96fe0504d1c3e86866199e22f9f18@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Len
+ s\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: scheduled
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Shakhtar Donetsk @ Internazionale
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:592ac8c7c848c8e212600130848adf37@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Shakhtar Donetsk\nCircuito/Arena: San Siro\nCittà: Milano\nStato: schedul
+ ed
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Feyenoord Rotterdam @ Real Betis
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:3faeb25efc359365b04e465282b811ce@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Feye
+ noord Rotterdam\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStat
+ o: scheduled
+LOCATION:Estadio La Cartuja\, Sevilla
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ RB Leipzig @ Real Madrid
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:72beb9190e7fa4f995a7e1aff893e255@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: RB 
+ Leipzig\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nStato: schedu
+ led
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ LASK Linz @ Sporting CP
+DTSTART:20261021T190000Z
+DTEND:20261021T213000Z
+UID:8dfb75c7bec9e82266dfdf58751e9885@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: LAS
+ K Linz\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nStato: sc
+ heduled
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ VfB Stuttgart @ Galatasaray
+DTSTART:20261103T174500Z
+DTEND:20261103T201500Z
+UID:effa6e99a37439682e08ab11cf227891@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: VfB
+  Stuttgart\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Shakhtar Donetsk
+DTSTART:20261103T174500Z
+DTEND:20261103T201500Z
+UID:946148f7b471240eecd2e18e4490093f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
+ : Sporting CP\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sch
+ eduled
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Atlético Madrid
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\
+ nStato: scheduled
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Aston Villa @ Barcelona
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:1075067c780acf7c3dafd3965aa9ecd3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Aston
+  Villa\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: schedu
+ led
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lille @ Bodo/Glimt
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:1cb20fec7152d21eb62a28304145c764@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Lill
+ e\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato: scheduled
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:d69df5f3a6c1bda85b1a018b514c7f66@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
+ ite: Internazionale\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: sc
+ heduled
+LOCATION:De Kuip\, Rotterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slovan Bratislava @ LASK Linz
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:55f0f9fa118f31ab8832fb028e48226e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Slova
+ n Bratislava\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato
+ : scheduled
+LOCATION:Raiffeisen Arena (Linz)\, Linz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Roma @ Manchester United
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:4d12a4ab781ec4f24a2339629e7db736@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
+ e: AS Roma\nCircuito/Arena: Old Trafford\nCittà: Manchester\nStato: sched
+ uled
+LOCATION:Old Trafford\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Villarreal
+DTSTART:20261103T200000Z
+DTEND:20261103T223000Z
+UID:73dce5cada3808758505d68b827ca351@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Pari
+ s Saint-Germain\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarre
+ al\nStato: scheduled
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ AEK Athens
+DTSTART:20261104T174500Z
+DTEND:20261104T201500Z
+UID:17c210dd06a759dedd9319d66cafcb23@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: Real
+  Madrid\nCircuito/Arena: OPAP Arena\nCittà: Athens\nStato: scheduled
+LOCATION:OPAP Arena\, Athens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Fenerbahce
+DTSTART:20261104T174500Z
+DTEND:20261104T201500Z
+UID:80d2f4b2f17d563b784c29032d5b7f71@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Live
+ rpool\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\nStat
+ o: scheduled
+LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Betis @ Borussia Dortmund
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:01df2db624ff3c1e9687750b506cc7c3@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Real Betis\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nStato: sche
+ duled
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ FC Porto
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:e68a2b1f420ab432dc2a228c1a398ded@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Napoli
+ \nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nStato: scheduled
+LOCATION:Estádio do Dragão\, Porto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Como @ Lens
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:43615f8d444e2b8ac3a0d5fb7f572e99@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Como\nCirc
+ uito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: scheduled
+LOCATION:Stade Bollaert-Delelis\, Lens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ PSV Eindhoven
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:ec660a213b9fc86c284deace0e22d9e0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: C
+ lub Brugge\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nStato: sch
+ eduled
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ RB Leipzig
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:df1ff0eaa0fbcb65c99eaf9d482849e8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Manc
+ hester City\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: sched
+ uled
+LOCATION:Red Bull Arena\, Leipzig
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Slavia Prague
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:7b01219ab02d1cf9989a2952b47110d7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
+ rsenal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: scheduled
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sabah FK @ Viking FK
+DTSTART:20261104T200000Z
+DTEND:20261104T223000Z
+UID:02d26adfc7d30177e1432cf7101a9056@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Sabah
+  FK\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: scheduled
+LOCATION:Viking Stadion\, Stavanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ LASK Linz @ Bodo/Glimt
+DTSTART:20261124T174500Z
+DTEND:20261124T201500Z
+UID:c884d6077e5bdd37ebc60b4fa2a3a161@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: LASK
+  Linz\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato: schedu
+ led
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Aston Villa @ Galatasaray
+DTSTART:20261124T174500Z
+DTEND:20261124T201500Z
+UID:efb3f0852b56c8950880e53f40d78d99@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Ast
+ on Villa\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Arsenal
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:291857af699cc52bbecf04e2bda5457c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Borussi
+ a Dortmund\nCircuito/Arena: Emirates Stadium\nCittà: London\nStato: sched
+ uled
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AEK Athens @ Como
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:d3ef93543701375ae64fa4db598caf91@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: AEK Athens
+ \nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: scheduled
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FC Porto @ Feyenoord Rotterdam
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:79522487e62f0b38c535330cea37f68b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
+ ite: FC Porto\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: schedule
+ d
+LOCATION:De Kuip\, Rotterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ Manchester City
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:f27b6ea58b3526a61caa086baf2ef33c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Napoli\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nStato: schedu
+ led
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lens @ RB Leipzig
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:2ca984054fe0c0b443825e4e768afa07@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Lens
+ \nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: scheduled
+LOCATION:Red Bull Arena\, Leipzig
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Real Madrid
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:b0ded9fce3c457363e8f6ac519000c51@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: PSV
+  Eindhoven\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nStato: sch
+ eduled
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Betis @ Slovan Bratislava
+DTSTART:20261124T200000Z
+DTEND:20261124T223000Z
+UID:620a5319c27ca20d041063a1d6d37674@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
+ e: Real Betis\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: Bratis
+ lava\nStato: scheduled
+LOCATION:Národny Futbalovy Stadión\, Bratislava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Sabah FK
+DTSTART:20261125T174500Z
+DTEND:20261125T201500Z
+UID:2a63d1f8f478320033315cfe90eb4be1@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Barcel
+ ona\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: scheduled
+LOCATION:Baku Olympic Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Slavia Prague
+DTSTART:20261125T174500Z
+DTEND:20261125T201500Z
+UID:7207edb9b190822806dfdf2dba6c8211@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: V
+ illarreal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: scheduled
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Viking FK @ Atlético Madrid
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
+ to: scheduled
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Club Brugge
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:ed2579c08313adeb738576b65ddc8efb@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Liv
+ erpool\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: schedu
+ led
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ VfB Stuttgart @ Internazionale
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:a40e970c04be7fdeea1644b9061f5c76@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ VfB Stuttgart\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Lille
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:47452d3a0c4d4d7a5499b8f96abd8922@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Bayern Mu
+ nich\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille
+ \nStato: scheduled
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Roma @ Paris Saint-Germain
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:9bcd3729a609912af8e8e9bffbdf0650@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: AS Roma\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: sche
+ duled
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:89eb06a0b82caeea150c7ce53a6afd72@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
+ : Fenerbahce\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sche
+ duled
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester United @ Sporting CP
+DTSTART:20261125T200000Z
+DTEND:20261125T223000Z
+UID:fee496fc8c566cbe5a2eeb11a60934cc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Man
+ chester United\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nS
+ tato: scheduled
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Feyenoord Rotterdam @ Viking FK
+DTSTART:20261208T174500Z
+DTEND:20261208T201500Z
+UID:52820c29ded5c8b93150f2c1bc77c974@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Feyen
+ oord Rotterdam\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: 
+ scheduled
+LOCATION:Viking Stadion\, Stavanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sabah FK @ Villarreal
+DTSTART:20261208T174500Z
+DTEND:20261208T201500Z
+UID:960b7f547296b51a2bbb37c1f542a209@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Saba
+ h FK\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nStato: 
+ scheduled
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ AEK Athens
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:0c0a601490d977c1fbfa62a09959192b@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: Gala
+ tasaray\nCircuito/Arena: OPAP Arena\nCittà: Athens\nStato: scheduled
+LOCATION:OPAP Arena\, Athens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ AS Roma
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:f7cdd7a975c475a1ab6a79288aab4abd@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Sportin
+ g CP\nCircuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Aston Villa
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:11cdba097b7cc073f6b412f1eab5c0e8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Par
+ is Saint-Germain\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: s
+ cheduled
+LOCATION:Villa Park\, Birmingham
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Barcelona
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:6a08d7e9cf09654ce23eb5c554d15b68@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Manch
+ ester City\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: sc
+ heduled
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ Bayern Munich
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:75c8960ae8f96deedb02c2dd1e05d1ce@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: S
+ lavia Prague\nCircuito/Arena: Allianz Arena\nCittà: München\nStato: sche
+ duled
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ RB Leipzig @ Manchester United
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:e0ae599024c24d2631d5781acf181a4c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
+ e: RB Leipzig\nCircuito/Arena: Old Trafford\nCittà: Manchester\nStato: sc
+ heduled
+LOCATION:Old Trafford\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ Napoli
+DTSTART:20261208T200000Z
+DTEND:20261208T223000Z
+UID:621bd2053fa96cd5d2f751cfec0b3c99@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Club Bru
+ gge\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato:
+  scheduled
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Como @ Real Betis
+DTSTART:20261209T174500Z
+DTEND:20261209T201500Z
+UID:7500cd37787f9c2eab9ef48b2ffda8be@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Como
+ \nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStato: scheduled
+LOCATION:Estadio La Cartuja\, Sevilla
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Shakhtar Donetsk @ Slovan Bratislava
+DTSTART:20261209T174500Z
+DTEND:20261209T201500Z
+UID:20dec5b71cf4c868eae89a630a625fc0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
+ e: Shakhtar Donetsk\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: 
+ Bratislava\nStato: scheduled
+LOCATION:Národny Futbalovy Stadión\, Bratislava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Arsenal
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:fcdc9fee8dc709fd9f5cc52588e1a35d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Real Ma
+ drid\nCircuito/Arena: Emirates Stadium\nCittà: London\nStato: scheduled
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Borussia Dortmund
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:c7a9939f2d927f72a08a7e14dba16a95@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: Internazionale\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nStato: 
+ scheduled
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Fenerbahce @ LASK Linz
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:518cd2dac148466d7fcaaaa79740f4a5@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Fener
+ bahce\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: sched
+ uled
+LOCATION:Raiffeisen Arena (Linz)\, Linz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Lens
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:34b0c59b727b7b8cf5f111a07dca4932@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Bodo/Glimt
+ \nCircuito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: scheduled
+LOCATION:Stade Bollaert-Delelis\, Lens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FC Porto @ Liverpool
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:ab4c99d6cd2d892bad13c3c21e09d218@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: FC Po
+ rto\nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ PSV Eindhoven
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:d52c021a7ae7c19b186cbd8b1e5f6b1a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: A
+ tlético Madrid\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nStato
+ : scheduled
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lille @ VfB Stuttgart
+DTSTART:20261209T200000Z
+DTEND:20261209T223000Z
+UID:dcb7d1bfa16c57a46031a17356c62f72@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: L
+ ille\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nStato: scheduled
+LOCATION:MHPArena\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Atlético Madrid @ Bodo/Glimt
+DTSTART:20270119T174500Z
+DTEND:20270119T201500Z
+UID:41ce1a6f23ae547e7f95df37ca76f492@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Atl
+ ético Madrid\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato
+ : scheduled
+LOCATION:Aspmyra Stadion\, Bodø/Glimt
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Feyenoord Rotterdam @ Galatasaray
+DTSTART:20270119T174500Z
+DTEND:20270119T201500Z
+UID:5221dca3c87cfabb2a97dabae5e003b7@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Fey
+ enoord Rotterdam\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: sche
+ duled
+LOCATION:RAMS Park\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AS Roma @ AEK Athens
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:16ef5b0a5b2edf191c1771a8b15e1c3e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AEK Athens\nOspite: AS R
+ oma\nCircuito/Arena: OPAP Arena\nCittà: Athens\nStato: scheduled
+LOCATION:OPAP Arena\, Athens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Borussia Dortmund @ Aston Villa
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:623f6ea48b8277d5015fc46c75c8006e@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Bor
+ ussia Dortmund\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: sch
+ eduled
+LOCATION:Villa Park\, Birmingham
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slavia Prague @ FC Porto
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:493f0270234eec8c6754f7b2e9d76e33@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Slavia
+  Prague\nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nStato: schedu
+ led
+LOCATION:Estádio do Dragão\, Porto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Liverpool @ Internazionale
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:077b032ad57a6d231921554f323bd604@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
+ Liverpool\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+LOCATION:San Siro\, Milano
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Slovan Bratislava @ Lille
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:4ae9ce862f451daeebe27cd3abe07615@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Slovan Br
+ atislava\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: L
+ ille\nStato: scheduled
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ LASK Linz @ Real Madrid
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:27b45e41733f26c82cb963bbda035d41@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: LAS
+ K Linz\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nStato: schedul
+ ed
+LOCATION:Santiago Bernabéu\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Club Brugge @ VfB Stuttgart
+DTSTART:20270119T200000Z
+DTEND:20270119T223000Z
+UID:c05fbf822f3f9beb313b20430fa81068@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: C
+ lub Brugge\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nStato: scheduled
+LOCATION:MHPArena\, Stuttgart
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Villarreal @ Fenerbahce
+DTSTART:20270120T174500Z
+DTEND:20270120T201500Z
+UID:6e0cd6072698bf6098959328c4bae911@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Vill
+ arreal\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\nSta
+ to: scheduled
+LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Napoli @ Sabah FK
+DTSTART:20270120T174500Z
+DTEND:20270120T201500Z
+UID:0309beefa3c4431af348386a2cf1df55@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Napoli
+ \nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: scheduled
+LOCATION:Baku Olympic Stadium\, Baku
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Paris Saint-Germain @ Como
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:f82d21c7b5264f44153ac3ef6aab5e33@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Paris Sain
+ t-Germain\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: sched
+ uled
+LOCATION:Giuseppe Sinigaglia\, Como
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester City @ Lens
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:24bc2a239b529d532bed2725fbed5db4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Manchester
+  City\nCircuito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: schedu
+ led
+LOCATION:Stade Bollaert-Delelis\, Lens
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bayern Munich @ Manchester United
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:f659ec3e39d381074f6cfe475a951ce0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
+ e: Bayern Munich\nCircuito/Arena: Old Trafford\nCittà: Manchester\nStato:
+  scheduled
+LOCATION:Old Trafford\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Shakhtar Donetsk @ RB Leipzig
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:3c3a7f45c04a2bb5384752080db358b8@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Shak
+ htar Donetsk\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: sche
+ duled
+LOCATION:Red Bull Arena\, Leipzig
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Arsenal @ Real Betis
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:1a712274b17d8fd20dccc9933ad90acc@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Arse
+ nal\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStato: scheduled
+LOCATION:Estadio La Cartuja\, Sevilla
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Barcelona @ Sporting CP
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:c3a137e1293e9bebb99c65667f69523d@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Bar
+ celona\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nStato: sc
+ heduled
+LOCATION:Estádio José Alvalade\, Lisbon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ PSV Eindhoven @ Viking FK
+DTSTART:20270120T200000Z
+DTEND:20270120T223000Z
+UID:0fef76eb937706529645b27035169359@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: PSV E
+ indhoven\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: schedu
+ led
+LOCATION:Viking Stadion\, Stavanger
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sabah FK @ Arsenal
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:e953bf1491262dd1df6b5c4809d31cf0@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Sabah F
+ K\nCircuito/Arena: Emirates Stadium\nCittà: London\nStato: scheduled
+LOCATION:Emirates Stadium\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lille @ AS Roma
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:7e8c299008e4dddb1e3c82c4dccedada@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Lille\n
+ Circuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+LOCATION:Olimpico\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Fenerbahce @ Atlético Madrid
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:1aec2256b129cdf34058d24673391f05@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
+ : Fenerbahce\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSt
+ ato: scheduled
+LOCATION:Riyadh Air Metropolitano\, Madrid
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Como @ Barcelona
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:4f4fe93568bc622351b4a7135d2bb969@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Como\
+ nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: scheduled
+LOCATION:Spotify Camp Nou\, Barcelona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Betis @ Bayern Munich
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:fa3cc4f9ce8cf5db17c4981cc1c94b42@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: R
+ eal Betis\nCircuito/Arena: Allianz Arena\nCittà: München\nStato: schedul
+ ed
+LOCATION:Allianz Arena\, München
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ AEK Athens @ Borussia Dortmund
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:fb43ba126b72708926355240b7a4357f@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
+ e: AEK Athens\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nStato: sche
+ duled
+LOCATION:Signal Iduna Park\, Aue
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Bodo/Glimt @ Club Brugge
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:b934cace2d8beb1659ebe981488aefd4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Bod
+ o/Glimt\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: sched
+ uled
+LOCATION:Jan Breydel Stadium\, Brugge
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ RB Leipzig @ Feyenoord Rotterdam
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:26a23e02a65f5a36b1f85d814f8f63e9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
+ ite: RB Leipzig\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: schedu
+ led
+LOCATION:De Kuip\, Rotterdam
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ FC Porto @ LASK Linz
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:df316080df763a884d1146ac09b79cd1@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: FC Po
+ rto\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: schedul
+ ed
+LOCATION:Raiffeisen Arena (Linz)\, Linz
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Lens @ Liverpool
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:b0037afc391b115338d95f5c9a5b5956@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Lens\
+ nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+LOCATION:Anfield\, Liverpool
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Sporting CP @ Manchester City
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:498e4824714795b046c535aa70b82674@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
+  Sporting CP\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nStato: s
+ cheduled
+LOCATION:Etihad Stadium\, Manchester
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Viking FK @ Napoli
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:1ddb50545b7108e32f4885a10fb292e4@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Viking F
+ K\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: s
+ cheduled
+LOCATION:Stadio Diego Armando Maradona\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Galatasaray @ Paris Saint-Germain
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:2fc5836146b5f101bfd9cbab4cc5251c@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
+ ite: Galatasaray\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: 
+ scheduled
+LOCATION:Parc des Princes\, Paris
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ VfB Stuttgart @ PSV Eindhoven
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:0971e9b30373e61b32961ac498315a2a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: V
+ fB Stuttgart\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nStato: s
+ cheduled
+LOCATION:Philips Stadion\, Eindhoven
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Real Madrid @ Shakhtar Donetsk
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:9713abdfe4ece3a7036d0b0e3afab4fa@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
+ : Real Madrid\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sch
+ eduled
+LOCATION:Stamford Bridge\, London
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Aston Villa @ Slavia Prague
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:13d1243e3e3d661fdcf1334b6cd2f5c9@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
+ ston Villa\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: schedule
+ d
+LOCATION:Fortuna Arena\, Prague
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Internazionale @ Slovan Bratislava
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:48b01f2338b1619cfdf4b4200764f239@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
+ e: Internazionale\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: Br
+ atislava\nStato: scheduled
+LOCATION:Národny Futbalovy Stadión\, Bratislava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⭐ Manchester United @ Villarreal
+DTSTART:20270127T200000Z
+DTEND:20270127T223000Z
+UID:3599a450d399e13d2aee15436990cc3a@basketball-calendar.github.io
+COLOR:#1B1464
+DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Manc
+ hester United\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal
+ \nStato: scheduled
+LOCATION:Estadio de la Cerámica\, Villarreal
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#1B1464
+END:VEVENT
 END:VCALENDAR
