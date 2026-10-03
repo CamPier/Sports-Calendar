@@ -92,6 +92,10 @@ Ogni mattina alle 06:00 UTC (08:00 ora legale, 07:00 ora solare) il workflow
 dalle 06:00 di oggi alle 06:00 di domani (ora italiana), raggruppati per competizione.
 Il messaggio include quindi anche le partite NBA della notte.
 
+Sotto il messaggio ci sono dei bottoni: uno per ogni competizione del giorno, che
+apre l'iscrizione al relativo calendario su Google Calendar, più **📅 Tutti gli sport**
+e **🌐 Sito**.
+
 1. Crea un bot con [@BotFather](https://t.me/BotFather) e copia il token
 2. Scrivi un messaggio qualsiasi al bot, poi apri
    `https://api.telegram.org/bot<TOKEN>/getUpdates` e copia `chat.id`

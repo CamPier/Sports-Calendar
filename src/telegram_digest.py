@@ -17,6 +17,7 @@ import sys
 from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 import requests
@@ -35,6 +36,22 @@ ICS_PATH = Path(__file__).parent.parent / "docs" / "all.ics"
 TZ = ZoneInfo("Europe/Rome")
 DAY_START_HOUR = 6
 TELEGRAM_LIMIT = 4096
+SITE_URL = "https://campier.github.io/Sports-Calendar/"
+BUTTONS_PER_ROW = 3
+
+# Competition (as written in the ICS description) -> per-league ICS file.
+COMPETITION_FILES = {
+    "NBA": "nba.ics",
+    "EuroLeague": "euroleague.ics",
+    "EuroCup": "euroleague.ics",
+    "LBA": "lba.ics",
+    "Serie A": "serie_a.ics",
+    "Champions League": "champions_league.ics",
+    "F1": "f1.ics",
+    "MotoGP": "motogp.ics",
+    "Tennis ATP": "tennis.ics",
+    "Tennis WTA": "tennis.ics",
+}
 
 WEEKDAYS = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
 MONTHS = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
@@ -92,6 +109,33 @@ def build_message(events: list[dict], day: datetime) -> str:
     return "\n".join(parts)
 
 
+def gcal_url(filename: str) -> str:
+    """Google Calendar subscribe link, same as the site's buttons.
+
+    Telegram only accepts http(s)/tg links in buttons, so no webcal://.
+    """
+    return "https://www.google.com/calendar/render?cid=" + quote(SITE_URL + filename, safe="")
+
+
+def build_keyboard(events: list[dict]) -> dict:
+    """Link buttons: one per league in today's digest, then all sports + site."""
+    buttons, seen = [], set()
+    for ev in events:
+        filename = COMPETITION_FILES.get(ev["competition"])
+        if not filename or filename in seen:
+            continue
+        seen.add(filename)
+        emoji = COMPETITION_EMOJI.get(ev["competition"], "🏆")
+        buttons.append({"text": f"{emoji} {ev['competition']}", "url": gcal_url(filename)})
+
+    rows = [buttons[i:i + BUTTONS_PER_ROW] for i in range(0, len(buttons), BUTTONS_PER_ROW)]
+    rows.append([
+        {"text": "📅 Tutti gli sport", "url": gcal_url("all.ics")},
+        {"text": "🌐 Sito", "url": SITE_URL},
+    ])
+    return {"inline_keyboard": rows}
+
+
 def split_message(text: str) -> list[str]:
     """Split on line boundaries to stay under Telegram's per-message limit."""
     chunks, current = [], ""
@@ -105,16 +149,21 @@ def split_message(text: str) -> list[str]:
     return chunks
 
 
-def send(token: str, chat_id: str, text: str) -> None:
-    for chunk in split_message(text):
+def send(token: str, chat_id: str, text: str, keyboard: dict) -> None:
+    chunks = split_message(text)
+    for i, chunk in enumerate(chunks):
+        payload = {
+            "chat_id": chat_id,
+            "text": chunk,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }
+        # Buttons go under the last chunk, where the reader ends up.
+        if i == len(chunks) - 1:
+            payload["reply_markup"] = keyboard
         resp = requests.post(
             f"https://api.telegram.org/bot{token}/sendMessage",
-            json={
-                "chat_id": chat_id,
-                "text": chunk,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
-            },
+            json=payload,
             timeout=30,
         )
         if not resp.ok:
@@ -134,13 +183,16 @@ def main() -> None:
 
     events = load_events(start, end, competitions)
     message = build_message(events, start)
+    keyboard = build_keyboard(events)
     logger.info("%d events between %s and %s", len(events), start, end)
 
     if not token or not chat_id:
         # Dry run: handy for previewing the digest locally.
         print(message)
+        for row in keyboard["inline_keyboard"]:
+            print("  ".join(f"[{b['text']}]" for b in row))
         return
-    send(token, chat_id, message)
+    send(token, chat_id, message, keyboard)
     logger.info("Digest sent")
 
 
