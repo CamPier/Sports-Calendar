@@ -12,13 +12,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Miami Heat @ Toronto Raptors
 DTSTART:20261003T230000Z
 DTEND:20261004T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261003T234533Z
 UID:4cb41d603fb707bdab04c7bb65c4087d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Miami Heat\n
- Circuito/Arena: Videotron Centre\nCittà: Quebec City\nStato: scheduled
+ Circuito/Arena: Videotron Centre\nCittà: Quebec City\nStato: live
 LOCATION:Videotron Centre\, Quebec City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -9688,31 +9688,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Dolomiti Energia Trentino
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Dolomiti Energia Trentino (9
+ 3-90)
 DTSTART:20261003T180000Z
 DTEND:20261003T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261003T234533Z
 UID:d690b70684aa2c73fe90bde06e172fbb@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Nu
  tribullet Treviso Basket\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiorn
- ata/Round: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
- eduled
+ ata/Round: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato:
+  Dolomiti Energia Trentino 90 - 93 Nutribullet Treviso Basket\nStato: fini
+ shed
 LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Napoli Basketball
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Napoli Basketball (93-99)
 DTSTART:20261003T183000Z
 DTEND:20261003T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261003T234533Z
 UID:ad85472bb7a6a639be254ec0758e65f9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: UNA Hotels
   Reggio Emilia\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Rou
- nd: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nd: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Napoli
+  Basketball 99 - 93 UNA Hotels Reggio Emilia\nStato: finished
 LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9997,9 +10000,9 @@ X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Pallacanestro Trieste
-DTSTART:20261018T153000Z
-DTEND:20261018T180000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261018T160000Z
+DTEND:20261018T183000Z
+DTSTAMP:20261003T234533Z
 UID:64584487b253f50fe5f740727ef053ed@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Acqua 
@@ -10134,21 +10137,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Tezenis Verona @ Pallacanestro Trieste
-DTSTART:20261025T160000Z
-DTEND:20261025T183000Z
-DTSTAMP:20261002T195652Z
-UID:a0fd9cbb35cccbeb36c60ce6c6800c7c@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Tezeni
- s Verona\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 5
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
@@ -10176,6 +10164,21 @@ DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Acq
  \nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nSta
  to: scheduled
 LOCATION:PalaBigi\, Reggio nell'Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Tezenis Verona @ Pallacanestro Trieste
+DTSTART:20261025T173000Z
+DTEND:20261025T200000Z
+DTSTAMP:20261003T234533Z
+UID:a0fd9cbb35cccbeb36c60ce6c6800c7c@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Tezeni
+ s Verona\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 5
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaTrieste\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
