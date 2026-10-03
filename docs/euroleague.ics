@@ -5289,75 +5289,82 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Kosner Baskonia Vitoria-Gasteiz (7
+ 6-86)
 DTSTART:20261002T183000Z
 DTEND:20261002T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261003T011908Z
 UID:6f734e0825d4e3cdf231d08c9048328e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Armani Olimpia Milan\nCircuito/Arena: BUESA ARENA\nGiornata/Rou
- nd: 3\nFase: Group Regular Season\nStato: scheduled
+ nd: 3\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gast
+ eiz 86 - 76 Armani Olimpia Milan\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Panathinaikos AKTOR Athens (67-9
+ 0)
 DTSTART:20261002T181500Z
 DTEND:20261002T204500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261003T011908Z
 UID:10f73ae1880452d7e4e8a4d12a06aa92@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiorn
- ata/Round: 3\nFase: Group Regular Season\nStato: scheduled
+ ata/Round: 3\nFase: Group Regular Season\nRisultato: Panathinaikos AKTOR A
+ thens 90 - 67 Maccabi Rapyd Tel Aviv\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ FC Bayern Munich
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ FC Bayern Munich (86-84)
 DTSTART:20261002T180000Z
 DTEND:20261002T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261003T011908Z
 UID:82a57b2f6796b180ff163f7a564a63ef@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Part
  izan Mozzart Bet Belgrade\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 3\n
- Fase: Group Regular Season\nStato: scheduled
+ Fase: Group Regular Season\nRisultato: FC Bayern Munich 84 - 86 Partizan M
+ ozzart Bet Belgrade\nStato: finished
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ LDLC ASVEL Villeurbanne
+SUMMARY:🇪🇺 Valencia Basket @ LDLC ASVEL Villeurbanne (105-92)
 DTSTART:20261002T180000Z
 DTEND:20261002T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261003T011908Z
 UID:ed554d2a7a2d2746c7512994f90e85c7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Valencia Basket\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 3\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: LDLC ASVEL Villeurbanne 92 - 105 Valencia 
+ Basket\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Fenerbahce Tarfin Istanbul
+SUMMARY:🇪🇺 Dubai Basketball @ Fenerbahce Tarfin Istanbul (66-76)
 DTSTART:20261002T174500Z
 DTEND:20261002T201500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261003T011908Z
 UID:f5395ea7f85947021c7e003fb937a167@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Dubai Basketball\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\nGiorn
- ata/Round: 3\nFase: Group Regular Season\nStato: scheduled
+ ata/Round: 3\nFase: Group Regular Season\nRisultato: Fenerbahce Tarfin Ist
+ anbul 76 - 66 Dubai Basketball\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

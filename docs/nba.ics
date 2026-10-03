@@ -355,4 +355,62 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls
+DTSTART:20261010T000000Z
+DTEND:20261010T023000Z
+DTSTAMP:20261003T011906Z
+UID:a4fb72ff79723cbdc2f5b0e25b4a76b6@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Memphis Grizzl
+ ies\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+LOCATION:United Center\, Chicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 LA Clippers @ Toronto Raptors
+DTSTART:20261010T223000Z
+DTEND:20261011T010000Z
+DTSTAMP:20261003T011906Z
+UID:accde438ccc48786050baef0bf7346a2@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: LA Clippers\
+ nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nStato: scheduled
+LOCATION:Rogers Arena\, Vancouver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers
+DTSTART:20261010T230000Z
+DTEND:20261011T013000Z
+DTSTAMP:20261003T011906Z
+UID:4be21df0a57bda86d072e0df579ac678@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Atlanta Hawks
+ \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: sche
+ duled
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Detroit Pistons @ Washington Wizards
+DTSTART:20261010T230000Z
+DTEND:20261011T013000Z
+DTSTAMP:20261003T011906Z
+UID:517b6728fef213ed8db84dc3ce983e9d@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Detroit P
+ istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
+ duled
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
 END:VCALENDAR
