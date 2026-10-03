@@ -21411,13 +21411,13 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Bahrain Grand Prix in Malaysia
 DTSTART:20261003T043000Z
 DTEND:20261003T053000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261003T101820Z
 UID:fff4e70fd15d0b17a2f6b0cb04b28310@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Bahrain Grand Prix in Malaysia\nOspite
  : 🏎 FP3\nCircuito/Arena: Sepang International Circuit\nCittà: Kuala Lu
- mpur\, Malaysia\nGiornata/Round: Round 16\nFase: ThirdPractice\nStato: sch
- eduled
+ mpur\, Malaysia\nGiornata/Round: Round 16\nFase: ThirdPractice\nStato: fin
+ ished
 LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21427,13 +21427,13 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Bahrain Grand Prix in Malaysia
 DTSTART:20261003T080000Z
 DTEND:20261003T090000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261003T101820Z
 UID:374eb37861cb715643809788198e68d8@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Bahrain Grand Prix in Malaysia\nOspite
  : 🏎 Qualifiche\nCircuito/Arena: Sepang International Circuit\nCittà: K
  uala Lumpur\, Malaysia\nGiornata/Round: Round 16\nFase: Qualifying\nStato:
-  scheduled
+  finished
 LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22366,9 +22366,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Suzhou Open
-DTSTART:20261002T040000Z
-DTEND:20261002T063000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261003T040000Z
+DTEND:20261003T063000Z
+DTSTAMP:20261003T101820Z
 UID:c3ae11f70d91f9ebba30b5c0e464ea75@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Suzhou Open\nOspite: WTA\nGior
