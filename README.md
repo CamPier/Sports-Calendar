@@ -85,6 +85,29 @@ Gli URL rimangono sempre stabili: abbonati una volta e il calendario si aggiorna
 
 ---
 
+## Bot Telegram (riepilogo giornaliero)
+
+Ogni mattina alle 06:00 UTC (08:00 ora legale, 07:00 ora solare) il workflow
+**Telegram Daily Digest** legge `docs/all.ics` e manda su Telegram gli eventi
+dalle 06:00 di oggi alle 06:00 di domani (ora italiana), raggruppati per competizione.
+Il messaggio include quindi anche le partite NBA della notte.
+
+1. Crea un bot con [@BotFather](https://t.me/BotFather) e copia il token
+2. Scrivi un messaggio qualsiasi al bot, poi apri
+   `https://api.telegram.org/bot<TOKEN>/getUpdates` e copia `chat.id`
+3. Aggiungi i secret al repo:
+   ```bash
+   gh secret set TELEGRAM_BOT_TOKEN
+   gh secret set TELEGRAM_CHAT_ID
+   ```
+4. Facoltativo: limita le competizioni con la variabile
+   `gh variable set TELEGRAM_COMPETITIONS --body "NBA,Serie A,F1"`
+
+Anteprima in locale (senza token stampa il messaggio invece di inviarlo):
+`python src/telegram_digest.py`
+
+---
+
 ## Installazione locale
 
 ```bash
