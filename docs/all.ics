@@ -9824,31 +9824,33 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ BC Roma
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ BC Roma (70-108)
 DTSTART:20261004T140000Z
 DTEND:20261004T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261004T172414Z
 UID:373ea669eba96f2f3d571e9bb4ca91c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Bertram Derthona Tor
  tona\nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 2
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma 108
+  - 70 Bertram Derthona Tortona\nStato: finished
 LOCATION:Palazzo dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Openjobmetis Varese @ Longobardi Scafati Basket (85-77)
 DTSTART:20261004T150000Z
 DTEND:20261004T173000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261004T172414Z
 UID:5bb694369c8b5f0e3c5164dc859b45d0@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Op
  enjobmetis Varese\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà:
   Scafati\nGiornata/Round: 2� Giornata\nFase: LBA – Regular Season 2026
- /27\nStato: scheduled
+ /27\nRisultato: Longobardi Scafati Basket 77 - 85 Openjobmetis Varese\nSta
+ to: finished
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9858,14 +9860,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste
 DTSTART:20261004T153000Z
 DTEND:20261004T180000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261004T172414Z
 UID:bfe24d19fe13043bd02569cd7f47f619@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Umana 
  Reyer Venezia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Roun
- d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -9873,14 +9875,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Maxima Roma @ Virtus Costa Bologna
 DTSTART:20261004T161500Z
 DTEND:20261004T184500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261004T172414Z
 UID:271e8ca1b1da4f2a66ae19f16249aa07@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Maxima 
  Roma\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 2� Gio
- rnata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ rnata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:PalaDozza\, Bologna
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -22197,12 +22199,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 MOTUL GRAND PRIX OF JAPAN
 DTSTART:20261004T130000Z
 DTEND:20261004T150000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261004T172414Z
 UID:fe90727f178d76726b9c449e2695a5ed@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: MOTUL GRAND PRIX OF JAPAN\nOspite:
   Gara\nCircuito/Arena: Mobility Resort Motegi\nGiornata/Round: Round 16\nF
- ase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ ase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Mobility Resort Motegi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

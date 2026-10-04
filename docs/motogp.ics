@@ -239,12 +239,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 MOTUL GRAND PRIX OF JAPAN
 DTSTART:20261004T130000Z
 DTEND:20261004T150000Z
-DTSTAMP:20261002T195650Z
+DTSTAMP:20261004T172413Z
 UID:fe90727f178d76726b9c449e2695a5ed@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: MOTUL GRAND PRIX OF JAPAN\nOspite:
   Gara\nCircuito/Arena: Mobility Resort Motegi\nGiornata/Round: Round 16\nF
- ase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ ase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Mobility Resort Motegi
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
