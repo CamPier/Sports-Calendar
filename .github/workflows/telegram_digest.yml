@@ -2,9 +2,10 @@ name: Telegram Daily Digest
 
 on:
   schedule:
-    # 06:00 UTC = 08:00 Italian summer time / 07:00 winter time,
+    # 06:17 UTC = 08:17 Italian summer time / 07:17 winter time,
     # one hour after the 05:00 UTC calendar update.
-    - cron: "0 6 * * *"
+    # Off-the-hour minute: GitHub often delays or drops schedules at :00.
+    - cron: "17 6 * * *"
   workflow_dispatch:   # manual trigger from GitHub UI, useful for testing
 
 env:
