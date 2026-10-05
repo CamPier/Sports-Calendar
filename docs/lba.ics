@@ -179,14 +179,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ BC Roma (70-108)
 DTSTART:20261004T140000Z
 DTEND:20261004T163000Z
-DTSTAMP:20261004T172408Z
+DTSTAMP:20261005T211239Z
 UID:373ea669eba96f2f3d571e9bb4ca91c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Bertram Derthona Tor
- tona\nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 2
- � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma 108
-  - 70 Bertram Derthona Tortona\nStato: finished
-LOCATION:Palazzo dello Sport\, Roma
+ tona\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round
+ : 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma 
+ 108 - 70 Bertram Derthona Tortona\nStato: finished
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -241,30 +241,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Acqua S.Bernardo Cantù
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Acqua S.Bernardo Cantù (85-84)
 DTSTART:20261005T180000Z
 DTEND:20261005T203000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T211239Z
 UID:00b8f02cbe22299df391d5889758b7be@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: APU 
  Old Wild West Udine\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Ro
- und: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ und: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Acqua
+  S.Bernardo Cantù 84 - 85 APU Old Wild West Udine\nStato: finished
 LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Tezenis Verona
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Tezenis Verona (72-75)
 DTSTART:20261005T184500Z
 DTEND:20261005T211500Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T211239Z
 UID:87818102cea5e49036d73e8c4347aefb@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: Armani Olimpi
  a Milano\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 2�
-  Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+  Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Tezenis Verona
+  75 - 72 Armani Olimpia Milano\nStato: finished
 LOCATION:Pala MAGIS\, Verona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -399,13 +401,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ BC Roma
 DTSTART:20261017T173000Z
 DTEND:20261017T200000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T211239Z
 UID:f6c1671f0ca2480bd4f15c949c1811be@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia\
- nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round: 4� G
- iornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:Palazzo dello Sport\, Roma
+ nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round: 4
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -583,13 +585,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Maxima Roma
 DTSTART:20261025T153000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T211239Z
 UID:a25b157d9b22df5464d7c3201a2f92ae@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: APU Old Wild Wes
- t Udine\nCircuito/Arena: Palazzo dello Sport\nCittà: Roma\nGiornata/Round
- : 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:Palazzo dello Sport\, Roma
+ t Udine\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Ro
+ und: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
