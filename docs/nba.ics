@@ -27,13 +27,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Denver Nuggets
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261005T010805Z
 UID:9f9271c8055ca1089371741736456267@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Utah Jazz\nCi
- rcuito/Arena: CU Events Center\nCittà: Boulder\nStato: scheduled
+ rcuito/Arena: CU Events Center\nCittà: Boulder\nStato: live
 LOCATION:CU Events Center\, Boulder
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -41,14 +41,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Warriors @ LA Clippers
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261005T010805Z
 UID:05c72432f904e7a62a6bf6e2cb5e6e19@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Golden State War
- riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nStato: sched
- uled
+ riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nStato: live
 LOCATION:Stan Sheriff Center\, Honolulu
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -511,6 +510,79 @@ DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Milwaukee
  Bucks\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: schedule
  d
 LOCATION:Spectrum Center\, Charlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Bulls @ Denver Nuggets
+DTSTART:20261012T010000Z
+DTEND:20261012T033000Z
+DTSTAMP:20261005T010805Z
+UID:4417ddd51ed9173fd8c369fd7108cdab@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Chicago Bulls
+ \nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+LOCATION:Ball Arena\, Denver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 London Lions @ Portland Trail Blazers
+DTSTART:20261012T200000Z
+DTEND:20261012T223000Z
+DTSTAMP:20261005T010805Z
+UID:95eeb3b231c1f1c297321ed0975570e0@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Londo
+ n Lions\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: scheduled
+LOCATION:Moda Center\, Portland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Atlanta Hawks
+DTSTART:20261012T230000Z
+DTEND:20261013T013000Z
+DTSTAMP:20261005T010805Z
+UID:d71b83b2c51b8db325f16ae5e9b65063@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Oklahoma City 
+ Thunder\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: schedul
+ ed
+LOCATION:State Farm Arena\, Atlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Brooklyn Nets @ Washington Wizards
+DTSTART:20261012T230000Z
+DTEND:20261013T013000Z
+DTSTAMP:20261005T010805Z
+UID:29e19614224741de1d19ef32fde7333c@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Brooklyn 
+ Nets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: schedu
+ led
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Timberwolves @ New York Knicks
+DTSTART:20261012T233000Z
+DTEND:20261013T020000Z
+DTSTAMP:20261005T010805Z
+UID:9d7db6ed6c6b4cdaba249ea601d1a106@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Minnesota Ti
+ mberwolves\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato
+ : scheduled
+LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A

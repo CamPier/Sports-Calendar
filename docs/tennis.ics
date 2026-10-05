@@ -75,72 +75,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Korea Open
-DTSTART:20260918T040000Z
-DTEND:20260918T063000Z
-DTSTAMP:20261002T195651Z
-UID:5ca522c58cc27fc122bc5c4cfc85cbd3@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Korea Open\nOspite: WTA\nGiorn
- ata/Round: Korea Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Singapore Tennis Open presented by BNP Paribas
-DTSTART:20260918T040000Z
-DTEND:20260918T063000Z
-DTSTAMP:20261002T195651Z
-UID:353b2347817a5cc1b1ad54b321d5150c@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Singapore Tennis Open presente
- d by BNP Paribas\nOspite: WTA\nGiornata/Round: Singapore Tennis Open prese
- nted by BNP Paribas\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Delta Motors Tolentino Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195651Z
-UID:3b3d33fe605d8366440c12046ea7aaee@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Delta Motors Tolentino Open\nO
- spite: WTA\nGiornata/Round: Delta Motors Tolentino Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Eupago Porto Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195651Z
-UID:fbe1c364620f4c80090f74ecadc84dbe@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Eupago Porto Open\nOspite: WTA
- \nGiornata/Round: Eupago Porto Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Turk Telekom Ankara Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195651Z
-UID:5d96482fa6020af18ae8e8d47de9127e@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Turk Telekom Ankara Open\nOspi
- te: WTA\nGiornata/Round: Turk Telekom Ankara Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Jingshan Tennis Open
 DTSTART:20260925T040000Z
 DTEND:20260925T063000Z
@@ -201,6 +135,62 @@ UID:cad3971c078df297536c1fb6b0215254@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Samsun Open\nOspite: WTA\nGior
  nata/Round: Samsun Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Wuhan Open
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:786b57140e3d59c1b99b655caa38a943@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Wuhan Open\nOspite: WTA\nGiorn
+ ata/Round: Wuhan Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Vanda Pharmaceuticals Mallorca Women's Championships pr
+ esented by Ecotrans Group
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:909f999c187d6e083f6740cdac6154ee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Vanda Pharmaceuticals Mallorca
+  Women's Championships presented by Ecotrans Group\nOspite: WTA\nGiornata/
+ Round: Vanda Pharmaceuticals Mallorca Women's Championships presented by E
+ cotrans Group\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ RoveretOpen Città della Pace
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:cfc7243750c3639c093672e3581c0afc@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: RoveretOpen Città della Pace\
+ nOspite: WTA\nGiornata/Round: RoveretOpen Città della Pace\nStato: schedu
+ led
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lisboa Belem Open
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:7709892b5b2de460485ff0009b925691@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lisboa Belem Open\nOspite: WTA
+ \nGiornata/Round: Lisboa Belem Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

@@ -27,13 +27,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Denver Nuggets
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261005T010823Z
 UID:9f9271c8055ca1089371741736456267@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Utah Jazz\nCi
- rcuito/Arena: CU Events Center\nCittà: Boulder\nStato: scheduled
+ rcuito/Arena: CU Events Center\nCittà: Boulder\nStato: live
 LOCATION:CU Events Center\, Boulder
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -41,14 +41,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Golden State Warriors @ LA Clippers
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261005T010823Z
 UID:05c72432f904e7a62a6bf6e2cb5e6e19@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Golden State War
- riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nStato: sched
- uled
+ riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nStato: live
 LOCATION:Stan Sheriff Center\, Honolulu
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -511,6 +510,79 @@ DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Milwaukee
  Bucks\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: schedule
  d
 LOCATION:Spectrum Center\, Charlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Bulls @ Denver Nuggets
+DTSTART:20261012T010000Z
+DTEND:20261012T033000Z
+DTSTAMP:20261005T010823Z
+UID:4417ddd51ed9173fd8c369fd7108cdab@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Chicago Bulls
+ \nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+LOCATION:Ball Arena\, Denver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 London Lions @ Portland Trail Blazers
+DTSTART:20261012T200000Z
+DTEND:20261012T223000Z
+DTSTAMP:20261005T010823Z
+UID:95eeb3b231c1f1c297321ed0975570e0@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Londo
+ n Lions\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: scheduled
+LOCATION:Moda Center\, Portland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Atlanta Hawks
+DTSTART:20261012T230000Z
+DTEND:20261013T013000Z
+DTSTAMP:20261005T010823Z
+UID:d71b83b2c51b8db325f16ae5e9b65063@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Oklahoma City 
+ Thunder\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: schedul
+ ed
+LOCATION:State Farm Arena\, Atlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Brooklyn Nets @ Washington Wizards
+DTSTART:20261012T230000Z
+DTEND:20261013T013000Z
+DTSTAMP:20261005T010823Z
+UID:29e19614224741de1d19ef32fde7333c@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Brooklyn 
+ Nets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: schedu
+ led
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Timberwolves @ New York Knicks
+DTSTART:20261012T233000Z
+DTEND:20261013T020000Z
+DTSTAMP:20261005T010823Z
+UID:9d7db6ed6c6b4cdaba249ea601d1a106@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Minnesota Ti
+ mberwolves\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato
+ : scheduled
+LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -9857,32 +9929,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste (87-82)
 DTSTART:20261004T153000Z
 DTEND:20261004T180000Z
-DTSTAMP:20261004T172414Z
+DTSTAMP:20261005T010823Z
 UID:bfe24d19fe13043bd02569cd7f47f619@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Umana 
  Reyer Venezia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Roun
- d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallaca
+ nestro Trieste 82 - 87 Umana Reyer Venezia\nStato: finished
 LOCATION:PalaTrieste\, Trieste
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Virtus Costa Bologna
+SUMMARY:🇮🇹 Maxima Roma @ Virtus Costa Bologna (89-98)
 DTSTART:20261004T161500Z
 DTEND:20261004T184500Z
-DTSTAMP:20261004T172414Z
+DTSTAMP:20261005T010823Z
 UID:271e8ca1b1da4f2a66ae19f16249aa07@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Maxima 
  Roma\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 2� Gio
- rnata\nFase: LBA – Regular Season 2026/27\nStato: live
+ rnata\nFase: LBA – Regular Season 2026/27\nRisultato: Virtus Costa Bolog
+ na 98 - 89 Maxima Roma\nStato: finished
 LOCATION:PalaDozza\, Bologna
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -22367,72 +22441,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Korea Open
-DTSTART:20260918T040000Z
-DTEND:20260918T063000Z
-DTSTAMP:20261002T195652Z
-UID:5ca522c58cc27fc122bc5c4cfc85cbd3@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Korea Open\nOspite: WTA\nGiorn
- ata/Round: Korea Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Singapore Tennis Open presented by BNP Paribas
-DTSTART:20260918T040000Z
-DTEND:20260918T063000Z
-DTSTAMP:20261002T195652Z
-UID:353b2347817a5cc1b1ad54b321d5150c@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Singapore Tennis Open presente
- d by BNP Paribas\nOspite: WTA\nGiornata/Round: Singapore Tennis Open prese
- nted by BNP Paribas\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Delta Motors Tolentino Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195652Z
-UID:3b3d33fe605d8366440c12046ea7aaee@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Delta Motors Tolentino Open\nO
- spite: WTA\nGiornata/Round: Delta Motors Tolentino Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Eupago Porto Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195652Z
-UID:fbe1c364620f4c80090f74ecadc84dbe@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Eupago Porto Open\nOspite: WTA
- \nGiornata/Round: Eupago Porto Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Turk Telekom Ankara Open
-DTSTART:20260920T040000Z
-DTEND:20260920T063000Z
-DTSTAMP:20261002T195652Z
-UID:5d96482fa6020af18ae8e8d47de9127e@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Turk Telekom Ankara Open\nOspi
- te: WTA\nGiornata/Round: Turk Telekom Ankara Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Jingshan Tennis Open
 DTSTART:20260925T040000Z
 DTEND:20260925T063000Z
@@ -22493,6 +22501,62 @@ UID:cad3971c078df297536c1fb6b0215254@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Samsun Open\nOspite: WTA\nGior
  nata/Round: Samsun Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Wuhan Open
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:786b57140e3d59c1b99b655caa38a943@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Wuhan Open\nOspite: WTA\nGiorn
+ ata/Round: Wuhan Open\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Vanda Pharmaceuticals Mallorca Women's Championships pr
+ esented by Ecotrans Group
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:909f999c187d6e083f6740cdac6154ee@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Vanda Pharmaceuticals Mallorca
+  Women's Championships presented by Ecotrans Group\nOspite: WTA\nGiornata/
+ Round: Vanda Pharmaceuticals Mallorca Women's Championships presented by E
+ cotrans Group\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ RoveretOpen Città della Pace
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:cfc7243750c3639c093672e3581c0afc@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: RoveretOpen Città della Pace\
+ nOspite: WTA\nGiornata/Round: RoveretOpen Città della Pace\nStato: schedu
+ led
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Lisboa Belem Open
+DTSTART:20261012T040000Z
+DTEND:20261012T063000Z
+DTSTAMP:20261005T010823Z
+UID:7709892b5b2de460485ff0009b925691@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Lisboa Belem Open\nOspite: WTA
+ \nGiornata/Round: Lisboa Belem Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

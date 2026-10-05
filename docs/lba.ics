@@ -208,32 +208,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste (87-82)
 DTSTART:20261004T153000Z
 DTEND:20261004T180000Z
-DTSTAMP:20261004T172408Z
+DTSTAMP:20261005T010818Z
 UID:bfe24d19fe13043bd02569cd7f47f619@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Umana 
  Reyer Venezia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Roun
- d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallaca
+ nestro Trieste 82 - 87 Umana Reyer Venezia\nStato: finished
 LOCATION:PalaTrieste\, Trieste
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Virtus Costa Bologna
+SUMMARY:🇮🇹 Maxima Roma @ Virtus Costa Bologna (89-98)
 DTSTART:20261004T161500Z
 DTEND:20261004T184500Z
-DTSTAMP:20261004T172408Z
+DTSTAMP:20261005T010818Z
 UID:271e8ca1b1da4f2a66ae19f16249aa07@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Maxima 
  Roma\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 2� Gio
- rnata\nFase: LBA – Regular Season 2026/27\nStato: live
+ rnata\nFase: LBA – Regular Season 2026/27\nRisultato: Virtus Costa Bolog
+ na 98 - 89 Maxima Roma\nStato: finished
 LOCATION:PalaDozza\, Bologna
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
