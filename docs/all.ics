@@ -24,30 +24,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Denver Nuggets
+SUMMARY:🏀 Utah Jazz @ Denver Nuggets (109-97)
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261005T010823Z
+DTSTAMP:20261005T121007Z
 UID:9f9271c8055ca1089371741736456267@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Utah Jazz\nCi
- rcuito/Arena: CU Events Center\nCittà: Boulder\nStato: live
+ rcuito/Arena: CU Events Center\nCittà: Boulder\nRisultato: Denver Nuggets
+  97 - 109 Utah Jazz\nStato: finished
 LOCATION:CU Events Center\, Boulder
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ LA Clippers
+SUMMARY:🏀 Golden State Warriors @ LA Clippers (101-104)
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
-DTSTAMP:20261005T010823Z
+DTSTAMP:20261005T121007Z
 UID:05c72432f904e7a62a6bf6e2cb5e6e19@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Golden State War
- riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nStato: live
+ riors\nCircuito/Arena: Stan Sheriff Center\nCittà: Honolulu\nRisultato: L
+ A Clippers 104 - 101 Golden State Warriors\nStato: finished
 LOCATION:Stan Sheriff Center\, Honolulu
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -7587,6 +7589,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⭐ Buducnost VOLI Podgorica @ Napoli Basketball
+DTSTART:20261209T190000Z
+DTEND:20261209T213000Z
+DTSTAMP:20261005T121007Z
+UID:5825ab6c1b327e0affcd2938321154ba@basketball-calendar.github.io
+COLOR:#0080C8
+DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Buducn
+ ost VOLI Podgorica\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 9\nFase:
+  Group C\nStato: scheduled
+LOCATION:ALCOTT ARENA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#0080C8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ Umana Reyer Venice
 DTSTART:20261209T190000Z
 DTEND:20261209T213000Z
@@ -7702,21 +7719,6 @@ DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Londo
  n Lions\nCircuito/Arena: PABELLON SANTIAGO MARTIN\nGiornata/Round: 9\nFase
  : Group B\nStato: scheduled
 LOCATION:PABELLON SANTIAGO MARTIN
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#0080C8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⭐ Buducnost VOLI Podgorica @ Napoli Basketball
-DTSTART:20261208T190000Z
-DTEND:20261208T213000Z
-DTSTAMP:20261002T195652Z
-UID:5825ab6c1b327e0affcd2938321154ba@basketball-calendar.github.io
-COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Buducn
- ost VOLI Podgorica\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 9\nFase:
-  Group C\nStato: scheduled
-LOCATION:ALCOTT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -8772,6 +8774,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⭐ Tofas Bursa @ Napoli Basketball
+DTSTART:20261021T180000Z
+DTEND:20261021T203000Z
+DTSTAMP:20261005T121007Z
+UID:21eda4998091d1e5a4ef299b2968489c@basketball-calendar.github.io
+COLOR:#0080C8
+DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Tofas 
+ Bursa\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 4\nFase: Group C\nSta
+ to: scheduled
+LOCATION:ALCOTT ARENA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#0080C8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:⭐ Riga Zelli @ Hapoel Midtown Jerusalem
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
@@ -8917,21 +8934,6 @@ DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Roma Bas
  ketball\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 4\nFase: Gro
  up D\nStato: scheduled
 LOCATION:PAVELLO NOU CONGOST
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#0080C8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Napoli Basketball
-DTSTART:20261020T180000Z
-DTEND:20261020T203000Z
-DTSTAMP:20261002T195652Z
-UID:21eda4998091d1e5a4ef299b2968489c@basketball-calendar.github.io
-COLOR:#0080C8
-DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Tofas 
- Bursa\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 4\nFase: Group C\nSta
- to: scheduled
-LOCATION:ALCOTT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -9749,14 +9751,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Umana Reyer Venezia (73-85)
 DTSTART:20260926T180000Z
 DTEND:20260926T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261005T121007Z
 UID:5834613e60d003cf683ae7a40b59dbcf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Acqua S.
- Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGior
- nata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato
- : Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
+ Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Venet
+ o\nGiornata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRi
+ sultato: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finis
+ hed
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -10103,14 +10106,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261005T121007Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
- osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiornat
- a/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
- uled
-LOCATION:Palasport Taliercio\, Mestre
+ osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
+ Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato
+ : scheduled
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -10318,14 +10321,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261005T121007Z
 UID:e3cf49d1fd77f21ff3ddb6b81e190670@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Nutribul
- let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nG
- iornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato:
-  scheduled
-LOCATION:Palasport Taliercio\, Mestre
+ let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Ve
+ neto\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

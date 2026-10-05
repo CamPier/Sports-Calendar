@@ -28,14 +28,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Umana Reyer Venezia (73-85)
 DTSTART:20260926T180000Z
 DTEND:20260926T203000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T121002Z
 UID:5834613e60d003cf683ae7a40b59dbcf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Acqua S.
- Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGior
- nata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato
- : Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finished
-LOCATION:Palasport Taliercio\, Mestre
+ Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Venet
+ o\nGiornata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRi
+ sultato: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finis
+ hed
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -382,14 +383,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T121002Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
- osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nGiornat
- a/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
- uled
-LOCATION:Palasport Taliercio\, Mestre
+ osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
+ Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato
+ : scheduled
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -597,14 +598,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261005T121002Z
 UID:e3cf49d1fd77f21ff3ddb6b81e190670@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Nutribul
- let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Mestre\nG
- iornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato:
-  scheduled
-LOCATION:Palasport Taliercio\, Mestre
+ let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Ve
+ neto\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
