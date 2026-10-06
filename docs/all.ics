@@ -54,43 +54,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Atlanta Hawks
+SUMMARY:🏀 Memphis Grizzlies @ Atlanta Hawks (132-123)
 DTSTART:20261005T230000Z
 DTEND:20261006T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261006T022611Z
 UID:d9013f65fe7dda9584013cdc066ba724@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Memphis Grizzl
- ies\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+ ies\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nRisultato: Atlanta
+  Hawks 123 - 132 Memphis Grizzlies\nStato: finished
 LOCATION:State Farm Arena\, Atlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Detroit Pistons
+SUMMARY:🏀 Phoenix Suns @ Detroit Pistons (107-109)
 DTSTART:20261005T230000Z
 DTEND:20261006T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261006T022611Z
 UID:46e6288d2b259c6bad1da7c14c51e7b7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Phoenix Suns
- \nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nStato: scheduled
+ \nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: Detroi
+ t Pistons 109 - 107 Phoenix Suns\nStato: finished
 LOCATION:Little Caesars Arena\, Detroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ Philadelphia 76ers
+SUMMARY:🏀 New York Knicks @ Philadelphia 76ers (97-120)
 DTSTART:20261005T230000Z
 DTEND:20261006T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261006T022611Z
 UID:c81286822e5a8aa7abecc4b93a3029f6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: New York 
- Knicks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
-  scheduled
+ Knicks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRisult
+ ato: Philadelphia 76ers 120 - 97 New York Knicks\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -100,14 +102,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Timberwolves @ Milwaukee Bucks
 DTSTART:20261006T000000Z
 DTEND:20261006T023000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261006T022611Z
 UID:3e1c8017dc1d12df1394327693c2d68d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Minnesota Ti
- mberwolves\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: schedu
- led
+ mberwolves\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -115,14 +116,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Los Angeles Lakers @ Sacramento Kings
 DTSTART:20261006T020000Z
 DTEND:20261006T043000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261006T022611Z
 UID:394df2abfbe23d1ce068f43e668ab547@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Los Angeles
-  Lakers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: sched
- uled
+  Lakers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: live
 LOCATION:Golden 1 Center\, Sacramento
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -585,6 +585,48 @@ DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Minnesota Ti
  mberwolves\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato
  : scheduled
 LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 San Antonio Spurs @ Utah Jazz
+DTSTART:20261013T010000Z
+DTEND:20261013T033000Z
+DTSTAMP:20261006T022611Z
+UID:82b121668c048fca91d8643371e4b4bd@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: San Antonio Spurs\
+ nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+LOCATION:Delta Center\, Salt Lake City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Cleveland Cavaliers @ Orlando Magic
+DTSTART:20261013T230000Z
+DTEND:20261014T013000Z
+DTSTAMP:20261006T022611Z
+UID:8753aa16271e5c2734d06469b9393188@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Cleveland Cava
+ liers\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Knicks @ Toronto Raptors
+DTSTART:20261013T230000Z
+DTEND:20261014T013000Z
+DTSTAMP:20261006T022611Z
+UID:db177e2e61cee3c3f4564b43a47a1280@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
+ cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
+LOCATION:Scotiabank Arena\, Toronto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
