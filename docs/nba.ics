@@ -99,30 +99,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ Milwaukee Bucks
+SUMMARY:🏀 Minnesota Timberwolves @ Milwaukee Bucks (116-97)
 DTSTART:20261006T000000Z
 DTEND:20261006T023000Z
-DTSTAMP:20261006T022554Z
+DTSTAMP:20261006T115332Z
 UID:3e1c8017dc1d12df1394327693c2d68d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Minnesota Ti
- mberwolves\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ mberwolves\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Mi
+ lwaukee Bucks 97 - 116 Minnesota Timberwolves\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Sacramento Kings
+SUMMARY:🏀 Los Angeles Lakers @ Sacramento Kings (127-103)
 DTSTART:20261006T020000Z
 DTEND:20261006T043000Z
-DTSTAMP:20261006T022554Z
+DTSTAMP:20261006T115332Z
 UID:394df2abfbe23d1ce068f43e668ab547@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Los Angeles
-  Lakers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: live
+  Lakers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: S
+ acramento Kings 103 - 127 Los Angeles Lakers\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
