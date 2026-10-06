@@ -8868,30 +8868,31 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Maxima Roma @ Turk Telekom Ankara
+SUMMARY:⭐ Maxima Roma @ Turk Telekom Ankara (77-92)
 DTSTART:20261006T163000Z
 DTEND:20261006T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261006T185108Z
 UID:159074e467c5801e04bd7fd701423c85@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Maxi
  ma Roma\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 2\nFase: Grou
- p B\nStato: scheduled
+ p B\nRisultato: Turk Telekom Ankara 92 - 77 Maxima Roma\nStato: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Hapoel Midtown Jerusalem @ Cedevita Olimpija Ljubljana
+SUMMARY:⭐ Hapoel Midtown Jerusalem @ Cedevita Olimpija Ljubljana (75-64)
 DTSTART:20261006T163000Z
 DTEND:20261006T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261006T185108Z
 UID:8f25aa06be864ecce892599d7cfaf131@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
  te: Hapoel Midtown Jerusalem\nCircuito/Arena: ARENA STOZICE\nGiornata/Roun
- d: 2\nFase: Group A\nStato: scheduled
+ d: 2\nFase: Group A\nRisultato: Cedevita Olimpija Ljubljana 64 - 75 Hapoel
+  Midtown Jerusalem\nStato: finished
 LOCATION:ARENA STOZICE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -644,561 +644,621 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
-UID:bef2746329191884a832b9f1619c75c1@basketball-calendar.github.io
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ BC Roma
+DTSTART:20261031T190000Z
+DTEND:20261031T213000Z
+DTSTAMP:20261006T185119Z
+UID:ad32c44d5146d324c09700543d5271bd@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Arma
- ni Olimpia Milano\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ APU Old Wild West Udine
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
-UID:77a45401398f76c26069962cf97ec78e@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Bert
- ram Derthona Tortona\nGiornata/Round: 6� Giornata\nFase: LBA – Regular
-  Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Dolomiti Energia Trentino
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
-UID:91cb3197f637fc1287db2d5a64f5ac43@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Ma
- xima Roma\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Season 202
- 6/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Nutribullet Treviso Basket
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
-UID:a7437398bc6dae0ec62319cd59a1ff60@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: U
- NA Hotels Reggio Emilia\nGiornata/Round: 6� Giornata\nFase: LBA – Regu
- lar Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Longobardi Scafati B
+ asket\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Roun
+ d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Openjobmetis Varese @ Tezenis Verona
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261031T190000Z
+DTEND:20261031T213000Z
+DTSTAMP:20261006T185119Z
 UID:ab68e75bef14cc12dc5062056b44fb4b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: Openjobmetis 
- Varese\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/2
- 7\nStato: scheduled
+ Varese\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 6� G
+ iornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Pala MAGIS\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Nutribullet Treviso Basket
+DTSTART:20261031T193000Z
+DTEND:20261031T220000Z
+DTSTAMP:20261006T185119Z
+UID:a7437398bc6dae0ec62319cd59a1ff60@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: U
+ NA Hotels Reggio Emilia\nCircuito/Arena: Palaverde\nCittà: Villorba\nGior
+ nata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
+ heduled
+LOCATION:Palaverde\, Villorba
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Napoli Basketball
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261101T110000Z
+DTEND:20261101T133000Z
+DTSTAMP:20261006T185119Z
 UID:7b557a283026eab3edad1aa33169455a@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Umana Reye
- r Venezia\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Season 202
- 6/27\nStato: scheduled
+ r Venezia\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 6
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Maxima Roma @ Dolomiti Energia Trentino
+DTSTART:20261101T150000Z
+DTEND:20261101T173000Z
+DTSTAMP:20261006T185119Z
+UID:91cb3197f637fc1287db2d5a64f5ac43@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Ma
+ xima Roma\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round: 6�
+  Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ APU Old Wild West Udine
+DTSTART:20261101T160000Z
+DTEND:20261101T183000Z
+DTSTAMP:20261006T185119Z
+UID:77a45401398f76c26069962cf97ec78e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Bert
+ ram Derthona Tortona\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Udi
+ ne\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/27\nS
+ tato: scheduled
+LOCATION:PalaCarnera Credifriuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Pallacanestro Trieste @ Virtus Costa Bologna
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261102T190000Z
+DTEND:20261102T213000Z
+DTSTAMP:20261006T185119Z
 UID:2ee45021d2804f33114f58c73ecde8b5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Pallaca
- nestro Trieste\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Seaso
- n 2026/27\nStato: scheduled
+ nestro Trieste\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round
+ : 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ BC Roma
-DTSTART:20261031T230000Z
-DTEND:20261101T013000Z
-DTSTAMP:20261002T195635Z
-UID:ad32c44d5146d324c09700543d5271bd@basketball-calendar.github.io
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù
+DTSTART:20261102T193000Z
+DTEND:20261102T220000Z
+DTSTAMP:20261006T185119Z
+UID:bef2746329191884a832b9f1619c75c1@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Longobardi Scafati B
- asket\nGiornata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
-UID:d713aea1c2438f096f8e6ba4fc5e0470@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: APU Old 
- Wild West Udine\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Seas
- on 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
-UID:802af2d7f88f8cb902802b17e38827fe@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: BC Rom
- a\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Armani Olimpia Milano
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
-UID:2890ecebb74def843bceb8732e4f8d29@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Dolomi
- ti Energia Trentino\nGiornata/Round: 7� Giornata\nFase: LBA – Regular 
- Season 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Arma
+ ni Olimpia Milano\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Roun
+ d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ UNA Hotels Reggio Emilia
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261107T190000Z
+DTEND:20261107T213000Z
+DTSTAMP:20261006T185119Z
 UID:560418ac752bf3474b3b6019868faccf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Uma
- na Reyer Venezia\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Sea
- son 2026/27\nStato: scheduled
+ na Reyer Venezia\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGi
+ ornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
+ scheduled
+LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
-UID:48532f723997805b3998ec9f43037a1d@basketball-calendar.github.io
+SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste
+DTSTART:20261108T110000Z
+DTEND:20261108T133000Z
+DTSTAMP:20261006T185119Z
+UID:802af2d7f88f8cb902802b17e38827fe@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Na
- poli Basketball\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Seas
- on 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: BC Rom
+ a\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 7� Gior
+ nata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaTrieste\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Maxima Roma
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261108T150000Z
+DTEND:20261108T173000Z
+DTSTAMP:20261006T185119Z
 UID:24989feba7cc6b1a54f0cb5fe3b5a1ad@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Acqua S.Bernardo
-  Cantù\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/
- 27\nStato: scheduled
+  Cantù\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Ro
+ und: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Armani Olimpia Milano
+DTSTART:20261108T160000Z
+DTEND:20261108T183000Z
+DTSTAMP:20261006T185119Z
+UID:2890ecebb74def843bceb8732e4f8d29@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Dolomi
+ ti Energia Trentino\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
+ a/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
+ uled
+LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261108T163000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261006T185119Z
 UID:d7c7110c38a99e9a5bec9f3a197db1b1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Nut
- ribullet Treviso Basket\nGiornata/Round: 7� Giornata\nFase: LBA – Regu
- lar Season 2026/27\nStato: scheduled
+ ribullet Treviso Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGior
+ nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
+ heduled
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket
+DTSTART:20261108T170000Z
+DTEND:20261108T193000Z
+DTSTAMP:20261006T185119Z
+UID:48532f723997805b3998ec9f43037a1d@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Na
+ poli Basketball\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: S
+ cafati\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/2
+ 7\nStato: scheduled
+LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese
+DTSTART:20261108T180000Z
+DTEND:20261108T203000Z
+DTSTAMP:20261006T185119Z
+UID:d713aea1c2438f096f8e6ba4fc5e0470@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: APU Old 
+ Wild West Udine\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/R
+ ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedule
+ d
+LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Virtus Costa Bologna
-DTSTART:20261107T230000Z
-DTEND:20261108T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261109T190000Z
+DTEND:20261109T213000Z
+DTSTAMP:20261006T185119Z
 UID:37951dc29d6151c230d92f21e9332d1c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Tezenis
-  Verona\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/
- 27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Umana Reyer Venezia
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:3ea217028c5cf15ea39c0e7b904d31d2@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Maxima R
- oma\nGiornata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ Acqua S.Bernardo Cantù
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:e32e7c6f04d181c049cba866c55f7bce@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Bert
- ram Derthona Tortona\nGiornata/Round: 8� Giornata\nFase: LBA – Regular
-  Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ APU Old Wild West Udine
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:6b319f11704cd5a347ef8141cfb06055@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Arma
- ni Olimpia Milano\nGiornata/Round: 8� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Costa Bologna @ Dolomiti Energia Trentino
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:254bd659310fe5b7b344879aa66b3d89@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
- rtus Costa Bologna\nGiornata/Round: 8� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Nutribullet Treviso Basket
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:5269cb29c57a3d47e67e0d6dd2eb1080@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: L
- ongobardi Scafati Basket\nGiornata/Round: 8� Giornata\nFase: LBA – Reg
- ular Season 2026/27\nStato: scheduled
+  Verona\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 7� 
+ Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Openjobmetis Varese @ UNA Hotels Reggio Emilia
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261114T190000Z
+DTEND:20261114T213000Z
+DTSTAMP:20261006T185119Z
 UID:0ae4a547d7c4d2582a444248ea5b0c34@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Ope
- njobmetis Varese\nGiornata/Round: 8� Giornata\nFase: LBA – Regular Sea
- son 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Napoli Basketball
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
-UID:54bcb9880cd975075a3dd68bac841964@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Pallacanes
- tro Trieste\nGiornata/Round: 8� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
+ njobmetis Varese\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGi
+ ornata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
+ scheduled
+LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ BC Roma
-DTSTART:20261114T230000Z
-DTEND:20261115T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261114T193000Z
+DTEND:20261114T220000Z
+DTSTAMP:20261006T185119Z
 UID:e369a5f3c125391574aa29f831e12a76@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Tezenis Verona\nGior
- nata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
- heduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Tezenis Verona\nCirc
+ uito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round: 8� Gio
+ rnata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
-UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Nutribullet Treviso Basket
+DTSTART:20261115T150000Z
+DTEND:20261115T173000Z
+DTSTAMP:20261006T185119Z
+UID:5269cb29c57a3d47e67e0d6dd2eb1080@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
- poli Basketball\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Seas
- on 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: L
+ ongobardi Scafati Basket\nCircuito/Arena: Palaverde\nCittà: Villorba\nGio
+ rnata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: s
+ cheduled
+LOCATION:Palaverde\, Villorba
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Openjobmetis Varese
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
-UID:d0548af6d82bf07eda3463b82efb7b5c@basketball-calendar.github.io
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Napoli Basketball
+DTSTART:20261115T160000Z
+DTEND:20261115T183000Z
+DTSTAMP:20261006T185119Z
+UID:54bcb9880cd975075a3dd68bac841964@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Umana Re
- yer Venezia\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Pallacanes
+ tro Trieste\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round:
+  8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ Acqua S.Bernardo Cantù
+DTSTART:20261115T163000Z
+DTEND:20261115T190000Z
+DTSTAMP:20261006T185119Z
+UID:e32e7c6f04d181c049cba866c55f7bce@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Bert
+ ram Derthona Tortona\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/R
+ ound: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedule
+ d
+LOCATION:PalaDesio\, Desio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Maxima Roma @ Umana Reyer Venezia
+DTSTART:20261115T170000Z
+DTEND:20261115T193000Z
+DTSTAMP:20261006T185119Z
+UID:3ea217028c5cf15ea39c0e7b904d31d2@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Maxima R
+ oma\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\nGiornata/
+ Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
+ ed
+LOCATION:Palasport Taliercio\, Annone Veneto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Armani Olimpia Milano @ APU Old Wild West Udine
+DTSTART:20261115T171500Z
+DTEND:20261115T194500Z
+DTSTAMP:20261006T185119Z
+UID:6b319f11704cd5a347ef8141cfb06055@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Arma
+ ni Olimpia Milano\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Udine\
+ nGiornata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStat
+ o: scheduled
+LOCATION:PalaCarnera Credifriuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Dolomiti Energia Trentino
+DTSTART:20261115T180000Z
+DTEND:20261115T203000Z
+DTSTAMP:20261006T185119Z
+UID:254bd659310fe5b7b344879aa66b3d89@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Vi
+ rtus Costa Bologna\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Ro
+ und: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Pallacanestro Trieste
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261121T190000Z
+DTEND:20261121T213000Z
+DTSTAMP:20261006T185119Z
 UID:bd9ef8482b905d8f989db2d073ada2c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: UNA Ho
- tels Reggio Emilia\nGiornata/Round: 9� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
-UID:af98187b53bcefc21be51c5dec0b80fb@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: APU Old Wild 
- West Udine\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 20
- 26/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
-UID:59d6abd655e9cf57d924b341b8943bd1@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Ac
- qua S.Bernardo Cantù\nGiornata/Round: 9� Giornata\nFase: LBA – Regula
- r Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
-UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
- iso Basket\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 20
- 26/27\nStato: scheduled
+ tels Reggio Emilia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata
+ /Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedu
+ led
+LOCATION:PalaTrieste\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Armani Olimpia Milano @ Bertram Derthona Tortona
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261122T150000Z
+DTEND:20261122T173000Z
+DTSTAMP:20261006T185119Z
 UID:d19af0da27f07e125fcb94d750d38933@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Arm
- ani Olimpia Milano\nGiornata/Round: 9� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
+ ani Olimpia Milano\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/
+ Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
+ ed
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
+DTSTART:20261122T160000Z
+DTEND:20261122T183000Z
+DTSTAMP:20261006T185119Z
+UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
+ poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket
+DTSTART:20261122T163000Z
+DTEND:20261122T190000Z
+DTSTAMP:20261006T185119Z
+UID:59d6abd655e9cf57d924b341b8943bd1@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Ac
+ qua S.Bernardo Cantù\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCit
+ tà: Scafati\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 
+ 2026/27\nStato: scheduled
+LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
+DTSTART:20261122T170000Z
+DTEND:20261122T193000Z
+DTSTAMP:20261006T185119Z
+UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
+ iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
+ ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaEur\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ Virtus Costa Bologna
-DTSTART:20261121T230000Z
-DTEND:20261122T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261122T170000Z
+DTEND:20261122T193000Z
+DTSTAMP:20261006T185119Z
 UID:96a08887ab30d768fa97efda6c6b903d@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: BC Roma
- \nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nSta
- to: scheduled
+ \nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 9� Giornat
+ a\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDozza\, Bologna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona
+DTSTART:20261122T171500Z
+DTEND:20261122T194500Z
+DTSTAMP:20261006T185119Z
+UID:af98187b53bcefc21be51c5dec0b80fb@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: APU Old Wild 
+ West Udine\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 9
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Pala MAGIS\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Openjobmetis Varese
+DTSTART:20261122T180000Z
+DTEND:20261122T203000Z
+DTSTAMP:20261006T185119Z
+UID:d0548af6d82bf07eda3463b82efb7b5c@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Umana Re
+ yer Venezia\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261205T183000Z
+DTEND:20261205T210000Z
+DTSTAMP:20261006T185119Z
 UID:1c1a55724692738a0612ab7417a2cac2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Acqua S.Bernardo Cantù
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
-UID:28ed23836192007c9247959f26b4aece@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Open
- jobmetis Varese\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Sea
- son 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ APU Old Wild West Udine
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
-UID:c964e2fa8cfa0a82fe5b50cb685dca20@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Pall
- acanestro Trieste\nGiornata/Round: 10� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Costa Bologna @ Nutribullet Treviso Basket
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
-UID:f2dc90e920b87b08fdc82ec46409f9d5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: V
- irtus Costa Bologna\nGiornata/Round: 10� Giornata\nFase: LBA – Regular
-  Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Armani Olimpia Milano
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
-UID:9fd4db7cfc41d6e4c933ce421d2d1f11@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Longob
- ardi Scafati Basket\nGiornata/Round: 10� Giornata\nFase: LBA – Regular
-  Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ UNA Hotels Reggio Emilia
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
-UID:9e86d70f7116845a54d298fca91fa3af@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Max
- ima Roma\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 202
- 6/27\nStato: scheduled
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Vene
+ to\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\n
+ Stato: scheduled
+LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Napoli Basketball
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261206T110000Z
+DTEND:20261206T133000Z
+DTSTAMP:20261006T185119Z
 UID:4113f73e4098ce8105b3706fe795f18c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Tezenis Ve
- rona\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ rona\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 10� 
+ Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Openjobmetis Varese @ Acqua S.Bernardo Cantù
+DTSTART:20261206T150000Z
+DTEND:20261206T173000Z
+DTSTAMP:20261006T185119Z
+UID:28ed23836192007c9247959f26b4aece@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Open
+ jobmetis Varese\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Round:
+  10� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDesio\, Desio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Maxima Roma @ UNA Hotels Reggio Emilia
+DTSTART:20261206T160000Z
+DTEND:20261206T183000Z
+DTSTAMP:20261006T185119Z
+UID:9e86d70f7116845a54d298fca91fa3af@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Max
+ ima Roma\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGiornata/R
+ ound: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
+ ed
+LOCATION:PalaBigi\, Reggio nell'Emilia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Armani Olimpia Milano
+DTSTART:20261206T163000Z
+DTEND:20261206T190000Z
+DTSTAMP:20261006T185119Z
+UID:9fd4db7cfc41d6e4c933ce421d2d1f11@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Longob
+ ardi Scafati Basket\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
+ a/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sche
+ duled
+LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Dolomiti Energia Trentino @ BC Roma
-DTSTART:20261205T230000Z
-DTEND:20261206T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261206T170000Z
+DTEND:20261206T193000Z
+DTSTAMP:20261006T185119Z
 UID:7d503dcf71cc58f3e3a158384440a8f0@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Dolomiti Energia Tre
- ntino\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/2
- 7\nStato: scheduled
+ ntino\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Roun
+ d: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ APU Old Wild West Udine
+DTSTART:20261206T180000Z
+DTEND:20261206T203000Z
+DTSTAMP:20261006T185119Z
+UID:c964e2fa8cfa0a82fe5b50cb685dca20@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Pall
+ acanestro Trieste\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Udine\
+ nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
+LOCATION:PalaCarnera Credifriuli\, Udine
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Nutribullet Treviso Basket
+DTSTART:20261207T190000Z
+DTEND:20261207T213000Z
+DTSTAMP:20261006T185119Z
+UID:f2dc90e920b87b08fdc82ec46409f9d5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: V
+ irtus Costa Bologna\nCircuito/Arena: Palaverde\nCittà: Villorba\nGiornata
+ /Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
+ uled
+LOCATION:Palaverde\, Villorba
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
