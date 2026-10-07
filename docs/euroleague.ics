@@ -8763,105 +8763,109 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ La Laguna Tenerife @ London Lions
+SUMMARY:⭐ La Laguna Tenerife @ London Lions (77-89)
 DTSTART:20261006T183000Z
 DTEND:20261006T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:0b15ff45ca742bfce0626c58273573ab@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: La Laguna T
  enerife\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 2\nFase: Group 
- B\nStato: scheduled
+ B\nRisultato: London Lions 89 - 77 La Laguna Tenerife\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slask Wroclaw @ Dolomiti Energia Trento
+SUMMARY:⭐ Slask Wroclaw @ Dolomiti Energia Trento (94-81)
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:f6eefbdc21fb23773bb21729211be83a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Slask Wroclaw\nCircuito/Arena: BTS ARENA\nGiornata/Round: 2\nFase: Group C
- \nStato: scheduled
+ \nRisultato: Dolomiti Energia Trento 81 - 94 Slask Wroclaw\nStato: finishe
+ d
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Rostock Seawolves
+SUMMARY:⭐ Riga Zelli @ Rostock Seawolves (86-87)
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:281575eb2740ecbcb2ab43abbfa7d372@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Riga Z
  elli\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 2\nFase: Group A
- \nStato: scheduled
+ \nRisultato: Rostock Seawolves 87 - 86 Riga Zelli\nStato: finished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ BOSNA BH Telecom Sarajevo
+SUMMARY:⭐ PAOK Thessaloniki @ BOSNA BH Telecom Sarajevo (75-72)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:6fa7948de62635ebc59d3bff9312d060@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
  : PAOK Thessaloniki\nCircuito/Arena: ZETRA ARENA\nGiornata/Round: 2\nFase:
-  Group D\nStato: scheduled
+  Group D\nRisultato: BOSNA BH Telecom Sarajevo 72 - 75 PAOK Thessaloniki\n
+ Stato: finished
 LOCATION:ZETRA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Cosea JL Bourg-en-Bresse
+SUMMARY:⭐ Tofas Bursa @ Cosea JL Bourg-en-Bresse (89-82)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:d8b705e01127a6a3a19db9cf6639e3f9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
-  Tofas Bursa\nCircuito/Arena: EKINOX\nGiornata/Round: 2\nFase: Group C\nSt
- ato: scheduled
+  Tofas Bursa\nCircuito/Arena: EKINOX\nGiornata/Round: 2\nFase: Group C\nRi
+ sultato: Cosea JL Bourg-en-Bresse 82 - 89 Tofas Bursa\nStato: finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Siauliai Basketball @ Skyliners Frankfurt
+SUMMARY:⭐ Siauliai Basketball @ Skyliners Frankfurt (71-79)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:0983f56084be7c7e623f83136fef0c44@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Siau
  liai Basketball\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 2\nF
- ase: Group B\nStato: scheduled
+ ase: Group B\nRisultato: Skyliners Frankfurt 79 - 71 Siauliai Basketball\n
+ Stato: finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli Basketball @ Buducnost VOLI Podgorica
+SUMMARY:⭐ Napoli Basketball @ Buducnost VOLI Podgorica (93-75)
 DTSTART:20261006T170000Z
 DTEND:20261006T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261007T014407Z
 UID:8ac689427fe1290b43bfb4b024a6bde0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   Napoli Basketball\nCircuito/Arena: MORACA\nGiornata/Round: 2\nFase: Group
-  C\nStato: scheduled
+  C\nRisultato: Buducnost VOLI Podgorica 75 - 93 Napoli Basketball\nStato: 
+ finished
 LOCATION:MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

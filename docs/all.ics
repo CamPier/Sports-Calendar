@@ -129,14 +129,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Charlotte Hornets
+SUMMARY:🏀 Brooklyn Nets @ Charlotte Hornets (124-90)
 DTSTART:20261006T230000Z
 DTEND:20261007T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:3958ac8da5b796075dd922670366da3d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Brooklyn N
- ets\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: scheduled
+ ets\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: Charlo
+ tte Hornets 90 - 124 Brooklyn Nets\nStato: finished
 LOCATION:Spectrum Center\, Charlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -146,14 +147,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder
 DTSTART:20261007T000000Z
 DTEND:20261007T023000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:e7a054d9d1fcf0c5ee20d194377312ee@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: New Or
- leans Pelicans\nCircuito/Arena: BOK Center\nCittà: Tulsa\nStato: schedule
- d
+ leans Pelicans\nCircuito/Arena: BOK Center\nCittà: Tulsa\nStato: live
 LOCATION:BOK Center\, Tulsa
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -161,13 +161,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Denver Nuggets @ Utah Jazz
 DTSTART:20261007T010000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:de3d6e2c138acb34017addb73f03f523@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Denver Nuggets\nCi
- rcuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+ rcuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
 LOCATION:Delta Center\, Salt Lake City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -629,6 +629,79 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
  cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
 LOCATION:Scotiabank Arena\, Toronto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Pacers @ Oklahoma City Thunder
+DTSTART:20261014T000000Z
+DTEND:20261014T023000Z
+DTSTAMP:20261007T014419Z
+UID:6cd05db793231931398b4a5c94354edc@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Indian
+ a Pacers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sch
+ eduled
+LOCATION:Paycom Center\, Oklahoma City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Warriors @ Los Angeles Lakers
+DTSTART:20261014T020000Z
+DTEND:20261014T043000Z
+DTSTAMP:20261007T014419Z
+UID:eecd8bd6293706fc7c56769fece2b5ae@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Golden St
+ ate Warriors\nCircuito/Arena: T-Mobile Arena\nCittà: Las Vegas\nStato: sc
+ heduled
+LOCATION:T-Mobile Arena\, Las Vegas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Portland Trail Blazers @ Sacramento Kings
+DTSTART:20261014T020000Z
+DTEND:20261014T043000Z
+DTSTAMP:20261007T014419Z
+UID:40784be87a2058888f09c665e473ade7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Portland Tr
+ ail Blazers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: s
+ cheduled
+LOCATION:Golden 1 Center\, Sacramento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Brooklyn Nets @ Miami Heat
+DTSTART:20261014T233000Z
+DTEND:20261015T020000Z
+DTSTAMP:20261007T014419Z
+UID:d064f08a46cfc31635fef8ed80f5aaac@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Brooklyn Nets\nCi
+ rcuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+LOCATION:Kaseya Center\, Miami
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Charlotte Hornets @ Boston Celtics
+DTSTART:20261014T233000Z
+DTEND:20261015T020000Z
+DTSTAMP:20261007T014419Z
+UID:b4f5476feb51648c39de1d9159a0af15@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Charlotte Hor
+ nets\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+LOCATION:TD Garden\, Boston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -9388,105 +9461,109 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ La Laguna Tenerife @ London Lions
+SUMMARY:⭐ La Laguna Tenerife @ London Lions (77-89)
 DTSTART:20261006T183000Z
 DTEND:20261006T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:0b15ff45ca742bfce0626c58273573ab@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: La Laguna T
  enerife\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 2\nFase: Group 
- B\nStato: scheduled
+ B\nRisultato: London Lions 89 - 77 La Laguna Tenerife\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slask Wroclaw @ Dolomiti Energia Trento
+SUMMARY:⭐ Slask Wroclaw @ Dolomiti Energia Trento (94-81)
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:f6eefbdc21fb23773bb21729211be83a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Slask Wroclaw\nCircuito/Arena: BTS ARENA\nGiornata/Round: 2\nFase: Group C
- \nStato: scheduled
+ \nRisultato: Dolomiti Energia Trento 81 - 94 Slask Wroclaw\nStato: finishe
+ d
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Rostock Seawolves
+SUMMARY:⭐ Riga Zelli @ Rostock Seawolves (86-87)
 DTSTART:20261006T180000Z
 DTEND:20261006T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:281575eb2740ecbcb2ab43abbfa7d372@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Riga Z
  elli\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 2\nFase: Group A
- \nStato: scheduled
+ \nRisultato: Rostock Seawolves 87 - 86 Riga Zelli\nStato: finished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ BOSNA BH Telecom Sarajevo
+SUMMARY:⭐ PAOK Thessaloniki @ BOSNA BH Telecom Sarajevo (75-72)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:6fa7948de62635ebc59d3bff9312d060@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
  : PAOK Thessaloniki\nCircuito/Arena: ZETRA ARENA\nGiornata/Round: 2\nFase:
-  Group D\nStato: scheduled
+  Group D\nRisultato: BOSNA BH Telecom Sarajevo 72 - 75 PAOK Thessaloniki\n
+ Stato: finished
 LOCATION:ZETRA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Cosea JL Bourg-en-Bresse
+SUMMARY:⭐ Tofas Bursa @ Cosea JL Bourg-en-Bresse (89-82)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:d8b705e01127a6a3a19db9cf6639e3f9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
-  Tofas Bursa\nCircuito/Arena: EKINOX\nGiornata/Round: 2\nFase: Group C\nSt
- ato: scheduled
+  Tofas Bursa\nCircuito/Arena: EKINOX\nGiornata/Round: 2\nFase: Group C\nRi
+ sultato: Cosea JL Bourg-en-Bresse 82 - 89 Tofas Bursa\nStato: finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Siauliai Basketball @ Skyliners Frankfurt
+SUMMARY:⭐ Siauliai Basketball @ Skyliners Frankfurt (71-79)
 DTSTART:20261006T173000Z
 DTEND:20261006T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:0983f56084be7c7e623f83136fef0c44@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Siau
  liai Basketball\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 2\nF
- ase: Group B\nStato: scheduled
+ ase: Group B\nRisultato: Skyliners Frankfurt 79 - 71 Siauliai Basketball\n
+ Stato: finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli Basketball @ Buducnost VOLI Podgorica
+SUMMARY:⭐ Napoli Basketball @ Buducnost VOLI Podgorica (93-75)
 DTSTART:20261006T170000Z
 DTEND:20261006T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T014419Z
 UID:8ac689427fe1290b43bfb4b024a6bde0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   Napoli Basketball\nCircuito/Arena: MORACA\nGiornata/Round: 2\nFase: Group
-  C\nStato: scheduled
+  C\nRisultato: Buducnost VOLI Podgorica 75 - 93 Napoli Basketball\nStato: 
+ finished
 LOCATION:MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22483,32 +22560,6 @@ LOCATION:Circuit Ricardo Tormo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Chengdu Open
-DTSTART:20260922T040000Z
-DTEND:20260922T063000Z
-DTSTAMP:20261002T195652Z
-UID:25fd8757853bd4733f13a905e77188c8@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Chengdu Open\nOspite: ATP\nGio
- rnata/Round: Chengdu Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ AITO Hangzhou Open
-DTSTART:20260922T040000Z
-DTEND:20260922T063000Z
-DTSTAMP:20261002T195652Z
-UID:88627dd4b0b36cd201618905d9241637@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: AITO Hangzhou Open\nOspite: AT
- P\nGiornata/Round: AITO Hangzhou Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Kinoshita Group Japan Open Tennis Championships
