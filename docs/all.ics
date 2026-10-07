@@ -9433,30 +9433,31 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ Balkan Botevgrad
+SUMMARY:⭐ Bahcesehir College Istanbul @ Balkan Botevgrad (101-60)
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T191648Z
 UID:d489835a63f48280ffb13a8070f75ca5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Bahcese
  hir College Istanbul\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 2\n
- Fase: Group D\nStato: scheduled
+ Fase: Group D\nRisultato: Balkan Botevgrad 60 - 101 Bahcesehir College Ist
+ anbul\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Umana Reyer Venice @ U-BT Cluj-Napoca
+SUMMARY:⭐ Umana Reyer Venice @ U-BT Cluj-Napoca (92-98)
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261007T191648Z
 UID:951feb4d93e34769e7d9d1f5b1aa635c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Umana R
- eyer Venice\nCircuito/Arena: BT ARENA\nGiornata/Round: 2\nFase: Group B\nS
- tato: scheduled
+ eyer Venice\nCircuito/Arena: BT ARENA\nGiornata/Round: 2\nFase: Group B\nR
+ isultato: U-BT Cluj-Napoca 98 - 92 Umana Reyer Venice\nStato: finished
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
