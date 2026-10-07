@@ -144,43 +144,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder
+SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder (116-110)
 DTSTART:20261007T000000Z
 DTEND:20261007T023000Z
-DTSTAMP:20261007T014405Z
+DTSTAMP:20261007T113833Z
 UID:e7a054d9d1fcf0c5ee20d194377312ee@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: New Or
- leans Pelicans\nCircuito/Arena: BOK Center\nCittà: Tulsa\nStato: live
+ leans Pelicans\nCircuito/Arena: BOK Center\nCittà: Tulsa\nRisultato: Okla
+ homa City Thunder 110 - 116 New Orleans Pelicans\nStato: finished
 LOCATION:BOK Center\, Tulsa
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Utah Jazz
+SUMMARY:🏀 Denver Nuggets @ Utah Jazz (117-106)
 DTSTART:20261007T010000Z
 DTEND:20261007T033000Z
-DTSTAMP:20261007T014405Z
+DTSTAMP:20261007T113833Z
 UID:de3d6e2c138acb34017addb73f03f523@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Denver Nuggets\nCi
- rcuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ rcuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jazz 1
+ 06 - 117 Denver Nuggets\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Golden State Warriors
+SUMMARY:🏀 Los Angeles Lakers @ Golden State Warriors (98-124)
 DTSTART:20261007T020000Z
 DTEND:20261007T043000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261007T113833Z
 UID:dd3d2af7f90732ee1eb92f6e0ef9ae5e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Los An
- geles Lakers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: 
- scheduled
+ geles Lakers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisulta
+ to: Golden State Warriors 124 - 98 Los Angeles Lakers\nStato: finished
 LOCATION:Chase Center\, San Francisco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
