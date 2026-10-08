@@ -5274,15 +5274,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Paris Basketball
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Paris Basketball (98-96)
 DTSTART:20261007T184500Z
 DTEND:20261007T211500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:6b210e065078aa9457184b53b2fc5fea@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: LDLC
   ASVEL Villeurbanne\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 4\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: Paris Basketball 96 - 98 LDLC ASVEL Vil
+ leurbanne\nStato: finished
 LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8658,75 +8659,78 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Kids&Us Manresa
+SUMMARY:⭐ ratiopharm ulm @ Kids&Us Manresa (89-101)
 DTSTART:20261007T183000Z
 DTEND:20261007T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:db3d6b67174e05f513d6a84bf0418e8d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: ratiopha
  rm ulm\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 2\nFase: Grou
- p D\nStato: scheduled
+ p D\nRisultato: Kids&Us Manresa 101 - 89 ratiopharm ulm\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lietkabelis Panevezys @ Roma Basketball
+SUMMARY:⭐ Lietkabelis Panevezys @ Roma Basketball (87-92)
 DTSTART:20261007T180000Z
 DTEND:20261007T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:b1f69e3800a8abb73d8fb39b2d3d8bf4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Lietkabe
  lis Panevezys\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round: 2\n
- Fase: Group D\nStato: scheduled
+ Fase: Group D\nRisultato: Roma Basketball 92 - 87 Lietkabelis Panevezys\nS
+ tato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Le Mans Sarthe Basket @ Baglietto Derthona Tortona
+SUMMARY:⭐ Le Mans Sarthe Basket @ Baglietto Derthona Tortona (83-89)
 DTSTART:20261007T173000Z
 DTEND:20261007T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:0b390a4bae7e376c2cfdcaf598cc9ada@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Le Mans Sarthe Basket\nCircuito/Arena: NOVA ARENA\nGiornata/Round: 2\nF
- ase: Group A\nStato: scheduled
+ ase: Group A\nRisultato: Baglietto Derthona Tortona 89 - 83 Le Mans Sarthe
+  Basket\nStato: finished
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ NINERS Chemnitz
+SUMMARY:⭐ Neptunas Klaipeda @ NINERS Chemnitz (84-93)
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:bf5b7cbf6d26b9cf6cef39efbadd7044@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Neptunas
   Klaipeda\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 2\nFase: Group 
- C\nStato: scheduled
+ C\nRisultato: NINERS Chemnitz 93 - 84 Neptunas Klaipeda\nStato: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Aris Thessaloniki
+SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Aris Thessaloniki (80-93)
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T021154Z
 UID:422564d37998a21d298c4a39d3b70d47@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Recole
  tas Salud San Pablo Burgos\nCircuito/Arena: ALEXANDREIO ATHLITIKO MELATHRO
- \nGiornata/Round: 2\nFase: Group A\nStato: scheduled
+ \nGiornata/Round: 2\nFase: Group A\nRisultato: Aris Thessaloniki 93 - 80 R
+ ecoletas Salud San Pablo Burgos\nStato: finished
 LOCATION:ALEXANDREIO ATHLITIKO MELATHRO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

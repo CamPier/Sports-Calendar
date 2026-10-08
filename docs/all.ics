@@ -189,14 +189,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ Indiana Pacers
+SUMMARY:🏀 Minnesota Timberwolves @ Indiana Pacers (112-123)
 DTSTART:20261007T230000Z
 DTEND:20261008T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:e41929b13bfcfe285606b185332ccf81@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Minnesota Tim
- berwolves\nCircuito/Arena: Hilton Coliseum\nCittà: Ames\nStato: scheduled
+ berwolves\nCircuito/Arena: Hilton Coliseum\nCittà: Ames\nRisultato: India
+ na Pacers 123 - 112 Minnesota Timberwolves\nStato: finished
 LOCATION:Hilton Coliseum\, Ames
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -206,13 +207,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Orlando Magic @ Memphis Grizzlies
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:46087ec08878e89b67d8864405a5d1e5@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Orlando Ma
- gic\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: scheduled
+ gic\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
 LOCATION:FedExForum\, Memphis
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -220,14 +221,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Milwaukee Bucks @ Oklahoma City Thunder
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:1d1e5eb569bbe3c2c176f9ad3de3c8b6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Milwau
- kee Bucks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sc
- heduled
+ kee Bucks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: li
+ ve
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -235,13 +236,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Suns @ Chicago Bulls
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:d8b9009aa41c8e785f13edd7f9df455f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Phoenix Suns\n
- Circuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+ Circuito/Arena: United Center\nCittà: Chicago\nStato: live
 LOCATION:United Center\, Chicago
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -704,6 +705,94 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Charlotte Hor
  nets\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
 LOCATION:TD Garden\, Boston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Phoenix Suns @ San Antonio Spurs
+DTSTART:20261015T000000Z
+DTEND:20261015T023000Z
+DTSTAMP:20261008T021210Z
+UID:5c65a31ab063828f7958901ddccbeae4@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Phoenix Su
+ ns\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: schedul
+ ed
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New Orleans Pelicans @ Dallas Mavericks
+DTSTART:20261015T000000Z
+DTEND:20261015T023000Z
+DTSTAMP:20261008T021210Z
+UID:6f6bdb7c54761256be6fddd2c04d8fdb@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: New Orleans
+  Pelicans\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato
+ : scheduled
+LOCATION:American Airlines Center\, Dallas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Bulls @ Milwaukee Bucks
+DTSTART:20261015T000000Z
+DTEND:20261015T023000Z
+DTSTAMP:20261008T021210Z
+UID:4412b0dedf1e9ee7ff22c8d9cd2c6b25@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Chicago Bull
+ s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+LOCATION:Fiserv Forum\, Milwaukee
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Detroit Pistons @ Minnesota Timberwolves
+DTSTART:20261015T000000Z
+DTEND:20261015T023000Z
+DTSTAMP:20261008T021210Z
+UID:997f8fe6c0ca5d8a60e19f8a79b02397@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Detro
+ it Pistons\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: sch
+ eduled
+LOCATION:Target Center\, Minneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Denver Nuggets @ LA Clippers
+DTSTART:20261015T023000Z
+DTEND:20261015T050000Z
+DTSTAMP:20261008T021210Z
+UID:7ac68e5c06de78b2028d7a960e95d01c@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Denver Nuggets\n
+ Circuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
+LOCATION:Intuit Dome\, Inglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ New York Knicks
+DTSTART:20261015T233000Z
+DTEND:20261016T020000Z
+DTSTAMP:20261008T021210Z
+UID:f8971bb136e03d7d1f67b561f6ce4a29@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Toronto Rapt
+ ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
+ uled
+LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -5974,15 +6063,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Paris Basketball
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Paris Basketball (98-96)
 DTSTART:20261007T184500Z
 DTEND:20261007T211500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:6b210e065078aa9457184b53b2fc5fea@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: LDLC
   ASVEL Villeurbanne\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 4\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: Paris Basketball 96 - 98 LDLC ASVEL Vil
+ leurbanne\nStato: finished
 LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9358,75 +9448,78 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Kids&Us Manresa
+SUMMARY:⭐ ratiopharm ulm @ Kids&Us Manresa (89-101)
 DTSTART:20261007T183000Z
 DTEND:20261007T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:db3d6b67174e05f513d6a84bf0418e8d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: ratiopha
  rm ulm\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 2\nFase: Grou
- p D\nStato: scheduled
+ p D\nRisultato: Kids&Us Manresa 101 - 89 ratiopharm ulm\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lietkabelis Panevezys @ Roma Basketball
+SUMMARY:⭐ Lietkabelis Panevezys @ Roma Basketball (87-92)
 DTSTART:20261007T180000Z
 DTEND:20261007T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:b1f69e3800a8abb73d8fb39b2d3d8bf4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Lietkabe
  lis Panevezys\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round: 2\n
- Fase: Group D\nStato: scheduled
+ Fase: Group D\nRisultato: Roma Basketball 92 - 87 Lietkabelis Panevezys\nS
+ tato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Le Mans Sarthe Basket @ Baglietto Derthona Tortona
+SUMMARY:⭐ Le Mans Sarthe Basket @ Baglietto Derthona Tortona (83-89)
 DTSTART:20261007T173000Z
 DTEND:20261007T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:0b390a4bae7e376c2cfdcaf598cc9ada@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Le Mans Sarthe Basket\nCircuito/Arena: NOVA ARENA\nGiornata/Round: 2\nF
- ase: Group A\nStato: scheduled
+ ase: Group A\nRisultato: Baglietto Derthona Tortona 89 - 83 Le Mans Sarthe
+  Basket\nStato: finished
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ NINERS Chemnitz
+SUMMARY:⭐ Neptunas Klaipeda @ NINERS Chemnitz (84-93)
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:bf5b7cbf6d26b9cf6cef39efbadd7044@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Neptunas
   Klaipeda\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 2\nFase: Group 
- C\nStato: scheduled
+ C\nRisultato: NINERS Chemnitz 93 - 84 Neptunas Klaipeda\nStato: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Aris Thessaloniki
+SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Aris Thessaloniki (80-93)
 DTSTART:20261007T170000Z
 DTEND:20261007T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261008T021210Z
 UID:422564d37998a21d298c4a39d3b70d47@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Recole
  tas Salud San Pablo Burgos\nCircuito/Arena: ALEXANDREIO ATHLITIKO MELATHRO
- \nGiornata/Round: 2\nFase: Group A\nStato: scheduled
+ \nGiornata/Round: 2\nFase: Group A\nRisultato: Aris Thessaloniki 93 - 80 R
+ ecoletas Salud San Pablo Burgos\nStato: finished
 LOCATION:ALEXANDREIO ATHLITIKO MELATHRO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
