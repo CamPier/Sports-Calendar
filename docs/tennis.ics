@@ -114,14 +114,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Wuhan Open
+SUMMARY:🎾 WTA @ Dongfeng Voyah Wuhan Open
 DTSTART:20261012T040000Z
 DTEND:20261012T063000Z
-DTSTAMP:20261005T010823Z
+DTSTAMP:20261008T115336Z
 UID:786b57140e3d59c1b99b655caa38a943@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Wuhan Open\nOspite: WTA\nGiorn
- ata/Round: Wuhan Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Dongfeng Voyah Wuhan Open\nOsp
+ ite: WTA\nGiornata/Round: Dongfeng Voyah Wuhan Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

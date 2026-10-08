@@ -204,58 +204,60 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Memphis Grizzlies
+SUMMARY:🏀 Orlando Magic @ Memphis Grizzlies (122-118)
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261008T021153Z
+DTSTAMP:20261008T115319Z
 UID:46087ec08878e89b67d8864405a5d1e5@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Orlando Ma
- gic\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
+ gic\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Grizz
+ lies 118 - 122 Orlando Magic\nStato: finished
 LOCATION:FedExForum\, Memphis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Milwaukee Bucks @ Oklahoma City Thunder
+SUMMARY:🏀 Milwaukee Bucks @ Oklahoma City Thunder (128-126)
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261008T021153Z
+DTSTAMP:20261008T115319Z
 UID:1d1e5eb569bbe3c2c176f9ad3de3c8b6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Milwau
- kee Bucks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: li
- ve
+ kee Bucks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato
+ : Oklahoma City Thunder 126 - 128 Milwaukee Bucks\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Chicago Bulls
+SUMMARY:🏀 Phoenix Suns @ Chicago Bulls (117-124)
 DTSTART:20261008T000000Z
 DTEND:20261008T023000Z
-DTSTAMP:20261008T021153Z
+DTSTAMP:20261008T115319Z
 UID:d8b9009aa41c8e785f13edd7f9df455f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Phoenix Suns\n
- Circuito/Arena: United Center\nCittà: Chicago\nStato: live
+ Circuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bulls 1
+ 24 - 117 Phoenix Suns\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Portland Trail Blazers
+SUMMARY:🏀 Golden State Warriors @ Portland Trail Blazers (118-123)
 DTSTART:20261008T020000Z
 DTEND:20261008T043000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261008T115319Z
 UID:ab5d183d9627a9abdf5bae2fdce9a4d4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Golde
- n State Warriors\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: sc
- heduled
+ n State Warriors\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato
+ : Portland Trail Blazers 123 - 118 Golden State Warriors\nStato: finished
 LOCATION:Moda Center\, Portland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
