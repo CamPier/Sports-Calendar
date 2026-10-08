@@ -5244,30 +5244,33 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Dubai Basketball
+SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Dubai Basketball (77
+ -58)
 DTSTART:20261008T160000Z
 DTEND:20261008T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T191237Z
 UID:44b8e54b5dc33e7112e9b8997804f821@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Crve
  na Zvezda Meridianbet Belgrade\nCircuito/Arena: COCA-COLA ARENA\nGiornata/
- Round: 4\nFase: Group Regular Season\nStato: scheduled
+ Round: 4\nFase: Group Regular Season\nRisultato: Dubai Basketball 58 - 77 
+ Crvena Zvezda Meridianbet Belgrade\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Maccabi Rapyd Tel Aviv
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Maccabi Rapyd Tel Aviv (79-97)
 DTSTART:20261008T160000Z
 DTEND:20261008T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261008T191237Z
 UID:80b6179c2cb5b8f5d7186eb966082283@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
  : Armani Olimpia Milan\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/
- Round: 4\nFase: Group Regular Season\nStato: scheduled
+ Round: 4\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv 97
+  - 79 Armani Olimpia Milan\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8737,15 +8740,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ Balkan Botevgrad (101-60)
+SUMMARY:⭐ Bahcesehir College Istanbul @ Balkan Botevgrad (100-61)
 DTSTART:20261007T160000Z
 DTEND:20261007T183000Z
-DTSTAMP:20261007T191634Z
+DTSTAMP:20261008T191237Z
 UID:d489835a63f48280ffb13a8070f75ca5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Bahcese
  hir College Istanbul\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 2\n
- Fase: Group D\nRisultato: Balkan Botevgrad 60 - 101 Bahcesehir College Ist
+ Fase: Group D\nRisultato: Balkan Botevgrad 61 - 100 Bahcesehir College Ist
  anbul\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
