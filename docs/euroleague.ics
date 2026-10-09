@@ -4884,13 +4884,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Paris Basketball @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261016T180000Z
 DTEND:20261016T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261009T114511Z
 UID:5620114b6bdbd36c226ecae95dd2b519@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
- rade\nOspite: Paris Basketball\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nG
- iornata/Round: 6\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ rade\nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
+ ound: 6\nFase: Group Regular Season\nStato: scheduled
+LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5

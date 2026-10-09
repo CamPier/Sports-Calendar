@@ -339,15 +339,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ Los Angeles Lakers
-DTSTART:20261009T023000Z
-DTEND:20261009T050000Z
-DTSTAMP:20261002T195618Z
+SUMMARY:🏀 Sacramento Kings @ Los Angeles Lakers (110-114)
+DTSTART:20261009T024500Z
+DTEND:20261009T051500Z
+DTSTAMP:20261009T114509Z
 UID:0cd550abe69acffad9c56d87a9962d05@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Sacrament
- o Kings\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sch
- eduled
+ o Kings\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato:
+  Los Angeles Lakers 114 - 110 Sacramento Kings\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

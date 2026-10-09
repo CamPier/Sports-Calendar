@@ -980,12 +980,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP1 — Singapore Grand Prix
 DTSTART:20261009T083000Z
 DTEND:20261009T093000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261009T114526Z
 UID:156210f762f518adde0ab24a03ecf4ce@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 FP1
  \nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, Singapor
- e\nGiornata/Round: Round 17\nFase: FirstPractice\nStato: scheduled
+ e\nGiornata/Round: Round 17\nFase: FirstPractice\nStato: finished
 LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
