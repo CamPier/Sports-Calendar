@@ -5184,60 +5184,65 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Real Madrid
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Real Madrid (76-86)
 DTSTART:20261008T184500Z
 DTEND:20261008T211500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261009T022609Z
 UID:2dda197d6cf8bccea7420f6681b270c7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Partizan 
  Mozzart Bet Belgrade\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 4\nF
- ase: Group Regular Season\nStato: scheduled
+ ase: Group Regular Season\nRisultato: Real Madrid 86 - 76 Partizan Mozzart
+  Bet Belgrade\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Valencia Basket
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Valencia Basket (82-93)
 DTSTART:20261008T183000Z
 DTEND:20261008T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261009T022609Z
 UID:e367c12034cb24b16352e70c6e81359f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Hapoe
  l IBI Tel Aviv\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 4\nFase: Group
-  Regular Season\nStato: scheduled
+  Regular Season\nRisultato: Valencia Basket 93 - 82 Hapoel IBI Tel Aviv\nS
+ tato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Panathinaikos AKTOR Athens (
+ 74-92)
 DTSTART:20261008T181500Z
 DTEND:20261008T204500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261009T022609Z
 UID:089fb7866073f8a5a8618f46fff60583@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: Fenerbahce Tarfin Istanbul\nCircuito/Arena: TELEKOM CENTER ATHENS\nG
- iornata/Round: 4\nFase: Group Regular Season\nStato: scheduled
+ iornata/Round: 4\nFase: Group Regular Season\nRisultato: Panathinaikos AKT
+ OR Athens 92 - 74 Fenerbahce Tarfin Istanbul\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ FC Bayern Munich
+SUMMARY:🇪🇺 Virtus Bologna @ FC Bayern Munich (94-87)
 DTSTART:20261008T180000Z
 DTEND:20261008T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261009T022609Z
 UID:d677be12401199da312d56c0258c8ec4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Virt
  us Bologna\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 4\nFase: Group Reg
- ular Season\nStato: scheduled
+ ular Season\nRisultato: FC Bayern Munich 87 - 94 Virtus Bologna\nStato: fi
+ nished
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -264,72 +264,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Cleveland Cavaliers
+SUMMARY:🏀 Boston Celtics @ Cleveland Cavaliers (124-113)
 DTSTART:20261008T230000Z
 DTEND:20261009T013000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261009T022608Z
 UID:108f9d929129465736cc61eb9b23b3d9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Boston C
- eltics\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: scheduled
+ eltics\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Clevel
+ and Cavaliers 113 - 124 Boston Celtics\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Miami Heat
+SUMMARY:🏀 New Orleans Pelicans @ Miami Heat (118-128)
 DTSTART:20261008T233000Z
 DTEND:20261009T020000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261009T022608Z
 UID:2ccaae04e4996cdfbcc8e099aaf14f45@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: New Orleans Pelic
- ans\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+ ans\nCircuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 1
+ 28 - 118 New Orleans Pelicans\nStato: finished
 LOCATION:Kaseya Center\, Miami
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Brooklyn Nets
+SUMMARY:🏀 Philadelphia 76ers @ Brooklyn Nets (108-114)
 DTSTART:20261008T233000Z
 DTEND:20261009T020000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261009T022608Z
 UID:5163e7ea451f9ee806497a53e9c6fd98@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Philadelphia 7
- 6ers\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nStato: scheduled
+ 6ers\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nRisultato: Brookl
+ yn Nets 114 - 108 Philadelphia 76ers\nStato: finished
 LOCATION:Barclays Center\, Brooklyn
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ New York Knicks
+SUMMARY:🏀 Washington Wizards @ New York Knicks (111-109)
 DTSTART:20261008T233000Z
 DTEND:20261009T020000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261009T022608Z
 UID:376984b40c9858a93b909eec12a8f77c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Washington W
- izards\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sc
- heduled
+ izards\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
+ : New York Knicks 109 - 111 Washington Wizards\nStato: finished
 LOCATION:Madison Square Garden\, New York
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ San Antonio Spurs
+SUMMARY:🏀 Atlanta Hawks @ San Antonio Spurs (123-116)
 DTSTART:20261009T000000Z
 DTEND:20261009T023000Z
-DTSTAMP:20261002T195618Z
+DTSTAMP:20261009T022608Z
 UID:392adc467b568fe98b5f983964378c71@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Atlanta Ha
- wks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: schedu
- led
+ wks\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato: Sa
+ n Antonio Spurs 116 - 123 Atlanta Hawks\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -795,6 +798,80 @@ DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Toronto Rapt
  ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
  uled
 LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets
+DTSTART:20261016T003000Z
+DTEND:20261016T030000Z
+DTSTAMP:20261009T022608Z
+UID:472c0ef6d18e0d3c60cb1e731db921e9@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Oklahoma Cit
+ y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato
+ : scheduled
+LOCATION:Toyota Center (Houston)\, Houston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami Heat @ Orlando Magic
+DTSTART:20261016T230000Z
+DTEND:20261017T013000Z
+DTSTAMP:20261009T022608Z
+UID:1d80783be040cb71361544608e84fd3e@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Miami Heat\nCi
+ rcuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
+DTSTART:20261016T230000Z
+DTEND:20261017T013000Z
+DTSTAMP:20261009T022608Z
+UID:b33efca505a74c3f14f9240928752994@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Boston Ce
+ ltics\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: 
+ scheduled
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ Detroit Pistons
+DTSTART:20261016T230000Z
+DTEND:20261017T013000Z
+DTSTAMP:20261009T022608Z
+UID:17be0f9da94ea0b21561cad75222597d@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Toronto Rapt
+ ors\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nStato: schedul
+ ed
+LOCATION:Little Caesars Arena\, Detroit
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Milwaukee Bucks @ Indiana Pacers
+DTSTART:20261016T230000Z
+DTEND:20261017T013000Z
+DTSTAMP:20261009T022608Z
+UID:571d6dc116a0bbc435bfd908a179fbd4@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Milwaukee Buc
+ ks\nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: sc
+ heduled
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
