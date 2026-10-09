@@ -995,13 +995,13 @@ BEGIN:VEVENT
 SUMMARY:🏎 Sprint Qualifying — Singapore Grand Prix
 DTSTART:20261009T123000Z
 DTEND:20261009T133000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261009T184320Z
 UID:5801ad7f93020e01b28ca7805beaad14@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Spr
  int Qualifying\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina 
  Bay\, Singapore\nGiornata/Round: Round 17\nFase: SprintQualifying\nStato: 
- scheduled
+ finished
 LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
