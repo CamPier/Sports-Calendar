@@ -758,14 +758,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Genoa
+SUMMARY:⚽ Fiorentina @ Genoa (1-2)
 DTSTART:20261010T130000Z
 DTEND:20261010T153000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261010T174342Z
 UID:9350f36752e3110e8f7b8f0e7859df5b@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Fiorentina\nCircui
- to/Arena: Stadio Luigi Ferraris\nCittà: Genova\nStato: scheduled
+ to/Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 2 - 1 Fi
+ orentina\nStato: finished
 LOCATION:Stadio Luigi Ferraris\, Genova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -775,13 +776,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Parma @ Internazionale
 DTSTART:20261010T160000Z
 DTEND:20261010T183000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261010T174342Z
 UID:b8687258dad7827fb4bc33ee39239ef9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Parma\nCi
- rcuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ rcuito/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

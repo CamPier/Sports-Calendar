@@ -14404,14 +14404,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Genoa
+SUMMARY:⚽ Fiorentina @ Genoa (1-2)
 DTSTART:20261010T130000Z
 DTEND:20261010T153000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T174346Z
 UID:9350f36752e3110e8f7b8f0e7859df5b@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Fiorentina\nCircui
- to/Arena: Stadio Luigi Ferraris\nCittà: Genova\nStato: scheduled
+ to/Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 2 - 1 Fi
+ orentina\nStato: finished
 LOCATION:Stadio Luigi Ferraris\, Genova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14421,13 +14422,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Parma @ Internazionale
 DTSTART:20261010T160000Z
 DTEND:20261010T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T174346Z
 UID:b8687258dad7827fb4bc33ee39239ef9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Parma\nCi
- rcuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ rcuito/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -22163,12 +22164,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Singapore Grand Prix
 DTSTART:20261010T130000Z
 DTEND:20261010T140000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T174346Z
 UID:c50743a58aea331e162a38dd91c489f6@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Qua
  lifiche\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, S
- ingapore\nGiornata/Round: Round 17\nFase: Qualifying\nStato: scheduled
+ ingapore\nGiornata/Round: Round 17\nFase: Qualifying\nStato: finished
 LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22988,9 +22989,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Vanda Pharmaceuticals Mallorca Women's Championships pr
  esented by Ecotrans Group
-DTSTART:20261012T040000Z
-DTEND:20261012T063000Z
-DTSTAMP:20261005T010823Z
+DTSTART:20261011T040000Z
+DTEND:20261011T063000Z
+DTSTAMP:20261010T174346Z
 UID:909f999c187d6e083f6740cdac6154ee@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Vanda Pharmaceuticals Mallorca
@@ -23003,9 +23004,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ RoveretOpen Città della Pace
-DTSTART:20261012T040000Z
-DTEND:20261012T063000Z
-DTSTAMP:20261005T010823Z
+DTSTART:20261011T040000Z
+DTEND:20261011T063000Z
+DTSTAMP:20261010T174346Z
 UID:cfc7243750c3639c093672e3581c0afc@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: RoveretOpen Città della Pace\
@@ -23017,9 +23018,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Lisboa Belem Open
-DTSTART:20261012T040000Z
-DTEND:20261012T063000Z
-DTSTAMP:20261005T010823Z
+DTSTART:20261011T040000Z
+DTEND:20261011T063000Z
+DTSTAMP:20261010T174346Z
 UID:7709892b5b2de460485ff0009b925691@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Lisboa Belem Open\nOspite: WTA

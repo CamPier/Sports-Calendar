@@ -1026,12 +1026,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Singapore Grand Prix
 DTSTART:20261010T130000Z
 DTEND:20261010T140000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261010T174344Z
 UID:c50743a58aea331e162a38dd91c489f6@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Qua
  lifiche\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, S
- ingapore\nGiornata/Round: Round 17\nFase: Qualifying\nStato: scheduled
+ ingapore\nGiornata/Round: Round 17\nFase: Qualifying\nStato: finished
 LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
