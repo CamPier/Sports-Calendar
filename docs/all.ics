@@ -369,16 +369,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls
+SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls (104-100)
 DTSTART:20261010T000000Z
 DTEND:20261010T023000Z
-DTSTAMP:20261010T015221Z
+DTSTAMP:20261010T110317Z
 UID:a4fb72ff79723cbdc2f5b0e25b4a76b6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Memphis Grizzl
- ies\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
+ ies\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bu
+ lls 100 - 104 Memphis Grizzlies\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -10549,9 +10550,9 @@ X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ BC Roma
-DTSTART:20261017T173000Z
-DTEND:20261017T200000Z
-DTSTAMP:20261005T211243Z
+DTSTART:20261017T140000Z
+DTEND:20261017T163000Z
+DTSTAMP:20261010T110317Z
 UID:f6c1671f0ca2480bd4f15c949c1811be@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia\
@@ -22147,12 +22148,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Sprint — Singapore Grand Prix
 DTSTART:20261010T090000Z
 DTEND:20261010T094500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T110317Z
 UID:0c582c53e3db7f64fe993cf6be265ce1@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Singapore Grand Prix\nOspite: 🏎 Spr
  int\nCircuito/Arena: Marina Bay Street Circuit\nCittà: Marina Bay\, Singa
- pore\nGiornata/Round: Round 17\nFase: Sprint\nStato: scheduled
+ pore\nGiornata/Round: Round 17\nFase: Sprint\nStato: finished
 LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

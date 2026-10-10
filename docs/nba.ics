@@ -369,16 +369,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls
+SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls (104-100)
 DTSTART:20261010T000000Z
 DTEND:20261010T023000Z
-DTSTAMP:20261010T015203Z
+DTSTAMP:20261010T110301Z
 UID:a4fb72ff79723cbdc2f5b0e25b4a76b6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Memphis Grizzl
- ies\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
+ ies\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bu
+ lls 100 - 104 Memphis Grizzlies\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
