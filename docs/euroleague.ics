@@ -5139,45 +5139,49 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Barcelona
+SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Barcelona (88-81)
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261010T015205Z
 UID:b1ee053d1318425afad00e23d9f642a5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Zalgiris
   Kaunas\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 4\nFase: Group R
- egular Season\nStato: scheduled
+ egular Season\nRisultato: FC Barcelona 81 - 88 Zalgiris Kaunas\nStato: fin
+ ished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz (92-8
+ 4)
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261010T015205Z
 UID:76fb9558ec871090900230202e939ea8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Besiktas Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/Round:
-  4\nFase: Group Regular Season\nStato: scheduled
+  4\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz
+  84 - 92 Besiktas Istanbul\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Olympiacos Piraeus (66-89)
 DTSTART:20261009T181500Z
 DTEND:20261009T204500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261010T015205Z
 UID:71fcdbfa07ee0d811c18a0a2825fc184@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: An
  adolu Efes Istanbul\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 4\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Olympiacos Piraeus 89 - 66 Anadolu Efes 
+ Istanbul\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

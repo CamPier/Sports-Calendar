@@ -372,13 +372,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls
 DTSTART:20261010T000000Z
 DTEND:20261010T023000Z
-DTSTAMP:20261003T011921Z
+DTSTAMP:20261010T015221Z
 UID:a4fb72ff79723cbdc2f5b0e25b4a76b6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Memphis Grizzl
- ies\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+ ies\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
 LOCATION:United Center\, Chicago
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -873,6 +873,123 @@ DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Milwaukee Buc
  ks\nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: sc
  heduled
 LOCATION:Gainbridge Fieldhouse\, Indianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Dallas Mavericks
+DTSTART:20261017T000000Z
+DTEND:20261017T023000Z
+DTSTAMP:20261010T015221Z
+UID:bbb766fc37db06680d9b7ebaa0a3a7de@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Atlanta Haw
+ ks\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: sched
+ uled
+LOCATION:American Airlines Center\, Dallas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Sacramento Kings @ San Antonio Spurs
+DTSTART:20261017T000000Z
+DTEND:20261017T023000Z
+DTSTAMP:20261010T015221Z
+UID:6da6be13a375d611211b16d126c169f8@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Sacramento
+  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sch
+ eduled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Charlotte Hornets @ Memphis Grizzlies
+DTSTART:20261017T000000Z
+DTEND:20261017T023000Z
+DTSTAMP:20261010T015221Z
+UID:b1cf319afd2e2c9985b924cd8b49878a@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Charlotte 
+ Hornets\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: scheduled
+LOCATION:FedExForum\, Memphis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Wizards @ New Orleans Pelicans
+DTSTART:20261017T000000Z
+DTEND:20261017T023000Z
+DTSTAMP:20261010T015221Z
+UID:51565b1f62c5bace77c6dbd8135a0639@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Washing
+ ton Wizards\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nSt
+ ato: scheduled
+LOCATION:Smoothie King Center\, New Orleans
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Timberwolves @ Chicago Bulls
+DTSTART:20261017T000000Z
+DTEND:20261017T023000Z
+DTSTAMP:20261010T015221Z
+UID:22b5e794552a395f62d0a5a660e07b50@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Minnesota Timb
+ erwolves\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+LOCATION:United Center\, Chicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Portland Trail Blazers @ Golden State Warriors
+DTSTART:20261017T020000Z
+DTEND:20261017T043000Z
+DTSTAMP:20261010T015221Z
+UID:e4d57762a56dbb2b17f2f1bd934045d2@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Portla
+ nd Trail Blazers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nSta
+ to: scheduled
+LOCATION:Chase Center\, San Francisco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Utah Jazz @ Phoenix Suns
+DTSTART:20261017T020000Z
+DTEND:20261017T043000Z
+DTSTAMP:20261010T015221Z
+UID:d7e5a873234df09982120ff05c7d5f15@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Utah Jazz\nCirc
+ uito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: scheduled
+LOCATION:Mortgage Matchup Center\, Phoenix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Denver Nuggets @ Los Angeles Lakers
+DTSTART:20261017T023000Z
+DTEND:20261017T050000Z
+DTSTAMP:20261010T015221Z
+UID:a88a06546879b5d541bcd1eb97cb9526@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Denver Nu
+ ggets\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sched
+ uled
+LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -6008,45 +6125,49 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Barcelona
+SUMMARY:🇪🇺 Zalgiris Kaunas @ FC Barcelona (88-81)
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T015221Z
 UID:b1ee053d1318425afad00e23d9f642a5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Zalgiris
   Kaunas\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 4\nFase: Group R
- egular Season\nStato: scheduled
+ egular Season\nRisultato: FC Barcelona 81 - 88 Zalgiris Kaunas\nStato: fin
+ ished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz (92-8
+ 4)
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T015221Z
 UID:76fb9558ec871090900230202e939ea8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Besiktas Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/Round:
-  4\nFase: Group Regular Season\nStato: scheduled
+  4\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz
+  84 - 92 Besiktas Istanbul\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Olympiacos Piraeus (66-89)
 DTSTART:20261009T181500Z
 DTEND:20261009T204500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261010T015221Z
 UID:71fcdbfa07ee0d811c18a0a2825fc184@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: An
  adolu Efes Istanbul\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 4\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Olympiacos Piraeus 89 - 66 Anadolu Efes 
+ Istanbul\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
