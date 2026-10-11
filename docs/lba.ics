@@ -273,31 +273,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ APU Old Wild West Udine
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ APU Old Wild West Udine (74-6
+ 6)
 DTSTART:20261010T180000Z
 DTEND:20261010T203000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T011018Z
 UID:cd369e377cf4e7f135662050cc578320@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Dolo
  miti Energia Trentino\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Ud
  ine\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
+ Risultato: APU Old Wild West Udine 66 - 74 Dolomiti Energia Trentino\nStat
+ o: finished
 LOCATION:PalaCarnera Credifriuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Openjobmetis Varese
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Openjobmetis Varese (84-85)
 DTSTART:20261010T183000Z
 DTEND:20261010T210000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T011018Z
 UID:2c34ccc0b011123c86a11268eb4892d4@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Pallacan
  estro Trieste\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Rou
- nd: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nd: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Openjo
+ bmetis Varese 85 - 84 Pallacanestro Trieste\nStato: finished
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

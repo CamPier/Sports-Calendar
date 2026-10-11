@@ -773,28 +773,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Parma @ Internazionale
+SUMMARY:⚽ Parma @ Internazionale (0-3)
 DTSTART:20261010T160000Z
 DTEND:20261010T183000Z
-DTSTAMP:20261010T174342Z
+DTSTAMP:20261011T011020Z
 UID:b8687258dad7827fb4bc33ee39239ef9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Parma\nCi
- rcuito/Arena: San Siro\nCittà: Milano\nStato: live
+ rcuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 3 - 0 Pa
+ rma\nStato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Frosinone @ Napoli
+SUMMARY:⚽ Frosinone @ Napoli (0-3)
 DTSTART:20261010T184500Z
 DTEND:20261010T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261011T011020Z
 UID:2036dd0ec645006506635665cd862b8c@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Frosinone\nCircui
- to/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: scheduled
+ to/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli
+  3 - 0 Frosinone\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

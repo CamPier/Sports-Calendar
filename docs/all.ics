@@ -9,21 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Toronto Raptors (129-105)
-DTSTART:20261003T230000Z
-DTEND:20261004T013000Z
-DTSTAMP:20261004T015346Z
-UID:4cb41d603fb707bdab04c7bb65c4087d@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Miami Heat\n
- Circuito/Arena: Videotron Centre\nCittà: Quebec City\nRisultato: Toronto 
- Raptors 105 - 129 Miami Heat\nStato: finished
-LOCATION:Videotron Centre\, Quebec City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Denver Nuggets (109-97)
 DTSTART:20261004T230000Z
 DTEND:20261005T013000Z
@@ -387,13 +372,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 LA Clippers @ Toronto Raptors
 DTSTART:20261010T223000Z
 DTEND:20261011T010000Z
-DTSTAMP:20261003T011921Z
+DTSTAMP:20261011T011024Z
 UID:accde438ccc48786050baef0bf7346a2@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: LA Clippers\
- nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nStato: scheduled
+ nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nStato: live
 LOCATION:Rogers Arena\, Vancouver
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -401,14 +386,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers
 DTSTART:20261010T230000Z
 DTEND:20261011T013000Z
-DTSTAMP:20261003T011921Z
+DTSTAMP:20261011T011024Z
 UID:4be21df0a57bda86d072e0df579ac678@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Atlanta Hawks
- \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: sche
- duled
+ \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: live
 LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -416,14 +400,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Detroit Pistons @ Washington Wizards
 DTSTART:20261010T230000Z
 DTEND:20261011T013000Z
-DTSTAMP:20261003T011921Z
+DTSTAMP:20261011T011024Z
 UID:517b6728fef213ed8db84dc3ce983e9d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Detroit P
- istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
- duled
+ istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: live
 LOCATION:Capital One Arena\, Washington
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -431,13 +414,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Timberwolves @ Miami Heat
 DTSTART:20261011T000000Z
 DTEND:20261011T023000Z
-DTSTAMP:20261004T015346Z
+DTSTAMP:20261011T011024Z
 UID:00fed261530de887fff20adbe2bbdb2c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Minnesota Timberw
- olves\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+ olves\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
 LOCATION:Kaseya Center\, Miami
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -445,13 +428,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Philadelphia 76ers @ Boston Celtics
 DTSTART:20261011T000000Z
 DTEND:20261011T023000Z
-DTSTAMP:20261004T015346Z
+DTSTAMP:20261011T011024Z
 UID:8fbb2f1845dd6a59a80956a711143887@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Philadelphia 
- 76ers\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+ 76ers\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
 LOCATION:TD Garden\, Boston
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -459,14 +442,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Sacramento Kings @ Golden State Warriors
 DTSTART:20261011T003000Z
 DTEND:20261011T030000Z
-DTSTAMP:20261004T015346Z
+DTSTAMP:20261011T011024Z
 UID:5940f3c02aabb02132ae5f0994089c26@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Sacram
- ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: sc
- heduled
+ ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: li
+ ve
 LOCATION:Chase Center\, San Francisco
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -10424,31 +10407,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ APU Old Wild West Udine
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ APU Old Wild West Udine (74-6
+ 6)
 DTSTART:20261010T180000Z
 DTEND:20261010T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T011024Z
 UID:cd369e377cf4e7f135662050cc578320@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: APU Old Wild West Udine\nOspite: Dolo
  miti Energia Trentino\nCircuito/Arena: PalaCarnera Credifriuli\nCittà: Ud
  ine\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
+ Risultato: APU Old Wild West Udine 66 - 74 Dolomiti Energia Trentino\nStat
+ o: finished
 LOCATION:PalaCarnera Credifriuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Openjobmetis Varese
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Openjobmetis Varese (84-85)
 DTSTART:20261010T183000Z
 DTEND:20261010T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T011024Z
 UID:2c34ccc0b011123c86a11268eb4892d4@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Pallacan
  estro Trieste\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Rou
- nd: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nd: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Openjo
+ bmetis Varese 85 - 84 Pallacanestro Trieste\nStato: finished
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14419,28 +14405,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Parma @ Internazionale
+SUMMARY:⚽ Parma @ Internazionale (0-3)
 DTSTART:20261010T160000Z
 DTEND:20261010T183000Z
-DTSTAMP:20261010T174346Z
+DTSTAMP:20261011T011024Z
 UID:b8687258dad7827fb4bc33ee39239ef9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Parma\nCi
- rcuito/Arena: San Siro\nCittà: Milano\nStato: live
+ rcuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 3 - 0 Pa
+ rma\nStato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Frosinone @ Napoli
+SUMMARY:⚽ Frosinone @ Napoli (0-3)
 DTSTART:20261010T184500Z
 DTEND:20261010T211500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T011024Z
 UID:2036dd0ec645006506635665cd862b8c@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Frosinone\nCircui
- to/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: scheduled
+ to/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli
+  3 - 0 Frosinone\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
