@@ -806,13 +806,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ AS Roma @ Como
 DTSTART:20261011T103000Z
 DTEND:20261011T130000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261011T111959Z
 UID:0c0da436d56ee067439bea41c06eac45@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AS Roma\nCircuito/A
- rena: Giuseppe Sinigaglia\nCittà: Como\nStato: scheduled
+ rena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

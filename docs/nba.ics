@@ -369,100 +369,105 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Toronto Raptors
+SUMMARY:🏀 LA Clippers @ Toronto Raptors (106-114)
 DTSTART:20261010T223000Z
 DTEND:20261011T010000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:accde438ccc48786050baef0bf7346a2@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: LA Clippers\
- nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nStato: live
+ nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nRisultato: Toronto Rapto
+ rs 114 - 106 LA Clippers\nStato: finished
 LOCATION:Rogers Arena\, Vancouver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers
+SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers (119-117)
 DTSTART:20261010T230000Z
 DTEND:20261011T013000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:4be21df0a57bda86d072e0df579ac678@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Atlanta Hawks
- \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: live
+ \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nRisultato: 
+ Indiana Pacers 117 - 119 Atlanta Hawks\nStato: finished
 LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Washington Wizards
+SUMMARY:🏀 Detroit Pistons @ Washington Wizards (108-114)
 DTSTART:20261010T230000Z
 DTEND:20261011T013000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:517b6728fef213ed8db84dc3ce983e9d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Detroit P
- istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: live
+ istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nRisultato: 
+ Washington Wizards 114 - 108 Detroit Pistons\nStato: finished
 LOCATION:Capital One Arena\, Washington
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ Miami Heat
+SUMMARY:🏀 Minnesota Timberwolves @ Miami Heat (125-124)
 DTSTART:20261011T000000Z
 DTEND:20261011T023000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:00fed261530de887fff20adbe2bbdb2c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Minnesota Timberw
- olves\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
+ olves\nCircuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat
+  124 - 125 Minnesota Timberwolves\nStato: finished
 LOCATION:Kaseya Center\, Miami
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Boston Celtics
+SUMMARY:🏀 Philadelphia 76ers @ Boston Celtics (106-144)
 DTSTART:20261011T000000Z
 DTEND:20261011T023000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:8fbb2f1845dd6a59a80956a711143887@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Philadelphia 
- 76ers\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
+ 76ers\nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtic
+ s 144 - 106 Philadelphia 76ers\nStato: finished
 LOCATION:TD Garden\, Boston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ Golden State Warriors
+SUMMARY:🏀 Sacramento Kings @ Golden State Warriors (106-111)
 DTSTART:20261011T003000Z
 DTEND:20261011T030000Z
-DTSTAMP:20261011T011006Z
+DTSTAMP:20261011T111948Z
 UID:5940f3c02aabb02132ae5f0994089c26@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Sacram
- ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: li
- ve
+ ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato
+ : Golden State Warriors 111 - 106 Sacramento Kings\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Phoenix Suns
+SUMMARY:🏀 San Antonio Spurs @ Phoenix Suns (98-102)
 DTSTART:20261011T023000Z
 DTEND:20261011T050000Z
-DTSTAMP:20261004T015331Z
+DTSTAMP:20261011T111948Z
 UID:73f400a94b97e4db148bf88d684e26f2@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: San Antonio Spu
- rs\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: sched
- uled
+ rs\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: P
+ hoenix Suns 102 - 98 San Antonio Spurs\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -472,13 +477,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Mavericks @ Houston Rockets
 DTSTART:20261011T100000Z
 DTEND:20261011T123000Z
-DTSTAMP:20261004T015331Z
+DTSTAMP:20261011T111948Z
 UID:129e24971511506328938bb3a0735bee@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Dallas Maver
- icks\nCircuito/Arena: Venetian Arena\nStato: scheduled
+ icks\nCircuito/Arena: Venetian Arena\nStato: live
 LOCATION:Venetian Arena
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
