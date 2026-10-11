@@ -803,42 +803,44 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AS Roma @ Como
+SUMMARY:⚽ AS Roma @ Como (0-0)
 DTSTART:20261011T103000Z
 DTEND:20261011T130000Z
-DTSTAMP:20261011T111959Z
+DTSTAMP:20261011T175751Z
 UID:0c0da436d56ee067439bea41c06eac45@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AS Roma\nCircuito/A
- rena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
+ rena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 0 - 0 AS Roma\nSt
+ ato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monza @ Lazio
+SUMMARY:⚽ Monza @ Lazio (1-3)
 DTSTART:20261011T130000Z
 DTEND:20261011T153000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261011T175751Z
 UID:34a8bab655fec93aad8a88df851ed927@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Monza\nCircuito/Ar
- ena: Olimpico\nCittà: Roma\nStato: scheduled
+ ena: Olimpico\nCittà: Roma\nRisultato: Lazio 3 - 1 Monza\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ Lecce
+SUMMARY:⚽ Bologna @ Lecce (2-1)
 DTSTART:20261011T130000Z
 DTEND:20261011T153000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261011T175751Z
 UID:8690ceb9e5e87ba2ddfe7c93c5616df9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Bologna\nCircuito/
- Arena: Via Del Mare\nCittà: Lecce\nStato: scheduled
+ Arena: Via Del Mare\nCittà: Lecce\nRisultato: Lecce 1 - 2 Bologna\nStato:
+  finished
 LOCATION:Via Del Mare\, Lecce
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -848,13 +850,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ AC Milan @ Sassuolo
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261011T175751Z
 UID:f89d7827067e5df0b95ddf505595ed9d@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: AC Milan\nCircu
- ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

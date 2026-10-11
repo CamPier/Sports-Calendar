@@ -307,47 +307,51 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Armani Olimpia Milano
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Armani Olimpia Milano (77-10
+ 6)
 DTSTART:20261011T140000Z
 DTEND:20261011T163000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T175749Z
 UID:01586d1450b982c1e5fe41ee1b8f4018@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Nutrib
  ullet Treviso Basket\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiorna
- ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sche
- duled
+ ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: 
+ Armani Olimpia Milano 106 - 77 Nutribullet Treviso Basket\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Acqua S.Bernardo Cantù
+SUMMARY:🇮🇹 Napoli Basketball @ Acqua S.Bernardo Cantù (99-80)
 DTSTART:20261011T150000Z
 DTEND:20261011T173000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T175749Z
 UID:89fcd497a6bafc79676838f6cde12cb9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Napo
  li Basketball\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Round: 3
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Acqua S.Ber
+ nardo Cantù 80 - 99 Napoli Basketball\nStato: finished
 LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ UNA Hotels Reggio Emilia
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ UNA Hotels Reggio Emilia (86-9
+ 3)
 DTSTART:20261011T150000Z
 DTEND:20261011T173000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T175749Z
 UID:609149239f51714160bb273f46861ff9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Ber
  tram Derthona Tortona\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emili
- a\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+ a\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRi
+ sultato: UNA Hotels Reggio Emilia 93 - 86 Bertram Derthona Tortona\nStato:
+  finished
 LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -357,15 +361,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Longobardi Scafati Basket
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T175749Z
 UID:785db3ca2650951d863747539d8e30d7@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Te
  zenis Verona\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: Scaf
  ati\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
+ Stato: live
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -373,14 +377,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ Maxima Roma
 DTSTART:20261011T161500Z
 DTEND:20261011T184500Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261011T175749Z
 UID:b73329b1f491ff653d395d7122276c41@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: BC Roma\nCircuit
  o/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 3� Giornata\nFase: LBA 
- – Regular Season 2026/27\nStato: scheduled
+ – Regular Season 2026/27\nStato: live
 LOCATION:PalaEur\, Roma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -388,15 +392,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261005T121002Z
+DTSTAMP:20261011T175749Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
  osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
  Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato
- : scheduled
+ : live
 LOCATION:Palasport Taliercio\, Annone Veneto
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

@@ -474,16 +474,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Houston Rockets
+SUMMARY:🏀 Dallas Mavericks @ Houston Rockets (132-115)
 DTSTART:20261011T100000Z
 DTEND:20261011T123000Z
-DTSTAMP:20261011T112003Z
+DTSTAMP:20261011T175755Z
 UID:129e24971511506328938bb3a0735bee@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Dallas Maver
- icks\nCircuito/Arena: Venetian Arena\nStato: live
+ icks\nCircuito/Arena: Venetian Arena\nRisultato: Houston Rockets 115 - 132
+  Dallas Mavericks\nStato: finished
 LOCATION:Venetian Arena
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -10446,47 +10447,51 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Armani Olimpia Milano
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Armani Olimpia Milano (77-10
+ 6)
 DTSTART:20261011T140000Z
 DTEND:20261011T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:01586d1450b982c1e5fe41ee1b8f4018@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Nutrib
  ullet Treviso Basket\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiorna
- ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sche
- duled
+ ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: 
+ Armani Olimpia Milano 106 - 77 Nutribullet Treviso Basket\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Acqua S.Bernardo Cantù
+SUMMARY:🇮🇹 Napoli Basketball @ Acqua S.Bernardo Cantù (99-80)
 DTSTART:20261011T150000Z
 DTEND:20261011T173000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:89fcd497a6bafc79676838f6cde12cb9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Napo
  li Basketball\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Round: 3
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Acqua S.Ber
+ nardo Cantù 80 - 99 Napoli Basketball\nStato: finished
 LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Bertram Derthona Tortona @ UNA Hotels Reggio Emilia
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ UNA Hotels Reggio Emilia (86-9
+ 3)
 DTSTART:20261011T150000Z
 DTEND:20261011T173000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:609149239f51714160bb273f46861ff9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Ber
  tram Derthona Tortona\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emili
- a\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nSt
- ato: scheduled
+ a\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRi
+ sultato: UNA Hotels Reggio Emilia 93 - 86 Bertram Derthona Tortona\nStato:
+  finished
 LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -10496,15 +10501,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Longobardi Scafati Basket
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:785db3ca2650951d863747539d8e30d7@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Te
  zenis Verona\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: Scaf
  ati\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
+ Stato: live
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -10512,14 +10517,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ Maxima Roma
 DTSTART:20261011T161500Z
 DTEND:20261011T184500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:b73329b1f491ff653d395d7122276c41@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: BC Roma\nCircuit
  o/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 3� Giornata\nFase: LBA 
- – Regular Season 2026/27\nStato: scheduled
+ – Regular Season 2026/27\nStato: live
 LOCATION:PalaEur\, Roma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -10527,15 +10532,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261005T121007Z
+DTSTAMP:20261011T175755Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
  osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
  Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato
- : scheduled
+ : live
 LOCATION:Palasport Taliercio\, Annone Veneto
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -14440,42 +14445,44 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AS Roma @ Como
+SUMMARY:⚽ AS Roma @ Como (0-0)
 DTSTART:20261011T103000Z
 DTEND:20261011T130000Z
-DTSTAMP:20261011T112003Z
+DTSTAMP:20261011T175755Z
 UID:0c0da436d56ee067439bea41c06eac45@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: AS Roma\nCircuito/A
- rena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
+ rena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 0 - 0 AS Roma\nSt
+ ato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monza @ Lazio
+SUMMARY:⚽ Monza @ Lazio (1-3)
 DTSTART:20261011T130000Z
 DTEND:20261011T153000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:34a8bab655fec93aad8a88df851ed927@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Monza\nCircuito/Ar
- ena: Olimpico\nCittà: Roma\nStato: scheduled
+ ena: Olimpico\nCittà: Roma\nRisultato: Lazio 3 - 1 Monza\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ Lecce
+SUMMARY:⚽ Bologna @ Lecce (2-1)
 DTSTART:20261011T130000Z
 DTEND:20261011T153000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:8690ceb9e5e87ba2ddfe7c93c5616df9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Bologna\nCircuito/
- Arena: Via Del Mare\nCittà: Lecce\nStato: scheduled
+ Arena: Via Del Mare\nCittà: Lecce\nRisultato: Lecce 1 - 2 Bologna\nStato:
+  finished
 LOCATION:Via Del Mare\, Lecce
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14485,13 +14492,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ AC Milan @ Sassuolo
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:f89d7827067e5df0b95ddf505595ed9d@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: AC Milan\nCircu
- ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -22775,12 +22782,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 PERTAMINA GRAND PRIX OF INDONESIA
 DTSTART:20261011T130000Z
 DTEND:20261011T150000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261011T175755Z
 UID:a72ab3e1d220dddc8a79b7d81f9bc684@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: PERTAMINA GRAND PRIX OF INDONESIA\
  nOspite: Gara\nCircuito/Arena: Pertamina Mandalika International Circuit\n
- Giornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ Giornata/Round: Round 17\nFase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Pertamina Mandalika International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

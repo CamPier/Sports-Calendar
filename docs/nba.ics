@@ -474,16 +474,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Houston Rockets
+SUMMARY:🏀 Dallas Mavericks @ Houston Rockets (132-115)
 DTSTART:20261011T100000Z
 DTEND:20261011T123000Z
-DTSTAMP:20261011T111948Z
+DTSTAMP:20261011T175725Z
 UID:129e24971511506328938bb3a0735bee@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Dallas Maver
- icks\nCircuito/Arena: Venetian Arena\nStato: live
+ icks\nCircuito/Arena: Venetian Arena\nRisultato: Houston Rockets 115 - 132
+  Dallas Mavericks\nStato: finished
 LOCATION:Venetian Arena
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
