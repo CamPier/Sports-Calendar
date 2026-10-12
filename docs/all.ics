@@ -489,16 +489,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Denver Nuggets
+SUMMARY:🏀 Chicago Bulls @ Denver Nuggets (128-133)
 DTSTART:20261012T010000Z
 DTEND:20261012T033000Z
-DTSTAMP:20261012T013550Z
+DTSTAMP:20261012T125606Z
 UID:4417ddd51ed9173fd8c369fd7108cdab@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Chicago Bulls
- \nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ \nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nuggets 13
+ 3 - 128 Chicago Bulls\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
