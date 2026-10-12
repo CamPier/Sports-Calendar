@@ -507,13 +507,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 London Lions @ Portland Trail Blazers
 DTSTART:20261012T200000Z
 DTEND:20261012T223000Z
-DTSTAMP:20261005T010805Z
+DTSTAMP:20261012T213942Z
 UID:95eeb3b231c1f1c297321ed0975570e0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Londo
- n Lions\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: scheduled
+ n Lions\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: live
 LOCATION:Moda Center\, Portland
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
