@@ -358,49 +358,51 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Tezenis Verona @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Tezenis Verona @ Longobardi Scafati Basket (89-82)
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261011T175749Z
+DTSTAMP:20261012T013544Z
 UID:785db3ca2650951d863747539d8e30d7@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Te
  zenis Verona\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: Scaf
  ati\nGiornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: live
+ Risultato: Longobardi Scafati Basket 82 - 89 Tezenis Verona\nStato: finish
+ ed
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Maxima Roma
+SUMMARY:🇮🇹 BC Roma @ Maxima Roma (95-96)
 DTSTART:20261011T161500Z
 DTEND:20261011T184500Z
-DTSTAMP:20261011T175749Z
+DTSTAMP:20261012T013544Z
 UID:b73329b1f491ff653d395d7122276c41@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: BC Roma\nCircuit
  o/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 3� Giornata\nFase: LBA 
- – Regular Season 2026/27\nStato: live
+ – Regular Season 2026/27\nRisultato: Maxima Roma 96 - 95 BC Roma\nStato:
+  finished
 LOCATION:PalaEur\, Roma
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia (93-86)
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261011T175749Z
+DTSTAMP:20261012T013544Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
  osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
- Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nStato
- : live
+ Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisul
+ tato: Umana Reyer Venezia 86 - 93 Virtus Costa Bologna\nStato: finished
 LOCATION:Palasport Taliercio\, Annone Veneto
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

@@ -847,28 +847,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AC Milan @ Sassuolo
+SUMMARY:⚽ AC Milan @ Sassuolo (1-1)
 DTSTART:20261011T160000Z
 DTEND:20261011T183000Z
-DTSTAMP:20261011T175751Z
+DTSTAMP:20261012T013546Z
 UID:f89d7827067e5df0b95ddf505595ed9d@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: AC Milan\nCircu
- ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
+ ito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 1 - 1
+  AC Milan\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus @ Cagliari
+SUMMARY:⚽ Juventus @ Cagliari (1-1)
 DTSTART:20261011T184500Z
 DTEND:20261011T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261012T013546Z
 UID:b879869390f856306f711df103d93561@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Juventus\nCircu
- ito/Arena: Unipol Domus\nCittà: Cagliari\nStato: scheduled
+ ito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 1 - 1 Juven
+ tus\nStato: finished
 LOCATION:Unipol Domus\, Cagliari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
