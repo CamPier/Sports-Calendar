@@ -519,16 +519,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Utah Jazz
+SUMMARY:🏀 San Antonio Spurs @ Utah Jazz (109-119)
 DTSTART:20261013T010000Z
 DTEND:20261013T033000Z
-DTSTAMP:20261013T030719Z
+DTSTAMP:20261013T123316Z
 UID:82b121668c048fca91d8643371e4b4bd@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: San Antonio Spurs\
- nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jaz
+ z 119 - 109 San Antonio Spurs\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
