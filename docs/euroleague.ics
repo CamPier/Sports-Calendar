@@ -5124,15 +5124,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Fenerbahce Tarfin Istanbul
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Fenerbahce Tarfin Istanbul (80-99)
 DTSTART:20261013T174500Z
 DTEND:20261013T201500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261013T194815Z
 UID:5e4bd7c7646144e6a4d0edcce86abd68@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Zalgiris Kaunas\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\nGiorna
- ta/Round: 5\nFase: Group Regular Season\nStato: scheduled
+ ta/Round: 5\nFase: Group Regular Season\nRisultato: Fenerbahce Tarfin Ista
+ nbul 99 - 80 Zalgiris Kaunas\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8626,45 +8627,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Kids&Us Manresa @ Bahcesehir College Istanbul
+SUMMARY:⭐ Kids&Us Manresa @ Bahcesehir College Istanbul (88-100)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261013T194815Z
 UID:0d973ae3ecc9e1f0e819fdb76a7d5dee@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
  te: Kids&Us Manresa\nCircuito/Arena: SINAN ERDEM SPORTS HALL\nGiornata/Rou
- nd: 3\nFase: Group D\nStato: scheduled
+ nd: 3\nFase: Group D\nRisultato: Bahcesehir College Istanbul 100 - 88 Kids
+ &Us Manresa\nStato: finished
 LOCATION:SINAN ERDEM SPORTS HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ Lietkabelis Panevezys
+SUMMARY:⭐ PAOK Thessaloniki @ Lietkabelis Panevezys (86-95)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261013T194815Z
 UID:4a2f0909d5fbd70ea839e7a1255f69d1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: PA
  OK Thessaloniki\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 3\nFase
- : Group D\nStato: scheduled
+ : Group D\nRisultato: Lietkabelis Panevezys 95 - 86 PAOK Thessaloniki\nSta
+ to: finished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Neptunas Klaipeda
+SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Neptunas Klaipeda (89-93)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261013T194815Z
 UID:37e744f96cb364cdd2321a2477b82f63@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Cosea 
  JL Bourg-en-Bresse\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 3\nFas
- e: Group C\nStato: scheduled
+ e: Group C\nRisultato: Neptunas Klaipeda 93 - 89 Cosea JL Bourg-en-Bresse\
+ nStato: finished
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

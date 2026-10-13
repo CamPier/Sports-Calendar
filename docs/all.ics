@@ -6059,15 +6059,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Fenerbahce Tarfin Istanbul
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Fenerbahce Tarfin Istanbul (80-99)
 DTSTART:20261013T174500Z
 DTEND:20261013T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:5e4bd7c7646144e6a4d0edcce86abd68@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Zalgiris Kaunas\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\nGiorna
- ta/Round: 5\nFase: Group Regular Season\nStato: scheduled
+ ta/Round: 5\nFase: Group Regular Season\nRisultato: Fenerbahce Tarfin Ista
+ nbul 99 - 80 Zalgiris Kaunas\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9561,45 +9562,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Kids&Us Manresa @ Bahcesehir College Istanbul
+SUMMARY:⭐ Kids&Us Manresa @ Bahcesehir College Istanbul (88-100)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:0d973ae3ecc9e1f0e819fdb76a7d5dee@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
  te: Kids&Us Manresa\nCircuito/Arena: SINAN ERDEM SPORTS HALL\nGiornata/Rou
- nd: 3\nFase: Group D\nStato: scheduled
+ nd: 3\nFase: Group D\nRisultato: Bahcesehir College Istanbul 100 - 88 Kids
+ &Us Manresa\nStato: finished
 LOCATION:SINAN ERDEM SPORTS HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ Lietkabelis Panevezys
+SUMMARY:⭐ PAOK Thessaloniki @ Lietkabelis Panevezys (86-95)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:4a2f0909d5fbd70ea839e7a1255f69d1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: PA
  OK Thessaloniki\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 3\nFase
- : Group D\nStato: scheduled
+ : Group D\nRisultato: Lietkabelis Panevezys 95 - 86 PAOK Thessaloniki\nSta
+ to: finished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Neptunas Klaipeda
+SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Neptunas Klaipeda (89-93)
 DTSTART:20261013T160000Z
 DTEND:20261013T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:37e744f96cb364cdd2321a2477b82f63@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Cosea 
  JL Bourg-en-Bresse\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 3\nFas
- e: Group C\nStato: scheduled
+ e: Group C\nRisultato: Neptunas Klaipeda 93 - 89 Cosea JL Bourg-en-Bresse\
+ nStato: finished
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19264,29 +19268,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Sporting CP @ Lens
+SUMMARY:⭐ Sporting CP @ Lens (2-0)
 DTSTART:20261013T164500Z
 DTEND:20261013T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:6da1ebaa3e0e19af4d07461d3c3d16c3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Sporting C
- P\nCircuito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: scheduled
+ P\nCircuito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nRisultato: Lens 0
+  - 2 Sporting CP\nStato: finished
 LOCATION:Stade Bollaert-Delelis\, Lens
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slavia Prague @ Sabah FK
+SUMMARY:⭐ Slavia Prague @ Sabah FK (0-2)
 DTSTART:20261013T164500Z
 DTEND:20261013T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:36ad6a9ab003f473950372ef343b65bb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Slavia
-  Prague\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: schedu
- led
+  Prague\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nRisultato: Sa
+ bah FK 2 - 0 Slavia Prague\nStato: finished
 LOCATION:Baku Olympic Stadium\, Baku
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19296,13 +19301,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Lille @ Arsenal
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:3f533b47a49abcd5d014601dbc3501ed@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Lille\n
- Circuito/Arena: Emirates Stadium\nCittà: London\nStato: scheduled
+ Circuito/Arena: Emirates Stadium\nCittà: London\nStato: live
 LOCATION:Emirates Stadium\, London
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19310,14 +19315,14 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Atlético Madrid
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:fdefcc7186b2cafeaa1937218af13e04@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
  : Manchester United\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Mad
- rid\nStato: scheduled
+ rid\nStato: live
 LOCATION:Riyadh Air Metropolitano\, Madrid
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19325,13 +19330,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Barcelona @ Galatasaray
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:889966e63679dffb0a289a17d7da8dda@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Bar
- celona\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+ celona\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: live
 LOCATION:RAMS Park\, Istanbul
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19339,13 +19344,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Club Brugge @ Internazionale
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:eec7c4935f448e9f22455720559d9329@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
- Club Brugge\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ Club Brugge\nCircuito/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19353,14 +19358,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ PSV Eindhoven @ RB Leipzig
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:c8eeda6a0749b1c6c0ad9ef7196114d4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: PSV 
- Eindhoven\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: schedul
- ed
+ Eindhoven\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: live
 LOCATION:Red Bull Arena\, Leipzig
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19368,14 +19372,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Bayern Munich @ Viking FK
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
- n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: schedu
- led
+ n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: live
 LOCATION:Viking Stadion\, Stavanger
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19383,14 +19386,14 @@ BEGIN:VEVENT
 SUMMARY:⭐ Napoli @ Villarreal
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261013T194828Z
 UID:301c281b4b2939e150fe255c0ad69fa6@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Napo
- li\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nStato: sc
- heduled
+ li\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nStato: li
+ ve
 LOCATION:Estadio de la Cerámica\, Villarreal
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
