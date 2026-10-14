@@ -8698,9 +8698,9 @@ X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⭐ U-BT Cluj-Napoca @ La Laguna Tenerife
-DTSTART:20261104T200000Z
-DTEND:20261104T223000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261105T200000Z
+DTEND:20261105T223000Z
+DTSTAMP:20261014T175407Z
 UID:da37258c5fd307739285e97ece06747e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: U-BT 
@@ -9567,15 +9567,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ U-BT Cluj-Napoca @ Siauliai Basketball
+SUMMARY:⭐ U-BT Cluj-Napoca @ Siauliai Basketball (94-75)
 DTSTART:20261014T153000Z
 DTEND:20261014T180000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261014T175407Z
 UID:cc50c5649cb9ced026612686de0c5094@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: U-BT
   Cluj-Napoca\nCircuito/Arena: SIAULIAI ARENA\nGiornata/Round: 3\nFase: Gro
- up B\nStato: scheduled
+ up B\nRisultato: Siauliai Basketball 75 - 94 U-BT Cluj-Napoca\nStato: fini
+ shed
 LOCATION:SIAULIAI ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19458,13 +19459,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Feyenoord Rotterdam
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261014T175407Z
 UID:d1daeceb069f03e4c7ad9b813c9632b8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: scheduled
+ ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: live
 LOCATION:De Kuip\, Rotterdam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19472,14 +19473,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ LASK Linz
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261014T175407Z
 UID:bba28708c470142cd66c1d653bfca45e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Liver
- pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: schedu
- led
+ pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: live
 LOCATION:Raiffeisen Arena (Linz)\, Linz
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT

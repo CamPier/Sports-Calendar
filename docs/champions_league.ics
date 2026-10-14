@@ -417,13 +417,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Como @ Feyenoord Rotterdam
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261014T175405Z
 UID:d1daeceb069f03e4c7ad9b813c9632b8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: scheduled
+ ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: live
 LOCATION:De Kuip\, Rotterdam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -431,14 +431,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Liverpool @ LASK Linz
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261014T175405Z
 UID:bba28708c470142cd66c1d653bfca45e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Liver
- pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: schedu
- led
+ pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: live
 LOCATION:Raiffeisen Arena (Linz)\, Linz
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
