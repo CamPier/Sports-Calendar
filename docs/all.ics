@@ -489,73 +489,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Cleveland Cavaliers @ Orlando Magic
+SUMMARY:🏀 Cleveland Cavaliers @ Orlando Magic (116-132)
 DTSTART:20261013T230000Z
 DTEND:20261014T013000Z
-DTSTAMP:20261014T012018Z
+DTSTAMP:20261014T100032Z
 UID:8753aa16271e5c2734d06469b9393188@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Cleveland Cava
- liers\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: live
+ liers\nCircuito/Arena: Kia Center\nCittà: Orlando\nRisultato: Orlando Mag
+ ic 132 - 116 Cleveland Cavaliers\nStato: finished
 LOCATION:Kia Center\, Orlando
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ Toronto Raptors
+SUMMARY:🏀 New York Knicks @ Toronto Raptors (98-148)
 DTSTART:20261013T230000Z
 DTEND:20261014T013000Z
-DTSTAMP:20261014T012018Z
+DTSTAMP:20261014T100032Z
 UID:db177e2e61cee3c3f4564b43a47a1280@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
- cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: live
+ cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nRisultato: Toronto
+  Raptors 148 - 98 New York Knicks\nStato: finished
 LOCATION:Scotiabank Arena\, Toronto
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Oklahoma City Thunder
+SUMMARY:🏀 Indiana Pacers @ Oklahoma City Thunder (112-114)
 DTSTART:20261014T000000Z
 DTEND:20261014T023000Z
-DTSTAMP:20261014T012018Z
+DTSTAMP:20261014T100032Z
 UID:6cd05db793231931398b4a5c94354edc@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Indian
- a Pacers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: liv
- e
+ a Pacers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato:
+  Oklahoma City Thunder 114 - 112 Indiana Pacers\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Los Angeles Lakers
+SUMMARY:🏀 Golden State Warriors @ Los Angeles Lakers (101-89)
 DTSTART:20261014T020000Z
 DTEND:20261014T043000Z
-DTSTAMP:20261007T014419Z
+DTSTAMP:20261014T100032Z
 UID:eecd8bd6293706fc7c56769fece2b5ae@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Golden St
- ate Warriors\nCircuito/Arena: T-Mobile Arena\nCittà: Las Vegas\nStato: sc
- heduled
+ ate Warriors\nCircuito/Arena: T-Mobile Arena\nCittà: Las Vegas\nRisultato
+ : Los Angeles Lakers 89 - 101 Golden State Warriors\nStato: finished
 LOCATION:T-Mobile Arena\, Las Vegas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Sacramento Kings
+SUMMARY:🏀 Portland Trail Blazers @ Sacramento Kings (110-98)
 DTSTART:20261014T020000Z
 DTEND:20261014T043000Z
-DTSTAMP:20261007T014419Z
+DTSTAMP:20261014T100032Z
 UID:40784be87a2058888f09c665e473ade7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Portland Tr
- ail Blazers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: s
- cheduled
+ ail Blazers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultat
+ o: Sacramento Kings 98 - 110 Portland Trail Blazers\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
