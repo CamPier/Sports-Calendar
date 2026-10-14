@@ -5032,15 +5032,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Olympiacos Piraeus @ Valencia Basket
+SUMMARY:🇪🇺 Olympiacos Piraeus @ Valencia Basket (102-97)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:c7a1e4d8cd53a8c146ffbf11af38bb1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Olymp
  iacos Piraeus\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 5\nFase: Group 
- Regular Season\nStato: scheduled
+ Regular Season\nRisultato: Valencia Basket 97 - 102 Olympiacos Piraeus\nSt
+ ato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5048,60 +5049,65 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Partizan Mozzart Bet Belgrad
- e
+ e (72-55)
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:26fc3eff617b0153f9a9e662880e9177@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Panathinaikos AKTOR Athens\nCircuito/Arena: BELGRADE ARENA\nGiorn
- ata/Round: 5\nFase: Group Regular Season\nStato: scheduled
+ ata/Round: 5\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet 
+ Belgrade 55 - 72 Panathinaikos AKTOR Athens\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Barcelona
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Barcelona (87-90)
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:d6fb044832a19016dfce0167e3333b2c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Maccabi 
  Rapyd Tel Aviv\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 5\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: FC Barcelona 90 - 87 Maccabi Rapyd Tel Av
+ iv\nStato: finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Real Madrid @ Armani Olimpia Milan (98-89)
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:ce96c56051a91fe94ab36eccb36eeda7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Real Madrid\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 5\nFase: Group 
- Regular Season\nStato: scheduled
+ Regular Season\nRisultato: Armani Olimpia Milan 89 - 98 Real Madrid\nStato
+ : finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Dubai Basketball @ Kosner Baskonia Vitoria-Gasteiz (93-79
+ )
 DTSTART:20261013T183000Z
 DTEND:20261013T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:90ba3bc15f2eb6ea5d4ebaaa7d2055a5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Dubai Basketball\nCircuito/Arena: BUESA ARENA\nGiornata/Round: 
- 5\nFase: Group Regular Season\nStato: scheduled
+ 5\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz 
+ 79 - 93 Dubai Basketball\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5109,15 +5115,16 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ LDLC ASVEL Villeurba
- nne
+ nne (84-82)
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:ef17d18fa68ccc090d784ccad132d03b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: ASTROBALLE\nGiornat
- a/Round: 5\nFase: Group Regular Season\nStato: scheduled
+ a/Round: 5\nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne
+  82 - 84 Crvena Zvezda Meridianbet Belgrade\nStato: finished
 LOCATION:ASTROBALLE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8597,30 +8604,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Balkan Botevgrad @ Roma Basketball
+SUMMARY:⭐ Balkan Botevgrad @ Roma Basketball (72-77)
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:c428ce00cc7653ae8ef72528b8223838@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Balkan B
  otevgrad\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round: 3\nFase:
-  Group D\nStato: scheduled
+  Group D\nRisultato: Roma Basketball 77 - 72 Balkan Botevgrad\nStato: fini
+ shed
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ NINERS Chemnitz @ Dolomiti Energia Trento
+SUMMARY:⭐ NINERS Chemnitz @ Dolomiti Energia Trento (88-80)
 DTSTART:20261013T180000Z
 DTEND:20261013T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261014T012006Z
 UID:029d3cef94c519f497934dc0c59f7148@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  NINERS Chemnitz\nCircuito/Arena: BTS ARENA\nGiornata/Round: 3\nFase: Group
-  C\nStato: scheduled
+  C\nRisultato: Dolomiti Energia Trento 80 - 88 NINERS Chemnitz\nStato: fin
+ ished
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

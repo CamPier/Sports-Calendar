@@ -9,51 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ Milwaukee Bucks (116-97)
-DTSTART:20261006T000000Z
-DTEND:20261006T023000Z
-DTSTAMP:20261006T115332Z
-UID:3e1c8017dc1d12df1394327693c2d68d@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Minnesota Ti
- mberwolves\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Mi
- lwaukee Bucks 97 - 116 Minnesota Timberwolves\nStato: finished
-LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Sacramento Kings (127-103)
-DTSTART:20261006T020000Z
-DTEND:20261006T043000Z
-DTSTAMP:20261006T115332Z
-UID:394df2abfbe23d1ce068f43e668ab547@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Los Angeles
-  Lakers\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: S
- acramento Kings 103 - 127 Los Angeles Lakers\nStato: finished
-LOCATION:Golden 1 Center\, Sacramento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Charlotte Hornets (124-90)
-DTSTART:20261006T230000Z
-DTEND:20261007T013000Z
-DTSTAMP:20261007T014405Z
-UID:3958ac8da5b796075dd922670366da3d@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Brooklyn N
- ets\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: Charlo
- tte Hornets 90 - 124 Brooklyn Nets\nStato: finished
-LOCATION:Spectrum Center\, Charlotte
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder (116-110)
 DTSTART:20261007T000000Z
 DTEND:20261007T023000Z
@@ -537,13 +492,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Cleveland Cavaliers @ Orlando Magic
 DTSTART:20261013T230000Z
 DTEND:20261014T013000Z
-DTSTAMP:20261006T022554Z
+DTSTAMP:20261014T012004Z
 UID:8753aa16271e5c2734d06469b9393188@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Cleveland Cava
- liers\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+ liers\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: live
 LOCATION:Kia Center\, Orlando
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -551,13 +506,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 New York Knicks @ Toronto Raptors
 DTSTART:20261013T230000Z
 DTEND:20261014T013000Z
-DTSTAMP:20261006T022554Z
+DTSTAMP:20261014T012004Z
 UID:db177e2e61cee3c3f4564b43a47a1280@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
- cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
+ cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: live
 LOCATION:Scotiabank Arena\, Toronto
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -565,14 +520,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Pacers @ Oklahoma City Thunder
 DTSTART:20261014T000000Z
 DTEND:20261014T023000Z
-DTSTAMP:20261007T014405Z
+DTSTAMP:20261014T012004Z
 UID:6cd05db793231931398b4a5c94354edc@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Indian
- a Pacers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sch
- eduled
+ a Pacers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: liv
+ e
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -939,6 +894,92 @@ DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Philadelphia
   76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sc
  heduled
 LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs
+DTSTART:20261021T013000Z
+DTEND:20261021T040000Z
+DTSTAMP:20261014T012004Z
+UID:a295029fa6923f2fe6e6e13217a14209@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Oklahoma C
+ ity Thunder\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato
+ : scheduled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Orlando Magic
+DTSTART:20261021T230000Z
+DTEND:20261022T013000Z
+DTSTAMP:20261014T012004Z
+UID:9f13850b8f97dcfa10cfd18ff8a7b3b0@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Atlanta Hawks\
+ nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Milwaukee Bucks @ Washington Wizards
+DTSTART:20261021T230000Z
+DTEND:20261022T013000Z
+DTSTAMP:20261014T012004Z
+UID:166e16d5a597b42f59ce4770c26787b9@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Milwaukee
+  Bucks\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
+ duled
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Timberwolves @ Miami Heat
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+DTSTAMP:20261014T012004Z
+UID:7e823e66576ad67394399cb269969f3c@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Minnesota Timberw
+ olves\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+LOCATION:Kaseya Center\, Miami
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Charlotte Hornets @ Brooklyn Nets
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+DTSTAMP:20261014T012004Z
+UID:c12bacf51ce238d963df435604cd5716@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Charlotte Horn
+ ets\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nStato: scheduled
+LOCATION:Barclays Center\, Brooklyn
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Bulls @ Toronto Raptors
+DTSTART:20261021T233000Z
+DTEND:20261022T020000Z
+DTSTAMP:20261014T012004Z
+UID:19d7b05bd97f78606ea5ecb0fafaa5b2@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Chicago Bull
+ s\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
+LOCATION:Scotiabank Arena\, Toronto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A

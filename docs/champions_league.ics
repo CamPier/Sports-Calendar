@@ -309,102 +309,107 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lille @ Arsenal
+SUMMARY:⭐ Lille @ Arsenal (0-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:3f533b47a49abcd5d014601dbc3501ed@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Lille\n
- Circuito/Arena: Emirates Stadium\nCittà: London\nStato: live
+ Circuito/Arena: Emirates Stadium\nCittà: London\nRisultato: Arsenal 3 - 0
+  Lille\nStato: finished
 LOCATION:Emirates Stadium\, London
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Manchester United @ Atlético Madrid
+SUMMARY:⭐ Manchester United @ Atlético Madrid (0-2)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:fdefcc7186b2cafeaa1937218af13e04@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
  : Manchester United\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Mad
- rid\nStato: live
+ rid\nRisultato: Atlético Madrid 2 - 0 Manchester United\nStato: finished
 LOCATION:Riyadh Air Metropolitano\, Madrid
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Barcelona @ Galatasaray
+SUMMARY:⭐ Barcelona @ Galatasaray (4-1)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:889966e63679dffb0a289a17d7da8dda@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Bar
- celona\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: live
+ celona\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasara
+ y 1 - 4 Barcelona\nStato: finished
 LOCATION:RAMS Park\, Istanbul
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Club Brugge @ Internazionale
+SUMMARY:⭐ Club Brugge @ Internazionale (4-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:eec7c4935f448e9f22455720559d9329@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
- Club Brugge\nCircuito/Arena: San Siro\nCittà: Milano\nStato: live
+ Club Brugge\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internaz
+ ionale 3 - 4 Club Brugge\nStato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PSV Eindhoven @ RB Leipzig
+SUMMARY:⭐ PSV Eindhoven @ RB Leipzig (0-1)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:c8eeda6a0749b1c6c0ad9ef7196114d4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: PSV 
- Eindhoven\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: live
+ Eindhoven\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nRisultato: RB 
+ Leipzig 1 - 0 PSV Eindhoven\nStato: finished
 LOCATION:Red Bull Arena\, Leipzig
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Viking FK
+SUMMARY:⭐ Bayern Munich @ Viking FK (3-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
- n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: live
+ n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: Vi
+ king FK 3 - 3 Bayern Munich\nStato: finished
 LOCATION:Viking Stadion\, Stavanger
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli @ Villarreal
+SUMMARY:⭐ Napoli @ Villarreal (1-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261013T194826Z
+DTSTAMP:20261014T012017Z
 UID:301c281b4b2939e150fe255c0ad69fa6@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Napo
- li\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nStato: li
- ve
+ li\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarreal\nRisultato
+ : Villarreal 3 - 1 Napoli\nStato: finished
 LOCATION:Estadio de la Cerámica\, Villarreal
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
