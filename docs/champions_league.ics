@@ -114,15 +114,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ VfB Stuttgart (1-3)
+SUMMARY:⭐ VIKING FK @ VfB Stuttgart (1-3)
 DTSTART:20260909T164500Z
 DTEND:20260909T191500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:a0b0e4ef0eb87585e468b1ed4162072a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: V
- iking FK\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: VfB Stut
- tgart 3 - 1 Viking FK\nStato: finished
+ IKING FK\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: VfB Stut
+ tgart 3 - 1 VIKING FK\nStato: finished
 LOCATION:MHPArena\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -384,15 +384,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Viking FK (3-3)
+SUMMARY:⭐ Bayern Munich @ VIKING FK (3-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261014T012017Z
+DTSTAMP:20261015T094222Z
 UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
- n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: Vi
- king FK 3 - 3 Bayern Munich\nStato: finished
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Bayer
+ n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: VI
+ KING FK 3 - 3 Bayern Munich\nStato: finished
 LOCATION:Viking Stadion\, Stavanger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -712,14 +712,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Aston Villa
+SUMMARY:⭐ VIKING FK @ Aston Villa
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:404c3b5295dbbcbfe99f4e83dd0f1ebb@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Vik
- ing FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: VIK
+ ING FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
 LOCATION:Villa Park\, Birmingham
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1063,13 +1063,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Sabah FK @ Viking FK
+SUMMARY:⭐ Sabah FK @ VIKING FK
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:02d26adfc7d30177e1432cf7101a9056@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Sabah
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Sabah
   FK\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: scheduled
 LOCATION:Viking Stadion\, Stavanger
 STATUS:CONFIRMED
@@ -1237,14 +1237,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Atlético Madrid
+SUMMARY:⭐ VIKING FK @ Atlético Madrid
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
+ : VIKING FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
  to: scheduled
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
@@ -1341,13 +1341,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Feyenoord Rotterdam @ Viking FK
+SUMMARY:⭐ Feyenoord Rotterdam @ VIKING FK
 DTSTART:20261208T174500Z
 DTEND:20261208T201500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:52820c29ded5c8b93150f2c1bc77c974@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Feyen
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Feyen
  oord Rotterdam\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: 
  scheduled
 LOCATION:Viking Stadion\, Stavanger
@@ -1854,13 +1854,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PSV Eindhoven @ Viking FK
+SUMMARY:⭐ PSV Eindhoven @ VIKING FK
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:0fef76eb937706529645b27035169359@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: PSV E
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: PSV E
  indhoven\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: schedu
  led
 LOCATION:Viking Stadion\, Stavanger
@@ -2030,13 +2030,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Napoli
+SUMMARY:⭐ VIKING FK @ Napoli
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T094222Z
 UID:1ddb50545b7108e32f4885a10fb292e4@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Viking F
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: VIKING F
  K\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: s
  cheduled
 LOCATION:Stadio Diego Armando Maradona\, Napoli

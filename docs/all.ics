@@ -504,100 +504,105 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Miami Heat
+SUMMARY:🏀 Brooklyn Nets @ Miami Heat (128-144)
 DTSTART:20261014T233000Z
 DTEND:20261015T020000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:d064f08a46cfc31635fef8ed80f5aaac@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Brooklyn Nets\nCi
- rcuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
+ rcuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 144 - 12
+ 8 Brooklyn Nets\nStato: finished
 LOCATION:Kaseya Center\, Miami
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Charlotte Hornets @ Boston Celtics
+SUMMARY:🏀 Charlotte Hornets @ Boston Celtics (93-114)
 DTSTART:20261014T233000Z
 DTEND:20261015T020000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:b4f5476feb51648c39de1d9159a0af15@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Charlotte Hor
- nets\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
+ nets\nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtics
+  114 - 93 Charlotte Hornets\nStato: finished
 LOCATION:TD Garden\, Boston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ San Antonio Spurs
+SUMMARY:🏀 Phoenix Suns @ San Antonio Spurs (103-123)
 DTSTART:20261015T000000Z
 DTEND:20261015T023000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:5c65a31ab063828f7958901ddccbeae4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Phoenix Su
- ns\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: live
+ ns\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato: San
+  Antonio Spurs 123 - 103 Phoenix Suns\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Dallas Mavericks
+SUMMARY:🏀 New Orleans Pelicans @ Dallas Mavericks (101-97)
 DTSTART:20261015T000000Z
 DTEND:20261015T023000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:6f6bdb7c54761256be6fddd2c04d8fdb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: New Orleans
-  Pelicans\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato
- : live
+  Pelicans\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisul
+ tato: Dallas Mavericks 97 - 101 New Orleans Pelicans\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Milwaukee Bucks
+SUMMARY:🏀 Chicago Bulls @ Milwaukee Bucks (125-104)
 DTSTART:20261015T000000Z
 DTEND:20261015T023000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:4412b0dedf1e9ee7ff22c8d9cd2c6b25@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Chicago Bull
- s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee B
+ ucks 104 - 125 Chicago Bulls\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Minnesota Timberwolves
+SUMMARY:🏀 Detroit Pistons @ Minnesota Timberwolves (128-106)
 DTSTART:20261015T000000Z
 DTEND:20261015T023000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261015T094225Z
 UID:997f8fe6c0ca5d8a60e19f8a79b02397@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Detro
- it Pistons\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: liv
- e
+ it Pistons\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato:
+  Minnesota Timberwolves 106 - 128 Detroit Pistons\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ LA Clippers
+SUMMARY:🏀 Denver Nuggets @ LA Clippers (110-122)
 DTSTART:20261015T023000Z
 DTEND:20261015T050000Z
-DTSTAMP:20261008T021210Z
+DTSTAMP:20261015T094225Z
 UID:7ac68e5c06de78b2028d7a960e95d01c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Denver Nuggets\n
- Circuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
+ Circuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippers 122
+  - 110 Denver Nuggets\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19209,15 +19214,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ VfB Stuttgart (1-3)
+SUMMARY:⭐ VIKING FK @ VfB Stuttgart (1-3)
 DTSTART:20260909T164500Z
 DTEND:20260909T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:a0b0e4ef0eb87585e468b1ed4162072a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: V
- iking FK\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: VfB Stut
- tgart 3 - 1 Viking FK\nStato: finished
+ IKING FK\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: VfB Stut
+ tgart 3 - 1 VIKING FK\nStato: finished
 LOCATION:MHPArena\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19479,15 +19484,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Viking FK (3-3)
+SUMMARY:⭐ Bayern Munich @ VIKING FK (3-3)
 DTSTART:20261013T190000Z
 DTEND:20261013T213000Z
-DTSTAMP:20261014T012018Z
+DTSTAMP:20261015T094225Z
 UID:da076f0cb592acafbcd51c55a78eb399@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Bayer
- n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: Vi
- king FK 3 - 3 Bayern Munich\nStato: finished
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Bayer
+ n Munich\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: VI
+ KING FK 3 - 3 Bayern Munich\nStato: finished
 LOCATION:Viking Stadion\, Stavanger
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -19807,14 +19812,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Aston Villa
+SUMMARY:⭐ VIKING FK @ Aston Villa
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:404c3b5295dbbcbfe99f4e83dd0f1ebb@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Vik
- ing FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: VIK
+ ING FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
 LOCATION:Villa Park\, Birmingham
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20158,13 +20163,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Sabah FK @ Viking FK
+SUMMARY:⭐ Sabah FK @ VIKING FK
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:02d26adfc7d30177e1432cf7101a9056@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Sabah
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Sabah
   FK\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: scheduled
 LOCATION:Viking Stadion\, Stavanger
 STATUS:CONFIRMED
@@ -20332,14 +20337,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Atlético Madrid
+SUMMARY:⭐ VIKING FK @ Atlético Madrid
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
+ : VIKING FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
  to: scheduled
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
@@ -20436,13 +20441,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Feyenoord Rotterdam @ Viking FK
+SUMMARY:⭐ Feyenoord Rotterdam @ VIKING FK
 DTSTART:20261208T174500Z
 DTEND:20261208T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:52820c29ded5c8b93150f2c1bc77c974@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Feyen
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: Feyen
  oord Rotterdam\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: 
  scheduled
 LOCATION:Viking Stadion\, Stavanger
@@ -20949,13 +20954,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PSV Eindhoven @ Viking FK
+SUMMARY:⭐ PSV Eindhoven @ VIKING FK
 DTSTART:20270120T200000Z
 DTEND:20270120T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:0fef76eb937706529645b27035169359@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: PSV E
+DESCRIPTION:Competizione: Champions League\nCasa: VIKING FK\nOspite: PSV E
  indhoven\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: schedu
  led
 LOCATION:Viking Stadion\, Stavanger
@@ -21125,13 +21130,13 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Napoli
+SUMMARY:⭐ VIKING FK @ Napoli
 DTSTART:20270127T200000Z
 DTEND:20270127T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261015T094225Z
 UID:1ddb50545b7108e32f4885a10fb292e4@basketball-calendar.github.io
 COLOR:#1B1464
-DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Viking F
+DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: VIKING F
  K\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: s
  cheduled
 LOCATION:Stadio Diego Armando Maradona\, Napoli
