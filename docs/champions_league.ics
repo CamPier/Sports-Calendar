@@ -414,131 +414,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Como @ Feyenoord Rotterdam
+SUMMARY:⭐ Como @ Feyenoord Rotterdam (2-3)
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261014T175405Z
+DTSTAMP:20261015T004459Z
 UID:d1daeceb069f03e4c7ad9b813c9632b8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: live
+ ite: Como\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nRisultato: Feyenoor
+ d Rotterdam 3 - 2 Como\nStato: finished
 LOCATION:De Kuip\, Rotterdam
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Liverpool @ LASK Linz
+SUMMARY:⭐ Liverpool @ LASK Linz (6-3)
 DTSTART:20261014T164500Z
 DTEND:20261014T191500Z
-DTSTAMP:20261014T175405Z
+DTSTAMP:20261015T004459Z
 UID:bba28708c470142cd66c1d653bfca45e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Liver
- pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato: live
+ pool\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nRisultato: LA
+ SK Linz 3 - 6 Liverpool\nStato: finished
 LOCATION:Raiffeisen Arena (Linz)\, Linz
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Real Madrid @ AS Roma
+SUMMARY:⭐ Real Madrid @ AS Roma (4-3)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:ca40972b785e02d388a71dd9a7110049@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Real Ma
- drid\nCircuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ drid\nCircuito/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 3 - 4 Rea
+ l Madrid\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Fenerbahce @ Aston Villa
+SUMMARY:⭐ Fenerbahce @ Aston Villa (0-6)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:9a1f263b019206e4016e257249707d41@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Fen
- erbahce\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+ erbahce\nCircuito/Arena: Villa Park\nCittà: Birmingham\nRisultato: Aston 
+ Villa 6 - 0 Fenerbahce\nStato: finished
 LOCATION:Villa Park\, Birmingham
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Borussia Dortmund @ Bodo/Glimt
+SUMMARY:⭐ Borussia Dortmund @ Bodo/Glimt (0-1)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:9bea5c1caefb4d1ac6165fa0006e9190@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Boru
- ssia Dortmund\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato
- : scheduled
+ ssia Dortmund\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisul
+ tato: Bodo/Glimt 1 - 0 Borussia Dortmund\nStato: finished
 LOCATION:Aspmyra Stadion\, Bodø/Glimt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Paris Saint-Germain @ Manchester City
+SUMMARY:⭐ Paris Saint-Germain @ Manchester City (4-2)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:d371e4eb282426aaa96255e75409bb1a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
   Paris Saint-Germain\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\n
- Stato: scheduled
+ Risultato: Manchester City 2 - 4 Paris Saint-Germain\nStato: finished
 LOCATION:Etihad Stadium\, Manchester
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ FC Porto @ Real Betis
+SUMMARY:⭐ FC Porto @ Real Betis (2-3)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:e27344d5888d787d7439886eaefc4e86@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: FC P
- orto\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStato: schedule
- d
+ orto\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nRisultato: Real
+  Betis 3 - 2 FC Porto\nStato: finished
 LOCATION:Estadio La Cartuja\, Sevilla
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AEK Athens @ Shakhtar Donetsk
+SUMMARY:⭐ AEK Athens @ Shakhtar Donetsk (1-3)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:d56a850d5fa18692f28fd143e423941d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
- : AEK Athens\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sche
- duled
+ : AEK Athens\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: 
+ Shakhtar Donetsk 3 - 1 AEK Athens\nStato: finished
 LOCATION:Stamford Bridge\, London
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ VfB Stuttgart @ Slovan Bratislava
+SUMMARY:⭐ VfB Stuttgart @ Slovan Bratislava (3-0)
 DTSTART:20261014T190000Z
 DTEND:20261014T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261015T004459Z
 UID:a78faf0106af3dce9ea36e8ab5d9826a@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
  e: VfB Stuttgart\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: Bra
- tislava\nStato: scheduled
+ tislava\nRisultato: Slovan Bratislava 0 - 3 VfB Stuttgart\nStato: finished
 LOCATION:Národny Futbalovy Stadión\, Bratislava
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
