@@ -9,126 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Memphis Grizzlies (122-118)
-DTSTART:20261008T000000Z
-DTEND:20261008T023000Z
-DTSTAMP:20261008T115337Z
-UID:46087ec08878e89b67d8864405a5d1e5@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Orlando Ma
- gic\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Grizz
- lies 118 - 122 Orlando Magic\nStato: finished
-LOCATION:FedExForum\, Memphis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Milwaukee Bucks @ Oklahoma City Thunder (128-126)
-DTSTART:20261008T000000Z
-DTEND:20261008T023000Z
-DTSTAMP:20261008T115337Z
-UID:1d1e5eb569bbe3c2c176f9ad3de3c8b6@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Milwau
- kee Bucks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato
- : Oklahoma City Thunder 126 - 128 Milwaukee Bucks\nStato: finished
-LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Chicago Bulls (117-124)
-DTSTART:20261008T000000Z
-DTEND:20261008T023000Z
-DTSTAMP:20261008T115337Z
-UID:d8b9009aa41c8e785f13edd7f9df455f@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Phoenix Suns\n
- Circuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bulls 1
- 24 - 117 Phoenix Suns\nStato: finished
-LOCATION:United Center\, Chicago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Portland Trail Blazers (118-123)
-DTSTART:20261008T020000Z
-DTEND:20261008T043000Z
-DTSTAMP:20261008T115337Z
-UID:ab5d183d9627a9abdf5bae2fdce9a4d4@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Golde
- n State Warriors\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato
- : Portland Trail Blazers 123 - 118 Golden State Warriors\nStato: finished
-LOCATION:Moda Center\, Portland
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Cleveland Cavaliers (124-113)
-DTSTART:20261008T230000Z
-DTEND:20261009T013000Z
-DTSTAMP:20261009T022625Z
-UID:108f9d929129465736cc61eb9b23b3d9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Boston C
- eltics\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Clevel
- and Cavaliers 113 - 124 Boston Celtics\nStato: finished
-LOCATION:Rocket Arena\, Cleveland
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Miami Heat (118-128)
-DTSTART:20261008T233000Z
-DTEND:20261009T020000Z
-DTSTAMP:20261009T022625Z
-UID:2ccaae04e4996cdfbcc8e099aaf14f45@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: New Orleans Pelic
- ans\nCircuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 1
- 28 - 118 New Orleans Pelicans\nStato: finished
-LOCATION:Kaseya Center\, Miami
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Brooklyn Nets (108-114)
-DTSTART:20261008T233000Z
-DTEND:20261009T020000Z
-DTSTAMP:20261009T022625Z
-UID:5163e7ea451f9ee806497a53e9c6fd98@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Philadelphia 7
- 6ers\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nRisultato: Brookl
- yn Nets 114 - 108 Philadelphia 76ers\nStato: finished
-LOCATION:Barclays Center\, Brooklyn
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ New York Knicks (111-109)
-DTSTART:20261008T233000Z
-DTEND:20261009T020000Z
-DTSTAMP:20261009T022625Z
-UID:376984b40c9858a93b909eec12a8f77c@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Washington W
- izards\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
- : New York Knicks 109 - 111 Washington Wizards\nStato: finished
-LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Hawks @ San Antonio Spurs (123-116)
 DTSTART:20261009T000000Z
 DTEND:20261009T023000Z
@@ -612,14 +492,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Toronto Raptors @ New York Knicks
 DTSTART:20261015T233000Z
 DTEND:20261016T020000Z
-DTSTAMP:20261008T021210Z
+DTSTAMP:20261016T003709Z
 UID:f8971bb136e03d7d1f67b561f6ce4a29@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Toronto Rapt
- ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
- uled
+ ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
 LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1028,6 +907,93 @@ DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Cleveland
   Cavaliers\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nSt
  ato: scheduled
 LOCATION:Xfinity Mobile Arena\, Philadelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Denver Nuggets @ Oklahoma City Thunder
+DTSTART:20261023T013000Z
+DTEND:20261023T040000Z
+DTSTAMP:20261016T003709Z
+UID:1f4626ac9eb48988fb18ba292e7e349f@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Denver
+  Nuggets\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sch
+ eduled
+LOCATION:Paycom Center\, Oklahoma City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New York Knicks @ Boston Celtics
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+DTSTAMP:20261016T003709Z
+UID:80ae037ad317b7d81c786c3c86a4d603@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: New York Knic
+ ks\nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+LOCATION:TD Garden\, Boston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Charlotte Hornets
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+DTSTAMP:20261016T003709Z
+UID:a18cb02ec058368b0caa9c452687b7b7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Atlanta Ha
+ wks\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: scheduled
+LOCATION:Spectrum Center\, Charlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Mavericks @ Indiana Pacers
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+DTSTAMP:20261016T003709Z
+UID:fdff98c86ce3ca3ac835eab34e394c56@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Dallas Maveri
+ cks\nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: s
+ cheduled
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Minnesota Timberwolves @ Orlando Magic
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+DTSTAMP:20261016T003709Z
+UID:758905e925258b586ae40f9e33155a9a@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Minnesota Timb
+ erwolves\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ Washington Wizards
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+DTSTAMP:20261016T003709Z
+UID:ad02363fafea38491c16d76e499fe3c3@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Toronto R
+ aptors\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
+ duled
+LOCATION:Capital One Arena\, Washington
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -5950,45 +5916,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Real Madrid
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Real Madrid (92-111)
 DTSTART:20261015T190000Z
 DTEND:20261015T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T003709Z
 UID:75909442e4af4a17e4045bd88ca89b23@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: LDLC ASVE
  L Villeurbanne\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 6\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Real Madrid 111 - 92 LDLC ASVEL Villeurban
+ ne\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Valencia Basket
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Valencia Basket (91-88)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T003709Z
 UID:208d369806467203461fe0b4d4b375fa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Macca
  bi Rapyd Tel Aviv\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 6\nFase: Gr
- oup Regular Season\nStato: scheduled
+ oup Regular Season\nRisultato: Valencia Basket 88 - 91 Maccabi Rapyd Tel A
+ viv\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Dubai Basketball @ Armani Olimpia Milan (101-97)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T003709Z
 UID:5c79fd24853d59a8ab68b63fca133d8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Dubai Basketball\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 6\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Armani Olimpia Milan 97 - 101 Dubai Basket
+ ball\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5996,15 +5965,16 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Fenerbahce Tarfin Istanbu
- l
+ l (65-74)
 DTSTART:20261015T174500Z
 DTEND:20261015T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T003709Z
 UID:84c50c62e74de02e5a1aa49f059c9889@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Partizan Mozzart Bet Belgrade\nCircuito/Arena: ULKER SPORTS AND EVEN
- T HALL\nGiornata/Round: 6\nFase: Group Regular Season\nStato: scheduled
+ T HALL\nGiornata/Round: 6\nFase: Group Regular Season\nRisultato: Fenerbah
+ ce Tarfin Istanbul 74 - 65 Partizan Mozzart Bet Belgrade\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9466,15 +9436,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Skyliners Frankfurt @ London Lions
+SUMMARY:⭐ Skyliners Frankfurt @ London Lions (81-76)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T003709Z
 UID:beec412a5a472a67e60485800c22ed38@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Skyliners F
  rankfurt\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 3\nFase: Group
-  B\nStato: scheduled
+  B\nRisultato: London Lions 76 - 81 Skyliners Frankfurt\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

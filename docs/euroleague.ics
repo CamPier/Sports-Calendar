@@ -4926,45 +4926,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Real Madrid
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Real Madrid (92-111)
 DTSTART:20261015T190000Z
 DTEND:20261015T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261016T003652Z
 UID:75909442e4af4a17e4045bd88ca89b23@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: LDLC ASVE
  L Villeurbanne\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 6\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Real Madrid 111 - 92 LDLC ASVEL Villeurban
+ ne\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Valencia Basket
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Valencia Basket (91-88)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261016T003652Z
 UID:208d369806467203461fe0b4d4b375fa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Macca
  bi Rapyd Tel Aviv\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 6\nFase: Gr
- oup Regular Season\nStato: scheduled
+ oup Regular Season\nRisultato: Valencia Basket 88 - 91 Maccabi Rapyd Tel A
+ viv\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Dubai Basketball @ Armani Olimpia Milan (101-97)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261016T003652Z
 UID:5c79fd24853d59a8ab68b63fca133d8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Dubai Basketball\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 6\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Armani Olimpia Milan 97 - 101 Dubai Basket
+ ball\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4972,15 +4975,16 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Fenerbahce Tarfin Istanbu
- l
+ l (65-74)
 DTSTART:20261015T174500Z
 DTEND:20261015T201500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261016T003652Z
 UID:84c50c62e74de02e5a1aa49f059c9889@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Partizan Mozzart Bet Belgrade\nCircuito/Arena: ULKER SPORTS AND EVEN
- T HALL\nGiornata/Round: 6\nFase: Group Regular Season\nStato: scheduled
+ T HALL\nGiornata/Round: 6\nFase: Group Regular Season\nRisultato: Fenerbah
+ ce Tarfin Istanbul 74 - 65 Partizan Mozzart Bet Belgrade\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8442,15 +8446,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Skyliners Frankfurt @ London Lions
+SUMMARY:⭐ Skyliners Frankfurt @ London Lions (81-76)
 DTSTART:20261015T183000Z
 DTEND:20261015T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261016T003652Z
 UID:beec412a5a472a67e60485800c22ed38@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Skyliners F
  rankfurt\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 3\nFase: Group
-  B\nStato: scheduled
+  B\nRisultato: London Lions 76 - 81 Skyliners Frankfurt\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
