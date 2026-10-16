@@ -92,6 +92,13 @@ Ogni mattina alle 06:00 UTC (08:00 ora legale, 07:00 ora solare) il workflow
 dalle 06:00 di oggi alle 06:00 di domani (ora italiana), raggruppati per competizione.
 Il messaggio include quindi anche le partite NBA della notte.
 
+Per ogni evento il bot indica anche **dove vederlo in TV** (📺), con il canale e
+il numero: i dati arrivano dalla guida TV di Sky (`src/tv_guide.py`), che copre
+Sky Sport, DAZN 1-4 su Sky, SuperTennis, Rai e TV8. Le piattaforme che
+trasmettono tutta una competizione (DAZN per la Serie A, NBA League Pass) sono
+indicate accanto al nome della competizione. Se la guida non risponde, il
+messaggio parte lo stesso, solo senza canali.
+
 Sotto il messaggio ci sono dei bottoni: uno per ogni competizione del giorno, che
 apre l'iscrizione al relativo calendario su Google Calendar, più **📅 Tutti gli sport**
 e **🌐 Sito**.
