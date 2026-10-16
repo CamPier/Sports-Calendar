@@ -489,29 +489,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ New York Knicks
+SUMMARY:🏀 Toronto Raptors @ New York Knicks (120-122)
 DTSTART:20261015T233000Z
 DTEND:20261016T020000Z
-DTSTAMP:20261016T003651Z
+DTSTAMP:20261016T093557Z
 UID:f8971bb136e03d7d1f67b561f6ce4a29@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Toronto Rapt
- ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: N
+ ew York Knicks 122 - 120 Toronto Raptors\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets
+SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets (89-116)
 DTSTART:20261016T003000Z
 DTEND:20261016T030000Z
-DTSTAMP:20261009T022608Z
+DTSTAMP:20261016T093557Z
 UID:472c0ef6d18e0d3c60cb1e731db921e9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Oklahoma Cit
- y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato
- : scheduled
+ y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisul
+ tato: Houston Rockets 116 - 89 Oklahoma City Thunder\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -489,29 +489,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ New York Knicks
+SUMMARY:🏀 Toronto Raptors @ New York Knicks (120-122)
 DTSTART:20261015T233000Z
 DTEND:20261016T020000Z
-DTSTAMP:20261016T003709Z
+DTSTAMP:20261016T093612Z
 UID:f8971bb136e03d7d1f67b561f6ce4a29@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Toronto Rapt
- ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ ors\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: N
+ ew York Knicks 122 - 120 Toronto Raptors\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets
+SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets (89-116)
 DTSTART:20261016T003000Z
 DTEND:20261016T030000Z
-DTSTAMP:20261009T022625Z
+DTSTAMP:20261016T093612Z
 UID:472c0ef6d18e0d3c60cb1e731db921e9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Oklahoma Cit
- y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato
- : scheduled
+ y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisul
+ tato: Houston Rockets 116 - 89 Oklahoma City Thunder\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22851,15 +22852,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏍 GRAND PRIX OF AUSTRALIA
+SUMMARY:🏍 RED BULL GRAND PRIX OF AUSTRALIA
 DTSTART:20261025T130000Z
 DTEND:20261025T150000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261016T093612Z
 UID:1931a5dbfcd406d4ea89b19e7929d517@basketball-calendar.github.io
 COLOR:#CC0000
-DESCRIPTION:Competizione: MotoGP\nCasa: GRAND PRIX OF AUSTRALIA\nOspite: G
- ara\nCircuito/Arena: Phillip Island\nGiornata/Round: Round 18\nFase: MotoG
- P\, Moto2\, Moto3\nStato: scheduled
+DESCRIPTION:Competizione: MotoGP\nCasa: RED BULL GRAND PRIX OF AUSTRALIA\n
+ Ospite: Gara\nCircuito/Arena: Phillip Island\nGiornata/Round: Round 18\nFa
+ se: MotoGP\, Moto2\, Moto3\nStato: scheduled
 LOCATION:Phillip Island
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23087,9 +23088,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Kinoshita Group Japan Open
-DTSTART:20261019T040000Z
-DTEND:20261019T063000Z
-DTSTAMP:20261012T013550Z
+DTSTART:20261016T040000Z
+DTEND:20261016T063000Z
+DTSTAMP:20261016T093612Z
 UID:96d2d8118ebe7995e4f76c149e4a9b7b@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Kinoshita Group Japan Open\nOs
@@ -23100,9 +23101,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Ningbo Open
-DTSTART:20261019T040000Z
-DTEND:20261019T063000Z
-DTSTAMP:20261012T013550Z
+DTSTART:20261016T040000Z
+DTEND:20261016T063000Z
+DTSTAMP:20261016T093612Z
 UID:fd13b8a1b9af2ae5cc2f9e1e034a8620@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Ningbo Open\nOspite: WTA\nGior
