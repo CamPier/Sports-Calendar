@@ -8,6 +8,8 @@ Environment:
     TELEGRAM_BOT_TOKEN   token from @BotFather (required)
     TELEGRAM_CHAT_ID     chat that receives the digest (required)
     COMPETITIONS         optional comma-separated filter, e.g. "NBA,Serie A,F1"
+
+Each event also shows where it airs on Italian TV (see tv_guide.py).
 """
 
 import html
@@ -23,6 +25,7 @@ from zoneinfo import ZoneInfo
 import requests
 from icalendar import Calendar
 
+import tv_guide
 from calendar_generator import COMPETITION_EMOJI
 
 logging.basicConfig(
@@ -69,9 +72,8 @@ def load_events(start: datetime, end: datetime, competitions: set[str]) -> list[
         if not start <= dt < end:
             continue
 
-        description = str(ev.get("DESCRIPTION", ""))
-        first_line = description.split("\n", 1)[0]
-        competition = first_line.removeprefix("Competizione: ").strip() or "Altro"
+        fields = _description_fields(str(ev.get("DESCRIPTION", "")))
+        competition = fields.get("Competizione") or "Altro"
         if competitions and competition not in competitions:
             continue
 
@@ -79,8 +81,20 @@ def load_events(start: datetime, end: datetime, competitions: set[str]) -> list[
             "dt": dt,
             "competition": competition,
             "summary": _strip_emoji(str(ev.get("SUMMARY", ""))),
+            "home": fields.get("Casa"),
+            "away": fields.get("Ospite"),
         })
     return sorted(events, key=lambda e: e["dt"])
+
+
+def _description_fields(description: str) -> dict[str, str]:
+    """The 'Key: value' lines written by calendar_generator, as a dict."""
+    fields = {}
+    for line in description.split("\n"):
+        key, sep, value = line.partition(": ")
+        if sep:
+            fields[key.strip()] = value.strip()
+    return fields
 
 
 def _strip_emoji(summary: str) -> str:
@@ -102,9 +116,17 @@ def build_message(events: list[dict], day: datetime) -> str:
     # Groups ordered by their first event, so the day reads chronologically.
     for competition, items in groups.items():
         emoji = COMPETITION_EMOJI.get(competition, "🏆")
-        lines = [f"\n{emoji} <b>{html.escape(competition)}</b>"]
+        header = f"\n{emoji} <b>{html.escape(competition)}</b>"
+        # Platforms carrying the whole competition go once in the header.
+        defaults = tv_guide.COMPETITION_DEFAULTS.get(competition)
+        if defaults:
+            header += f" · 📺 {html.escape(', '.join(defaults))}"
+        lines = [header]
         for ev in items:
-            lines.append(f"<code>{ev['dt']:%H:%M}</code> {html.escape(ev['summary'])}")
+            line = f"<code>{ev['dt']:%H:%M}</code> {html.escape(ev['summary'])}"
+            if ev.get("channels"):
+                line += f"\n      📺 <i>{html.escape(' · '.join(ev['channels']))}</i>"
+            lines.append(line)
         parts.append("\n".join(lines))
     return "\n".join(parts)
 
@@ -182,6 +204,10 @@ def main() -> None:
     end = start + timedelta(days=1)
 
     events = load_events(start, end, competitions)
+    if events:
+        listings = tv_guide.fetch_listings(start - tv_guide.MAX_LEAD, end)
+        for ev in events:
+            ev["channels"] = tv_guide.channels_for(ev, listings, start, end)
     message = build_message(events, start)
     keyboard = build_keyboard(events)
     logger.info("%d events between %s and %s", len(events), start, end)
