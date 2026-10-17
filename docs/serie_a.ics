@@ -922,14 +922,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Napoli @ Venezia
+SUMMARY:⚽ Napoli @ Venezia (0-1)
 DTSTART:20261017T130000Z
 DTEND:20261017T153000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261017T161545Z
 UID:3317d644bcfe97c04300ae779d231877@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Napoli\nCircuito
- /Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ /Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nRisultato: Venezia 1 - 0
+  Napoli\nStato: finished
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -939,13 +940,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Internazionale @ Bologna
 DTSTART:20261017T160000Z
 DTEND:20261017T183000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261017T161545Z
 UID:35f25e43c91756cbc3927b4b4ed2b801@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Internazionale\n
- Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nStato: scheduled
+ Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nStato: live
 LOCATION:Renato Dall'Ara\, Bologna
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

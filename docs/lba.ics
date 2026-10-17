@@ -407,15 +407,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ BC Roma
+SUMMARY:🇮🇹 Umana Reyer Venezia @ BC Roma (104-98)
 DTSTART:20261017T140000Z
 DTEND:20261017T163000Z
-DTSTAMP:20261010T110312Z
+DTSTAMP:20261017T161543Z
 UID:f6c1671f0ca2480bd4f15c949c1811be@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Umana Reyer Venezia\
  nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round: 4
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma 98 
+ - 104 Umana Reyer Venezia\nStato: finished
 LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
