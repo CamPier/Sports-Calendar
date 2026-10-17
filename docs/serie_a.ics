@@ -907,14 +907,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sassuolo @ Frosinone
+SUMMARY:⚽ Sassuolo @ Frosinone (2-4)
 DTSTART:20261016T184500Z
 DTEND:20261016T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261017T004140Z
 UID:72bfa090bf30223829b2ad568f31ef11@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Frosinone\nOspite: Sassuolo\nCirc
- uito/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nStato: scheduled
+ uito/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nRisultato: Frosinone 
+ 4 - 2 Sassuolo\nStato: finished
 LOCATION:Stadio Benito Stirpe\, Frosinone
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

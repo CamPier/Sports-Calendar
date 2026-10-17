@@ -4836,90 +4836,97 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Virtus Bologna
+SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Virtus Bologna (78-86)
 DTSTART:20261016T183000Z
 DTEND:20261016T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261017T004130Z
 UID:5331222eb48521b42e92aebff0fe3c18@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Kosner
   Baskonia Vitoria-Gasteiz\nCircuito/Arena: PALADOZZA\nGiornata/Round: 6\nF
- ase: Group Regular Season\nStato: scheduled
+ ase: Group Regular Season\nRisultato: Virtus Bologna 86 - 78 Kosner Baskon
+ ia Vitoria-Gasteiz\nStato: finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Olympiacos Piraeus @ FC Barcelona
+SUMMARY:🇪🇺 Olympiacos Piraeus @ FC Barcelona (105-100)
 DTSTART:20261016T183000Z
 DTEND:20261016T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261017T004130Z
 UID:06554c038fdd471121cfc86844c811e5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Olympiac
  os Piraeus\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 6\nFase: Grou
- p Regular Season\nStato: scheduled
+ p Regular Season\nRisultato: FC Barcelona 100 - 105 Olympiacos Piraeus\nSt
+ ato: finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Panathinaikos AKTOR Athens (91-81)
 DTSTART:20261016T181500Z
 DTEND:20261016T204500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261017T004130Z
 UID:31b2c2b69cc03d8e20a016ba5f52e857@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: Hapoel IBI Tel Aviv\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiornata
- /Round: 6\nFase: Group Regular Season\nStato: scheduled
+ /Round: 6\nFase: Group Regular Season\nRisultato: Panathinaikos AKTOR Athe
+ ns 81 - 91 Hapoel IBI Tel Aviv\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Crvena Zvezda Meridianbet Belgrade
+SUMMARY:🇪🇺 Paris Basketball @ Crvena Zvezda Meridianbet Belgrade (81
+ -90)
 DTSTART:20261016T180000Z
 DTEND:20261016T203000Z
-DTSTAMP:20261009T114511Z
+DTSTAMP:20261017T004130Z
 UID:5620114b6bdbd36c226ecae95dd2b519@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
  rade\nOspite: Paris Basketball\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
- ound: 6\nFase: Group Regular Season\nStato: scheduled
+ ound: 6\nFase: Group Regular Season\nRisultato: Crvena Zvezda Meridianbet 
+ Belgrade 90 - 81 Paris Basketball\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Zalgiris Kaunas
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Zalgiris Kaunas (85-70)
 DTSTART:20261016T170000Z
 DTEND:20261016T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261017T004130Z
 UID:68db365685f5cc757d0072cb44c3f418@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Anado
  lu Efes Istanbul\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 6\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Zalgiris Kaunas 70 - 85 Anadolu Efes Ist
+ anbul\nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ Besiktas Istanbul
+SUMMARY:🇪🇺 FC Bayern Munich @ Besiktas Istanbul (87-95)
 DTSTART:20261016T170000Z
 DTEND:20261016T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261017T004130Z
 UID:57a5ee563037eba9d4b329c094fd04db@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: FC 
  Bayern Munich\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGio
- rnata/Round: 6\nFase: Group Regular Season\nStato: scheduled
+ rnata/Round: 6\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 9
+ 5 - 87 FC Bayern Munich\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
