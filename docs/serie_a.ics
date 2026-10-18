@@ -937,28 +937,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Internazionale @ Bologna
+SUMMARY:⚽ Internazionale @ Bologna (3-1)
 DTSTART:20261017T160000Z
 DTEND:20261017T183000Z
-DTSTAMP:20261017T161545Z
+DTSTAMP:20261018T001126Z
 UID:35f25e43c91756cbc3927b4b4ed2b801@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Internazionale\n
- Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nStato: live
+ Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 3
+  Internazionale\nStato: finished
 LOCATION:Renato Dall'Ara\, Bologna
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Genoa @ AS Roma
+SUMMARY:⚽ Genoa @ AS Roma (0-2)
 DTSTART:20261017T184500Z
 DTEND:20261017T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261018T001126Z
 UID:4b39aa022d44fe058b5f767829bc66af@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Genoa\nCircuito/
- Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 2 - 0 Genoa\nStato: fini
+ shed
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

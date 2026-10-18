@@ -9,66 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Chicago Bulls (104-100)
-DTSTART:20261010T000000Z
-DTEND:20261010T023000Z
-DTSTAMP:20261010T110317Z
-UID:a4fb72ff79723cbdc2f5b0e25b4a76b6@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Memphis Grizzl
- ies\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bu
- lls 100 - 104 Memphis Grizzlies\nStato: finished
-LOCATION:United Center\, Chicago
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Toronto Raptors (106-114)
-DTSTART:20261010T223000Z
-DTEND:20261011T010000Z
-DTSTAMP:20261011T112003Z
-UID:accde438ccc48786050baef0bf7346a2@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: LA Clippers\
- nCircuito/Arena: Rogers Arena\nCittà: Vancouver\nRisultato: Toronto Rapto
- rs 114 - 106 LA Clippers\nStato: finished
-LOCATION:Rogers Arena\, Vancouver
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers (119-117)
-DTSTART:20261010T230000Z
-DTEND:20261011T013000Z
-DTSTAMP:20261011T112003Z
-UID:4be21df0a57bda86d072e0df579ac678@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Atlanta Hawks
- \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nRisultato: 
- Indiana Pacers 117 - 119 Atlanta Hawks\nStato: finished
-LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Washington Wizards (108-114)
-DTSTART:20261010T230000Z
-DTEND:20261011T013000Z
-DTSTAMP:20261011T112003Z
-UID:517b6728fef213ed8db84dc3ce983e9d@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Detroit P
- istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nRisultato: 
- Washington Wizards 114 - 108 Detroit Pistons\nStato: finished
-LOCATION:Capital One Arena\, Washington
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Timberwolves @ Miami Heat (125-124)
 DTSTART:20261011T000000Z
 DTEND:20261011T023000Z
@@ -1098,6 +1038,166 @@ UID:08aaa3d304c236dc32420091ef517b22@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Milwaukee
   Bucks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
+  scheduled
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Wizards @ Chicago Bulls
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+DTSTAMP:20261018T001130Z
+UID:5a953f3d90aedf50897ca1415fa2b8a0@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Washington Wiz
+ ards\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+LOCATION:United Center\, Chicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 San Antonio Spurs @ Dallas Mavericks
+DTSTART:20261025T000000Z
+DTEND:20261025T023000Z
+DTSTAMP:20261018T001130Z
+UID:1339c415a7927f91f756a68a0a144f39@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: San Antonio
+  Spurs\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: s
+ cheduled
+LOCATION:American Airlines Center\, Dallas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Houston Rockets @ Atlanta Hawks
+DTSTART:20261025T003000Z
+DTEND:20261025T030000Z
+DTSTAMP:20261018T001130Z
+UID:6a4a8906d3f22947ccd6a82e65fec770@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Houston Rocket
+ s\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+LOCATION:State Farm Arena\, Atlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New Orleans Pelicans @ Denver Nuggets
+DTSTART:20261025T010000Z
+DTEND:20261025T033000Z
+DTSTAMP:20261018T001130Z
+UID:43957d70f83bfc38bd682347b5e6177e@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: New Orleans P
+ elicans\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+LOCATION:Ball Arena\, Denver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Golden State Warriors @ Phoenix Suns
+DTSTART:20261025T020000Z
+DTEND:20261025T043000Z
+DTSTAMP:20261018T001130Z
+UID:bf458d53678a6a2d3b2ad3d8704dbd03@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Golden State Wa
+ rriors\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: s
+ cheduled
+LOCATION:Mortgage Matchup Center\, Phoenix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Los Angeles Lakers @ Utah Jazz
+DTSTART:20261025T210000Z
+DTEND:20261025T233000Z
+DTSTAMP:20261018T001130Z
+UID:17e779731e23ec56396203b6ce031152@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Los Angeles Lakers
+ \nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+LOCATION:Delta Center\, Salt Lake City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Pacers @ Brooklyn Nets
+DTSTART:20261025T220000Z
+DTEND:20261026T003000Z
+DTSTAMP:20261018T001130Z
+UID:945fb09772f8d3764d837ede48595741@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Indiana Pacers
+ \nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nStato: scheduled
+LOCATION:Barclays Center\, Brooklyn
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Orlando Magic @ New York Knicks
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+DTSTAMP:20261018T001130Z
+UID:f53eb66d92ffd8ba6341bd88826298a4@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Orlando Magi
+ c\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: schedul
+ ed
+LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ Minnesota Timberwolves
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+DTSTAMP:20261018T001130Z
+UID:69b941e9593570be4b1feeaf5916d149@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Toron
+ to Raptors\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: sch
+ eduled
+LOCATION:Target Center\, Minneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 LA Clippers @ Oklahoma City Thunder
+DTSTART:20261025T230000Z
+DTEND:20261026T013000Z
+DTSTAMP:20261018T001130Z
+UID:75e3b9c3a4b0ab32ecf9af990cada42f@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: LA Cli
+ ppers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: schedu
+ led
+LOCATION:Paycom Center\, Oklahoma City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Detroit Pistons @ Philadelphia 76ers
+DTSTART:20261025T233000Z
+DTEND:20261026T020000Z
+DTSTAMP:20261018T001130Z
+UID:6e0e40f9e19d7ce10bf1387c0bf214d7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Detroit P
+ istons\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
   scheduled
 LOCATION:Xfinity Mobile Arena\, Philadelphia
 STATUS:CONFIRMED
@@ -14739,28 +14839,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Internazionale @ Bologna
+SUMMARY:⚽ Internazionale @ Bologna (3-1)
 DTSTART:20261017T160000Z
 DTEND:20261017T183000Z
-DTSTAMP:20261017T161548Z
+DTSTAMP:20261018T001130Z
 UID:35f25e43c91756cbc3927b4b4ed2b801@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Internazionale\n
- Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nStato: live
+ Circuito/Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 3
+  Internazionale\nStato: finished
 LOCATION:Renato Dall'Ara\, Bologna
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Genoa @ AS Roma
+SUMMARY:⚽ Genoa @ AS Roma (0-2)
 DTSTART:20261017T184500Z
 DTEND:20261017T211500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261018T001130Z
 UID:4b39aa022d44fe058b5f767829bc66af@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Genoa\nCircuito/
- Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 2 - 0 Genoa\nStato: fini
+ shed
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23096,9 +23198,9 @@ X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Grand Prix Auvergne-Rhône-Alpes
-DTSTART:20261019T040000Z
-DTEND:20261019T063000Z
-DTSTAMP:20261012T013550Z
+DTSTART:20261018T040000Z
+DTEND:20261018T063000Z
+DTSTAMP:20261018T001130Z
 UID:ef85d897d96b574228ed97300a45e410@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Grand Prix Auvergne-Rhône-Alp
