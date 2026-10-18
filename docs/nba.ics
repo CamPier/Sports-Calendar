@@ -504,15 +504,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Charlotte Hornets @ Memphis Grizzlies (98-117)
+SUMMARY:🏀 Charlotte Hornets @ Memphis Grizzlies (98-116)
 DTSTART:20261017T000000Z
 DTEND:20261017T023000Z
-DTSTAMP:20261017T090733Z
+DTSTAMP:20261018T092445Z
 UID:b1cf319afd2e2c9985b924cd8b49878a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Charlotte 
  Hornets\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis G
- rizzlies 117 - 98 Charlotte Hornets\nStato: finished
+ rizzlies 116 - 98 Charlotte Hornets\nStato: finished
 LOCATION:FedExForum\, Memphis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
