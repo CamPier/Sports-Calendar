@@ -423,30 +423,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Napoli Basketball
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Napoli Basketball (98-82)
 DTSTART:20261018T100000Z
 DTEND:20261018T123000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261018T162540Z
 UID:186d8492154abcb6be711f5f686dc658@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Armani Oli
  mpia Milano\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round:
-  4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+  4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Napoli Ba
+ sketball 82 - 98 Armani Olimpia Milano\nStato: finished
 LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Dolomiti Energia Trentino
+SUMMARY:🇮🇹 Openjobmetis Varese @ Dolomiti Energia Trentino (85-87)
 DTSTART:20261018T140000Z
 DTEND:20261018T163000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261018T162540Z
 UID:dd461a53001fc588e109ea946ee02f6a@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Op
  enjobmetis Varese\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Rou
- nd: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nd: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Dolomi
+ ti Energia Trentino 87 - 85 Openjobmetis Varese\nStato: finished
 LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -456,15 +458,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Nutribullet Treviso Basket
 DTSTART:20261018T150000Z
 DTEND:20261018T173000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261018T162540Z
 UID:3b6896c81b150c37ac4de81236ea3bf4@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: A
  PU Old Wild West Udine\nCircuito/Arena: Palaverde\nCittà: Villorba\nGiorn
- ata/Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
- eduled
+ ata/Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: liv
+ e
 LOCATION:Palaverde\, Villorba
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -472,15 +474,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Pallacanestro Trieste
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261003T234526Z
+DTSTAMP:20261018T162540Z
 UID:64584487b253f50fe5f740727ef053ed@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Acqua 
  S.Bernardo Cantù\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/
- Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
- ed
+ Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -488,14 +489,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Tezenis Verona
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261018T162540Z
 UID:ea1487155740dc3a5846747b716abd3c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: UNA Hotels Re
  ggio Emilia\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 4
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:Pala MAGIS\, Verona
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
