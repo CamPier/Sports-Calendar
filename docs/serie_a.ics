@@ -997,28 +997,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atalanta @ AC Milan
+SUMMARY:⚽ Atalanta @ AC Milan (2-3)
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261018T162542Z
+DTSTAMP:20261019T002258Z
 UID:ed0c420de1f6793550779d8766fda146@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Atalanta\nCircu
- ito/Arena: San Siro\nCittà: Milano\nStato: live
+ ito/Arena: San Siro\nCittà: Milano\nRisultato: AC Milan 3 - 2 Atalanta\nS
+ tato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lazio @ Juventus
+SUMMARY:⚽ Lazio @ Juventus (3-0)
 DTSTART:20261018T184500Z
 DTEND:20261018T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261019T002258Z
 UID:da9c5bcf8640fe0a1fad626ac0fb52f2@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Lazio\nCircuito
- /Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
+ /Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 0 - 3 Lazio\n
+ Stato: finished
 LOCATION:Allianz Stadium\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

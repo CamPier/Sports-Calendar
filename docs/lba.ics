@@ -455,77 +455,82 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Nutribullet Treviso Basket
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Nutribullet Treviso Basket (86-
+ 102)
 DTSTART:20261018T150000Z
 DTEND:20261018T173000Z
-DTSTAMP:20261018T162540Z
+DTSTAMP:20261019T002256Z
 UID:3b6896c81b150c37ac4de81236ea3bf4@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: A
  PU Old Wild West Udine\nCircuito/Arena: Palaverde\nCittà: Villorba\nGiorn
- ata/Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: liv
- e
+ ata/Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato:
+  Nutribullet Treviso Basket 102 - 86 APU Old Wild West Udine\nStato: finis
+ hed
 LOCATION:Palaverde\, Villorba
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Pallacanestro Trieste
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Pallacanestro Trieste (72-92)
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261018T162540Z
+DTSTAMP:20261019T002256Z
 UID:64584487b253f50fe5f740727ef053ed@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Acqua 
  S.Bernardo Cantù\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/
- Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pal
+ lacanestro Trieste 92 - 72 Acqua S.Bernardo Cantù\nStato: finished
 LOCATION:PalaTrieste\, Trieste
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Tezenis Verona
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Tezenis Verona (81-94)
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261018T162540Z
+DTSTAMP:20261019T002256Z
 UID:ea1487155740dc3a5846747b716abd3c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: UNA Hotels Re
  ggio Emilia\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 4
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Tezenis Ver
+ ona 94 - 81 UNA Hotels Reggio Emilia\nStato: finished
 LOCATION:Pala MAGIS\, Verona
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Virtus Costa Bologna
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Virtus Costa Bologna (83-108)
 DTSTART:20261018T163000Z
 DTEND:20261018T190000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261019T002256Z
 UID:fe31abf4fd66033de6a41df1e75543ee@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Longoba
  rdi Scafati Basket\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/R
- ound: 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedule
- d
+ ound: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Virt
+ us Costa Bologna 108 - 83 Longobardi Scafati Basket\nStato: finished
 LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Bertram Derthona Tortona
+SUMMARY:🇮🇹 Maxima Roma @ Bertram Derthona Tortona (89-75)
 DTSTART:20261018T170000Z
 DTEND:20261018T193000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261019T002256Z
 UID:2a117be2d20fe69833942c49a086432b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Max
  ima Roma\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Round: 4
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Bertram Der
+ thona Tortona 75 - 89 Maxima Roma\nStato: finished
 LOCATION:Nova Arena\, Tortona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
