@@ -14903,14 +14903,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cagliari @ Monza
+SUMMARY:⚽ Cagliari @ Monza (0-4)
 DTSTART:20261019T163000Z
 DTEND:20261019T190000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261019T191104Z
 UID:684214d2c8449d485b1e09651e409747@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Monza\nOspite: Cagliari\nCircuito
- /Arena: U-Power Stadium\nCittà: Monza\nStato: scheduled
+ /Arena: U-Power Stadium\nCittà: Monza\nRisultato: Monza 4 - 0 Cagliari\nS
+ tato: finished
 LOCATION:U-Power Stadium\, Monza
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -14920,13 +14921,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Torino @ Parma
 DTSTART:20261019T184500Z
 DTEND:20261019T211500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261019T191104Z
 UID:d3a705a11e1970dd19b050f644c9e32a@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Torino\nCircuito/A
- rena: Ennio Tardini\nCittà: Parma\nStato: scheduled
+ rena: Ennio Tardini\nCittà: Parma\nStato: live
 LOCATION:Ennio Tardini\, Parma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
