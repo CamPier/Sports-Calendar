@@ -3297,21 +3297,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Valencia Basket
-DTSTART:20270122T193000Z
-DTEND:20270122T220000Z
-DTSTAMP:20261002T195652Z
-UID:3a8385b7996d909d887fd8e42936f8b1@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: LDLC 
- ASVEL Villeurbanne\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 24\nFase: 
- Group Regular Season\nStato: scheduled
-LOCATION:ROIG ARENA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270122T190000Z
 DTEND:20270122T213000Z
@@ -3397,6 +3382,21 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Kosn
  er Baskonia Vitoria-Gasteiz\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round:
   24\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ADIDAS ARENA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Valencia Basket
+DTSTART:20270121T190000Z
+DTEND:20270121T213000Z
+DTSTAMP:20261020T175149Z
+UID:3a8385b7996d909d887fd8e42936f8b1@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: LDLC 
+ ASVEL Villeurbanne\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 24\nFase: 
+ Group Regular Season\nStato: scheduled
+LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -19831,14 +19831,14 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slavia Prague @ Fenerbahce
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261020T175149Z
 UID:62d7f2131bd7e60a38366ec67783be5e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Slav
  ia Prague\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\n
- Stato: scheduled
+ Stato: live
 LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -19846,14 +19846,14 @@ BEGIN:VEVENT
 SUMMARY:⭐ Borussia Dortmund @ Sabah FK
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261020T175149Z
 UID:d86e8d3219d567a6988bfea6f2df59b4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Boruss
- ia Dortmund\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: sc
- heduled
+ ia Dortmund\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: li
+ ve
 LOCATION:Baku Olympic Stadium\, Baku
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
