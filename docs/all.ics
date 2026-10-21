@@ -386,30 +386,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ New York Knicks
+SUMMARY:🏀 Philadelphia 76ers @ New York Knicks (106-100)
 DTSTART:20261020T230000Z
 DTEND:20261021T013000Z
-DTSTAMP:20261021T004800Z
+DTSTAMP:20261021T095704Z
 UID:56e4bad77fae8f6b4d634388e567846b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Philadelphia
-  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: li
- ve
+  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
+ : New York Knicks 100 - 106 Philadelphia 76ers\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs
-DTSTART:20261021T013000Z
-DTEND:20261021T040000Z
-DTSTAMP:20261014T012018Z
+SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs (116-104)
+DTSTART:20261021T015000Z
+DTEND:20261021T042000Z
+DTSTAMP:20261021T095704Z
 UID:a295029fa6923f2fe6e6e13217a14209@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Oklahoma C
- ity Thunder\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato
- : scheduled
+ ity Thunder\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisul
+ tato: San Antonio Spurs 104 - 116 Oklahoma City Thunder\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -11859,20 +11859,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Acqua S.Bernardo Cantù
-DTSTART:20261219T230000Z
-DTEND:20261220T013000Z
-DTSTAMP:20261002T195652Z
-UID:3e80e36a33def3ac4ba082042ea16605@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Dolo
- miti Energia Trentino\nGiornata/Round: 12� Giornata\nFase: LBA – Regul
- ar Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ APU Old Wild West Udine
 DTSTART:20261219T230000Z
 DTEND:20261220T013000Z
@@ -11952,6 +11938,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Lon
  gobardi Scafati Basket\nGiornata/Round: 12� Giornata\nFase: LBA – Regu
  lar Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Acqua S.Bernardo Cantù
+DTSTART:20261219T230000Z
+DTEND:20261220T013000Z
+DTSTAMP:20261002T195652Z
+UID:3e80e36a33def3ac4ba082042ea16605@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Dolo
+ miti Energia Trentino\nGiornata/Round: 12� Giornata\nFase: LBA – Regul
+ ar Season 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12083,20 +12083,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Acqua S.Bernardo Cantù
-DTSTART:20270102T230000Z
-DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
-UID:1776738accadf8e715c46e59cfc72ea5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Nutr
- ibullet Treviso Basket\nGiornata/Round: 14� Giornata\nFase: LBA – Regu
- lar Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Dolomiti Energia Trentino
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
@@ -12176,6 +12162,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Pal
  lacanestro Trieste\nGiornata/Round: 14� Giornata\nFase: LBA – Regular 
  Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Acqua S.Bernardo Cantù
+DTSTART:20270102T230000Z
+DTEND:20270103T013000Z
+DTSTAMP:20261002T195652Z
+UID:1776738accadf8e715c46e59cfc72ea5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Nutr
+ ibullet Treviso Basket\nGiornata/Round: 14� Giornata\nFase: LBA – Regu
+ lar Season 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12307,20 +12307,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Acqua S.Bernardo Cantù
-DTSTART:20270116T230000Z
-DTEND:20270117T013000Z
-DTSTAMP:20261002T195652Z
-UID:eaa8df5f5d4a5040f195c8d8590ec657@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Pall
- acanestro Trieste\nGiornata/Round: 16� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Openjobmetis Varese
 DTSTART:20270116T230000Z
 DTEND:20270117T013000Z
@@ -12400,6 +12386,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: APU
   Old Wild West Udine\nGiornata/Round: 16� Giornata\nFase: LBA – Regula
  r Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Acqua S.Bernardo Cantù
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261002T195652Z
+UID:eaa8df5f5d4a5040f195c8d8590ec657@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Pall
+ acanestro Trieste\nGiornata/Round: 16� Giornata\nFase: LBA – Regular S
+ eason 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12531,20 +12531,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Tezenis Verona @ Acqua S.Bernardo Cantù
-DTSTART:20270130T230000Z
-DTEND:20270131T013000Z
-DTSTAMP:20261002T195652Z
-UID:9d4a516cdc5db40d44e66747f8844e7f@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Teze
- nis Verona\nGiornata/Round: 18� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Nutribullet Treviso Basket
 DTSTART:20270130T230000Z
 DTEND:20270131T013000Z
@@ -12624,6 +12610,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: BC 
  Roma\nGiornata/Round: 18� Giornata\nFase: LBA – Regular Season 2026/27
  \nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Tezenis Verona @ Acqua S.Bernardo Cantù
+DTSTART:20270130T230000Z
+DTEND:20270131T013000Z
+DTSTAMP:20261002T195652Z
+UID:9d4a516cdc5db40d44e66747f8844e7f@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Teze
+ nis Verona\nGiornata/Round: 18� Giornata\nFase: LBA – Regular Season 2
+ 026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12755,20 +12755,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Acqua S.Bernardo Cantù
-DTSTART:20270213T230000Z
-DTEND:20270214T013000Z
-DTSTAMP:20261002T195652Z
-UID:e0f585dfb3cb86b5aee2d0242a3e1f49@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: BC R
- oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27\
- nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ APU Old Wild West Udine
 DTSTART:20270213T230000Z
 DTEND:20270214T013000Z
@@ -12853,15 +12839,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Acqua S.Bernardo Cantù
-DTSTART:20270306T230000Z
-DTEND:20270307T013000Z
+SUMMARY:🇮🇹 BC Roma @ Acqua S.Bernardo Cantù
+DTSTART:20270213T230000Z
+DTEND:20270214T013000Z
 DTSTAMP:20261002T195652Z
-UID:7b522a93e3a4d3f75ce1e290ae2fffc4@basketball-calendar.github.io
+UID:e0f585dfb3cb86b5aee2d0242a3e1f49@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Maxi
- ma Roma\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 2026
- /27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: BC R
+ oma\nGiornata/Round: 20� Giornata\nFase: LBA – Regular Season 2026/27\
+ nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12960,6 +12946,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Nutribullet Treviso 
  Basket\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 2026/
  27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Maxima Roma @ Acqua S.Bernardo Cantù
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261002T195652Z
+UID:7b522a93e3a4d3f75ce1e290ae2fffc4@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Maxi
+ ma Roma\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 2026
+ /27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -13077,20 +13077,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Acqua S.Bernardo Cantù
-DTSTART:20270320T230000Z
-DTEND:20270321T013000Z
-DTSTAMP:20261002T195652Z
-UID:1f817c7a351619aa66b606663ea7d4b6@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Long
- obardi Scafati Basket\nGiornata/Round: 23� Giornata\nFase: LBA – Regul
- ar Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Maxima Roma @ Nutribullet Treviso Basket
 DTSTART:20270320T230000Z
 DTEND:20270321T013000Z
@@ -13184,6 +13170,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Virtus Costa Bologna
  \nGiornata/Round: 23� Giornata\nFase: LBA – Regular Season 2026/27\nSt
  ato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Acqua S.Bernardo Cantù
+DTSTART:20270320T230000Z
+DTEND:20270321T013000Z
+DTSTAMP:20261002T195652Z
+UID:1f817c7a351619aa66b606663ea7d4b6@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Long
+ obardi Scafati Basket\nGiornata/Round: 23� Giornata\nFase: LBA – Regul
+ ar Season 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -13315,20 +13315,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Acqua S.Bernardo Cantù
-DTSTART:20270403T220000Z
-DTEND:20270404T003000Z
-DTSTAMP:20261002T195652Z
-UID:ee1f34f5cf1e69279938564580a06de7@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: UNA 
- Hotels Reggio Emilia\nGiornata/Round: 25� Giornata\nFase: LBA – Regula
- r Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Pallacanestro Trieste @ Nutribullet Treviso Basket
 DTSTART:20270403T220000Z
 DTEND:20270404T003000Z
@@ -13408,6 +13394,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Bertram Derthona
   Tortona\nGiornata/Round: 25� Giornata\nFase: LBA – Regular Season 202
  6/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Acqua S.Bernardo Cantù
+DTSTART:20270403T220000Z
+DTEND:20270404T003000Z
+DTSTAMP:20261002T195652Z
+UID:ee1f34f5cf1e69279938564580a06de7@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: UNA 
+ Hotels Reggio Emilia\nGiornata/Round: 25� Giornata\nFase: LBA – Regula
+ r Season 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -13525,20 +13525,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Costa Bologna @ Acqua S.Bernardo Cantù
-DTSTART:20270417T220000Z
-DTEND:20270418T003000Z
-DTSTAMP:20261002T195652Z
-UID:d7508c2bee0ecfac74595d76c1e63169@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Virt
- us Costa Bologna\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Longobardi Scafati Basket @ Dolomiti Energia Trentino
 DTSTART:20270417T220000Z
 DTEND:20270418T003000Z
@@ -13632,6 +13618,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Umana Reyer Vene
  zia\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Season 2026/27\
  nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Acqua S.Bernardo Cantù
+DTSTART:20270417T220000Z
+DTEND:20270418T003000Z
+DTSTAMP:20261002T195652Z
+UID:d7508c2bee0ecfac74595d76c1e63169@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Virt
+ us Costa Bologna\nGiornata/Round: 27� Giornata\nFase: LBA – Regular Se
+ ason 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -13749,20 +13749,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Acqua S.Bernardo Cantù
-DTSTART:20270501T220000Z
-DTEND:20270502T003000Z
-DTSTAMP:20261002T195652Z
-UID:1f9d28edbf779f3813a18aacf8a6c713@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Uman
- a Reyer Venezia\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Sea
- son 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ APU Old Wild West Udine
 DTSTART:20270501T220000Z
 DTEND:20270502T003000Z
@@ -13856,6 +13842,20 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Vir
  tus Costa Bologna\nGiornata/Round: 29� Giornata\nFase: LBA – Regular S
  eason 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Acqua S.Bernardo Cantù
+DTSTART:20270501T220000Z
+DTEND:20270502T003000Z
+DTSTAMP:20261002T195652Z
+UID:1f9d28edbf779f3813a18aacf8a6c713@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Uman
+ a Reyer Venezia\nGiornata/Round: 29� Giornata\nFase: LBA – Regular Sea
+ son 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -23389,9 +23389,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Río Ladies Open by MundoTênis Tours
-DTSTART:20261017T040000Z
-DTEND:20261017T063000Z
-DTSTAMP:20261021T004800Z
+DTSTART:20261019T040000Z
+DTEND:20261019T063000Z
+DTSTAMP:20261021T095704Z
 UID:9a6d5033ebc09dbfa681e0d04795e7a9@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Río Ladies Open by MundoTêni

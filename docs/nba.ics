@@ -386,30 +386,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ New York Knicks
+SUMMARY:🏀 Philadelphia 76ers @ New York Knicks (106-100)
 DTSTART:20261020T230000Z
 DTEND:20261021T013000Z
-DTSTAMP:20261021T004741Z
+DTSTAMP:20261021T095649Z
 UID:56e4bad77fae8f6b4d634388e567846b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Philadelphia
-  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: li
- ve
+  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
+ : New York Knicks 100 - 106 Philadelphia 76ers\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs
-DTSTART:20261021T013000Z
-DTEND:20261021T040000Z
-DTSTAMP:20261014T012004Z
+SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs (116-104)
+DTSTART:20261021T015000Z
+DTEND:20261021T042000Z
+DTSTAMP:20261021T095649Z
 UID:a295029fa6923f2fe6e6e13217a14209@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Oklahoma C
- ity Thunder\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato
- : scheduled
+ ity Thunder\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisul
+ tato: San Antonio Spurs 104 - 116 Oklahoma City Thunder\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
