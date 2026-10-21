@@ -20043,14 +20043,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Manchester United @ Como
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261021T175754Z
 UID:86be21f1e054f7098a30334b239da851@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Manchester
-  United\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: schedul
- ed
+  United\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
@@ -20058,14 +20057,14 @@ BEGIN:VEVENT
 SUMMARY:⭐ Galatasaray @ Lille
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261021T175754Z
 UID:cd4ff13927f32b46540afafa38ad9861@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Galatasar
  ay\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille\n
- Stato: scheduled
+ Stato: live
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
