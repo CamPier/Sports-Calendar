@@ -8378,75 +8378,79 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Roma Basketball @ Kids&Us Manresa
+SUMMARY:⭐ Roma Basketball @ Kids&Us Manresa (88-108)
 DTSTART:20261020T183000Z
 DTEND:20261020T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261021T004743Z
 UID:1b05bab185d4554032ad6486af8417f2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: Roma Bas
  ketball\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 4\nFase: Gro
- up D\nStato: scheduled
+ up D\nRisultato: Kids&Us Manresa 108 - 88 Roma Basketball\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Aris Thessaloniki @ Rostock Seawolves
+SUMMARY:⭐ Aris Thessaloniki @ Rostock Seawolves (110-79)
 DTSTART:20261020T180000Z
 DTEND:20261020T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261021T004743Z
 UID:e3e430f260ba0dbd6b785866edb13eaa@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Aris T
  hessaloniki\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 4\nFase: 
- Group A\nStato: scheduled
+ Group A\nRisultato: Rostock Seawolves 79 - 110 Aris Thessaloniki\nStato: f
+ inished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ Buducnost VOLI Podgorica
+SUMMARY:⭐ Neptunas Klaipeda @ Buducnost VOLI Podgorica (89-104)
 DTSTART:20261020T170000Z
 DTEND:20261020T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261021T004743Z
 UID:2b6a1234bae961100fcc8f67d3adcfad@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   Neptunas Klaipeda\nCircuito/Arena: MORACA\nGiornata/Round: 4\nFase: Group
-  C\nStato: scheduled
+  C\nRisultato: Buducnost VOLI Podgorica 104 - 89 Neptunas Klaipeda\nStato:
+  finished
 LOCATION:MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Siauliai Basketball @ Turk Telekom Ankara
+SUMMARY:⭐ Siauliai Basketball @ Turk Telekom Ankara (94-84)
 DTSTART:20261020T163000Z
 DTEND:20261020T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261021T004743Z
 UID:f8d152586199be6228a5b1523da6ec57@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Siau
  liai Basketball\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 4\nFa
- se: Group B\nStato: scheduled
+ se: Group B\nRisultato: Turk Telekom Ankara 84 - 94 Siauliai Basketball\nS
+ tato: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lietkabelis Panevezys @ Balkan Botevgrad
+SUMMARY:⭐ Lietkabelis Panevezys @ Balkan Botevgrad (64-57)
 DTSTART:20261020T160000Z
 DTEND:20261020T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261021T004743Z
 UID:87b26202d8e3f3a9e4117f654afebb7e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Lietkab
  elis Panevezys\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 4\nFase: 
- Group D\nStato: scheduled
+ Group D\nRisultato: Balkan Botevgrad 57 - 64 Lietkabelis Panevezys\nStato:
+  finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

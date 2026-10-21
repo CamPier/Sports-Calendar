@@ -549,133 +549,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slavia Prague @ Fenerbahce
+SUMMARY:⭐ Slavia Prague @ Fenerbahce (2-2)
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
-DTSTAMP:20261020T175147Z
+DTSTAMP:20261021T004757Z
 UID:62d7f2131bd7e60a38366ec67783be5e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Fenerbahce\nOspite: Slav
  ia Prague\nCircuito/Arena: Şükrü Saracoğlu Stadium\nCittà: Istanbul\n
- Stato: live
+ Risultato: Fenerbahce 2 - 2 Slavia Prague\nStato: finished
 LOCATION:Şükrü Saracoğlu Stadium\, Istanbul
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Borussia Dortmund @ Sabah FK
+SUMMARY:⭐ Borussia Dortmund @ Sabah FK (2-1)
 DTSTART:20261020T164500Z
 DTEND:20261020T191500Z
-DTSTAMP:20261020T175147Z
+DTSTAMP:20261021T004757Z
 UID:d86e8d3219d567a6988bfea6f2df59b4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Boruss
- ia Dortmund\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: li
- ve
+ ia Dortmund\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nRisultato
+ : Sabah FK 1 - 2 Borussia Dortmund\nStato: finished
 LOCATION:Baku Olympic Stadium\, Baku
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slovan Bratislava @ AS Roma
+SUMMARY:⭐ Slovan Bratislava @ AS Roma (0-4)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:b78428ffddc2157bc2758b6534ab2dd5@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: AS Roma\nOspite: Slovan 
- Bratislava\nCircuito/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ Bratislava\nCircuito/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 4 -
+  0 Slovan Bratislava\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PSV Eindhoven @ FC Porto
+SUMMARY:⭐ PSV Eindhoven @ FC Porto (1-0)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:6bf5d2acc295dcf841db55623da1eec5@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: PSV Ei
- ndhoven\nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nStato: schedu
- led
+ ndhoven\nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nRisultato: FC
+  Porto 0 - 1 PSV Eindhoven\nStato: finished
 LOCATION:Estádio do Dragão\, Porto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Villarreal @ Liverpool
+SUMMARY:⭐ Villarreal @ Liverpool (3-4)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:cde1ff0b63c956324037a6de1091a5c1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Liverpool\nOspite: Villa
- rreal\nCircuito/Arena: Anfield\nCittà: Liverpool\nStato: scheduled
+ rreal\nCircuito/Arena: Anfield\nCittà: Liverpool\nRisultato: Liverpool 4 
+ - 3 Villarreal\nStato: finished
 LOCATION:Anfield\, Liverpool
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AEK Athens @ Manchester City
+SUMMARY:⭐ AEK Athens @ Manchester City (1-5)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:ef9f6fc8fb3ef5ae82e0fe8e23af3230@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
-  AEK Athens\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nStato: sc
- heduled
+  AEK Athens\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRisultato
+ : Manchester City 5 - 1 AEK Athens\nStato: finished
 LOCATION:Etihad Stadium\, Manchester
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bodo/Glimt @ Napoli
+SUMMARY:⭐ Bodo/Glimt @ Napoli (3-4)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:9935edf361360960eedd34891ad2194d@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Napoli\nOspite: Bodo/Gli
- mt\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: 
- scheduled
+ mt\nCircuito/Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisulta
+ to: Napoli 4 - 3 Bodo/Glimt\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Barcelona @ Paris Saint-Germain
+SUMMARY:⭐ Barcelona @ Paris Saint-Germain (2-4)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:f5edb3dbed511ef4c5a7cdb299f94bd1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
- ite: Barcelona\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: sc
- heduled
+ ite: Barcelona\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato
+ : Paris Saint-Germain 4 - 2 Barcelona\nStato: finished
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Atlético Madrid @ VfB Stuttgart
+SUMMARY:⭐ Atlético Madrid @ VfB Stuttgart (1-1)
 DTSTART:20261020T190000Z
 DTEND:20261020T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261021T004757Z
 UID:67d680f28f48dbd9b11f3103575b1c6e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: VfB Stuttgart\nOspite: A
- tlético Madrid\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nStato: sched
- uled
+ tlético Madrid\nCircuito/Arena: MHPArena\nCittà: Stuttgart\nRisultato: V
+ fB Stuttgart 1 - 1 Atlético Madrid\nStato: finished
 LOCATION:MHPArena\, Stuttgart
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
