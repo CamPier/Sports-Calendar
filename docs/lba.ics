@@ -2400,6 +2400,118 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Dolomiti Energia Trentino
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:5b7e1cee7ec3aab863108d7c0e94ae16@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Pa
+ llacanestro Trieste\nGiornata/Round: 21� Giornata\nFase: LBA – Regular
+  Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Openjobmetis Varese
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:dc670437c710eaddfd11a2c4b8dec37b@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Napoli B
+ asketball\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 20
+ 26/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Bertram Derthona Tortona @ Armani Olimpia Milano
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:4e494d8a7ebfd4391eba32f93d6c3122@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Bertra
+ m Derthona Tortona\nGiornata/Round: 21� Giornata\nFase: LBA – Regular 
+ Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Tezenis Verona @ UNA Hotels Reggio Emilia
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:a8dab840514266e0dc463a6fbaf1837e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Tez
+ enis Verona\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 
+ 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Longobardi Scafati Basket
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:e3f894a466df2d7d1398267afc4a28b4@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: AP
+ U Old Wild West Udine\nGiornata/Round: 21� Giornata\nFase: LBA – Regul
+ ar Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Virtus Costa Bologna
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:7c116444f6f5e9c59fd1fa68ae19e22e@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Umana R
+ eyer Venezia\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season
+  2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ BC Roma
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:7bde6ca25d489ca4f0a60dc7b2712eb0@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Nutribullet Treviso 
+ Basket\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 2026/
+ 27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Maxima Roma @ Acqua S.Bernardo Cantù
+DTSTART:20270306T230000Z
+DTEND:20270307T013000Z
+DTSTAMP:20261022T095721Z
+UID:7b522a93e3a4d3f75ce1e290ae2fffc4@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Maxi
+ ma Roma\nGiornata/Round: 21� Giornata\nFase: LBA – Regular Season 2026
+ /27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Longobardi Scafati Basket @ Umana Reyer Venezia
 DTSTART:20270313T230000Z
 DTEND:20270314T013000Z

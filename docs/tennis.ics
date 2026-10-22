@@ -237,14 +237,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Abierto de Curitiba
+SUMMARY:🎾 WTA @ Curitiba Open
 DTSTART:20261026T040000Z
 DTEND:20261026T063000Z
-DTSTAMP:20261019T002301Z
+DTSTAMP:20261022T095727Z
 UID:05705a4c817c8e35f943decef1e0f350@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Abierto de Curitiba\nOspite: W
- TA\nGiornata/Round: Abierto de Curitiba\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Curitiba Open\nOspite: WTA\nGi
+ ornata/Round: Curitiba Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
