@@ -684,131 +684,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Manchester United @ Como
+SUMMARY:⭐ Manchester United @ Como (1-4)
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
-DTSTAMP:20261021T175752Z
+DTSTAMP:20261022T005004Z
 UID:86be21f1e054f7098a30334b239da851@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: Manchester
-  United\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
+  United\nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Com
+ o 4 - 1 Manchester United\nStato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Galatasaray @ Lille
+SUMMARY:⭐ Galatasaray @ Lille (4-2)
 DTSTART:20261021T164500Z
 DTEND:20261021T191500Z
-DTSTAMP:20261021T175752Z
+DTSTAMP:20261022T005004Z
 UID:cd4ff13927f32b46540afafa38ad9861@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Galatasar
  ay\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille\n
- Stato: live
+ Risultato: Lille 2 - 4 Galatasaray\nStato: finished
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Aston Villa
+SUMMARY:⭐ Viking FK @ Aston Villa (1-3)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261019T002300Z
+DTSTAMP:20261022T005004Z
 UID:404c3b5295dbbcbfe99f4e83dd0f1ebb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Aston Villa\nOspite: Vik
- ing FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nStato: scheduled
+ ing FK\nCircuito/Arena: Villa Park\nCittà: Birmingham\nRisultato: Aston V
+ illa 3 - 1 Viking FK\nStato: finished
 LOCATION:Villa Park\, Birmingham
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Arsenal @ Bayern Munich
+SUMMARY:⭐ Arsenal @ Bayern Munich (2-2)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:fd4e964374591150aeb2b81e3d3c7ce4@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bayern Munich\nOspite: A
- rsenal\nCircuito/Arena: Allianz Arena\nCittà: München\nStato: scheduled
+ rsenal\nCircuito/Arena: Allianz Arena\nCittà: München\nRisultato: Bayern
+  Munich 2 - 2 Arsenal\nStato: finished
 LOCATION:Allianz Arena\, München
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lens @ Club Brugge
+SUMMARY:⭐ Lens @ Club Brugge (0-3)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:bfe96fe0504d1c3e86866199e22f9f18@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Len
- s\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: scheduled
+ s\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Club Br
+ ugge 3 - 0 Lens\nStato: finished
 LOCATION:Jan Breydel Stadium\, Brugge
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Shakhtar Donetsk @ Internazionale
+SUMMARY:⭐ Shakhtar Donetsk @ Internazionale (0-1)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:592ac8c7c848c8e212600130848adf37@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
- Shakhtar Donetsk\nCircuito/Arena: San Siro\nCittà: Milano\nStato: schedul
- ed
+ Shakhtar Donetsk\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Int
+ ernazionale 1 - 0 Shakhtar Donetsk\nStato: finished
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Feyenoord Rotterdam @ Real Betis
+SUMMARY:⭐ Feyenoord Rotterdam @ Real Betis (0-1)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:3faeb25efc359365b04e465282b811ce@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Betis\nOspite: Feye
- noord Rotterdam\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nStat
- o: scheduled
+ noord Rotterdam\nCircuito/Arena: Estadio La Cartuja\nCittà: Sevilla\nRisu
+ ltato: Real Betis 1 - 0 Feyenoord Rotterdam\nStato: finished
 LOCATION:Estadio La Cartuja\, Sevilla
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ RB Leipzig @ Real Madrid
+SUMMARY:⭐ RB Leipzig @ Real Madrid (1-4)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:72beb9190e7fa4f995a7e1aff893e255@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: RB 
- Leipzig\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nStato: schedu
- led
+ Leipzig\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato: Re
+ al Madrid 4 - 1 RB Leipzig\nStato: finished
 LOCATION:Santiago Bernabéu\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ LASK Linz @ Sporting CP
+SUMMARY:⭐ LASK Linz @ Sporting CP (3-2)
 DTSTART:20261021T190000Z
 DTEND:20261021T213000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261022T005004Z
 UID:8dfb75c7bec9e82266dfdf58751e9885@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: LAS
- K Linz\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nStato: sc
- heduled
+ K Linz\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nRisultato
+ : Sporting CP 2 - 3 LASK Linz\nStato: finished
 LOCATION:Estádio José Alvalade\, Lisbon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

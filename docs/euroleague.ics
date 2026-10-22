@@ -4821,15 +4821,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ Hapoel IBI Tel Aviv
+SUMMARY:🇪🇺 Virtus Bologna @ Hapoel IBI Tel Aviv (81-90)
 DTSTART:20261021T160000Z
 DTEND:20261021T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:67e34f20ecb0dd7d175eb59cc9f42867@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: V
  irtus Bologna\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 7\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: Hapoel IBI Tel Aviv 90 - 81 Virtus Bologn
+ a\nStato: finished
 LOCATION:ARENA 8888 SOFIA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8213,165 +8214,173 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Umana Reyer Venice @ Maxima Roma
+SUMMARY:⭐ Umana Reyer Venice @ Maxima Roma (79-90)
 DTSTART:20261021T183000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261013T123318Z
+DTSTAMP:20261022T004947Z
 UID:98e14100b3711a20db04a1fab9fd5a83@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: Umana Reyer 
- Venice\nCircuito/Arena: PALAEUR\nGiornata/Round: 4\nFase: Group B\nStato: 
- scheduled
+ Venice\nCircuito/Arena: PALAEUR\nGiornata/Round: 4\nFase: Group B\nRisulta
+ to: Maxima Roma 90 - 79 Umana Reyer Venice\nStato: finished
 LOCATION:PALAEUR
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Napoli Basketball
+SUMMARY:⭐ Tofas Bursa @ Napoli Basketball (101-105)
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261005T120947Z
+DTSTAMP:20261022T004947Z
 UID:21eda4998091d1e5a4ef299b2968489c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Tofas 
- Bursa\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 4\nFase: Group C\nSta
- to: scheduled
+ Bursa\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 4\nFase: Group C\nRis
+ ultato: Napoli Basketball 105 - 101 Tofas Bursa\nStato: finished
 LOCATION:ALCOTT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Hapoel Midtown Jerusalem
+SUMMARY:⭐ Riga Zelli @ Hapoel Midtown Jerusalem (64-100)
 DTSTART:20261021T180000Z
 DTEND:20261021T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:567c6828353b0d99dd1c80602438814c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
   Riga Zelli\nCircuito/Arena: HALA SPORTOVA RANKO ZERAVICA\nGiornata/Round:
-  4\nFase: Group A\nStato: scheduled
+  4\nFase: Group A\nRisultato: Hapoel Midtown Jerusalem 100 - 64 Riga Zelli
+ \nStato: finished
 LOCATION:HALA SPORTOVA RANKO ZERAVICA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ BOSNA BH Telecom Sarajevo
+SUMMARY:⭐ Bahcesehir College Istanbul @ BOSNA BH Telecom Sarajevo (77-86
+ )
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:9f57c5a43cb5d9e540ce2f34516bc2ce@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
  : Bahcesehir College Istanbul\nCircuito/Arena: ZETRA ARENA\nGiornata/Round
- : 4\nFase: Group D\nStato: scheduled
+ : 4\nFase: Group D\nRisultato: BOSNA BH Telecom Sarajevo 86 - 77 Bahcesehi
+ r College Istanbul\nStato: finished
 LOCATION:ZETRA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Dolomiti Energia Trento @ Cosea JL Bourg-en-Bresse
+SUMMARY:⭐ Dolomiti Energia Trento @ Cosea JL Bourg-en-Bresse (79-90)
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:51ebe7003c7465af67aef7d9895d517d@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
   Dolomiti Energia Trento\nCircuito/Arena: EKINOX\nGiornata/Round: 4\nFase:
-  Group C\nStato: scheduled
+  Group C\nRisultato: Cosea JL Bourg-en-Bresse 90 - 79 Dolomiti Energia Tre
+ nto\nStato: finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ La Laguna Tenerife @ Skyliners Frankfurt
+SUMMARY:⭐ La Laguna Tenerife @ Skyliners Frankfurt (104-94)
 DTSTART:20261021T173000Z
 DTEND:20261021T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:0da09f2fe59ff7ca5e8e3a47b504f456@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: La L
  aguna Tenerife\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 4\nFa
- se: Group B\nStato: scheduled
+ se: Group B\nRisultato: Skyliners Frankfurt 94 - 104 La Laguna Tenerife\nS
+ tato: finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ PAOK Thessaloniki
+SUMMARY:⭐ ratiopharm ulm @ PAOK Thessaloniki (78-87)
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:e6001e364c361f764d473257347517d0@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: ratiop
  harm ulm\nCircuito/Arena: PAOK SPORTS ARENA\nGiornata/Round: 4\nFase: Grou
- p D\nStato: scheduled
+ p D\nRisultato: PAOK Thessaloniki 87 - 78 ratiopharm ulm\nStato: finished
 LOCATION:PAOK SPORTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slask Wroclaw @ NINERS Chemnitz
+SUMMARY:⭐ Slask Wroclaw @ NINERS Chemnitz (67-95)
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:adbeaa97c4b92b70639f2a9ef29ab3b4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Slask Wr
- oclaw\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 4\nFase: Group C\nS
- tato: scheduled
+ oclaw\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 4\nFase: Group C\nR
+ isultato: NINERS Chemnitz 95 - 67 Slask Wroclaw\nStato: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Baglietto Derthona Tortona
+SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Baglietto Derthona Tortona 
+ (79-89)
 DTSTART:20261021T170000Z
 DTEND:20261021T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:d4200b6ee9778aec81c9ef3261ec8017@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Recoletas Salud San Pablo Burgos\nCircuito/Arena: NOVA ARENA\nGiornata/
- Round: 4\nFase: Group A\nStato: scheduled
+ Round: 4\nFase: Group A\nRisultato: Baglietto Derthona Tortona 89 - 79 Rec
+ oletas Salud San Pablo Burgos\nStato: finished
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Le Mans Sarthe Basket @ Cedevita Olimpija Ljubljana
+SUMMARY:⭐ Le Mans Sarthe Basket @ Cedevita Olimpija Ljubljana (84-66)
 DTSTART:20261021T163000Z
 DTEND:20261021T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:93f98a13ecf23d5cf1bc8b4c5cbe130a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
  te: Le Mans Sarthe Basket\nCircuito/Arena: ARENA STOZICE\nGiornata/Round: 
- 4\nFase: Group A\nStato: scheduled
+ 4\nFase: Group A\nRisultato: Cedevita Olimpija Ljubljana 66 - 84 Le Mans S
+ arthe Basket\nStato: finished
 LOCATION:ARENA STOZICE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ London Lions @ U-BT Cluj-Napoca
+SUMMARY:⭐ London Lions @ U-BT Cluj-Napoca (89-72)
 DTSTART:20261021T160000Z
 DTEND:20261021T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261022T004947Z
 UID:5db554841cb3e41376400afdfbcfa3e3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: London 
- Lions\nCircuito/Arena: BT ARENA\nGiornata/Round: 4\nFase: Group B\nStato: 
- scheduled
+ Lions\nCircuito/Arena: BT ARENA\nGiornata/Round: 4\nFase: Group B\nRisulta
+ to: U-BT Cluj-Napoca 72 - 89 London Lions\nStato: finished
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
