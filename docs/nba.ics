@@ -416,30 +416,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Cleveland Cavaliers @ Philadelphia 76ers
+SUMMARY:🏀 Cleveland Cavaliers @ Philadelphia 76ers (106-114)
 DTSTART:20261022T230000Z
 DTEND:20261023T013000Z
-DTSTAMP:20261023T005020Z
+DTSTAMP:20261023T095153Z
 UID:9d86ca94448f5da94123bfdce8d925d3@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Cleveland
-  Cavaliers\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nSt
- ato: live
+  Cavaliers\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRi
+ sultato: Philadelphia 76ers 114 - 106 Cleveland Cavaliers\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Oklahoma City Thunder
+SUMMARY:🏀 Denver Nuggets @ Oklahoma City Thunder (84-96)
 DTSTART:20261023T013000Z
 DTEND:20261023T040000Z
-DTSTAMP:20261016T003651Z
+DTSTAMP:20261023T095153Z
 UID:1f4626ac9eb48988fb18ba292e7e349f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Denver
-  Nuggets\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sch
- eduled
+  Nuggets\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato:
+  Oklahoma City Thunder 96 - 84 Denver Nuggets\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
