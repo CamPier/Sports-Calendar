@@ -3332,13 +3332,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Partizan Mozzart Bet Belgrade
 DTSTART:20261211T194500Z
 DTEND:20261211T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261023T174828Z
 UID:ef0b7aa756a1f0362dbb3201a06834b3@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: FC Barcelona\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/R
- ound: 16\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ nOspite: FC Barcelona\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 16\
+ nFase: Group Regular Season\nStato: scheduled
+LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
