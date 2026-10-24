@@ -1056,12 +1056,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — United States Grand Prix
 DTSTART:20261023T210000Z
 DTEND:20261023T220000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261024T005749Z
 UID:868dc7985d650a36753923bbd90f7ac1@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
   FP2\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA\nGiorn
- ata/Round: Round 18\nFase: SecondPractice\nStato: scheduled
+ ata/Round: Round 18\nFase: SecondPractice\nStato: finished
 LOCATION:Circuit of the Americas\, Austin\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

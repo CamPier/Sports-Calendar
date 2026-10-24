@@ -1057,14 +1057,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monza @ Torino
+SUMMARY:⚽ Monza @ Torino (2-3)
 DTSTART:20261023T184500Z
 DTEND:20261023T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261024T005746Z
 UID:9227b0e2d534d12aaff5e908368db5cd@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Monza\nCircuito/A
- rena: Stadio Olimpico Grande Torino\nCittà: Torino\nStato: scheduled
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 3 -
+  2 Monza\nStato: finished
 LOCATION:Stadio Olimpico Grande Torino\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

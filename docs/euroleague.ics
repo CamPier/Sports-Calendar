@@ -4684,45 +4684,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ Paris Basketball
+SUMMARY:🇪🇺 Valencia Basket @ Paris Basketball (104-93)
 DTSTART:20261023T184500Z
 DTEND:20261023T211500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261024T005713Z
 UID:cdab64f4b88e1cbd03ee2a9913a79aff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Vale
  ncia Basket\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 7\nFase: Group 
- Regular Season\nStato: scheduled
+ Regular Season\nRisultato: Paris Basketball 93 - 104 Valencia Basket\nStat
+ o: finished
 LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Olympiacos Piraeus (64-61)
 DTSTART:20261023T181500Z
 DTEND:20261023T204500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261024T005713Z
 UID:5cdfc7a8f3e10a894248b0cf1fdd11e4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Fe
  nerbahce Tarfin Istanbul\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 7\n
- Fase: Group Regular Season\nStato: scheduled
+ Fase: Group Regular Season\nRisultato: Olympiacos Piraeus 61 - 64 Fenerbah
+ ce Tarfin Istanbul\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Zalgiris Kaunas
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Zalgiris Kaunas (85-105)
 DTSTART:20261023T170000Z
 DTEND:20261023T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261024T005713Z
 UID:d0691079a8bb7c9efb9c650d554af95c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: LDLC 
  ASVEL Villeurbanne\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 7\nFas
- e: Group Regular Season\nStato: scheduled
+ e: Group Regular Season\nRisultato: Zalgiris Kaunas 105 - 85 LDLC ASVEL Vi
+ lleurbanne\nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
