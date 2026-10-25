@@ -1131,42 +1131,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Internazionale
+SUMMARY:⚽ Fiorentina @ Internazionale (1-2)
 DTSTART:20261025T113000Z
 DTEND:20261025T140000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261025T170147Z
 UID:624219c7428f2c237d707a6b9721f6c7@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Fiorentin
- a\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ a\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 2 -
+  1 Fiorentina\nStato: finished
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Frosinone @ Atalanta
+SUMMARY:⚽ Frosinone @ Atalanta (4-4)
 DTSTART:20261025T140000Z
 DTEND:20261025T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261025T170147Z
 UID:8a5d8a5f812c845ca4568098ea0b1e16@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Frosinone\nCirc
- uito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+ uito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 4 - 4 
+ Frosinone\nStato: finished
 LOCATION:New Balance Arena\, Bergamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Venezia @ Genoa
+SUMMARY:⚽ Venezia @ Genoa (0-1)
 DTSTART:20261025T140000Z
 DTEND:20261025T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261025T170147Z
 UID:3d033c6d13031675bb15867ecccaaf68@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Venezia\nCircuito/
- Arena: Stadio Luigi Ferraris\nCittà: Genova\nStato: scheduled
+ Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 1 - 0 Venez
+ ia\nStato: finished
 LOCATION:Stadio Luigi Ferraris\, Genova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

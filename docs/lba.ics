@@ -571,15 +571,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Bertram Derthona Tortona
+SUMMARY:🇮🇹 Napoli Basketball @ Bertram Derthona Tortona (92-90)
 DTSTART:20261025T110000Z
 DTEND:20261025T133000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261025T170145Z
 UID:a10f5ad3fa966b40e3dd7b9ded29ac85@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Nap
  oli Basketball\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/Roun
- d: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ d: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Bertram
+  Derthona Tortona 90 - 92 Napoli Basketball\nStato: finished
 LOCATION:Nova Arena\, Tortona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -589,14 +590,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Armani Olimpia Milano
 DTSTART:20261025T150000Z
 DTEND:20261025T173000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261025T170145Z
 UID:13c74a2b57b00832181dbcbaece3fa86@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Virtus
   Costa Bologna\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Rou
- nd: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nd: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:Unipol Forum\, Assago
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -604,14 +605,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Maxima Roma
 DTSTART:20261025T153000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261005T211239Z
+DTSTAMP:20261025T170145Z
 UID:a25b157d9b22df5464d7c3201a2f92ae@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: APU Old Wild Wes
  t Udine\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Ro
- und: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ und: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:Palazzetto dello Sport\, Roma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
