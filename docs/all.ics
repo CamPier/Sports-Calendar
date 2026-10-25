@@ -429,115 +429,120 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Charlotte Hornets
+SUMMARY:🏀 Miami Heat @ Charlotte Hornets (110-115)
 DTSTART:20261024T220000Z
 DTEND:20261025T003000Z
-DTSTAMP:20261025T002727Z
+DTSTAMP:20261025T094038Z
 UID:6136f39b24408cfe98bd2b9bc1f4096b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Miami Heat
- \nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: live
+ \nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: Charlotte
+  Hornets 115 - 110 Miami Heat\nStato: finished
 LOCATION:Spectrum Center\, Charlotte
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Cleveland Cavaliers
+SUMMARY:🏀 Brooklyn Nets @ Cleveland Cavaliers (121-125)
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
-DTSTAMP:20261025T002727Z
+DTSTAMP:20261025T094038Z
 UID:51dc576e4299564cc6b0c987849ee82b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Brooklyn
-  Nets\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: live
+  Nets\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Clevela
+ nd Cavaliers 125 - 121 Brooklyn Nets\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Milwaukee Bucks @ Philadelphia 76ers
+SUMMARY:🏀 Milwaukee Bucks @ Philadelphia 76ers (116-127)
 DTSTART:20261024T233000Z
 DTEND:20261025T020000Z
-DTSTAMP:20261025T002727Z
+DTSTAMP:20261025T094038Z
 UID:08aaa3d304c236dc32420091ef517b22@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Milwaukee
-  Bucks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
-  live
+  Bucks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRisult
+ ato: Philadelphia 76ers 127 - 116 Milwaukee Bucks\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Chicago Bulls
+SUMMARY:🏀 Washington Wizards @ Chicago Bulls (124-120)
 DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
-DTSTAMP:20261025T002727Z
+DTSTAMP:20261025T094038Z
 UID:5a953f3d90aedf50897ca1415fa2b8a0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Washington Wiz
- ards\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
+ ards\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago B
+ ulls 120 - 124 Washington Wizards\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Dallas Mavericks
+SUMMARY:🏀 San Antonio Spurs @ Dallas Mavericks (122-106)
 DTSTART:20261025T000000Z
 DTEND:20261025T023000Z
-DTSTAMP:20261025T002727Z
+DTSTAMP:20261025T094038Z
 UID:1339c415a7927f91f756a68a0a144f39@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: San Antonio
-  Spurs\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: l
- ive
+  Spurs\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisultat
+ o: Dallas Mavericks 106 - 122 San Antonio Spurs\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Atlanta Hawks
+SUMMARY:🏀 Houston Rockets @ Atlanta Hawks (121-114)
 DTSTART:20261025T003000Z
 DTEND:20261025T030000Z
-DTSTAMP:20261018T001130Z
+DTSTAMP:20261025T094038Z
 UID:6a4a8906d3f22947ccd6a82e65fec770@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Houston Rocket
- s\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+ s\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nRisultato: Atlanta H
+ awks 114 - 121 Houston Rockets\nStato: finished
 LOCATION:State Farm Arena\, Atlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Denver Nuggets
+SUMMARY:🏀 New Orleans Pelicans @ Denver Nuggets (135-141)
 DTSTART:20261025T010000Z
 DTEND:20261025T033000Z
-DTSTAMP:20261018T001130Z
+DTSTAMP:20261025T094038Z
 UID:43957d70f83bfc38bd682347b5e6177e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: New Orleans P
- elicans\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+ elicans\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nug
+ gets 141 - 135 New Orleans Pelicans\nStato: finished
 LOCATION:Ball Arena\, Denver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Phoenix Suns
+SUMMARY:🏀 Golden State Warriors @ Phoenix Suns (122-131)
 DTSTART:20261025T020000Z
 DTEND:20261025T043000Z
-DTSTAMP:20261018T001130Z
+DTSTAMP:20261025T094038Z
 UID:bf458d53678a6a2d3b2ad3d8704dbd03@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Golden State Wa
- rriors\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: s
- cheduled
+ rriors\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultat
+ o: Phoenix Suns 131 - 122 Golden State Warriors\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
