@@ -1071,12 +1071,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — United States Grand Prix
 DTSTART:20261024T173000Z
 DTEND:20261024T183000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261025T002725Z
 UID:aa36fbeb4c0d1208b937eafd44dbfdfd@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
   FP3\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA\nGiorn
- ata/Round: Round 18\nFase: ThirdPractice\nStato: scheduled
+ ata/Round: Round 18\nFase: ThirdPractice\nStato: finished
 LOCATION:Circuit of the Americas\, Austin\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1086,12 +1086,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — United States Grand Prix
 DTSTART:20261024T210000Z
 DTEND:20261024T220000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261025T002725Z
 UID:46751a380180c10cd68bd0421d5607c5@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: United States Grand Prix\nOspite: 🏎
   Qualifiche\nCircuito/Arena: Circuit of the Americas\nCittà: Austin\, USA
- \nGiornata/Round: Round 18\nFase: Qualifying\nStato: scheduled
+ \nGiornata/Round: Round 18\nFase: Qualifying\nStato: finished
 LOCATION:Circuit of the Americas\, Austin\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

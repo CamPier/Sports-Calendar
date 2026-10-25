@@ -1102,28 +1102,29 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AS Roma @ Napoli
+SUMMARY:⚽ AS Roma @ Napoli (3-3)
 DTSTART:20261024T160000Z
 DTEND:20261024T183000Z
-DTSTAMP:20261024T162944Z
+DTSTAMP:20261025T002723Z
 UID:3ba54d73e1a3906a060410eddf920f98@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: AS Roma\nCircuito
- /Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: live
+ /Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli 3
+  - 3 AS Roma\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Parma @ Lazio
+SUMMARY:⚽ Parma @ Lazio (1-2)
 DTSTART:20261024T184500Z
 DTEND:20261024T211500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261025T002723Z
 UID:3f959b414caecadb609e2b0876a16dd7@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Parma\nCircuito/Ar
- ena: Olimpico\nCittà: Roma\nStato: scheduled
+ ena: Olimpico\nCittà: Roma\nRisultato: Lazio 2 - 1 Parma\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

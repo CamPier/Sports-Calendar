@@ -537,31 +537,34 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Openjobmetis Varese
+SUMMARY:🇮🇹 BC Roma @ Openjobmetis Varese (103-110)
 DTSTART:20261024T180000Z
 DTEND:20261024T203000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261025T002721Z
 UID:bb59baf568369eb46f6626d346411b55@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: BC Roma\
  nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 5� Giorn
- ata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ ata\nFase: LBA – Regular Season 2026/27\nRisultato: Openjobmetis Varese 
+ 110 - 103 BC Roma\nStato: finished
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Longobardi Scafati Basket (81
+ -87)
 DTSTART:20261024T183000Z
 DTEND:20261024T210000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261025T002721Z
 UID:3749baf32ec8d449d061ce465979cac1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Do
  lomiti Energia Trentino\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nC
  ittà: Scafati\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Seaso
- n 2026/27\nStato: scheduled
+ n 2026/27\nRisultato: Longobardi Scafati Basket 87 - 81 Dolomiti Energia T
+ rentino\nStato: finished
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
