@@ -587,77 +587,83 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Virtus Costa Bologna @ Armani Olimpia Milano
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Armani Olimpia Milano (98-94)
 DTSTART:20261025T150000Z
 DTEND:20261025T173000Z
-DTSTAMP:20261025T170145Z
+DTSTAMP:20261026T003543Z
 UID:13c74a2b57b00832181dbcbaece3fa86@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Virtus
   Costa Bologna\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Rou
- nd: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ nd: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Armani
+  Olimpia Milano 94 - 98 Virtus Costa Bologna\nStato: finished
 LOCATION:Unipol Forum\, Assago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Maxima Roma
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Maxima Roma (75-81)
 DTSTART:20261025T153000Z
 DTEND:20261025T180000Z
-DTSTAMP:20261025T170145Z
+DTSTAMP:20261026T003543Z
 UID:a25b157d9b22df5464d7c3201a2f92ae@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: APU Old Wild Wes
  t Udine\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Ro
- und: 5� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ und: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Maxim
+ a Roma 81 - 75 APU Old Wild West Udine\nStato: finished
 LOCATION:Palazzetto dello Sport\, Roma
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia (97-89)
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261005T121002Z
+DTSTAMP:20261026T003543Z
 UID:e3cf49d1fd77f21ff3ddb6b81e190670@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Nutribul
  let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Ve
  neto\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\
- nStato: scheduled
+ nRisultato: Umana Reyer Venezia 89 - 97 Nutribullet Treviso Basket\nStato:
+  finished
 LOCATION:Palasport Taliercio\, Annone Veneto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ UNA Hotels Reggio Emilia
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ UNA Hotels Reggio Emilia (60-81
+ )
 DTSTART:20261025T173000Z
 DTEND:20261025T200000Z
-DTSTAMP:20261002T195635Z
+DTSTAMP:20261026T003543Z
 UID:378df7d19654973b644a046381c50116@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Acq
  ua S.Bernardo Cantù\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia
- \nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nSta
- to: scheduled
+ \nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRis
+ ultato: UNA Hotels Reggio Emilia 81 - 60 Acqua S.Bernardo Cantù\nStato: f
+ inished
 LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Tezenis Verona @ Pallacanestro Trieste
+SUMMARY:🇮🇹 Tezenis Verona @ Pallacanestro Trieste (99-108)
 DTSTART:20261025T173000Z
 DTEND:20261025T200000Z
-DTSTAMP:20261003T234526Z
+DTSTAMP:20261026T003543Z
 UID:a0fd9cbb35cccbeb36c60ce6c6800c7c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Tezeni
  s Verona\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 5
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacanest
+ ro Trieste 108 - 99 Tezenis Verona\nStato: finished
 LOCATION:PalaTrieste\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

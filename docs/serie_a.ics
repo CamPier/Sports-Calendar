@@ -1176,28 +1176,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus @ Lecce
+SUMMARY:⚽ Juventus @ Lecce (2-0)
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261026T003545Z
 UID:3e8ce2d91c3eb499f90e36b1baa549de@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Juventus\nCircuito
- /Arena: Via Del Mare\nCittà: Lecce\nStato: scheduled
+ /Arena: Via Del Mare\nCittà: Lecce\nRisultato: Lecce 0 - 2 Juventus\nStat
+ o: finished
 LOCATION:Via Del Mare\, Lecce
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AC Milan @ Udinese
+SUMMARY:⚽ AC Milan @ Udinese (2-0)
 DTSTART:20261025T194500Z
 DTEND:20261025T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261026T003545Z
 UID:283e0191a5196ba417dfbf4430a68cb6@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: AC Milan\nCircui
- to/Arena: Stadio Friuli\nCittà: Udine\nStato: scheduled
+ to/Arena: Stadio Friuli\nCittà: Udine\nRisultato: Udinese 0 - 2 AC Milan\
+ nStato: finished
 LOCATION:Stadio Friuli\, Udine
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
