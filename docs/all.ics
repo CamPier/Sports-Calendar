@@ -579,73 +579,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ New York Knicks
+SUMMARY:🏀 Orlando Magic @ New York Knicks (111-102)
 DTSTART:20261025T230000Z
 DTEND:20261026T013000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261026T105451Z
 UID:f53eb66d92ffd8ba6341bd88826298a4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Orlando Magi
- c\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ c\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: New
+  York Knicks 102 - 111 Orlando Magic\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ Minnesota Timberwolves
+SUMMARY:🏀 Toronto Raptors @ Minnesota Timberwolves (94-117)
 DTSTART:20261025T230000Z
 DTEND:20261026T013000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261026T105451Z
 UID:69b941e9593570be4b1feeaf5916d149@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Toron
- to Raptors\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: liv
- e
+ to Raptors\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato:
+  Minnesota Timberwolves 117 - 94 Toronto Raptors\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Oklahoma City Thunder
+SUMMARY:🏀 LA Clippers @ Oklahoma City Thunder (101-108)
 DTSTART:20261025T230000Z
 DTEND:20261026T013000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261026T105451Z
 UID:75e3b9c3a4b0ab32ecf9af990cada42f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: LA Cli
- ppers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: live
+ ppers\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato: Ok
+ lahoma City Thunder 108 - 101 LA Clippers\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Philadelphia 76ers
+SUMMARY:🏀 Detroit Pistons @ Philadelphia 76ers (106-93)
 DTSTART:20261025T233000Z
 DTEND:20261026T020000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261026T105451Z
 UID:6e0e40f9e19d7ce10bf1387c0bf214d7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Detroit P
- istons\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
-  live
+ istons\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRisult
+ ato: Philadelphia 76ers 93 - 106 Detroit Pistons\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Sacramento Kings
+SUMMARY:🏀 Memphis Grizzlies @ Sacramento Kings (123-112)
 DTSTART:20261026T010000Z
 DTEND:20261026T033000Z
-DTSTAMP:20261019T002302Z
+DTSTAMP:20261026T105451Z
 UID:aa2aea4f8f0048e638c587d44b509ccb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Memphis Gri
- zzlies\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: schedu
- led
+ zzlies\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sa
+ cramento Kings 112 - 123 Memphis Grizzlies\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
