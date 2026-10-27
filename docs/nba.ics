@@ -654,15 +654,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Charlotte Hornets
+SUMMARY:🏀 Washington Wizards @ Charlotte Hornets (103-110)
 DTSTART:20261026T230000Z
 DTEND:20261027T013000Z
-DTSTAMP:20261019T002246Z
+DTSTAMP:20261027T013442Z
 UID:39b986edea3bbe4e4330eab28b3a1305@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Washington
-  Wizards\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: sched
- uled
+  Wizards\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: C
+ harlotte Hornets 110 - 103 Washington Wizards\nStato: finished
 LOCATION:Spectrum Center\, Charlotte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -672,14 +672,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Minnesota Timberwolves @ Cleveland Cavaliers
 DTSTART:20261026T230000Z
 DTEND:20261027T013000Z
-DTSTAMP:20261019T002246Z
+DTSTAMP:20261027T013442Z
 UID:d004fa3372cc47d8c140b0374d488dbd@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Minnesot
- a Timberwolves\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: sc
- heduled
+ a Timberwolves\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: li
+ ve
 LOCATION:Rocket Arena\, Cleveland
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -687,13 +687,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago Bulls @ Boston Celtics
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
-DTSTAMP:20261019T002246Z
+DTSTAMP:20261027T013442Z
 UID:e967ce145e88dc01a5a17385616f7694@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Chicago Bulls
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
 LOCATION:TD Garden\, Boston
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -701,13 +701,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Dallas Mavericks @ Miami Heat
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
-DTSTAMP:20261019T002246Z
+DTSTAMP:20261027T013442Z
 UID:a9f153e2c1c1db1f0cd074f1cbe374c0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Dallas Mavericks\
- nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+ nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
 LOCATION:Kaseya Center\, Miami
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -715,13 +715,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Pacers @ Milwaukee Bucks
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-DTSTAMP:20261020T010913Z
+DTSTAMP:20261027T013442Z
 UID:a621a7ab4fd619b9a7e129b25ca7cbe9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Indiana Pace
- rs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+ rs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -729,14 +729,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Phoenix Suns @ Oklahoma City Thunder
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-DTSTAMP:20261020T010913Z
+DTSTAMP:20261027T013442Z
 UID:91c62043a9b23fe20791702d9dbd9d70@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Phoeni
- x Suns\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: sched
- uled
+ x Suns\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: live
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -744,14 +743,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Atlanta Hawks @ Houston Rockets
 DTSTART:20261027T003000Z
 DTEND:20261027T030000Z
-DTSTAMP:20261020T010913Z
+DTSTAMP:20261027T013442Z
 UID:0153badb46a19fef32d8fabd2381acfe@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Atlanta Hawk
- s\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: schedu
- led
+ s\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: live
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -759,13 +757,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Memphis Grizzlies @ Utah Jazz
 DTSTART:20261027T010000Z
 DTEND:20261027T033000Z
-DTSTAMP:20261020T010913Z
+DTSTAMP:20261027T013442Z
 UID:5096da16f9673939df9c6b11e9cd029f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Memphis Grizzlies\
- nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+ nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
 LOCATION:Delta Center\, Salt Lake City
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1363,6 +1361,225 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Toronto R
  aptors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sche
  duled
+LOCATION:crypto.com Arena\, Los Angeles
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Cleveland Cavaliers
+DTSTART:20261103T000000Z
+DTEND:20261103T023000Z
+DTSTAMP:20261027T013442Z
+UID:0a02e63ac7f41e41ae7c353d9e322be3@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Oklahoma
+  City Thunder\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: sch
+ eduled
+LOCATION:Rocket Arena\, Cleveland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Detroit Pistons @ Charlotte Hornets
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+DTSTAMP:20261027T013442Z
+UID:ec6a25bfe0285912b53716a5af985255@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Detroit Pi
+ stons\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: schedule
+ d
+LOCATION:Spectrum Center\, Charlotte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Indiana Pacers
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+DTSTAMP:20261027T013442Z
+UID:20381aa4f2aba22d03bd7a0994f3d8d4@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Atlanta Hawks
+ \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nStato: sche
+ duled
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Brooklyn Nets @ New York Knicks
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+DTSTAMP:20261027T013442Z
+UID:565aa4e3069d4885cd47cd2200cf5fad@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Brooklyn Net
+ s\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: schedul
+ ed
+LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Wizards @ Orlando Magic
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+DTSTAMP:20261027T013442Z
+UID:4e05def0f2ab6d129609c4f6b60214fd@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Washington Wiz
+ ards\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Chicago Bulls @ Philadelphia 76ers
+DTSTART:20261103T003000Z
+DTEND:20261103T030000Z
+DTSTAMP:20261027T013442Z
+UID:08c617e5e4909642802032c35a1adbbf@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Chicago B
+ ulls\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: s
+ cheduled
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Sacramento Kings @ Dallas Mavericks
+DTSTART:20261103T010000Z
+DTEND:20261103T033000Z
+DTSTAMP:20261027T013442Z
+UID:5ed2a6739e2f06ca89522c24fd76d7a3@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Sacramento 
+ Kings\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: sc
+ heduled
+LOCATION:American Airlines Center\, Dallas
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 New Orleans Pelicans @ Memphis Grizzlies
+DTSTART:20261103T010000Z
+DTEND:20261103T033000Z
+DTSTAMP:20261027T013442Z
+UID:1a239e08fd0dbd2a671f11020d9fb49c@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: New Orlean
+ s Pelicans\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: scheduled
+LOCATION:FedExForum\, Memphis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Milwaukee Bucks @ Minnesota Timberwolves
+DTSTART:20261103T010000Z
+DTEND:20261103T033000Z
+DTSTAMP:20261027T013442Z
+UID:6fc71eee712a0f40cb36c8158c595ce0@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Milwa
+ ukee Bucks\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: sch
+ eduled
+LOCATION:Target Center\, Minneapolis
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Boston Celtics @ Houston Rockets
+DTSTART:20261103T013000Z
+DTEND:20261103T040000Z
+DTSTAMP:20261027T013442Z
+UID:1924086ee57f79361c5d53d1e9ebc1d5@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Boston Celti
+ cs\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: sched
+ uled
+LOCATION:Toyota Center (Houston)\, Houston
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Utah Jazz @ San Antonio Spurs
+DTSTART:20261103T013000Z
+DTEND:20261103T040000Z
+DTSTAMP:20261027T013442Z
+UID:5b782d22e625e81364699724f2a07552@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Utah Jazz\
+ nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: scheduled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Portland Trail Blazers @ Denver Nuggets
+DTSTART:20261103T020000Z
+DTEND:20261103T043000Z
+DTSTAMP:20261027T013442Z
+UID:6ac74b2a0c0e8fed7d3d07283eb926e4@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Portland Trai
+ l Blazers\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+LOCATION:Ball Arena\, Denver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Phoenix Suns @ Golden State Warriors
+DTSTART:20261103T030000Z
+DTEND:20261103T053000Z
+DTSTAMP:20261027T013442Z
+UID:a032fbccd90299923fc022e1ef1daae7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Phoeni
+ x Suns\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: schedu
+ led
+LOCATION:Chase Center\, San Francisco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ LA Clippers
+DTSTART:20261103T030000Z
+DTEND:20261103T053000Z
+DTSTAMP:20261027T013442Z
+UID:200afa42adde92d770425f19b88e7df1@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Toronto Raptors\
+ nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
+LOCATION:Intuit Dome\, Inglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami Heat @ Los Angeles Lakers
+DTSTART:20261103T030000Z
+DTEND:20261103T053000Z
+DTSTAMP:20261027T013442Z
+UID:1dd562f8646046d83420c796c315277d@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Miami Hea
+ t\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: scheduled
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
