@@ -669,113 +669,120 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ Cleveland Cavaliers
+SUMMARY:🏀 Minnesota Timberwolves @ Cleveland Cavaliers (125-127)
 DTSTART:20261026T230000Z
 DTEND:20261027T013000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:d004fa3372cc47d8c140b0374d488dbd@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Minnesot
- a Timberwolves\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: li
- ve
+ a Timberwolves\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato
+ : Cleveland Cavaliers 127 - 125 Minnesota Timberwolves\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Boston Celtics
+SUMMARY:🏀 Chicago Bulls @ Boston Celtics (99-134)
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:e967ce145e88dc01a5a17385616f7694@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Chicago Bulls
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtics 134
+  - 99 Chicago Bulls\nStato: finished
 LOCATION:TD Garden\, Boston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Miami Heat
+SUMMARY:🏀 Dallas Mavericks @ Miami Heat (113-109)
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:a9f153e2c1c1db1f0cd074f1cbe374c0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Dallas Mavericks\
- nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
+ nCircuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 109 -
+  113 Dallas Mavericks\nStato: finished
 LOCATION:Kaseya Center\, Miami
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Milwaukee Bucks
+SUMMARY:🏀 Indiana Pacers @ Milwaukee Bucks (102-110)
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:a621a7ab4fd619b9a7e129b25ca7cbe9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Indiana Pace
- rs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ rs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee 
+ Bucks 110 - 102 Indiana Pacers\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Oklahoma City Thunder
+SUMMARY:🏀 Phoenix Suns @ Oklahoma City Thunder (114-125)
 DTSTART:20261027T000000Z
 DTEND:20261027T023000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:91c62043a9b23fe20791702d9dbd9d70@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Phoeni
- x Suns\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato: live
+ x Suns\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato: O
+ klahoma City Thunder 125 - 114 Phoenix Suns\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Houston Rockets
+SUMMARY:🏀 Atlanta Hawks @ Houston Rockets (110-120)
 DTSTART:20261027T003000Z
 DTEND:20261027T030000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:0153badb46a19fef32d8fabd2381acfe@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Atlanta Hawk
- s\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: live
+ s\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato: Ho
+ uston Rockets 120 - 110 Atlanta Hawks\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Utah Jazz
+SUMMARY:🏀 Memphis Grizzlies @ Utah Jazz (110-105)
 DTSTART:20261027T010000Z
 DTEND:20261027T033000Z
-DTSTAMP:20261027T013457Z
+DTSTAMP:20261027T101836Z
 UID:5096da16f9673939df9c6b11e9cd029f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Memphis Grizzlies\
- nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jaz
+ z 105 - 110 Memphis Grizzlies\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Denver Nuggets
+SUMMARY:🏀 Golden State Warriors @ Denver Nuggets (134-114)
 DTSTART:20261027T020000Z
 DTEND:20261027T043000Z
-DTSTAMP:20261020T010930Z
+DTSTAMP:20261027T101836Z
 UID:1a1abb1b34e71dcd3a8a26c2c2c54848@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Golden State 
- Warriors\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+ Warriors\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nu
+ ggets 114 - 134 Golden State Warriors\nStato: finished
 LOCATION:Ball Arena\, Denver
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -10829,15 +10836,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Umana Reyer Venezia (73-85)
 DTSTART:20260926T180000Z
 DTEND:20260926T203000Z
-DTSTAMP:20261005T121007Z
+DTSTAMP:20261027T101836Z
 UID:5834613e60d003cf683ae7a40b59dbcf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Acqua S.
- Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Venet
- o\nGiornata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRi
- sultato: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finis
- hed
-LOCATION:Palasport Taliercio\, Annone Veneto
+ Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGio
+ rnata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRisultat
+ o: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finished
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11195,14 +11201,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia (93-86)
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261012T013550Z
+DTSTAMP:20261027T101836Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
- osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
- Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisul
- tato: Umana Reyer Venezia 86 - 93 Virtus Costa Bologna\nStato: finished
-LOCATION:Palasport Taliercio\, Annone Veneto
+ osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGiorna
+ ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: 
+ Umana Reyer Venezia 86 - 93 Virtus Costa Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11423,15 +11429,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia (97-89)
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261027T101836Z
 UID:e3cf49d1fd77f21ff3ddb6b81e190670@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Nutribul
- let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Ve
- neto\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\
- nRisultato: Umana Reyer Venezia 89 - 97 Nutribullet Treviso Basket\nStato:
-  finished
-LOCATION:Palasport Taliercio\, Annone Veneto
+ let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\n
+ Giornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRisul
+ tato: Umana Reyer Venezia 89 - 97 Nutribullet Treviso Basket\nStato: finis
+ hed
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11799,14 +11805,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Maxima Roma @ Umana Reyer Venezia
 DTSTART:20261115T170000Z
 DTEND:20261115T193000Z
-DTSTAMP:20261006T185124Z
+DTSTAMP:20261027T101836Z
 UID:3ea217028c5cf15ea39c0e7b904d31d2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Maxima R
- oma\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\nGiornata/
- Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
- ed
-LOCATION:Palasport Taliercio\, Annone Veneto
+ oma\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGiornata/Round:
+  8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11969,14 +11974,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia
 DTSTART:20261205T183000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261006T185124Z
+DTSTAMP:20261027T101836Z
 UID:1c1a55724692738a0612ab7417a2cac2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Vene
- to\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
-LOCATION:Palasport Taliercio\, Annone Veneto
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGi
+ ornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato:
+  scheduled
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

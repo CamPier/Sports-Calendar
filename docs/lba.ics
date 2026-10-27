@@ -28,15 +28,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Umana Reyer Venezia (73-85)
 DTSTART:20260926T180000Z
 DTEND:20260926T203000Z
-DTSTAMP:20261005T121002Z
+DTSTAMP:20261027T101829Z
 UID:5834613e60d003cf683ae7a40b59dbcf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Acqua S.
- Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Venet
- o\nGiornata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRi
- sultato: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finis
- hed
-LOCATION:Palasport Taliercio\, Annone Veneto
+ Bernardo Cantù\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGio
+ rnata/Round: 1� Giornata\nFase: LBA – Regular Season 2026/27\nRisultat
+ o: Umana Reyer Venezia 85 - 73 Acqua S.Bernardo Cantù\nStato: finished
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -394,14 +393,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Umana Reyer Venezia (93-86)
 DTSTART:20261011T170000Z
 DTEND:20261011T193000Z
-DTSTAMP:20261012T013544Z
+DTSTAMP:20261027T101829Z
 UID:e711601c459aa04a65b2b72a5d822c76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Virtus C
- osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\n
- Giornata/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisul
- tato: Umana Reyer Venezia 86 - 93 Virtus Costa Bologna\nStato: finished
-LOCATION:Palasport Taliercio\, Annone Veneto
+ osta Bologna\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGiorna
+ ta/Round: 3� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: 
+ Umana Reyer Venezia 86 - 93 Virtus Costa Bologna\nStato: finished
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -622,15 +621,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Umana Reyer Venezia (97-89)
 DTSTART:20261025T170000Z
 DTEND:20261025T193000Z
-DTSTAMP:20261026T003543Z
+DTSTAMP:20261027T101829Z
 UID:e3cf49d1fd77f21ff3ddb6b81e190670@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Nutribul
- let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Ve
- neto\nGiornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\
- nRisultato: Umana Reyer Venezia 89 - 97 Nutribullet Treviso Basket\nStato:
-  finished
-LOCATION:Palasport Taliercio\, Annone Veneto
+ let Treviso Basket\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\n
+ Giornata/Round: 5� Giornata\nFase: LBA – Regular Season 2026/27\nRisul
+ tato: Umana Reyer Venezia 89 - 97 Nutribullet Treviso Basket\nStato: finis
+ hed
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -998,14 +997,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Maxima Roma @ Umana Reyer Venezia
 DTSTART:20261115T170000Z
 DTEND:20261115T193000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261027T101829Z
 UID:3ea217028c5cf15ea39c0e7b904d31d2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Maxima R
- oma\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Veneto\nGiornata/
- Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
- ed
-LOCATION:Palasport Taliercio\, Annone Veneto
+ oma\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGiornata/Round:
+  8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1168,14 +1166,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ Umana Reyer Venezia
 DTSTART:20261205T183000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261027T101829Z
 UID:1c1a55724692738a0612ab7417a2cac2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: Bertram 
- Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Annone Vene
- to\nGiornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\n
- Stato: scheduled
-LOCATION:Palasport Taliercio\, Annone Veneto
+ Derthona Tortona\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGi
+ ornata/Round: 10� Giornata\nFase: LBA – Regular Season 2026/27\nStato:
+  scheduled
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
