@@ -4669,15 +4669,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Dubai Basketball
+SUMMARY:🇪🇺 Paris Basketball @ Dubai Basketball (99-93)
 DTSTART:20261027T160000Z
 DTEND:20261027T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261027T183658Z
 UID:b1f3e14872723a7bc5216e6e41a45531@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Pari
  s Basketball\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 8\nFase: Gr
- oup Regular Season\nStato: scheduled
+ oup Regular Season\nRisultato: Dubai Basketball 93 - 99 Paris Basketball\n
+ Stato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8209,15 +8210,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ Bahcesehir College Istanbul
+SUMMARY:⭐ PAOK Thessaloniki @ Bahcesehir College Istanbul (81-84)
 DTSTART:20261027T160000Z
 DTEND:20261027T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261027T183658Z
 UID:b043ffc3616abef838a4d2f798f02cf8@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
  te: PAOK Thessaloniki\nCircuito/Arena: SINAN ERDEM SPORTS HALL\nGiornata/R
- ound: 5\nFase: Group D\nStato: scheduled
+ ound: 5\nFase: Group D\nRisultato: Bahcesehir College Istanbul 84 - 81 PAO
+ K Thessaloniki\nStato: finished
 LOCATION:SINAN ERDEM SPORTS HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

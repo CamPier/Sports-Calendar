@@ -1209,13 +1209,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lazio @ Sassuolo
 DTSTART:20261027T173000Z
 DTEND:20261027T200000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261027T183711Z
 UID:dd043c5c77720a50cb43a34efab5cb79@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Lazio\nCircuito
- /Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
