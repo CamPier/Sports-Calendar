@@ -759,58 +759,61 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Boston Celtics
+SUMMARY:🏀 Brooklyn Nets @ Boston Celtics (124-125)
 DTSTART:20261027T233000Z
 DTEND:20261028T020000Z
-DTSTAMP:20261028T013317Z
+DTSTAMP:20261028T111057Z
 UID:cc6b65c6ec2b73c6115a4c63874bb6b0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Brooklyn Nets
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtics 125
+  - 124 Brooklyn Nets\nStato: finished
 LOCATION:TD Garden\, Boston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ New York Knicks
+SUMMARY:🏀 Detroit Pistons @ New York Knicks (97-111)
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261028T013317Z
+DTSTAMP:20261028T111057Z
 UID:0e65add71dddb8225752cfce565b64d0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Detroit Pist
- ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: N
+ ew York Knicks 111 - 97 Detroit Pistons\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ San Antonio Spurs
+SUMMARY:🏀 Sacramento Kings @ San Antonio Spurs (103-130)
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261028T013317Z
+DTSTAMP:20261028T111057Z
 UID:c6765b7e5bc99d2d7fc0c297e4e31405@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Sacramento
-  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: liv
- e
+  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato:
+  San Antonio Spurs 130 - 103 Sacramento Kings\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Los Angeles Lakers
+SUMMARY:🏀 Portland Trail Blazers @ Los Angeles Lakers (136-129)
 DTSTART:20261028T030000Z
 DTEND:20261028T053000Z
-DTSTAMP:20261021T004800Z
+DTSTAMP:20261028T111057Z
 UID:9054487580f0d1658eb5ff61d4893131@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Portland 
- Trail Blazers\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStat
- o: scheduled
+ Trail Blazers\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisu
+ ltato: Los Angeles Lakers 129 - 136 Portland Trail Blazers\nStato: finishe
+ d
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -11860,21 +11863,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
-DTSTART:20261122T160000Z
-DTEND:20261122T183000Z
-DTSTAMP:20261006T185124Z
-UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
- poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
- : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket
 DTSTART:20261122T163000Z
 DTEND:20261122T190000Z
@@ -11886,21 +11874,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Ac
  tà: Scafati\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 
  2026/27\nStato: scheduled
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
-DTSTART:20261122T170000Z
-DTEND:20261122T193000Z
-DTSTAMP:20261006T185124Z
-UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
- iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
- ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:PalaEur\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -11921,6 +11894,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
+DTSTART:20261122T170000Z
+DTEND:20261122T193000Z
+DTSTAMP:20261006T185124Z
+UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
+ iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
+ ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaEur\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona
 DTSTART:20261122T171500Z
 DTEND:20261122T194500Z
@@ -11931,6 +11919,21 @@ DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: APU Old Wild
  West Udine\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 9
  � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Pala MAGIS\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
+DTSTART:20261122T180000Z
+DTEND:20261122T203000Z
+DTSTAMP:20261028T111057Z
+UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
+ poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -23812,14 +23815,14 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Cali Open
+SUMMARY:🎾 WTA @ Reto Win Tennis Cali Open
 DTSTART:20261102T050000Z
 DTEND:20261102T073000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261028T111057Z
 UID:a7dc722605bcdc854c76346d1bcd03e0@basketball-calendar.github.io
 COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Cali Open\nOspite: WTA\nGiorna
- ta/Round: Cali Open\nStato: scheduled
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Reto Win Tennis Cali Open\nOsp
+ ite: WTA\nGiornata/Round: Reto Win Tennis Cali Open\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

@@ -1072,21 +1072,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
-DTSTART:20261122T160000Z
-DTEND:20261122T183000Z
-DTSTAMP:20261006T185119Z
-UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
- poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
- : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:BTS Arena\, Trento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket
 DTSTART:20261122T163000Z
 DTEND:20261122T190000Z
@@ -1098,21 +1083,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Ac
  tà: Scafati\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 
  2026/27\nStato: scheduled
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
-DTSTART:20261122T170000Z
-DTEND:20261122T193000Z
-DTSTAMP:20261006T185119Z
-UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
- iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
- ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:PalaEur\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1133,6 +1103,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
+DTSTART:20261122T170000Z
+DTEND:20261122T193000Z
+DTSTAMP:20261006T185119Z
+UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
+ iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
+ ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaEur\, Roma
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona
 DTSTART:20261122T171500Z
 DTEND:20261122T194500Z
@@ -1143,6 +1128,21 @@ DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: APU Old Wild
  West Udine\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 9
  � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
 LOCATION:Pala MAGIS\, Verona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
+DTSTART:20261122T180000Z
+DTEND:20261122T203000Z
+DTSTAMP:20261028T111050Z
+UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
+ poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
