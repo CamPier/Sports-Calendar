@@ -4593,60 +4593,64 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Real Madrid @ Kosner Baskonia Vitoria-Gasteiz (104-86)
 DTSTART:20261027T200000Z
 DTEND:20261027T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:9c8cf30573fda0ceaa97c8fe17658f55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Real Madrid\nCircuito/Arena: BUESA ARENA\nGiornata/Round: 8\nFa
- se: Group Regular Season\nStato: scheduled
+ se: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz 86 - 
+ 104 Real Madrid\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Valencia Basket
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Valencia Basket (78-86)
 DTSTART:20261027T193000Z
 DTEND:20261027T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:1ebe51aa8c491e3576cfc4f3e084b49c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Fener
  bahce Tarfin Istanbul\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 8\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: Valencia Basket 86 - 78 Fenerbahce Tarf
+ in Istanbul\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Panathinaikos AKTOR Athens (75-80)
 DTSTART:20261027T191500Z
 DTEND:20261027T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:317e27618137bf84577cec7335184208@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: Armani Olimpia Milan\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiornat
- a/Round: 8\nFase: Group Regular Season\nStato: scheduled
+ a/Round: 8\nFase: Group Regular Season\nRisultato: Panathinaikos AKTOR Ath
+ ens 80 - 75 Armani Olimpia Milan\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Barcelona @ FC Bayern Munich
+SUMMARY:🇪🇺 FC Barcelona @ FC Bayern Munich (88-84)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:402b45508b1f1c5b21b3f0c0b482c278@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: FC B
  arcelona\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 8\nFase: Group Regul
- ar Season\nStato: scheduled
+ ar Season\nRisultato: FC Bayern Munich 84 - 88 FC Barcelona\nStato: finish
+ ed
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4654,15 +4658,16 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Crvena Zvezda Meridianbet Belgra
- de
+ de (78-100)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261023T095155Z
+DTSTAMP:20261028T013303Z
 UID:98422bda6a4acf1c80191f6123ef5616@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
  rade\nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGior
- nata/Round: 8\nFase: Group Regular Season\nStato: scheduled
+ nata/Round: 8\nFase: Group Regular Season\nRisultato: Crvena Zvezda Meridi
+ anbet Belgrade 100 - 78 Maccabi Rapyd Tel Aviv\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8135,75 +8140,79 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Roma Basketball
+SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Roma Basketball (85-80)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:645bb840aa3a872528c13278ace76c0b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: BOSNA BH
   Telecom Sarajevo\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round:
-  5\nFase: Group D\nStato: scheduled
+  5\nFase: Group D\nRisultato: Roma Basketball 80 - 85 BOSNA BH Telecom Sar
+ ajevo\nStato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Buducnost VOLI Podgorica @ Dolomiti Energia Trento
+SUMMARY:⭐ Buducnost VOLI Podgorica @ Dolomiti Energia Trento (92-94)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:75adfa88bedec823d7f0460a6d9a1c53@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Buducnost VOLI Podgorica\nCircuito/Arena: BTS ARENA\nGiornata/Round: 5\nFa
- se: Group C\nStato: scheduled
+ se: Group C\nRisultato: Dolomiti Energia Trento 94 - 92 Buducnost VOLI Pod
+ gorica\nStato: finished
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ U-BT Cluj-Napoca @ Skyliners Frankfurt
+SUMMARY:⭐ U-BT Cluj-Napoca @ Skyliners Frankfurt (97-113)
 DTSTART:20261027T183000Z
 DTEND:20261027T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:52a6f0528b5e4a5d8322864b8cd8ac77@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: U-BT
   Cluj-Napoca\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 5\nFase
- : Group B\nStato: scheduled
+ : Group B\nRisultato: Skyliners Frankfurt 113 - 97 U-BT Cluj-Napoca\nStato
+ : finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Kids&Us Manresa @ Balkan Botevgrad
+SUMMARY:⭐ Kids&Us Manresa @ Balkan Botevgrad (76-65)
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:fd03fd647bb316ad27f05c5fb53712e9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Kids&Us
   Manresa\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 5\nFase: Group 
- D\nStato: scheduled
+ D\nRisultato: Balkan Botevgrad 65 - 76 Kids&Us Manresa\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Lietkabelis Panevezys
+SUMMARY:⭐ ratiopharm ulm @ Lietkabelis Panevezys (86-68)
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261028T013303Z
 UID:fc2cce6d704f731c23214e299e436976@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: ra
  tiopharm ulm\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 5\nFase: G
- roup D\nStato: scheduled
+ roup D\nRisultato: Lietkabelis Panevezys 68 - 86 ratiopharm ulm\nStato: fi
+ nished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -9,36 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Detroit Pistons (113-121)
-DTSTART:20261020T190000Z
-DTEND:20261020T213000Z
-DTSTAMP:20261021T004741Z
-UID:c822614a082cd89d5869cc753019648a@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Boston Celti
- cs\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: Detr
- oit Pistons 121 - 113 Boston Celtics\nStato: finished
-LOCATION:Little Caesars Arena\, Detroit
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ New York Knicks (106-100)
-DTSTART:20261020T230000Z
-DTEND:20261021T013000Z
-DTSTAMP:20261021T095649Z
-UID:56e4bad77fae8f6b4d634388e567846b@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Philadelphia
-  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
- : New York Knicks 100 - 106 Philadelphia 76ers\nStato: finished
-LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs (116-104)
 DTSTART:20261021T015000Z
 DTEND:20261021T042000Z
@@ -792,13 +762,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Brooklyn Nets @ Boston Celtics
 DTSTART:20261027T233000Z
 DTEND:20261028T020000Z
-DTSTAMP:20261020T010913Z
+DTSTAMP:20261028T013302Z
 UID:cc6b65c6ec2b73c6115a4c63874bb6b0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Brooklyn Nets
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
 LOCATION:TD Garden\, Boston
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -806,14 +776,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Detroit Pistons @ New York Knicks
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261021T004741Z
+DTSTAMP:20261028T013302Z
 UID:0e65add71dddb8225752cfce565b64d0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Detroit Pist
- ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
- uled
+ ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
 LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -821,14 +790,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Sacramento Kings @ San Antonio Spurs
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261021T004741Z
+DTSTAMP:20261028T013302Z
 UID:c6765b7e5bc99d2d7fc0c297e4e31405@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Sacramento
-  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sch
- eduled
+  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: liv
+ e
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

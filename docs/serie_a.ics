@@ -1206,42 +1206,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lazio @ Sassuolo
+SUMMARY:⚽ Lazio @ Sassuolo (6-2)
 DTSTART:20261027T173000Z
 DTEND:20261027T200000Z
-DTSTAMP:20261027T183711Z
+DTSTAMP:20261028T013314Z
 UID:dd043c5c77720a50cb43a34efab5cb79@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Lazio\nCircuito
- /Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 2 - 6 La
+ zio\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cagliari @ AS Roma
+SUMMARY:⚽ Cagliari @ AS Roma (2-4)
 DTSTART:20261027T194500Z
 DTEND:20261027T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261028T013314Z
 UID:6feb9afb5a38da196a2e090ea0e2db28@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Cagliari\nCircui
- to/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ to/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 4 - 2 Cagliari\nStato
+ : finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Como @ Torino
+SUMMARY:⚽ Como @ Torino (3-1)
 DTSTART:20261027T194500Z
 DTEND:20261027T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261028T013314Z
 UID:33d374f7cda623f935262bb70632884c@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Como\nCircuito/Ar
- ena: Stadio Olimpico Grande Torino\nCittà: Torino\nStato: scheduled
+ ena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 1 - 
+ 3 Como\nStato: finished
 LOCATION:Stadio Olimpico Grande Torino\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

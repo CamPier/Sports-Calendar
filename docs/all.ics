@@ -9,36 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Detroit Pistons (113-121)
-DTSTART:20261020T190000Z
-DTEND:20261020T213000Z
-DTSTAMP:20261021T004800Z
-UID:c822614a082cd89d5869cc753019648a@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Boston Celti
- cs\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: Detr
- oit Pistons 121 - 113 Boston Celtics\nStato: finished
-LOCATION:Little Caesars Arena\, Detroit
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ New York Knicks (106-100)
-DTSTART:20261020T230000Z
-DTEND:20261021T013000Z
-DTSTAMP:20261021T095704Z
-UID:56e4bad77fae8f6b4d634388e567846b@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Philadelphia
-  76ers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato
- : New York Knicks 100 - 106 Philadelphia 76ers\nStato: finished
-LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Oklahoma City Thunder @ San Antonio Spurs (116-104)
 DTSTART:20261021T015000Z
 DTEND:20261021T042000Z
@@ -792,13 +762,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Brooklyn Nets @ Boston Celtics
 DTSTART:20261027T233000Z
 DTEND:20261028T020000Z
-DTSTAMP:20261020T010930Z
+DTSTAMP:20261028T013317Z
 UID:cc6b65c6ec2b73c6115a4c63874bb6b0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Brooklyn Nets
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: scheduled
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
 LOCATION:TD Garden\, Boston
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -806,14 +776,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Detroit Pistons @ New York Knicks
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261021T004800Z
+DTSTAMP:20261028T013317Z
 UID:0e65add71dddb8225752cfce565b64d0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Detroit Pist
- ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
- uled
+ ons\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
 LOCATION:Madison Square Garden\, New York
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -821,14 +790,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Sacramento Kings @ San Antonio Spurs
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
-DTSTAMP:20261021T004800Z
+DTSTAMP:20261028T013317Z
 UID:c6765b7e5bc99d2d7fc0c297e4e31405@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Sacramento
-  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sch
- eduled
+  Kings\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: liv
+ e
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -6177,60 +6146,64 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Real Madrid @ Kosner Baskonia Vitoria-Gasteiz (104-86)
 DTSTART:20261027T200000Z
 DTEND:20261027T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:9c8cf30573fda0ceaa97c8fe17658f55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Real Madrid\nCircuito/Arena: BUESA ARENA\nGiornata/Round: 8\nFa
- se: Group Regular Season\nStato: scheduled
+ se: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz 86 - 
+ 104 Real Madrid\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Valencia Basket
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Valencia Basket (78-86)
 DTSTART:20261027T193000Z
 DTEND:20261027T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:1ebe51aa8c491e3576cfc4f3e084b49c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Fener
  bahce Tarfin Istanbul\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 8\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: Valencia Basket 86 - 78 Fenerbahce Tarf
+ in Istanbul\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Panathinaikos AKTOR Athens (75-80)
 DTSTART:20261027T191500Z
 DTEND:20261027T214500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:317e27618137bf84577cec7335184208@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: Armani Olimpia Milan\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiornat
- a/Round: 8\nFase: Group Regular Season\nStato: scheduled
+ a/Round: 8\nFase: Group Regular Season\nRisultato: Panathinaikos AKTOR Ath
+ ens 80 - 75 Armani Olimpia Milan\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Barcelona @ FC Bayern Munich
+SUMMARY:🇪🇺 FC Barcelona @ FC Bayern Munich (88-84)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:402b45508b1f1c5b21b3f0c0b482c278@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: FC B
  arcelona\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 8\nFase: Group Regul
- ar Season\nStato: scheduled
+ ar Season\nRisultato: FC Bayern Munich 84 - 88 FC Barcelona\nStato: finish
+ ed
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6238,15 +6211,16 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Crvena Zvezda Meridianbet Belgra
- de
+ de (78-100)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261023T095211Z
+DTSTAMP:20261028T013317Z
 UID:98422bda6a4acf1c80191f6123ef5616@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
  rade\nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGior
- nata/Round: 8\nFase: Group Regular Season\nStato: scheduled
+ nata/Round: 8\nFase: Group Regular Season\nRisultato: Crvena Zvezda Meridi
+ anbet Belgrade 100 - 78 Maccabi Rapyd Tel Aviv\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9719,75 +9693,79 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Roma Basketball
+SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Roma Basketball (85-80)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:645bb840aa3a872528c13278ace76c0b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: BOSNA BH
   Telecom Sarajevo\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round:
-  5\nFase: Group D\nStato: scheduled
+  5\nFase: Group D\nRisultato: Roma Basketball 80 - 85 BOSNA BH Telecom Sar
+ ajevo\nStato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Buducnost VOLI Podgorica @ Dolomiti Energia Trento
+SUMMARY:⭐ Buducnost VOLI Podgorica @ Dolomiti Energia Trento (92-94)
 DTSTART:20261027T190000Z
 DTEND:20261027T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:75adfa88bedec823d7f0460a6d9a1c53@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Buducnost VOLI Podgorica\nCircuito/Arena: BTS ARENA\nGiornata/Round: 5\nFa
- se: Group C\nStato: scheduled
+ se: Group C\nRisultato: Dolomiti Energia Trento 94 - 92 Buducnost VOLI Pod
+ gorica\nStato: finished
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ U-BT Cluj-Napoca @ Skyliners Frankfurt
+SUMMARY:⭐ U-BT Cluj-Napoca @ Skyliners Frankfurt (97-113)
 DTSTART:20261027T183000Z
 DTEND:20261027T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:52a6f0528b5e4a5d8322864b8cd8ac77@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: U-BT
   Cluj-Napoca\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 5\nFase
- : Group B\nStato: scheduled
+ : Group B\nRisultato: Skyliners Frankfurt 113 - 97 U-BT Cluj-Napoca\nStato
+ : finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Kids&Us Manresa @ Balkan Botevgrad
+SUMMARY:⭐ Kids&Us Manresa @ Balkan Botevgrad (76-65)
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:fd03fd647bb316ad27f05c5fb53712e9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: Kids&Us
   Manresa\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 5\nFase: Group 
- D\nStato: scheduled
+ D\nRisultato: Balkan Botevgrad 65 - 76 Kids&Us Manresa\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Lietkabelis Panevezys
+SUMMARY:⭐ ratiopharm ulm @ Lietkabelis Panevezys (86-68)
 DTSTART:20261027T170000Z
 DTEND:20261027T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:fc2cce6d704f731c23214e299e436976@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: ra
  tiopharm ulm\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 5\nFase: G
- roup D\nStato: scheduled
+ roup D\nRisultato: Lietkabelis Panevezys 68 - 86 ratiopharm ulm\nStato: fi
+ nished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15535,42 +15513,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lazio @ Sassuolo
+SUMMARY:⚽ Lazio @ Sassuolo (6-2)
 DTSTART:20261027T173000Z
 DTEND:20261027T200000Z
-DTSTAMP:20261027T183715Z
+DTSTAMP:20261028T013317Z
 UID:dd043c5c77720a50cb43a34efab5cb79@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Lazio\nCircuito
- /Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: live
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 2 - 6 La
+ zio\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cagliari @ AS Roma
+SUMMARY:⚽ Cagliari @ AS Roma (2-4)
 DTSTART:20261027T194500Z
 DTEND:20261027T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:6feb9afb5a38da196a2e090ea0e2db28@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Cagliari\nCircui
- to/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ to/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 4 - 2 Cagliari\nStato
+ : finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Como @ Torino
+SUMMARY:⚽ Como @ Torino (3-1)
 DTSTART:20261027T194500Z
 DTEND:20261027T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T013317Z
 UID:33d374f7cda623f935262bb70632884c@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Como\nCircuito/Ar
- ena: Stadio Olimpico Grande Torino\nCittà: Torino\nStato: scheduled
+ ena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 1 - 
+ 3 Como\nStato: finished
 LOCATION:Stadio Olimpico Grande Torino\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
