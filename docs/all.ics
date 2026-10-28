@@ -9681,15 +9681,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Maxima Roma @ Siauliai Basketball
+SUMMARY:⭐ Maxima Roma @ Siauliai Basketball (93-98)
 DTSTART:20261028T163000Z
 DTEND:20261028T190000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T184404Z
 UID:c83eb26bc5979d7f1f3e2b6d7382e101@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: Maxi
  ma Roma\nCircuito/Arena: SIAULIAI ARENA\nGiornata/Round: 5\nFase: Group B\
- nStato: scheduled
+ nRisultato: Siauliai Basketball 98 - 93 Maxima Roma\nStato: finished
 LOCATION:SIAULIAI ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15564,13 +15564,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bologna @ AC Milan
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T184404Z
 UID:a0783208d341b4c94e4a222a445cf267@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Bologna\nCircui
- to/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ to/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -15578,13 +15578,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Udinese @ Parma
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T184404Z
 UID:6fdf16e11342aa30771fae6532bbf39f@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Udinese\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: scheduled
+ Arena: Ennio Tardini\nCittà: Parma\nStato: live
 LOCATION:Ennio Tardini\, Parma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -15592,13 +15592,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Internazionale @ Venezia
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261028T184404Z
 UID:7f811e26feecec67482227d387e9f66e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Internazionale\n
- Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: live
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

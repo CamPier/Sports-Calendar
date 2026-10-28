@@ -1254,13 +1254,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bologna @ AC Milan
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261028T184400Z
 UID:a0783208d341b4c94e4a222a445cf267@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Bologna\nCircui
- to/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ to/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -1268,13 +1268,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Udinese @ Parma
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261028T184400Z
 UID:6fdf16e11342aa30771fae6532bbf39f@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Udinese\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: scheduled
+ Arena: Ennio Tardini\nCittà: Parma\nStato: live
 LOCATION:Ennio Tardini\, Parma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -1282,13 +1282,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Internazionale @ Venezia
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261028T184400Z
 UID:7f811e26feecec67482227d387e9f66e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Internazionale\n
- Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: live
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
