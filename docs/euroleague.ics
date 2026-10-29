@@ -4533,60 +4533,65 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Virtus Bologna
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Virtus Bologna (91-74)
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:36223953a1d2706694bc4e5bf949d473@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Zalgir
  is Kaunas\nCircuito/Arena: PALADOZZA\nGiornata/Round: 8\nFase: Group Regul
- ar Season\nStato: scheduled
+ ar Season\nRisultato: Virtus Bologna 74 - 91 Zalgiris Kaunas\nStato: finis
+ hed
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ LDLC ASVEL Villeurbanne
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ LDLC ASVEL Villeurbanne (
+ 75-82)
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:296130534461c4f5ca87a6e790f35ed2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Partizan Mozzart Bet Belgrade\nCircuito/Arena: LDLC ARENA\nGiornata/Rou
- nd: 8\nFase: Group Regular Season\nStato: scheduled
+ nd: 8\nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 82 -
+  75 Partizan Mozzart Bet Belgrade\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Hapoel IBI Tel Aviv
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Hapoel IBI Tel Aviv (88-118)
 DTSTART:20261028T180000Z
 DTEND:20261028T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:46fab805cb1bfda9a0d194f65e90edc5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: A
  nadolu Efes Istanbul\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 8\n
- Fase: Group Regular Season\nStato: scheduled
+ Fase: Group Regular Season\nRisultato: Hapoel IBI Tel Aviv 118 - 88 Anadol
+ u Efes Istanbul\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Olympiacos Piraeus @ Besiktas Istanbul
+SUMMARY:🇪🇺 Olympiacos Piraeus @ Besiktas Istanbul (81-73)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:8318700dd50de01bc89a3f810cf5a392@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Oly
  mpiacos Piraeus\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nG
- iornata/Round: 8\nFase: Group Regular Season\nStato: scheduled
+ iornata/Round: 8\nFase: Group Regular Season\nRisultato: Besiktas Istanbul
+  73 - 81 Olympiacos Piraeus\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7990,135 +7995,142 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Umana Reyer Venice @ La Laguna Tenerife
+SUMMARY:⭐ Umana Reyer Venice @ La Laguna Tenerife (80-82)
 DTSTART:20261028T200000Z
 DTEND:20261028T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:defbc291365b0d19a02275e29bf1ae41@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: Umana
   Reyer Venice\nCircuito/Arena: PABELLON SANTIAGO MARTIN\nGiornata/Round: 5
- \nFase: Group B\nStato: scheduled
+ \nFase: Group B\nRisultato: La Laguna Tenerife 82 - 80 Umana Reyer Venice\
+ nStato: finished
 LOCATION:PABELLON SANTIAGO MARTIN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Turk Telekom Ankara @ London Lions
+SUMMARY:⭐ Turk Telekom Ankara @ London Lions (61-79)
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:2c56371d69c3980b1e490cef878c8daa@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Turk Teleko
  m Ankara\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 5\nFase: Group
-  B\nStato: scheduled
+  B\nRisultato: London Lions 79 - 61 Turk Telekom Ankara\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Recoletas Salud San Pablo Burgos
+SUMMARY:⭐ Riga Zelli @ Recoletas Salud San Pablo Burgos (79-71)
 DTSTART:20261028T193000Z
 DTEND:20261028T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:8d254670069d56cf553853b6e754676c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
  nOspite: Riga Zelli\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Round: 5\nF
- ase: Group A\nStato: scheduled
+ ase: Group A\nRisultato: Recoletas Salud San Pablo Burgos 71 - 79 Riga Zel
+ li\nStato: finished
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Hapoel Midtown Jerusalem @ Le Mans Sarthe Basket
+SUMMARY:⭐ Hapoel Midtown Jerusalem @ Le Mans Sarthe Basket (90-83)
 DTSTART:20261028T190000Z
 DTEND:20261028T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:68bd1a3a8f05d9f6e60fb3d4eeb05bd2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Ha
  poel Midtown Jerusalem\nCircuito/Arena: ANTARES ARENA\nGiornata/Round: 5\n
- Fase: Group A\nStato: scheduled
+ Fase: Group A\nRisultato: Le Mans Sarthe Basket 83 - 90 Hapoel Midtown Jer
+ usalem\nStato: finished
 LOCATION:ANTARES ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Rostock Seawolves @ Baglietto Derthona Tortona
+SUMMARY:⭐ Rostock Seawolves @ Baglietto Derthona Tortona (83-86)
 DTSTART:20261028T183000Z
 DTEND:20261028T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:8044803641d894281d23b83aac9bf75b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Rostock Seawolves\nCircuito/Arena: NOVA ARENA\nGiornata/Round: 5\nFase:
-  Group A\nStato: scheduled
+  Group A\nRisultato: Baglietto Derthona Tortona 86 - 83 Rostock Seawolves\
+ nStato: finished
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ NINERS Chemnitz
+SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ NINERS Chemnitz (77-96)
 DTSTART:20261028T180000Z
 DTEND:20261028T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:1c589ae7e9a79ddaa5bb13d56b2190e7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Cosea JL
   Bourg-en-Bresse\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 5\nFase:
-  Group C\nStato: scheduled
+  Group C\nRisultato: NINERS Chemnitz 96 - 77 Cosea JL Bourg-en-Bresse\nSta
+ to: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Slask Wroclaw
+SUMMARY:⭐ Tofas Bursa @ Slask Wroclaw (90-74)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261012T213942Z
+DTSTAMP:20261029T015434Z
 UID:666888c691dfdcbdb4998f28d34b352f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Tofas Burs
- a\nCircuito/Arena: HALA ORBITA\nGiornata/Round: 5\nFase: Group C\nStato: s
- cheduled
+ a\nCircuito/Arena: HALA ORBITA\nGiornata/Round: 5\nFase: Group C\nRisultat
+ o: Slask Wroclaw 74 - 90 Tofas Bursa\nStato: finished
 LOCATION:HALA ORBITA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Aris Thessaloniki
+SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Aris Thessaloniki (73-78)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:33a12fc4da1b420ebe1e6eeffdfba5ac@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Cedevi
  ta Olimpija Ljubljana\nCircuito/Arena: ALEXANDREIO ATHLITIKO MELATHRO\nGio
- rnata/Round: 5\nFase: Group A\nStato: scheduled
+ rnata/Round: 5\nFase: Group A\nRisultato: Aris Thessaloniki 78 - 73 Cedevi
+ ta Olimpija Ljubljana\nStato: finished
 LOCATION:ALEXANDREIO ATHLITIKO MELATHRO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli Basketball @ Neptunas Klaipeda
+SUMMARY:⭐ Napoli Basketball @ Neptunas Klaipeda (94-85)
 DTSTART:20261028T170000Z
 DTEND:20261028T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261029T015434Z
 UID:69dc5db281dbc4ab1ffdfaf2bbf1fcc2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Napoli
   Basketball\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 5\nFase: Grou
- p C\nStato: scheduled
+ p C\nRisultato: Neptunas Klaipeda 85 - 94 Napoli Basketball\nStato: finish
+ ed
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

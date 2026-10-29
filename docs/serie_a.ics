@@ -1251,70 +1251,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ AC Milan
+SUMMARY:⚽ Bologna @ AC Milan (4-2)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261028T184400Z
+DTSTAMP:20261029T015448Z
 UID:a0783208d341b4c94e4a222a445cf267@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Bologna\nCircui
- to/Arena: San Siro\nCittà: Milano\nStato: live
+ to/Arena: San Siro\nCittà: Milano\nRisultato: AC Milan 2 - 4 Bologna\nSta
+ to: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Udinese @ Parma
+SUMMARY:⚽ Udinese @ Parma (0-0)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261028T184400Z
+DTSTAMP:20261029T015448Z
 UID:6fdf16e11342aa30771fae6532bbf39f@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Udinese\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: live
+ Arena: Ennio Tardini\nCittà: Parma\nRisultato: Parma 0 - 0 Udinese\nStato
+ : finished
 LOCATION:Ennio Tardini\, Parma
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Internazionale @ Venezia
+SUMMARY:⚽ Internazionale @ Venezia (2-0)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261028T184400Z
+DTSTAMP:20261029T015448Z
 UID:7f811e26feecec67482227d387e9f66e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Internazionale\n
- Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: live
+ Circuito/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nRisultato: Venez
+ ia 0 - 2 Internazionale\nStato: finished
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus @ Genoa
+SUMMARY:⚽ Juventus @ Genoa (0-2)
 DTSTART:20261028T194500Z
 DTEND:20261028T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261029T015448Z
 UID:5a9509281937e4d93c714ca4ebe9c69a@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: Juventus\nCircuito
- /Arena: Stadio Luigi Ferraris\nCittà: Genova\nStato: scheduled
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 2 - 0 Juve
+ ntus\nStato: finished
 LOCATION:Stadio Luigi Ferraris\, Genova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Napoli @ Monza
+SUMMARY:⚽ Napoli @ Monza (4-1)
 DTSTART:20261028T194500Z
 DTEND:20261028T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261029T015448Z
 UID:72698c20d55fdb451d3aba2fa3664dfa@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Monza\nOspite: Napoli\nCircuito/A
- rena: U-Power Stadium\nCittà: Monza\nStato: scheduled
+ rena: U-Power Stadium\nCittà: Monza\nRisultato: Monza 1 - 4 Napoli\nStato
+ : finished
 LOCATION:U-Power Stadium\, Monza
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
