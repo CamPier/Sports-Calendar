@@ -1326,28 +1326,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lecce @ Frosinone
+SUMMARY:⚽ Lecce @ Frosinone (1-5)
 DTSTART:20261029T173000Z
 DTEND:20261029T200000Z
-DTSTAMP:20261029T185406Z
+DTSTAMP:20261030T020538Z
 UID:8b7f0813f266c1fd9c1562bc05f0402f@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Frosinone\nOspite: Lecce\nCircuit
- o/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nStato: live
+ o/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nRisultato: Frosinone 5 -
+  1 Lecce\nStato: finished
 LOCATION:Stadio Benito Stirpe\, Frosinone
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atalanta @ Fiorentina
+SUMMARY:⚽ Atalanta @ Fiorentina (2-2)
 DTSTART:20261029T194500Z
 DTEND:20261029T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261030T020538Z
 UID:31ac93934bc671cd928e577ecc5dfc24@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Atalanta\nCir
- cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nStato: scheduled
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nRisultato: Fiorentin
+ a 2 - 2 Atalanta\nStato: finished
 LOCATION:Stadio Artemio Franchi\, Firenze
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

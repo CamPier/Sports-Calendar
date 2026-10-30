@@ -4488,45 +4488,49 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Real Madrid
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Real Madrid (76-95)
 DTSTART:20261029T194500Z
 DTEND:20261029T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261030T020529Z
 UID:fedf343c2ca78fdcb8aebdf1bf731aaa@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Fenerbahc
  e Tarfin Istanbul\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 9\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: Real Madrid 95 - 76 Fenerbahce Tarfin I
+ stanbul\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Maccabi Rapyd Tel Aviv
+SUMMARY:🇪🇺 Paris Basketball @ Maccabi Rapyd Tel Aviv (99-94)
 DTSTART:20261029T190500Z
 DTEND:20261029T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261030T020529Z
 UID:45ea9929ea2bc1f030de7f53b8474c55@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
  : Paris Basketball\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Roun
- d: 9\nFase: Group Regular Season\nStato: scheduled
+ d: 9\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv 94 - 9
+ 9 Paris Basketball\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ Crvena Zvezda Meridianbet Belgrade
+SUMMARY:🇪🇺 FC Bayern Munich @ Crvena Zvezda Meridianbet Belgrade (73
+ -103)
 DTSTART:20261029T190000Z
 DTEND:20261029T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261030T020529Z
 UID:49995c7402ea1eaefc41a7c8c145b571@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
  rade\nOspite: FC Bayern Munich\nCircuito/Arena: BELGRADE ARENA\nGiornata/R
- ound: 9\nFase: Group Regular Season\nStato: scheduled
+ ound: 9\nFase: Group Regular Season\nRisultato: Crvena Zvezda Meridianbet 
+ Belgrade 103 - 73 FC Bayern Munich\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

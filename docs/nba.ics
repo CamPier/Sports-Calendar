@@ -9,111 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Memphis Grizzlies (103-123)
-DTSTART:20261022T000000Z
-DTEND:20261022T023000Z
-DTSTAMP:20261022T095710Z
-UID:43f940a2e75875e1a333a80ff6a1d84e@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Utah Jazz\
- nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Grizzlies
-  123 - 103 Utah Jazz\nStato: finished
-LOCATION:FedExForum\, Memphis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ New Orleans Pelicans (123-120)
-DTSTART:20261022T000000Z
-DTEND:20261022T023000Z
-DTSTAMP:20261022T095710Z
-UID:916610369e51d892e67744203e6db849@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Indiana
-  Pacers\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nRisult
- ato: New Orleans Pelicans 120 - 123 Indiana Pacers\nStato: finished
-LOCATION:Smoothie King Center\, New Orleans
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Houston Rockets (110-128)
-DTSTART:20261022T003000Z
-DTEND:20261022T030000Z
-DTSTAMP:20261022T095710Z
-UID:e4f8a7c61dd7bacf684e4cd91dd5fee0@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Dallas Maver
- icks\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato:
-  Houston Rockets 128 - 110 Dallas Mavericks\nStato: finished
-LOCATION:Toyota Center (Houston)\, Houston
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Los Angeles Lakers (105-127)
-DTSTART:20261022T020000Z
-DTEND:20261022T043000Z
-DTSTAMP:20261022T095710Z
-UID:10c88f3ce79e297a151b586fd21b2fe9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Golden St
- ate Warriors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisul
- tato: Los Angeles Lakers 127 - 105 Golden State Warriors\nStato: finished
-LOCATION:crypto.com Arena\, Los Angeles
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Portland Trail Blazers (83-124)
-DTSTART:20261022T020000Z
-DTEND:20261022T043000Z
-DTSTAMP:20261022T095710Z
-UID:21daa26fcced28b1db964916a7ac0267@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Phoen
- ix Suns\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato: Portlan
- d Trail Blazers 124 - 83 Phoenix Suns\nStato: finished
-LOCATION:Moda Center\, Portland
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ LA Clippers (96-121)
-DTSTART:20261022T023000Z
-DTEND:20261022T050000Z
-DTSTAMP:20261022T095710Z
-UID:f7de4678e3200e0bb89bc098b3200fbc@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Sacramento Kings
- \nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippers 1
- 21 - 96 Sacramento Kings\nStato: finished
-LOCATION:Intuit Dome\, Inglewood
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Cleveland Cavaliers @ Philadelphia 76ers (106-114)
-DTSTART:20261022T230000Z
-DTEND:20261023T013000Z
-DTSTAMP:20261023T095153Z
-UID:9d86ca94448f5da94123bfdce8d925d3@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Cleveland
-  Cavaliers\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRi
- sultato: Philadelphia 76ers 114 - 106 Cleveland Cavaliers\nStato: finished
-LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Denver Nuggets @ Oklahoma City Thunder (84-96)
 DTSTART:20261023T013000Z
 DTEND:20261023T040000Z
@@ -914,13 +809,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Cleveland Cavaliers @ Atlanta Hawks
 DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
-DTSTAMP:20261026T190553Z
+DTSTAMP:20261030T020527Z
 UID:2676b9853572d0fec551724eff761ee4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Cleveland Cava
- liers\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+ liers\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: live
 LOCATION:State Farm Arena\, Atlanta
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -928,14 +823,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Sacramento Kings @ New Orleans Pelicans
 DTSTART:20261030T000000Z
 DTEND:20261030T023000Z
-DTSTAMP:20261023T005020Z
+DTSTAMP:20261030T020527Z
 UID:8789c38d04940d62f988a69cd28c8ed3@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Sacrame
  nto Kings\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nStat
- o: scheduled
+ o: live
 LOCATION:Smoothie King Center\, New Orleans
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1682,6 +1577,35 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Miami Heat\nCirc
  uito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
 LOCATION:Intuit Dome\, Inglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Orlando Magic @ Phoenix Suns
+DTSTART:20261106T020000Z
+DTEND:20261106T043000Z
+DTSTAMP:20261030T020527Z
+UID:a61e9f7893bcfcda845951f0c7c31ca5@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Orlando Magic\n
+ Circuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: scheduled
+LOCATION:Mortgage Matchup Center\, Phoenix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami Heat @ Golden State Warriors
+DTSTART:20261106T030000Z
+DTEND:20261106T053000Z
+DTSTAMP:20261030T020527Z
+UID:f35e1f15e7501b29cf3c6ece92ff0441@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Miami 
+ Heat\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: schedule
+ d
+LOCATION:Chase Center\, San Francisco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
