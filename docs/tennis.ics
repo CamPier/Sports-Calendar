@@ -209,6 +209,20 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎾 WTA @ Prudential Hong Kong Tennis Open
+DTSTART:20261030T040000Z
+DTEND:20261030T063000Z
+DTSTAMP:20261030T111606Z
+UID:3a97af75be58e7a27ce5fd69164e23cf@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: Prudential Hong Kong Tennis Op
+ en\nOspite: WTA\nGiornata/Round: Prudential Hong Kong Tennis Open\nStato: 
+ scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎾 WTA @ American Tennis Open Miami
 DTSTART:20261031T040000Z
 DTEND:20261031T063000Z
@@ -217,20 +231,6 @@ UID:5137f92003192c59a445b355423ec769@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: American Tennis Open Miami\nOs
  pite: WTA\nGiornata/Round: American Tennis Open Miami\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Prudential Hong Kong Tennis Open
-DTSTART:20261102T050000Z
-DTEND:20261102T073000Z
-DTSTAMP:20261026T003548Z
-UID:3a97af75be58e7a27ce5fd69164e23cf@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Prudential Hong Kong Tennis Op
- en\nOspite: WTA\nGiornata/Round: Prudential Hong Kong Tennis Open\nStato: 
- scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C
