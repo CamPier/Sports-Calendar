@@ -1289,14 +1289,16 @@ X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Bertram Derthona Tortona @ Dolomiti Energia Trentino
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261212T190000Z
+DTEND:20261212T213000Z
+DTSTAMP:20261030T183032Z
 UID:4f7f7e8e94d64f8f2609c08e3a7bb994@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Be
- rtram Derthona Tortona\nGiornata/Round: 11� Giornata\nFase: LBA – Regu
- lar Season 2026/27\nStato: scheduled
+ rtram Derthona Tortona\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornat
+ a/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sche
+ duled
+LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1311,20 +1313,6 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Maxima R
  oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\
  nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Pallacanestro Trieste
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
-UID:6be399e5101af04de2721d7fa122b2ac@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Nutrib
- ullet Treviso Basket\nGiornata/Round: 11� Giornata\nFase: LBA – Regula
- r Season 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1395,6 +1383,22 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Napoli Basketball\nG
  iornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato
  : scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Pallacanestro Trieste
+DTSTART:20261213T170000Z
+DTEND:20261213T193000Z
+DTSTAMP:20261030T183032Z
+UID:6be399e5101af04de2721d7fa122b2ac@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Nutrib
+ ullet Treviso Basket\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiorna
+ ta/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
+ eduled
+LOCATION:PalaTrieste\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

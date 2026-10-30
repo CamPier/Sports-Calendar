@@ -4473,15 +4473,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Dubai Basketball
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Dubai Basketball (83-97)
 DTSTART:20261030T160000Z
 DTEND:20261030T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261030T183024Z
 UID:591784ec264d67dcee3773e279542eea@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Hapo
  el IBI Tel Aviv\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 9\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Dubai Basketball 97 - 83 Hapoel IBI Tel 
+ Aviv\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
