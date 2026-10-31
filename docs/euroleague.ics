@@ -4383,45 +4383,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Virtus Bologna
+SUMMARY:🇪🇺 Besiktas Istanbul @ Virtus Bologna (103-101)
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:5c8081676ac84359d1486a497dcfee33@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Besikt
  as Istanbul\nCircuito/Arena: PALADOZZA\nGiornata/Round: 9\nFase: Group Reg
- ular Season\nStato: scheduled
+ ular Season\nRisultato: Virtus Bologna 101 - 103 Besiktas Istanbul\nStato:
+  finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ FC Barcelona
+SUMMARY:🇪🇺 Valencia Basket @ FC Barcelona (94-98)
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:6ff88938186226beb0771888d3db177c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Valencia
   Basket\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 9\nFase: Group R
- egular Season\nStato: scheduled
+ egular Season\nRisultato: FC Barcelona 98 - 94 Valencia Basket\nStato: fin
+ ished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Olympiacos Piraeus (78-84)
 DTSTART:20261030T191500Z
 DTEND:20261030T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:3ab2666a9fde1fbc35af70d45aa41f48@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ar
  mani Olimpia Milan\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 9\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: Olympiacos Piraeus 84 - 78 Armani Olimpia
+  Milan\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4429,44 +4432,49 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ LDLC ASVEL Villeurbanne
+  (79-94)
 DTSTART:20261030T190000Z
 DTEND:20261030T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:02592366950aec519b2fceda7401d8a6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: LDLC ARENA\nGiornata/R
- ound: 9\nFase: Group Regular Season\nStato: scheduled
+ ound: 9\nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 94
+  - 79 Kosner Baskonia Vitoria-Gasteiz\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Zalgiris Kaunas
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Zalgiris Kaunas (80-87)
 DTSTART:20261030T180000Z
 DTEND:20261030T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:f697219507323188c514bf87ff69a83f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Parti
  zan Mozzart Bet Belgrade\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 
- 9\nFase: Group Regular Season\nStato: scheduled
+ 9\nFase: Group Regular Season\nRisultato: Zalgiris Kaunas 87 - 80 Partizan
+  Mozzart Bet Belgrade\nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Anadolu Efes Istanbul
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Anadolu Efes Istanbul (68-83
+ )
 DTSTART:20261030T173000Z
 DTEND:20261030T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261031T014415Z
 UID:0b58b295f2d02c55a250d25419a02a58@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
   Panathinaikos AKTOR Athens\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPME
- NT CENTER\nGiornata/Round: 9\nFase: Group Regular Season\nStato: scheduled
+ NT CENTER\nGiornata/Round: 9\nFase: Group Regular Season\nRisultato: Anado
+ lu Efes Istanbul 83 - 68 Panathinaikos AKTOR Athens\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
