@@ -1356,14 +1356,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monza @ Bologna
+SUMMARY:⚽ Monza @ Bologna (1-2)
 DTSTART:20261031T140000Z
 DTEND:20261031T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261031T173446Z
 UID:a6ede02e232284355cb51c76019ada17@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Monza\nCircuito/
- Arena: Renato Dall'Ara\nCittà: Bologna\nStato: scheduled
+ Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 2 - 1 Monza\nS
+ tato: finished
 LOCATION:Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1373,13 +1374,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ AS Roma @ Udinese
 DTSTART:20261031T170000Z
 DTEND:20261031T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261031T173446Z
 UID:a897bfb5ddf72fefa88223f1b5a42be1@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: AS Roma\nCircuit
- o/Arena: Stadio Friuli\nCittà: Udine\nStato: scheduled
+ o/Arena: Stadio Friuli\nCittà: Udine\nStato: live
 LOCATION:Stadio Friuli\, Udine
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

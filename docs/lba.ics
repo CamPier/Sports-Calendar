@@ -1319,57 +1319,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Armani Olimpia Milano
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
-UID:7a71e00fe6d90a68cb87a52f450efa08@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: UNA Ho
- tels Reggio Emilia\nGiornata/Round: 11� Giornata\nFase: LBA – Regular 
- Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Tezenis Verona
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261212T193000Z
+DTEND:20261212T220000Z
+DTSTAMP:20261031T173444Z
 UID:fef8e539e95e61c3cccb51f5ebce45a2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: Acqua S.Berna
- rdo Cantù\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
+ rdo Cantù\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 11
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Pala MAGIS\, Verona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Longobardi Scafati Basket
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
+DTSTART:20261212T194500Z
+DTEND:20261212T221500Z
+DTSTAMP:20261031T173444Z
 UID:c0ae7d2d75f8f88d4220a4d3bbc94d3b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Um
- ana Reyer Venezia\nGiornata/Round: 11� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
+ ana Reyer Venezia\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà:
+  Scafati\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 202
+ 6/27\nStato: scheduled
+LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Virtus Costa Bologna
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
-UID:5c9e4d57652dfeb5fef200af125640d3@basketball-calendar.github.io
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Armani Olimpia Milano
+DTSTART:20261213T110000Z
+DTEND:20261213T133000Z
+DTSTAMP:20261031T173444Z
+UID:7a71e00fe6d90a68cb87a52f450efa08@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: APU Old
-  Wild West Udine\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: UNA Ho
+ tels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata
+ /Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
+ uled
+LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1401,6 +1392,21 @@ DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Nutrib
  ta/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
  eduled
 LOCATION:PalaTrieste\, Trieste
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Virtus Costa Bologna
+DTSTART:20261213T171500Z
+DTEND:20261213T194500Z
+DTSTAMP:20261031T173444Z
+UID:5c9e4d57652dfeb5fef200af125640d3@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: APU Old
+  Wild West Udine\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Rou
+ nd: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

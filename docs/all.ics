@@ -12225,57 +12225,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Armani Olimpia Milano
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195652Z
-UID:7a71e00fe6d90a68cb87a52f450efa08@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: UNA Ho
- tels Reggio Emilia\nGiornata/Round: 11� Giornata\nFase: LBA – Regular 
- Season 2026/27\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Tezenis Verona
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261212T193000Z
+DTEND:20261212T220000Z
+DTSTAMP:20261031T173450Z
 UID:fef8e539e95e61c3cccb51f5ebce45a2@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: Acqua S.Berna
- rdo Cantù\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
+ rdo Cantù\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 11
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Pala MAGIS\, Verona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Longobardi Scafati Basket
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261212T194500Z
+DTEND:20261212T221500Z
+DTSTAMP:20261031T173450Z
 UID:c0ae7d2d75f8f88d4220a4d3bbc94d3b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Um
- ana Reyer Venezia\nGiornata/Round: 11� Giornata\nFase: LBA – Regular S
- eason 2026/27\nStato: scheduled
+ ana Reyer Venezia\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà:
+  Scafati\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 202
+ 6/27\nStato: scheduled
+LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Virtus Costa Bologna
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195652Z
-UID:5c9e4d57652dfeb5fef200af125640d3@basketball-calendar.github.io
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Armani Olimpia Milano
+DTSTART:20261213T110000Z
+DTEND:20261213T133000Z
+DTSTAMP:20261031T173450Z
+UID:7a71e00fe6d90a68cb87a52f450efa08@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: APU Old
-  Wild West Udine\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Se
- ason 2026/27\nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: UNA Ho
+ tels Reggio Emilia\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata
+ /Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
+ uled
+LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12307,6 +12298,21 @@ DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Nutrib
  ta/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
  eduled
 LOCATION:PalaTrieste\, Trieste
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Virtus Costa Bologna
+DTSTART:20261213T171500Z
+DTEND:20261213T194500Z
+DTSTAMP:20261031T173450Z
+UID:5c9e4d57652dfeb5fef200af125640d3@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: APU Old
+  Wild West Udine\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Rou
+ nd: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -15787,14 +15793,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Monza @ Bologna
+SUMMARY:⚽ Monza @ Bologna (1-2)
 DTSTART:20261031T140000Z
 DTEND:20261031T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261031T173450Z
 UID:a6ede02e232284355cb51c76019ada17@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Monza\nCircuito/
- Arena: Renato Dall'Ara\nCittà: Bologna\nStato: scheduled
+ Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 2 - 1 Monza\nS
+ tato: finished
 LOCATION:Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15804,13 +15811,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ AS Roma @ Udinese
 DTSTART:20261031T170000Z
 DTEND:20261031T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261031T173450Z
 UID:a897bfb5ddf72fefa88223f1b5a42be1@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Udinese\nOspite: AS Roma\nCircuit
- o/Arena: Stadio Friuli\nCittà: Udine\nStato: scheduled
+ o/Arena: Stadio Friuli\nCittà: Udine\nStato: live
 LOCATION:Stadio Friuli\, Udine
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -23103,12 +23110,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Mexico City Grand Prix
 DTSTART:20261031T173000Z
 DTEND:20261031T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261031T173450Z
 UID:4963f99215b9df9cd1736dfcd5a7bbb3@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 F
  P3\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico City\, 
- Mexico\nGiornata/Round: Round 19\nFase: ThirdPractice\nStato: scheduled
+ Mexico\nGiornata/Round: Round 19\nFase: ThirdPractice\nStato: finished
 LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23957,9 +23964,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Angola Ladies Open
-DTSTART:20261102T050000Z
-DTEND:20261102T073000Z
-DTSTAMP:20261026T003548Z
+DTSTART:20261101T040000Z
+DTEND:20261101T063000Z
+DTSTAMP:20261031T173450Z
 UID:21b4fb90a569e3799c463f39e4bf9831@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: Angola Ladies Open\nOspite: WT

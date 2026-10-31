@@ -1131,12 +1131,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Mexico City Grand Prix
 DTSTART:20261031T173000Z
 DTEND:20261031T183000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261031T173448Z
 UID:4963f99215b9df9cd1736dfcd5a7bbb3@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 F
  P3\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico City\, 
- Mexico\nGiornata/Round: Round 19\nFase: ThirdPractice\nStato: scheduled
+ Mexico\nGiornata/Round: Round 19\nFase: ThirdPractice\nStato: finished
 LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
