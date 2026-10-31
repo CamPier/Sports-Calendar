@@ -761,130 +761,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Boston Celtics
+SUMMARY:🏀 Chicago Bulls @ Boston Celtics (111-125)
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:79081f7824598c6d2787a9470b79f164@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Chicago Bulls
- \nCircuito/Arena: TD Garden\nCittà: Boston\nStato: live
+ \nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtics 125
+  - 111 Chicago Bulls\nStato: finished
 LOCATION:TD Garden\, Boston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Brooklyn Nets
+SUMMARY:🏀 Detroit Pistons @ Brooklyn Nets (110-94)
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:e725b844148f6a164663b58cb263beb6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Detroit Piston
- s\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nStato: live
+ s\nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nRisultato: Brooklyn 
+ Nets 94 - 110 Detroit Pistons\nStato: finished
 LOCATION:Barclays Center\, Brooklyn
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ Philadelphia 76ers
+SUMMARY:🏀 New York Knicks @ Philadelphia 76ers (93-98)
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:ea647612672aa08ddc6d868ab81aa36d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: New York 
- Knicks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
-  live
+ Knicks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRisult
+ ato: Philadelphia 76ers 98 - 93 New York Knicks\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Toronto Raptors
+SUMMARY:🏀 Orlando Magic @ Toronto Raptors (121-114)
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:0fdab67d97a70650121986059d5073ca@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Orlando Magi
- c\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: live
+ c\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nRisultato: Toronto R
+ aptors 114 - 121 Orlando Magic\nStato: finished
 LOCATION:Scotiabank Arena\, Toronto
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Miami Heat
+SUMMARY:🏀 Indiana Pacers @ Miami Heat (125-145)
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:f11f2a5901fdca0e35386750c952dc02@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Indiana Pacers\nC
- ircuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
+ ircuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 145 - 1
+ 25 Indiana Pacers\nStato: finished
 LOCATION:Kaseya Center\, Miami
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Dallas Mavericks
+SUMMARY:🏀 Houston Rockets @ Dallas Mavericks (111-116)
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:6fa4997a32430aad313855d6e216fd12@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Houston Roc
- kets\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: liv
- e
+ kets\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisultato:
+  Dallas Mavericks 116 - 111 Houston Rockets\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Minnesota Timberwolves
+SUMMARY:🏀 LA Clippers @ Minnesota Timberwolves (101-127)
 DTSTART:20261031T000000Z
 DTEND:20261031T023000Z
-DTSTAMP:20261031T014414Z
+DTSTAMP:20261031T104841Z
 UID:3b767e3fff3a068f3851fb9f98453b8e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: LA Cl
- ippers\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: live
+ ippers\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato: Min
+ nesota Timberwolves 127 - 101 LA Clippers\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Golden State Warriors
+SUMMARY:🏀 Los Angeles Lakers @ Golden State Warriors (95-112)
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
-DTSTAMP:20261024T005713Z
+DTSTAMP:20261031T104841Z
 UID:09cbbbc1522321e15388633e74f03d4c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Los An
- geles Lakers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: 
- scheduled
+ geles Lakers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisulta
+ to: Golden State Warriors 112 - 95 Los Angeles Lakers\nStato: finished
 LOCATION:Chase Center\, San Francisco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Phoenix Suns
+SUMMARY:🏀 Denver Nuggets @ Phoenix Suns (127-120)
 DTSTART:20261031T020000Z
 DTEND:20261031T043000Z
-DTSTAMP:20261024T005713Z
+DTSTAMP:20261031T104841Z
 UID:575a3a819add3cadff20629b46f5eda1@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Denver Nuggets\
- nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: schedule
- d
+ nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: Phoe
+ nix Suns 120 - 127 Denver Nuggets\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

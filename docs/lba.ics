@@ -1304,15 +1304,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Maxima Roma @ Openjobmetis Varese
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
-UID:dd49ee8ee95eb8d3002984974fe3262f@basketball-calendar.github.io
+SUMMARY:🇮🇹 Napoli Basketball @ BC Roma
+DTSTART:20261212T193000Z
+DTEND:20261212T220000Z
+DTSTAMP:20261031T104854Z
+UID:ab6e3ac80bd4397de16968860f301fe4@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Maxima R
- oma\nGiornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\
- nStato: scheduled
+DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Napoli Basketball\nC
+ ircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round: 11�
+  Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1374,15 +1375,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ BC Roma
-DTSTART:20261212T230000Z
-DTEND:20261213T013000Z
-DTSTAMP:20261002T195635Z
-UID:ab6e3ac80bd4397de16968860f301fe4@basketball-calendar.github.io
+SUMMARY:🇮🇹 Maxima Roma @ Openjobmetis Varese
+DTSTART:20261213T110000Z
+DTEND:20261213T133000Z
+DTSTAMP:20261031T104854Z
+UID:dd49ee8ee95eb8d3002984974fe3262f@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Napoli Basketball\nG
- iornata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato
- : scheduled
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Maxima R
+ oma\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round: 11� 
+ Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
