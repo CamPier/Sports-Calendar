@@ -1401,42 +1401,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Venezia @ Como
+SUMMARY:⚽ Venezia @ Como (0-1)
 DTSTART:20261101T113000Z
 DTEND:20261101T140000Z
-DTSTAMP:20261101T114528Z
+DTSTAMP:20261101T182010Z
 UID:32542be45c8835404c06c48b121acd1d@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Venezia\nCircuito/A
- rena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
+ rena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 1 - 0 Venezia\nSt
+ ato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Torino @ Frosinone
+SUMMARY:⚽ Torino @ Frosinone (0-2)
 DTSTART:20261101T140000Z
 DTEND:20261101T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261101T182010Z
 UID:9be6fd7de43a17812e6e8f038fab24eb@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Frosinone\nOspite: Torino\nCircui
- to/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nStato: scheduled
+ to/Arena: Stadio Benito Stirpe\nCittà: Frosinone\nRisultato: Frosinone 2 
+ - 0 Torino\nStato: finished
 LOCATION:Stadio Benito Stirpe\, Frosinone
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cagliari @ Lazio
+SUMMARY:⚽ Cagliari @ Lazio (1-2)
 DTSTART:20261101T140000Z
 DTEND:20261101T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261101T182010Z
 UID:d39e09068948f80c011c7c56cdbf5c39@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Cagliari\nCircuito
- /Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ /Arena: Olimpico\nCittà: Roma\nRisultato: Lazio 2 - 1 Cagliari\nStato: fi
+ nished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1446,13 +1449,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Genoa @ Lecce
 DTSTART:20261101T170000Z
 DTEND:20261101T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261101T182010Z
 UID:0a2bdc6713c36a0734161cd3ae66d4b4@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Genoa\nCircuito/Ar
- ena: Via Del Mare\nCittà: Lecce\nStato: scheduled
+ ena: Via Del Mare\nCittà: Lecce\nStato: live
 LOCATION:Via Del Mare\, Lecce
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

@@ -284,12 +284,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 PETRONAS GRAND PRIX OF MALAYSIA
 DTSTART:20261101T130000Z
 DTEND:20261101T150000Z
-DTSTAMP:20261002T195650Z
+DTSTAMP:20261101T182013Z
 UID:e89c7c515b9a9884811e9e734d784db4@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: PETRONAS GRAND PRIX OF MALAYSIA\nO
  spite: Gara\nCircuito/Arena: Petronas Sepang International Circuit\nGiorna
- ta/Round: Round 19\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ ta/Round: Round 19\nFase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Petronas Sepang International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
