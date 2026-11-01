@@ -1146,13 +1146,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Mexico City Grand Prix
 DTSTART:20261031T210000Z
 DTEND:20261031T220000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261101T012254Z
 UID:362140cc687f0683fd505535545b2248@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Mexico City Grand Prix\nOspite: 🏎 Q
  ualifiche\nCircuito/Arena: Autódromo Hermanos Rodríguez\nCittà: Mexico 
- City\, Mexico\nGiornata/Round: Round 19\nFase: Qualifying\nStato: schedule
- d
+ City\, Mexico\nGiornata/Round: Round 19\nFase: Qualifying\nStato: finished
 LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

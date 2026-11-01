@@ -669,46 +669,50 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ BC Roma
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ BC Roma (90-103)
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261101T012251Z
 UID:ad32c44d5146d324c09700543d5271bd@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Longobardi Scafati B
  asket\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Roun
- d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma
+  103 - 90 Longobardi Scafati Basket\nStato: finished
 LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Tezenis Verona
+SUMMARY:🇮🇹 Openjobmetis Varese @ Tezenis Verona (99-88)
 DTSTART:20261031T190000Z
 DTEND:20261031T213000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261101T012251Z
 UID:ab68e75bef14cc12dc5062056b44fb4b@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: Openjobmetis 
  Varese\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 6� G
- iornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ iornata\nFase: LBA – Regular Season 2026/27\nRisultato: Tezenis Verona 8
+ 8 - 99 Openjobmetis Varese\nStato: finished
 LOCATION:Pala MAGIS\, Verona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Nutribullet Treviso Basket
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Nutribullet Treviso Basket (68
+ -81)
 DTSTART:20261031T193000Z
 DTEND:20261031T220000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261101T012251Z
 UID:a7437398bc6dae0ec62319cd59a1ff60@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Nutribullet Treviso Basket\nOspite: U
  NA Hotels Reggio Emilia\nCircuito/Arena: Palaverde\nCittà: Villorba\nGior
- nata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
- heduled
+ nata/Round: 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato
+ : Nutribullet Treviso Basket 81 - 68 UNA Hotels Reggio Emilia\nStato: fini
+ shed
 LOCATION:Palaverde\, Villorba
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
