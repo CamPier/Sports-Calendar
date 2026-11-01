@@ -1404,13 +1404,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Venezia @ Como
 DTSTART:20261101T113000Z
 DTEND:20261101T140000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261101T114528Z
 UID:32542be45c8835404c06c48b121acd1d@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Venezia\nCircuito/A
- rena: Giuseppe Sinigaglia\nCittà: Como\nStato: scheduled
+ rena: Giuseppe Sinigaglia\nCittà: Como\nStato: live
 LOCATION:Giuseppe Sinigaglia\, Como
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

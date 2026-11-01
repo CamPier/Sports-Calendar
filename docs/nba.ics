@@ -791,75 +791,77 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ New Orleans Pelicans
+SUMMARY:🏀 Atlanta Hawks @ New Orleans Pelicans (99-121)
 DTSTART:20261031T230000Z
 DTEND:20261101T013000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261101T114515Z
 UID:7f19a92e779a3e34b60cefef0967af8f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Atlanta
-  Hawks\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nStato: 
- live
+  Hawks\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nRisulta
+ to: New Orleans Pelicans 121 - 99 Atlanta Hawks\nStato: finished
 LOCATION:Smoothie King Center\, New Orleans
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ Memphis Grizzlies
+SUMMARY:🏀 Sacramento Kings @ Memphis Grizzlies (105-136)
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261101T114515Z
 UID:bcfa3692218bd641b9af06af35b5d26a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Sacramento
-  Kings\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
+  Kings\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Gr
+ izzlies 136 - 105 Sacramento Kings\nStato: finished
 LOCATION:FedExForum\, Memphis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Cleveland Cavaliers @ Milwaukee Bucks
+SUMMARY:🏀 Cleveland Cavaliers @ Milwaukee Bucks (136-111)
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261101T114515Z
 UID:8b558f7ab4c60932172275c338f53f24@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Cleveland Ca
- valiers\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ valiers\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwa
+ ukee Bucks 111 - 136 Cleveland Cavaliers\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ San Antonio Spurs
+SUMMARY:🏀 Minnesota Timberwolves @ San Antonio Spurs (111-121)
 DTSTART:20261101T000000Z
 DTEND:20261101T023000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261101T114515Z
 UID:c49d21da208c0cd47f6bc52d7397370e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Minnesota 
- Timberwolves\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStat
- o: live
+ Timberwolves\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisu
+ ltato: San Antonio Spurs 121 - 111 Minnesota Timberwolves\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets
+SUMMARY:🏀 Oklahoma City Thunder @ Houston Rockets (98-119)
 DTSTART:20261101T003000Z
 DTEND:20261101T030000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261101T114515Z
 UID:6d2614cd559010ff869bbf56bb92de64@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Oklahoma Cit
- y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato
- : live
+ y Thunder\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisul
+ tato: Houston Rockets 119 - 98 Oklahoma City Thunder\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

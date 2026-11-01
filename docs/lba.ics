@@ -722,14 +722,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Napoli Basketball
 DTSTART:20261101T110000Z
 DTEND:20261101T133000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261101T114527Z
 UID:7b557a283026eab3edad1aa33169455a@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Umana Reye
  r Venezia\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 6
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:Alcott Arena\, Napoli
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
