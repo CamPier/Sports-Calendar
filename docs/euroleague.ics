@@ -5926,13 +5926,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Buducnost VOLI Podgorica
 DTSTART:20270113T180000Z
 DTEND:20270113T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261102T221444Z
 UID:8a98c0a75cc2b385e83642a8fbb89c0c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Cosea JL Bourg-en-Bresse\nCircuito/Arena: MORACA\nGiornata/Round: 14\nFas
- e: Group C\nStato: scheduled
-LOCATION:MORACA
+  Cosea JL Bourg-en-Bresse\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/
+ Round: 14\nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -6541,13 +6541,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Buducnost VOLI Podgorica
 DTSTART:20261229T180000Z
 DTEND:20261229T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261102T221444Z
 UID:2d0c6a9a6c0eac7540c378cf93118c91@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Dolomiti Energia Trento\nCircuito/Arena: MORACA\nGiornata/Round: 12\nFase
- : Group C\nStato: scheduled
-LOCATION:MORACA
+  Dolomiti Energia Trento\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/R
+ ound: 12\nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -6901,13 +6901,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Buducnost VOLI Podgorica
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261102T221444Z
 UID:e3196a8c491bb931cec926aee13cee1f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Tofas Bursa\nCircuito/Arena: MORACA\nGiornata/Round: 10\nFase: Group C\nS
- tato: scheduled
-LOCATION:MORACA
+  Tofas Bursa\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 10\nFa
+ se: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -7381,13 +7381,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Buducnost VOLI Podgorica
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261102T221444Z
 UID:2d70e68d70ff3334a9cfc22320a74e99@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Slask Wroclaw\nCircuito/Arena: MORACA\nGiornata/Round: 8\nFase: Group C\n
- Stato: scheduled
-LOCATION:MORACA
+  Slask Wroclaw\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 8\nF
+ ase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -7981,13 +7981,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261102T221444Z
 UID:7b2069eda7884de8e72128e69ea94e2b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  NINERS Chemnitz\nCircuito/Arena: MORACA\nGiornata/Round: 6\nFase: Group C
- \nStato: scheduled
-LOCATION:MORACA
+  NINERS Chemnitz\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 6\
+ nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8

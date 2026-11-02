@@ -1476,28 +1476,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Sassuolo
+SUMMARY:⚽ Fiorentina @ Sassuolo (4-2)
 DTSTART:20261102T173000Z
 DTEND:20261102T200000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261102T221456Z
 UID:b08e2f51ab8c7cedeb15c6bbc8e4d0ef@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Fiorentina\nCir
- cuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ cuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 2 -
+  4 Fiorentina\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Parma @ Atalanta
+SUMMARY:⚽ Parma @ Atalanta (3-0)
 DTSTART:20261102T194500Z
 DTEND:20261102T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261102T221456Z
 UID:94ebd8bc0204ebff973bd66fc9905dfd@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Parma\nCircuito
- /Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+ /Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 0 - 3 Parm
+ a\nStato: finished
 LOCATION:New Balance Arena\, Bergamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

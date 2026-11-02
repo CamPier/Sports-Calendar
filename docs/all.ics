@@ -7463,13 +7463,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Buducnost VOLI Podgorica
 DTSTART:20270113T180000Z
 DTEND:20270113T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:8a98c0a75cc2b385e83642a8fbb89c0c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Cosea JL Bourg-en-Bresse\nCircuito/Arena: MORACA\nGiornata/Round: 14\nFas
- e: Group C\nStato: scheduled
-LOCATION:MORACA
+  Cosea JL Bourg-en-Bresse\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/
+ Round: 14\nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -8078,13 +8078,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Dolomiti Energia Trento @ Buducnost VOLI Podgorica
 DTSTART:20261229T180000Z
 DTEND:20261229T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:2d0c6a9a6c0eac7540c378cf93118c91@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Dolomiti Energia Trento\nCircuito/Arena: MORACA\nGiornata/Round: 12\nFase
- : Group C\nStato: scheduled
-LOCATION:MORACA
+  Dolomiti Energia Trento\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/R
+ ound: 12\nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -8438,13 +8438,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Tofas Bursa @ Buducnost VOLI Podgorica
 DTSTART:20261216T180000Z
 DTEND:20261216T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:e3196a8c491bb931cec926aee13cee1f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Tofas Bursa\nCircuito/Arena: MORACA\nGiornata/Round: 10\nFase: Group C\nS
- tato: scheduled
-LOCATION:MORACA
+  Tofas Bursa\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 10\nFa
+ se: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -8918,13 +8918,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ Slask Wroclaw @ Buducnost VOLI Podgorica
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:2d70e68d70ff3334a9cfc22320a74e99@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  Slask Wroclaw\nCircuito/Arena: MORACA\nGiornata/Round: 8\nFase: Group C\n
- Stato: scheduled
-LOCATION:MORACA
+  Slask Wroclaw\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 8\nF
+ ase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -9518,13 +9518,13 @@ BEGIN:VEVENT
 SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:7b2069eda7884de8e72128e69ea94e2b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
-  NINERS Chemnitz\nCircuito/Arena: MORACA\nGiornata/Round: 6\nFase: Group C
- \nStato: scheduled
-LOCATION:MORACA
+  NINERS Chemnitz\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 6\
+ nFase: Group C\nStato: scheduled
+LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
@@ -11566,30 +11566,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Virtus Costa Bologna
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Virtus Costa Bologna (100-93)
 DTSTART:20261102T190000Z
 DTEND:20261102T213000Z
-DTSTAMP:20261006T185124Z
+DTSTAMP:20261102T221459Z
 UID:2ee45021d2804f33114f58c73ecde8b5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Pallaca
  nestro Trieste\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round
- : 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ : 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Virtus C
+ osta Bologna 93 - 100 Pallacanestro Trieste\nStato: finished
 LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù (95-82)
 DTSTART:20261102T193000Z
 DTEND:20261102T220000Z
-DTSTAMP:20261006T185124Z
+DTSTAMP:20261102T221459Z
 UID:bef2746329191884a832b9f1619c75c1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Arma
  ni Olimpia Milano\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Roun
- d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Acqua S
+ .Bernardo Cantù 82 - 95 Armani Olimpia Milano\nStato: finished
 LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15845,28 +15847,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Sassuolo
+SUMMARY:⚽ Fiorentina @ Sassuolo (4-2)
 DTSTART:20261102T173000Z
 DTEND:20261102T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:b08e2f51ab8c7cedeb15c6bbc8e4d0ef@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Fiorentina\nCir
- cuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ cuito/Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 2 -
+  4 Fiorentina\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Parma @ Atalanta
+SUMMARY:⚽ Parma @ Atalanta (3-0)
 DTSTART:20261102T194500Z
 DTEND:20261102T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T221459Z
 UID:94ebd8bc0204ebff973bd66fc9905dfd@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Parma\nCircuito
- /Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+ /Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 0 - 3 Parm
+ a\nStato: finished
 LOCATION:New Balance Arena\, Bergamo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

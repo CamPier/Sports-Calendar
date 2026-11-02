@@ -769,30 +769,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Pallacanestro Trieste @ Virtus Costa Bologna
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Virtus Costa Bologna (100-93)
 DTSTART:20261102T190000Z
 DTEND:20261102T213000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261102T221454Z
 UID:2ee45021d2804f33114f58c73ecde8b5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: Pallaca
  nestro Trieste\nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round
- : 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ : 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Virtus C
+ osta Bologna 93 - 100 Pallacanestro Trieste\nStato: finished
 LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Acqua S.Bernardo Cantù (95-82)
 DTSTART:20261102T193000Z
 DTEND:20261102T220000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261102T221454Z
 UID:bef2746329191884a832b9f1619c75c1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Arma
  ni Olimpia Milano\nCircuito/Arena: PalaDesio\nCittà: Desio\nGiornata/Roun
- d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ d: 6� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Acqua S
+ .Bernardo Cantù 82 - 95 Armani Olimpia Milano\nStato: finished
 LOCATION:PalaDesio\, Desio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
