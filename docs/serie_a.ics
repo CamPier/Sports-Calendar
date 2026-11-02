@@ -1446,28 +1446,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Genoa @ Lecce
+SUMMARY:⚽ Genoa @ Lecce (2-1)
 DTSTART:20261101T170000Z
 DTEND:20261101T193000Z
-DTSTAMP:20261101T182010Z
+DTSTAMP:20261102T014259Z
 UID:0a2bdc6713c36a0734161cd3ae66d4b4@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lecce\nOspite: Genoa\nCircuito/Ar
- ena: Via Del Mare\nCittà: Lecce\nStato: live
+ ena: Via Del Mare\nCittà: Lecce\nRisultato: Lecce 1 - 2 Genoa\nStato: fin
+ ished
 LOCATION:Via Del Mare\, Lecce
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Napoli @ Juventus
+SUMMARY:⚽ Napoli @ Juventus (0-2)
 DTSTART:20261101T194500Z
 DTEND:20261101T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261102T014259Z
 UID:7119f36169c85733a7632bfab55d9d82@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Napoli\nCircuit
- o/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
+ o/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 2 - 0 Napoli
+ \nStato: finished
 LOCATION:Allianz Stadium\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
