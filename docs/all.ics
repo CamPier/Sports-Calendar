@@ -731,29 +731,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Golden State Warriors
+SUMMARY:🏀 LA Clippers @ Golden State Warriors (112-124)
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
-DTSTAMP:20261102T014304Z
+DTSTAMP:20261102T131732Z
 UID:bf2762a63b8145929a5084fae32d2bde@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: LA Cli
- ppers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+ ppers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: Gol
+ den State Warriors 124 - 112 LA Clippers\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ Los Angeles Lakers
+SUMMARY:🏀 Toronto Raptors @ Los Angeles Lakers (125-131)
 DTSTART:20261102T020000Z
 DTEND:20261102T043000Z
-DTSTAMP:20261026T003548Z
+DTSTAMP:20261102T131732Z
 UID:9df1e8a04299f28a9003ff5cdf397c0f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Toronto R
- aptors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sche
- duled
+ aptors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: 
+ Los Angeles Lakers 131 - 125 Toronto Raptors\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -12468,12 +12469,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Umana Reyer Venezia
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:e97b7f96518c1eaf4d38bc1d70304583@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: APU Old 
- Wild West Udine\nGiornata/Round: 14� Giornata\nFase: LBA – Regular Sea
- son 2026/27\nStato: scheduled
+ Wild West Udine\nCircuito/Arena: Palasport Taliercio\nCittà: Venezia\nGio
+ rnata/Round: 14� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
+ scheduled
+LOCATION:Palasport Taliercio\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12482,12 +12485,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Dolomiti Energia Trentino
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:eece3adf499bfa3324b6b3ef78ef3198@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Te
- zenis Verona\nGiornata/Round: 14� Giornata\nFase: LBA – Regular Season
-  2026/27\nStato: scheduled
+ zenis Verona\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round: 1
+ 4� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12496,12 +12500,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Openjobmetis Varese @ Armani Olimpia Milano
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:2370c53620b4e71a3be860d12d68ed91@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Openjo
- bmetis Varese\nGiornata/Round: 14� Giornata\nFase: LBA – Regular Seaso
- n 2026/27\nStato: scheduled
+ bmetis Varese\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornata/Roun
+ d: 14� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12510,12 +12515,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ UNA Hotels Reggio Emilia
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:1357c8e84564e106839a336145022342@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: BC 
- Roma\nGiornata/Round: 14� Giornata\nFase: LBA – Regular Season 2026/27
- \nStato: scheduled
+ Roma\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGiornata/Round
+ : 14� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12524,12 +12530,13 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Virtus Costa Bologna @ Napoli Basketball
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:4cba74d7f5d8591ee00638ab08048bec@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Virtus Cos
- ta Bologna\nGiornata/Round: 14� Giornata\nFase: LBA – Regular Season 2
- 026/27\nStato: scheduled
+ ta Bologna\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 
+ 14� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12552,12 +12559,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Pallacanestro Trieste @ Bertram Derthona Tortona
 DTSTART:20270102T230000Z
 DTEND:20270103T013000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261102T131732Z
 UID:dab1bcb854c38976b102728162ec3cd9@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Pal
- lacanestro Trieste\nGiornata/Round: 14� Giornata\nFase: LBA – Regular 
- Season 2026/27\nStato: scheduled
+ lacanestro Trieste\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/
+ Round: 14� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedu
+ led
+LOCATION:Nova Arena\, Tortona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

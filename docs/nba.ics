@@ -731,29 +731,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Golden State Warriors
+SUMMARY:🏀 LA Clippers @ Golden State Warriors (112-124)
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261102T131717Z
 UID:bf2762a63b8145929a5084fae32d2bde@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: LA Cli
- ppers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+ ppers\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: Gol
+ den State Warriors 124 - 112 LA Clippers\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ Los Angeles Lakers
+SUMMARY:🏀 Toronto Raptors @ Los Angeles Lakers (125-131)
 DTSTART:20261102T020000Z
 DTEND:20261102T043000Z
-DTSTAMP:20261026T003531Z
+DTSTAMP:20261102T131717Z
 UID:9df1e8a04299f28a9003ff5cdf397c0f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Toronto R
- aptors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sche
- duled
+ aptors\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: 
+ Los Angeles Lakers 131 - 125 Toronto Raptors\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
