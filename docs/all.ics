@@ -9579,15 +9579,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ Tofas Bursa
+SUMMARY:⭐ Neptunas Klaipeda @ Tofas Bursa (79-94)
 DTSTART:20261103T170000Z
 DTEND:20261103T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261103T200026Z
 UID:c949059f94597539fa8314142dcab061@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Neptunas Kla
  ipeda\nCircuito/Arena: TOFAS SPOR SALONU\nGiornata/Round: 6\nFase: Group C
- \nStato: scheduled
+ \nRisultato: Tofas Bursa 94 - 79 Neptunas Klaipeda\nStato: finished
 LOCATION:TOFAS SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20660,29 +20660,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ VfB Stuttgart @ Galatasaray
+SUMMARY:⭐ VfB Stuttgart @ Galatasaray (0-2)
 DTSTART:20261103T174500Z
 DTEND:20261103T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261103T200026Z
 UID:effa6e99a37439682e08ab11cf227891@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: VfB
-  Stuttgart\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+  Stuttgart\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galata
+ saray 2 - 0 VfB Stuttgart\nStato: finished
 LOCATION:RAMS Park\, Istanbul
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Sporting CP @ Shakhtar Donetsk
+SUMMARY:⭐ Sporting CP @ Shakhtar Donetsk (1-0)
 DTSTART:20261103T174500Z
 DTEND:20261103T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261103T200026Z
 UID:946148f7b471240eecd2e18e4490093f@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
- : Sporting CP\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sch
- eduled
+ : Sporting CP\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato:
+  Shakhtar Donetsk 0 - 1 Sporting CP\nStato: finished
 LOCATION:Stamford Bridge\, London
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

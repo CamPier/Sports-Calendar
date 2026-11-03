@@ -7993,15 +7993,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ Tofas Bursa
+SUMMARY:⭐ Neptunas Klaipeda @ Tofas Bursa (79-94)
 DTSTART:20261103T170000Z
 DTEND:20261103T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261103T200013Z
 UID:c949059f94597539fa8314142dcab061@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Tofas Bursa\nOspite: Neptunas Kla
  ipeda\nCircuito/Arena: TOFAS SPOR SALONU\nGiornata/Round: 6\nFase: Group C
- \nStato: scheduled
+ \nRisultato: Tofas Bursa 94 - 79 Neptunas Klaipeda\nStato: finished
 LOCATION:TOFAS SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
