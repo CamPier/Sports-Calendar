@@ -821,86 +821,92 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Houston Rockets
+SUMMARY:🏀 Boston Celtics @ Houston Rockets (93-109)
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:1924086ee57f79361c5d53d1e9ebc1d5@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Boston Celti
- cs\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: live
+ cs\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato: H
+ ouston Rockets 109 - 93 Boston Celtics\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ San Antonio Spurs
+SUMMARY:🏀 Utah Jazz @ San Antonio Spurs (97-119)
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:5b782d22e625e81364699724f2a07552@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Utah Jazz\
- nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: live
+ nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato: San An
+ tonio Spurs 119 - 97 Utah Jazz\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Denver Nuggets
+SUMMARY:🏀 Portland Trail Blazers @ Denver Nuggets (118-110)
 DTSTART:20261103T020000Z
 DTEND:20261103T043000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:6ac74b2a0c0e8fed7d3d07283eb926e4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Portland Trai
- l Blazers\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ l Blazers\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver N
+ uggets 110 - 118 Portland Trail Blazers\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Golden State Warriors
+SUMMARY:🏀 Phoenix Suns @ Golden State Warriors (113-116)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:a032fbccd90299923fc022e1ef1daae7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Phoeni
- x Suns\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+ x Suns\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: Go
+ lden State Warriors 116 - 113 Phoenix Suns\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ LA Clippers
+SUMMARY:🏀 Toronto Raptors @ LA Clippers (125-118)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:200afa42adde92d770425f19b88e7df1@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Toronto Raptors\
- nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: live
+ nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippers 11
+ 8 - 125 Toronto Raptors\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Los Angeles Lakers
+SUMMARY:🏀 Miami Heat @ Los Angeles Lakers (117-138)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033830Z
+DTSTAMP:20261103T124135Z
 UID:1dd562f8646046d83420c796c315277d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Miami Hea
- t\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: live
+ t\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: Los A
+ ngeles Lakers 138 - 117 Miami Heat\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

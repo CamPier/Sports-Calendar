@@ -1422,17 +1422,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Bertram Derthona Tortona
-DTSTART:20261219T190000Z
-DTEND:20261219T213000Z
-DTSTAMP:20261101T182009Z
-UID:49fd5a1360de912ffaa9606c3dc0e286@basketball-calendar.github.io
+SUMMARY:🇮🇹 Openjobmetis Varese @ Napoli Basketball
+DTSTART:20261219T160000Z
+DTEND:20261219T183000Z
+DTSTAMP:20261103T124144Z
+UID:44b1dd55bdbe9ba2d2433e5d063d3342@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Lon
- gobardi Scafati Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiorn
- ata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
- heduled
-LOCATION:Nova Arena\, Tortona
+DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Openjobmet
+ is Varese\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 1
+ 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1453,6 +1452,22 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Bertram Derthona Tortona
+DTSTART:20261219T190000Z
+DTEND:20261219T213000Z
+DTSTAMP:20261101T182009Z
+UID:49fd5a1360de912ffaa9606c3dc0e286@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Lon
+ gobardi Scafati Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiorn
+ ata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
+ heduled
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Acqua S.Bernardo Cantù
 DTSTART:20261219T193000Z
 DTEND:20261219T220000Z
@@ -1464,21 +1479,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Dolo
  Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedu
  led
 LOCATION:PalaDesio\, Desio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Napoli Basketball
-DTSTART:20261219T193000Z
-DTEND:20261219T220000Z
-DTSTAMP:20261101T182009Z
-UID:44b1dd55bdbe9ba2d2433e5d063d3342@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Openjobmet
- is Varese\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 1
- 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751

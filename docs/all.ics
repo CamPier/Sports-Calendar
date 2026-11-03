@@ -821,86 +821,92 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Houston Rockets
+SUMMARY:🏀 Boston Celtics @ Houston Rockets (93-109)
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:1924086ee57f79361c5d53d1e9ebc1d5@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Boston Celti
- cs\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato: live
+ cs\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato: H
+ ouston Rockets 109 - 93 Boston Celtics\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ San Antonio Spurs
+SUMMARY:🏀 Utah Jazz @ San Antonio Spurs (97-119)
 DTSTART:20261103T013000Z
 DTEND:20261103T040000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:5b782d22e625e81364699724f2a07552@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Utah Jazz\
- nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: live
+ nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato: San An
+ tonio Spurs 119 - 97 Utah Jazz\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Denver Nuggets
+SUMMARY:🏀 Portland Trail Blazers @ Denver Nuggets (118-110)
 DTSTART:20261103T020000Z
 DTEND:20261103T043000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:6ac74b2a0c0e8fed7d3d07283eb926e4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Portland Trai
- l Blazers\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ l Blazers\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver N
+ uggets 110 - 118 Portland Trail Blazers\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Golden State Warriors
+SUMMARY:🏀 Phoenix Suns @ Golden State Warriors (113-116)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:a032fbccd90299923fc022e1ef1daae7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Phoeni
- x Suns\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+ x Suns\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: Go
+ lden State Warriors 116 - 113 Phoenix Suns\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ LA Clippers
+SUMMARY:🏀 Toronto Raptors @ LA Clippers (125-118)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:200afa42adde92d770425f19b88e7df1@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Toronto Raptors\
- nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: live
+ nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippers 11
+ 8 - 125 Toronto Raptors\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Los Angeles Lakers
+SUMMARY:🏀 Miami Heat @ Los Angeles Lakers (117-138)
 DTSTART:20261103T030000Z
 DTEND:20261103T053000Z
-DTSTAMP:20261103T033845Z
+DTSTAMP:20261103T124148Z
 UID:1dd562f8646046d83420c796c315277d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Miami Hea
- t\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: live
+ t\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: Los A
+ ngeles Lakers 138 - 117 Miami Heat\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1875,9 +1881,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Hapoel IBI Tel Aviv
-DTSTART:20270408T170000Z
-DTEND:20270408T193000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20270408T174500Z
+DTEND:20270408T201500Z
+DTSTAMP:20261103T124148Z
 UID:7b722c1174a184fbf0f92e8446215924@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: C
@@ -2312,9 +2318,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Hapoel IBI Tel Aviv
-DTSTART:20270325T180000Z
-DTEND:20270325T203000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20270325T184500Z
+DTEND:20270325T211500Z
+DTSTAMP:20261103T124148Z
 UID:82c373284e62acb0da6d961f24ccc779@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: D
@@ -2448,9 +2454,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Hapoel IBI Tel Aviv
-DTSTART:20270323T180000Z
-DTEND:20270323T203000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20270323T184500Z
+DTEND:20270323T211500Z
+DTSTAMP:20261103T124148Z
 UID:6e4762e8b1c82f0024a3ac4c3df831cf@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: F
@@ -3446,9 +3452,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Hapoel IBI Tel Aviv
-DTSTART:20270203T180000Z
-DTEND:20270203T203000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20270203T184500Z
+DTEND:20270203T211500Z
+DTSTAMP:20261103T124148Z
 UID:f77fb87ff38af1b1f8c7987c7236100b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: O
@@ -5014,6 +5020,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Hapoel IBI Tel Aviv
+DTSTART:20261210T184500Z
+DTEND:20261210T211500Z
+DTSTAMP:20261103T124148Z
+UID:a5629847257df69881a18374c0617021@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: L
+ DLC ASVEL Villeurbanne\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 
+ 16\nFase: Group Regular Season\nStato: scheduled
+LOCATION:ARENA 8888 SOFIA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Zalgiris Kaunas
 DTSTART:20261210T180000Z
 DTEND:20261210T203000Z
@@ -5024,21 +5045,6 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Kosne
  r Baskonia Vitoria-Gasteiz\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round
  : 16\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ZALGIRIO ARENA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Hapoel IBI Tel Aviv
-DTSTART:20261210T180000Z
-DTEND:20261210T203000Z
-DTSTAMP:20261002T195652Z
-UID:a5629847257df69881a18374c0617021@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: L
- DLC ASVEL Villeurbanne\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 
- 16\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ARENA 8888 SOFIA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -12262,17 +12268,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Longobardi Scafati Basket @ Bertram Derthona Tortona
-DTSTART:20261219T190000Z
-DTEND:20261219T213000Z
-DTSTAMP:20261101T182014Z
-UID:49fd5a1360de912ffaa9606c3dc0e286@basketball-calendar.github.io
+SUMMARY:🇮🇹 Openjobmetis Varese @ Napoli Basketball
+DTSTART:20261219T160000Z
+DTEND:20261219T183000Z
+DTSTAMP:20261103T124148Z
+UID:44b1dd55bdbe9ba2d2433e5d063d3342@basketball-calendar.github.io
 COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Lon
- gobardi Scafati Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiorn
- ata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
- heduled
-LOCATION:Nova Arena\, Tortona
+DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Openjobmet
+ is Varese\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 1
+ 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -12293,6 +12298,22 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇮🇹 Longobardi Scafati Basket @ Bertram Derthona Tortona
+DTSTART:20261219T190000Z
+DTEND:20261219T213000Z
+DTSTAMP:20261101T182014Z
+UID:49fd5a1360de912ffaa9606c3dc0e286@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Lon
+ gobardi Scafati Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiorn
+ ata/Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
+ heduled
+LOCATION:Nova Arena\, Tortona
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Acqua S.Bernardo Cantù
 DTSTART:20261219T193000Z
 DTEND:20261219T220000Z
@@ -12304,21 +12325,6 @@ DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Dolo
  Round: 12� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedu
  led
 LOCATION:PalaDesio\, Desio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#008751
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ Napoli Basketball
-DTSTART:20261219T193000Z
-DTEND:20261219T220000Z
-DTSTAMP:20261101T182014Z
-UID:44b1dd55bdbe9ba2d2433e5d063d3342@basketball-calendar.github.io
-COLOR:#008751
-DESCRIPTION:Competizione: LBA\nCasa: Napoli Basketball\nOspite: Openjobmet
- is Varese\nCircuito/Arena: Alcott Arena\nCittà: Napoli\nGiornata/Round: 1
- 2� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
-LOCATION:Alcott Arena\, Napoli
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
