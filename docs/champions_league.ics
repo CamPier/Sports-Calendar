@@ -849,104 +849,105 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Atlético Madrid
+SUMMARY:⭐ Bayern Munich @ Atlético Madrid (2-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
  : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\
- nStato: scheduled
+ nRisultato: Atlético Madrid 0 - 2 Bayern Munich\nStato: finished
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Aston Villa @ Barcelona
+SUMMARY:⭐ Aston Villa @ Barcelona (0-3)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:1075067c780acf7c3dafd3965aa9ecd3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Aston
-  Villa\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: schedu
- led
+  Villa\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisultato: Ba
+ rcelona 3 - 0 Aston Villa\nStato: finished
 LOCATION:Spotify Camp Nou\, Barcelona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lille @ Bodo/Glimt
+SUMMARY:⭐ Lille @ Bodo/Glimt (0-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:1cb20fec7152d21eb62a28304145c764@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Lill
- e\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato: scheduled
+ e\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: Bodo/G
+ limt 0 - 0 Lille\nStato: finished
 LOCATION:Aspmyra Stadion\, Bodø/Glimt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam
+SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam (3-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:d69df5f3a6c1bda85b1a018b514c7f66@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: Internazionale\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: sc
- heduled
+ ite: Internazionale\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nRisultato
+ : Feyenoord Rotterdam 0 - 3 Internazionale\nStato: finished
 LOCATION:De Kuip\, Rotterdam
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slovan Bratislava @ LASK Linz
+SUMMARY:⭐ Slovan Bratislava @ LASK Linz (0-4)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:55f0f9fa118f31ab8832fb028e48226e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Slova
- n Bratislava\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato
- : scheduled
+ n Bratislava\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nRisul
+ tato: LASK Linz 4 - 0 Slovan Bratislava\nStato: finished
 LOCATION:Raiffeisen Arena (Linz)\, Linz
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AS Roma @ Manchester United
+SUMMARY:⭐ AS Roma @ Manchester United (2-3)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:4d12a4ab781ec4f24a2339629e7db736@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
- e: AS Roma\nCircuito/Arena: Old Trafford\nCittà: Manchester\nStato: sched
- uled
+ e: AS Roma\nCircuito/Arena: Old Trafford\nCittà: Manchester\nRisultato: M
+ anchester United 3 - 2 AS Roma\nStato: finished
 LOCATION:Old Trafford\, Manchester
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Paris Saint-Germain @ Villarreal
+SUMMARY:⭐ Paris Saint-Germain @ Villarreal (6-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261104T023501Z
 UID:73dce5cada3808758505d68b827ca351@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Pari
  s Saint-Germain\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarre
- al\nStato: scheduled
+ al\nRisultato: Villarreal 0 - 6 Paris Saint-Germain\nStato: finished
 LOCATION:Estadio de la Cerámica\, Villarreal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -7933,60 +7933,64 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Dolomiti Energia Trento @ Napoli Basketball
+SUMMARY:⭐ Dolomiti Energia Trento @ Napoli Basketball (79-90)
 DTSTART:20261103T190000Z
 DTEND:20261103T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T023450Z
 UID:9cf312423c4c47008bc3789458aa4648@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Dolomi
  ti Energia Trento\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 6\nFase: 
- Group C\nStato: scheduled
+ Group C\nRisultato: Napoli Basketball 90 - 79 Dolomiti Energia Trento\nSta
+ to: finished
 LOCATION:ALCOTT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ ratiopharm ulm
+SUMMARY:⭐ Bahcesehir College Istanbul @ ratiopharm ulm (96-82)
 DTSTART:20261103T183000Z
 DTEND:20261103T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T023450Z
 UID:80910d662144a131bfa2706502703d79@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Bahcesehi
  r College Istanbul\nCircuito/Arena: RATIOPHARM ARENA\nGiornata/Round: 6\nF
- ase: Group D\nStato: scheduled
+ ase: Group D\nRisultato: ratiopharm ulm 82 - 96 Bahcesehir College Istanbu
+ l\nStato: finished
 LOCATION:RATIOPHARM ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Roma Basketball @ PAOK Thessaloniki
+SUMMARY:⭐ Roma Basketball @ PAOK Thessaloniki (111-113)
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T023450Z
 UID:fb002f7a39e338ef2b7b5cb0946d4da1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Roma B
  asketball\nCircuito/Arena: PAOK SPORTS ARENA\nGiornata/Round: 6\nFase: Gro
- up D\nStato: scheduled
+ up D\nRisultato: PAOK Thessaloniki 113 - 111 Roma Basketball\nStato: finis
+ hed
 LOCATION:PAOK SPORTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica
+SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica (84-96)
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261102T221444Z
+DTSTAMP:20261104T023450Z
 UID:7b2069eda7884de8e72128e69ea94e2b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   NINERS Chemnitz\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 6\
- nFase: Group C\nStato: scheduled
+ nFase: Group C\nRisultato: Buducnost VOLI Podgorica 96 - 84 NINERS Chemnit
+ z\nStato: finished
 LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

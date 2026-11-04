@@ -9,96 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Milwaukee Bucks (102-110)
-DTSTART:20261027T000000Z
-DTEND:20261027T023000Z
-DTSTAMP:20261027T101836Z
-UID:a621a7ab4fd619b9a7e129b25ca7cbe9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Indiana Pace
- rs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee 
- Bucks 110 - 102 Indiana Pacers\nStato: finished
-LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Oklahoma City Thunder (114-125)
-DTSTART:20261027T000000Z
-DTEND:20261027T023000Z
-DTSTAMP:20261027T101836Z
-UID:91c62043a9b23fe20791702d9dbd9d70@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Phoeni
- x Suns\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato: O
- klahoma City Thunder 125 - 114 Phoenix Suns\nStato: finished
-LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Houston Rockets (110-120)
-DTSTART:20261027T003000Z
-DTEND:20261027T030000Z
-DTSTAMP:20261027T101836Z
-UID:0153badb46a19fef32d8fabd2381acfe@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Atlanta Hawk
- s\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato: Ho
- uston Rockets 120 - 110 Atlanta Hawks\nStato: finished
-LOCATION:Toyota Center (Houston)\, Houston
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Utah Jazz (110-105)
-DTSTART:20261027T010000Z
-DTEND:20261027T033000Z
-DTSTAMP:20261027T101836Z
-UID:5096da16f9673939df9c6b11e9cd029f@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Memphis Grizzlies\
- nCircuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jaz
- z 105 - 110 Memphis Grizzlies\nStato: finished
-LOCATION:Delta Center\, Salt Lake City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Denver Nuggets (134-114)
-DTSTART:20261027T020000Z
-DTEND:20261027T043000Z
-DTSTAMP:20261027T101836Z
-UID:1a1abb1b34e71dcd3a8a26c2c2c54848@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Golden State 
- Warriors\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nu
- ggets 114 - 134 Golden State Warriors\nStato: finished
-LOCATION:Ball Arena\, Denver
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Boston Celtics (124-125)
-DTSTART:20261027T233000Z
-DTEND:20261028T020000Z
-DTSTAMP:20261028T111057Z
-UID:cc6b65c6ec2b73c6115a4c63874bb6b0@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Boston Celtics\nOspite: Brooklyn Nets
- \nCircuito/Arena: TD Garden\nCittà: Boston\nRisultato: Boston Celtics 125
-  - 124 Brooklyn Nets\nStato: finished
-LOCATION:TD Garden\, Boston
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Detroit Pistons @ New York Knicks (97-111)
 DTSTART:20261028T000000Z
 DTEND:20261028T023000Z
@@ -1590,6 +1500,93 @@ DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: New Or
  leans Pelicans\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato
  : scheduled
 LOCATION:Chase Center\, San Francisco
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Milwaukee Bucks @ New York Knicks
+DTSTART:20261111T003000Z
+DTEND:20261111T030000Z
+DTSTAMP:20261104T023503Z
+UID:590441d9f83e0c57f8ba9605a63a74c1@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Milwaukee Bu
+ cks\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: sched
+ uled
+LOCATION:Madison Square Garden\, New York
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
+DTSTART:20261111T010000Z
+DTEND:20261111T033000Z
+DTSTAMP:20261104T023503Z
+UID:221d908e0f2a40e67ac1a4f478c887d7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Boston Ce
+ ltics\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: 
+ scheduled
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 LA Clippers @ Phoenix Suns
+DTSTART:20261111T020000Z
+DTEND:20261111T043000Z
+DTSTAMP:20261104T023503Z
+UID:c70f1c811f8714efad88fa4da3b5853b@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: LA Clippers\nCi
+ rcuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: scheduled
+LOCATION:Mortgage Matchup Center\, Phoenix
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami Heat @ Utah Jazz
+DTSTART:20261111T020000Z
+DTEND:20261111T043000Z
+DTSTAMP:20261104T023503Z
+UID:77e8959ce5b5947959ca8bb347c0a11a@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Miami Heat\nCircui
+ to/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+LOCATION:Delta Center\, Salt Lake City
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Orlando Magic @ Sacramento Kings
+DTSTART:20261111T030000Z
+DTEND:20261111T053000Z
+DTSTAMP:20261104T023503Z
+UID:9922ec5677e352233f7f9367bf933895@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Orlando Mag
+ ic\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: scheduled
+LOCATION:Golden 1 Center\, Sacramento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Portland Trail Blazers
+DTSTART:20261111T040000Z
+DTEND:20261111T063000Z
+DTSTAMP:20261104T023503Z
+UID:aecc07fb756d78b89bdb537769f38a2a@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Oklah
+ oma City Thunder\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: sc
+ heduled
+LOCATION:Moda Center\, Portland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -9519,60 +9516,64 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Dolomiti Energia Trento @ Napoli Basketball
+SUMMARY:⭐ Dolomiti Energia Trento @ Napoli Basketball (79-90)
 DTSTART:20261103T190000Z
 DTEND:20261103T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:9cf312423c4c47008bc3789458aa4648@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Napoli Basketball\nOspite: Dolomi
  ti Energia Trento\nCircuito/Arena: ALCOTT ARENA\nGiornata/Round: 6\nFase: 
- Group C\nStato: scheduled
+ Group C\nRisultato: Napoli Basketball 90 - 79 Dolomiti Energia Trento\nSta
+ to: finished
 LOCATION:ALCOTT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ ratiopharm ulm
+SUMMARY:⭐ Bahcesehir College Istanbul @ ratiopharm ulm (96-82)
 DTSTART:20261103T183000Z
 DTEND:20261103T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:80910d662144a131bfa2706502703d79@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: ratiopharm ulm\nOspite: Bahcesehi
  r College Istanbul\nCircuito/Arena: RATIOPHARM ARENA\nGiornata/Round: 6\nF
- ase: Group D\nStato: scheduled
+ ase: Group D\nRisultato: ratiopharm ulm 82 - 96 Bahcesehir College Istanbu
+ l\nStato: finished
 LOCATION:RATIOPHARM ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Roma Basketball @ PAOK Thessaloniki
+SUMMARY:⭐ Roma Basketball @ PAOK Thessaloniki (111-113)
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:fb002f7a39e338ef2b7b5cb0946d4da1@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: PAOK Thessaloniki\nOspite: Roma B
  asketball\nCircuito/Arena: PAOK SPORTS ARENA\nGiornata/Round: 6\nFase: Gro
- up D\nStato: scheduled
+ up D\nRisultato: PAOK Thessaloniki 113 - 111 Roma Basketball\nStato: finis
+ hed
 LOCATION:PAOK SPORTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica
+SUMMARY:⭐ NINERS Chemnitz @ Buducnost VOLI Podgorica (84-96)
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
-DTSTAMP:20261102T221459Z
+DTSTAMP:20261104T023503Z
 UID:7b2069eda7884de8e72128e69ea94e2b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   NINERS Chemnitz\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 6\
- nFase: Group C\nStato: scheduled
+ nFase: Group C\nRisultato: Buducnost VOLI Podgorica 96 - 84 NINERS Chemnit
+ z\nStato: finished
 LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -20690,104 +20691,105 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Atlético Madrid
+SUMMARY:⭐ Bayern Munich @ Atlético Madrid (2-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:fc92118ca0d528aa1568417c4e4fd5ef@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
  : Bayern Munich\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\
- nStato: scheduled
+ nRisultato: Atlético Madrid 0 - 2 Bayern Munich\nStato: finished
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Aston Villa @ Barcelona
+SUMMARY:⭐ Aston Villa @ Barcelona (0-3)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:1075067c780acf7c3dafd3965aa9ecd3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Barcelona\nOspite: Aston
-  Villa\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nStato: schedu
- led
+  Villa\nCircuito/Arena: Spotify Camp Nou\nCittà: Barcelona\nRisultato: Ba
+ rcelona 3 - 0 Aston Villa\nStato: finished
 LOCATION:Spotify Camp Nou\, Barcelona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lille @ Bodo/Glimt
+SUMMARY:⭐ Lille @ Bodo/Glimt (0-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:1cb20fec7152d21eb62a28304145c764@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: Lill
- e\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato: scheduled
+ e\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: Bodo/G
+ limt 0 - 0 Lille\nStato: finished
 LOCATION:Aspmyra Stadion\, Bodø/Glimt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam
+SUMMARY:⭐ Internazionale @ Feyenoord Rotterdam (3-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:d69df5f3a6c1bda85b1a018b514c7f66@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: Internazionale\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: sc
- heduled
+ ite: Internazionale\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nRisultato
+ : Feyenoord Rotterdam 0 - 3 Internazionale\nStato: finished
 LOCATION:De Kuip\, Rotterdam
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slovan Bratislava @ LASK Linz
+SUMMARY:⭐ Slovan Bratislava @ LASK Linz (0-4)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:55f0f9fa118f31ab8832fb028e48226e@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: LASK Linz\nOspite: Slova
- n Bratislava\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nStato
- : scheduled
+ n Bratislava\nCircuito/Arena: Raiffeisen Arena (Linz)\nCittà: Linz\nRisul
+ tato: LASK Linz 4 - 0 Slovan Bratislava\nStato: finished
 LOCATION:Raiffeisen Arena (Linz)\, Linz
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AS Roma @ Manchester United
+SUMMARY:⭐ AS Roma @ Manchester United (2-3)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:4d12a4ab781ec4f24a2339629e7db736@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester United\nOspit
- e: AS Roma\nCircuito/Arena: Old Trafford\nCittà: Manchester\nStato: sched
- uled
+ e: AS Roma\nCircuito/Arena: Old Trafford\nCittà: Manchester\nRisultato: M
+ anchester United 3 - 2 AS Roma\nStato: finished
 LOCATION:Old Trafford\, Manchester
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Paris Saint-Germain @ Villarreal
+SUMMARY:⭐ Paris Saint-Germain @ Villarreal (6-0)
 DTSTART:20261103T200000Z
 DTEND:20261103T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261104T023503Z
 UID:73dce5cada3808758505d68b827ca351@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Villarreal\nOspite: Pari
  s Saint-Germain\nCircuito/Arena: Estadio de la Cerámica\nCittà: Villarre
- al\nStato: scheduled
+ al\nRisultato: Villarreal 0 - 6 Paris Saint-Germain\nStato: finished
 LOCATION:Estadio de la Cerámica\, Villarreal
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23887,9 +23889,9 @@ X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ WTA Finals
-DTSTART:20261107T050000Z
-DTEND:20261107T073000Z
-DTSTAMP:20261031T014434Z
+DTSTART:20261108T050000Z
+DTEND:20261108T073000Z
+DTSTAMP:20261104T023503Z
 UID:2406a3c5f987e8a4419355984a6b1e2f@basketball-calendar.github.io
 COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: WTA Finals\nOspite: WTA\nGiorn
