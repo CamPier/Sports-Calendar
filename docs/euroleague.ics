@@ -4054,13 +4054,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Maccabi Rapyd Tel Aviv
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:1e8aab3bc47639bb0151e76af080c57a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Olympiacos Piraeus\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Ro
- und: 12\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Olympiacos Piraeus\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGi
+ ornata/Round: 12\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -4189,13 +4189,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Maccabi Rapyd Tel Aviv
 DTSTART:20261112T190500Z
 DTEND:20261112T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:a23503e28779e7a4677ab446b5d1f41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Hapoel IBI Tel Aviv\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/R
- ound: 11\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Hapoel IBI Tel Aviv\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nG
+ iornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -7858,75 +7858,80 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Slask Wroclaw
+SUMMARY:⭐ Cosea JL Bourg-en-Bresse @ Slask Wroclaw (88-84)
 DTSTART:20261104T180000Z
 DTEND:20261104T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:dab5b04abccc4e41f3051e3b734e094e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Slask Wroclaw\nOspite: Cosea JL B
  ourg-en-Bresse\nCircuito/Arena: HALA ORBITA\nGiornata/Round: 6\nFase: Grou
- p C\nStato: scheduled
+ p C\nRisultato: Slask Wroclaw 84 - 88 Cosea JL Bourg-en-Bresse\nStato: fin
+ ished
 LOCATION:HALA ORBITA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Baglietto Derthona Tortona @ Cedevita Olimpija Ljubljana
+SUMMARY:⭐ Baglietto Derthona Tortona @ Cedevita Olimpija Ljubljana (71-7
+ 3)
 DTSTART:20261104T173000Z
 DTEND:20261104T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:dace554b1b4d9630d6857abb1c0883e7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
  te: Baglietto Derthona Tortona\nCircuito/Arena: ARENA STOZICE\nGiornata/Ro
- und: 6\nFase: Group A\nStato: scheduled
+ und: 6\nFase: Group A\nRisultato: Cedevita Olimpija Ljubljana 73 - 71 Bagl
+ ietto Derthona Tortona\nStato: finished
 LOCATION:ARENA STOZICE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Kids&Us Manresa @ Lietkabelis Panevezys
+SUMMARY:⭐ Kids&Us Manresa @ Lietkabelis Panevezys (80-66)
 DTSTART:20261104T170000Z
 DTEND:20261104T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:091f47d6ab901fbd3a35d0b279a6971c@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Lietkabelis Panevezys\nOspite: Ki
  ds&Us Manresa\nCircuito/Arena: KALNAPILIO ARENA\nGiornata/Round: 6\nFase: 
- Group D\nStato: scheduled
+ Group D\nRisultato: Lietkabelis Panevezys 66 - 80 Kids&Us Manresa\nStato: 
+ finished
 LOCATION:KALNAPILIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Le Mans Sarthe Basket @ Riga Zelli
+SUMMARY:⭐ Le Mans Sarthe Basket @ Riga Zelli (71-65)
 DTSTART:20261104T170000Z
 DTEND:20261104T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:12e0e42d9a4119b1b4ab3d2c458b1409@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Riga Zelli\nOspite: Le Mans Sarth
  e Basket\nCircuito/Arena: XIAOMI ARENA\nGiornata/Round: 6\nFase: Group A\n
- Stato: scheduled
+ Risultato: Riga Zelli 65 - 71 Le Mans Sarthe Basket\nStato: finished
 LOCATION:XIAOMI ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Skyliners Frankfurt @ Turk Telekom Ankara
+SUMMARY:⭐ Skyliners Frankfurt @ Turk Telekom Ankara (78-98)
 DTSTART:20261104T163000Z
 DTEND:20261104T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261104T202104Z
 UID:ea7a043968146996236b05afdd6c0786@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: Skyl
  iners Frankfurt\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 6\nFa
- se: Group B\nStato: scheduled
+ se: Group B\nRisultato: Turk Telekom Ankara 98 - 78 Skyliners Frankfurt\nS
+ tato: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
