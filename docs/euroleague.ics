@@ -4340,30 +4340,33 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Fenerbahce Tarfin Istan
- bul
+ bul (65-84)
 DTSTART:20261105T180000Z
 DTEND:20261105T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T203105Z
 UID:f3e36a63b13314df410a3de4b9de94d0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: ULKER SPORTS AND EV
- ENT HALL\nGiornata/Round: 10\nFase: Group Regular Season\nStato: scheduled
+ ENT HALL\nGiornata/Round: 10\nFase: Group Regular Season\nRisultato: Fener
+ bahce Tarfin Istanbul 84 - 65 Kosner Baskonia Vitoria-Gasteiz\nStato: fini
+ shed
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Anadolu Efes Istanbul
+SUMMARY:🇪🇺 Paris Basketball @ Anadolu Efes Istanbul (95-90)
 DTSTART:20261105T171500Z
 DTEND:20261105T194500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T203105Z
 UID:cd6fe3df01c2f639011bba889e4892be@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
   Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
- nGiornata/Round: 10\nFase: Group Regular Season\nStato: scheduled
+ nGiornata/Round: 10\nFase: Group Regular Season\nRisultato: Anadolu Efes I
+ stanbul 90 - 95 Paris Basketball\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
