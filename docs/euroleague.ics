@@ -102,13 +102,14 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Maccabi Rapyd Tel Aviv
 DTSTART:20270415T180500Z
 DTEND:20270415T203500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:9e5a6882179e090f18fbd05b9818801b@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL
- \nGiornata/Round: 38\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: SPYROS KYPRIANOU ATHLET
+ IC CENTER\nGiornata/Round: 38\nFase: Group Regular Season\nStato: schedule
+ d
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -312,13 +313,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Maccabi Rapyd Tel Aviv
 DTSTART:20270407T160000Z
 DTEND:20270407T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:76e1fb2b1689e79996d248d41e07cca9@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Partizan Mozzart Bet Belgrade\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\n
- Giornata/Round: 36\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Partizan Mozzart Bet Belgrade\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC
+  CENTER\nGiornata/Round: 36\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -553,13 +554,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Maccabi Rapyd Tel Aviv
 DTSTART:20270401T180500Z
 DTEND:20270401T203500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:51a3acfe9ecb21f653e6f25b2167bdda@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Fenerbahce Tarfin Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGio
- rnata/Round: 35\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Fenerbahce Tarfin Istanbul\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CE
+ NTER\nGiornata/Round: 35\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1037,13 +1038,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Valencia Basket @ Maccabi Rapyd Tel Aviv
 DTSTART:20270318T190500Z
 DTEND:20270318T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:b9555c9b779acde22d8f8b18849e1c3e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Valencia Basket\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round
- : 32\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Valencia Basket\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiorn
+ ata/Round: 32\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1187,13 +1188,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Maccabi Rapyd Tel Aviv
 DTSTART:20270311T190500Z
 DTEND:20270311T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:2473e0214502b26122b50ebb0a6728eb@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : LDLC ASVEL Villeurbanne\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiorna
- ta/Round: 31\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : LDLC ASVEL Villeurbanne\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTE
+ R\nGiornata/Round: 31\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1309,13 +1310,14 @@ SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Maccabi Rapyd Tel Av
  iv
 DTSTART:20270309T190500Z
 DTEND:20270309T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:4ca627a18adc6b8afb95e9b5fad9b94c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: ALEKSANDAR NIKOLIC H
- ALL\nGiornata/Round: 30\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: SPYROS KYPRIANOU ATH
+ LETIC CENTER\nGiornata/Round: 30\nFase: Group Regular Season\nStato: sched
+ uled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1596,13 +1598,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Maccabi Rapyd Tel Aviv
 DTSTART:20270211T190500Z
 DTEND:20270211T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:423e203a44192164e3a956c7c698983d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : FC Barcelona\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round: 2
- 8\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : FC Barcelona\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiornata
+ /Round: 28\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1944,13 +1946,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Virtus Bologna @ Maccabi Rapyd Tel Aviv
 DTSTART:20270202T190500Z
 DTEND:20270202T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:bc559782e97fe5c73b12f30a2e3a730f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Virtus Bologna\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round:
-  26\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Virtus Bologna\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiorna
+ ta/Round: 26\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -2487,13 +2489,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Maccabi Rapyd Tel Aviv
 DTSTART:20270112T193000Z
 DTEND:20270112T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:4f9a3a71343d368f86894b24ed12ebc5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : FC Bayern Munich\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Roun
- d: 22\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : FC Bayern Munich\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGior
+ nata/Round: 22\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -2699,13 +2701,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Maccabi Rapyd Tel Aviv
 DTSTART:20270107T170000Z
 DTEND:20270107T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:4c4dc566669f2c383408c21bcf8474ec@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Panathinaikos AKTOR Athens\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGio
- rnata/Round: 21\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Panathinaikos AKTOR Athens\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CE
+ NTER\nGiornata/Round: 21\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -2894,13 +2896,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Maccabi Rapyd Tel Aviv
 DTSTART:20261223T190500Z
 DTEND:20261223T213500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:402e829cb9ae7d27244fa6a7c52dff85@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Anadolu Efes Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata
- /Round: 19\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Anadolu Efes Istanbul\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\
+ nGiornata/Round: 19\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -3226,13 +3228,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Zalgiris Kaunas @ Maccabi Rapyd Tel Aviv
 DTSTART:20261215T200000Z
 DTEND:20261215T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:7396db587578c5fbc2c6442e13c6e536@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Zalgiris Kaunas\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Round
- : 17\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Zalgiris Kaunas\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiorn
+ ata/Round: 17\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -3919,13 +3921,13 @@ BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Maccabi Rapyd Tel Aviv
 DTSTART:20261119T173000Z
 DTEND:20261119T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T125944Z
 UID:a9f54adeab3b28ef1378295aa7d79bf7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Dubai Basketball\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Roun
- d: 13\nFase: Group Regular Season\nStato: scheduled
-LOCATION:ALEKSANDAR NIKOLIC HALL
+ : Dubai Basketball\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGior
+ nata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
