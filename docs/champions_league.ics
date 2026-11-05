@@ -984,101 +984,107 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Real Betis @ Borussia Dortmund
+SUMMARY:⭐ Real Betis @ Borussia Dortmund (1-2)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:01df2db624ff3c1e9687750b506cc7c3@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Borussia Dortmund\nOspit
- e: Real Betis\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nStato: live
+ e: Real Betis\nCircuito/Arena: Signal Iduna Park\nCittà: Aue\nRisultato: 
+ Borussia Dortmund 2 - 1 Real Betis\nStato: finished
 LOCATION:Signal Iduna Park\, Aue
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli @ FC Porto
+SUMMARY:⭐ Napoli @ FC Porto (1-4)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:e68a2b1f420ab432dc2a228c1a398ded@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: FC Porto\nOspite: Napoli
- \nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nStato: live
+ \nCircuito/Arena: Estádio do Dragão\nCittà: Porto\nRisultato: FC Porto 
+ 4 - 1 Napoli\nStato: finished
 LOCATION:Estádio do Dragão\, Porto
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Como @ Lens
+SUMMARY:⭐ Como @ Lens (9-1)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:43615f8d444e2b8ac3a0d5fb7f572e99@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lens\nOspite: Como\nCirc
- uito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nStato: live
+ uito/Arena: Stade Bollaert-Delelis\nCittà: Lens\nRisultato: Lens 1 - 9 Co
+ mo\nStato: finished
 LOCATION:Stade Bollaert-Delelis\, Lens
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Club Brugge @ PSV Eindhoven
+SUMMARY:⭐ Club Brugge @ PSV Eindhoven (2-1)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:ec660a213b9fc86c284deace0e22d9e0@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: PSV Eindhoven\nOspite: C
- lub Brugge\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nStato: liv
- e
+ lub Brugge\nCircuito/Arena: Philips Stadion\nCittà: Eindhoven\nRisultato:
+  PSV Eindhoven 1 - 2 Club Brugge\nStato: finished
 LOCATION:Philips Stadion\, Eindhoven
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Manchester City @ RB Leipzig
+SUMMARY:⭐ Manchester City @ RB Leipzig (3-2)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:df1ff0eaa0fbcb65c99eaf9d482849e8@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Manc
- hester City\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: live
+ hester City\nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nRisultato: R
+ B Leipzig 2 - 3 Manchester City\nStato: finished
 LOCATION:Red Bull Arena\, Leipzig
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Arsenal @ Slavia Prague
+SUMMARY:⭐ Arsenal @ Slavia Prague (2-1)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:7b01219ab02d1cf9989a2952b47110d7@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: A
- rsenal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: live
+ rsenal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavia P
+ rague 1 - 2 Arsenal\nStato: finished
 LOCATION:Fortuna Arena\, Prague
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Sabah FK @ Viking FK
+SUMMARY:⭐ Sabah FK @ Viking FK (1-4)
 DTSTART:20261104T200000Z
 DTEND:20261104T223000Z
-DTSTAMP:20261104T202115Z
+DTSTAMP:20261105T024122Z
 UID:02d26adfc7d30177e1432cf7101a9056@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Viking FK\nOspite: Sabah
-  FK\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nStato: live
+  FK\nCircuito/Arena: Viking Stadion\nCittà: Stavanger\nRisultato: Viking 
+ FK 4 - 1 Sabah FK\nStato: finished
 LOCATION:Viking Stadion\, Stavanger
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT

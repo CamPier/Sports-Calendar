@@ -4368,15 +4368,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Real Madrid
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Real Madrid (115-112)
 DTSTART:20261104T194500Z
 DTEND:20261104T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T024108Z
 UID:33881b6c6b1adf0dfc2dd4cca590888c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Panathina
  ikos AKTOR Athens\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 10\nFas
- e: Group Regular Season\nStato: scheduled
+ e: Group Regular Season\nRisultato: Real Madrid 112 - 115 Panathinaikos AK
+ TOR Athens\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7783,75 +7784,79 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ London Lions @ Maxima Roma
+SUMMARY:⭐ London Lions @ Maxima Roma (84-86)
 DTSTART:20261104T193000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261013T123318Z
+DTSTAMP:20261105T024108Z
 UID:8de29863dd707b0fb3e1558e9b6a5945@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Maxima Roma\nOspite: London Lions
  \nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round: 6\nFase: Group B
- \nStato: scheduled
+ \nRisultato: Maxima Roma 86 - 84 London Lions\nStato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Rostock Seawolves @ Recoletas Salud San Pablo Burgos
+SUMMARY:⭐ Rostock Seawolves @ Recoletas Salud San Pablo Burgos (86-59)
 DTSTART:20261104T193000Z
 DTEND:20261104T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T024108Z
 UID:f32becb20b19e4002abaaa629a661b64@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Recoletas Salud San Pablo Burgos\
  nOspite: Rostock Seawolves\nCircuito/Arena: COLISEUM BURGOS\nGiornata/Roun
- d: 6\nFase: Group A\nStato: scheduled
+ d: 6\nFase: Group A\nRisultato: Recoletas Salud San Pablo Burgos 59 - 86 R
+ ostock Seawolves\nStato: finished
 LOCATION:COLISEUM BURGOS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Siauliai Basketball @ Umana Reyer Venice
+SUMMARY:⭐ Siauliai Basketball @ Umana Reyer Venice (77-98)
 DTSTART:20261104T190000Z
 DTEND:20261104T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T024108Z
 UID:42a05f83fe7c143387b7276a287ce4e6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Umana Reyer Venice\nOspite: Siaul
  iai Basketball\nCircuito/Arena: PALASPORT TALIERCIO\nGiornata/Round: 6\nFa
- se: Group B\nStato: scheduled
+ se: Group B\nRisultato: Umana Reyer Venice 98 - 77 Siauliai Basketball\nSt
+ ato: finished
 LOCATION:PALASPORT TALIERCIO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Aris Thessaloniki @ Hapoel Midtown Jerusalem
+SUMMARY:⭐ Aris Thessaloniki @ Hapoel Midtown Jerusalem (73-84)
 DTSTART:20261104T190000Z
 DTEND:20261104T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T024108Z
 UID:403679555861a7feb1627bd61f770818@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Hapoel Midtown Jerusalem\nOspite:
   Aris Thessaloniki\nCircuito/Arena: HALA SPORTOVA RANKO ZERAVICA\nGiornata
- /Round: 6\nFase: Group A\nStato: scheduled
+ /Round: 6\nFase: Group A\nRisultato: Hapoel Midtown Jerusalem 84 - 73 Aris
+  Thessaloniki\nStato: finished
 LOCATION:HALA SPORTOVA RANKO ZERAVICA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Balkan Botevgrad @ BOSNA BH Telecom Sarajevo
+SUMMARY:⭐ Balkan Botevgrad @ BOSNA BH Telecom Sarajevo (78-69)
 DTSTART:20261104T183000Z
 DTEND:20261104T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261105T024108Z
 UID:4bf092c3c292ce3982aa7745b7067464@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
  : Balkan Botevgrad\nCircuito/Arena: ZETRA ARENA\nGiornata/Round: 6\nFase: 
- Group D\nStato: scheduled
+ Group D\nRisultato: BOSNA BH Telecom Sarajevo 69 - 78 Balkan Botevgrad\nSt
+ ato: finished
 LOCATION:ZETRA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
