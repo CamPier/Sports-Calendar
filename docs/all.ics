@@ -804,29 +804,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Phoenix Suns
+SUMMARY:🏀 Orlando Magic @ Phoenix Suns (104-117)
 DTSTART:20261106T020000Z
 DTEND:20261106T043000Z
-DTSTAMP:20261106T024414Z
+DTSTAMP:20261106T124822Z
 UID:a61e9f7893bcfcda845951f0c7c31ca5@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Orlando Magic\n
- Circuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: live
+ Circuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: Phoen
+ ix Suns 117 - 104 Orlando Magic\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Golden State Warriors
+SUMMARY:🏀 Miami Heat @ Golden State Warriors (100-120)
 DTSTART:20261106T030000Z
 DTEND:20261106T053000Z
-DTSTAMP:20261030T020541Z
+DTSTAMP:20261106T124822Z
 UID:f35e1f15e7501b29cf3c6ece92ff0441@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Miami 
- Heat\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: schedule
- d
+ Heat\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: Gold
+ en State Warriors 120 - 100 Miami Heat\nStato: finished
 LOCATION:Chase Center\, San Francisco
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
