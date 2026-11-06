@@ -4294,45 +4294,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Valencia Basket @ Armani Olimpia Milan (84-73)
 DTSTART:20261105T193000Z
 DTEND:20261105T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261106T024402Z
 UID:f4becab98015f585a4e7c8db7be533e5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Valencia Basket\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 10\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Armani Olimpia Milan 73 - 84 Valencia Bask
+ et\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ LDLC ASVEL Villeurbanne
+SUMMARY:🇪🇺 FC Bayern Munich @ LDLC ASVEL Villeurbanne (99-95)
 DTSTART:20261105T190000Z
 DTEND:20261105T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261106T024402Z
 UID:0cb8c82afc79e61f17744329e545d3ff@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: FC Bayern Munich\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 10\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 95 - 99 FC Bayer
+ n Munich\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Barcelona @ Hapoel IBI Tel Aviv
+SUMMARY:🇪🇺 FC Barcelona @ Hapoel IBI Tel Aviv (93-90)
 DTSTART:20261105T184500Z
 DTEND:20261105T211500Z
-DTSTAMP:20261029T185355Z
+DTSTAMP:20261106T024402Z
 UID:f0670be8c7a2c52562d2466cba8c1187@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: F
  C Barcelona\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 10\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Hapoel IBI Tel Aviv 90 - 93 FC Barcelona\n
+ Stato: finished
 LOCATION:ARENA 8888 SOFIA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7774,15 +7777,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ U-BT Cluj-Napoca @ La Laguna Tenerife
+SUMMARY:⭐ U-BT Cluj-Napoca @ La Laguna Tenerife (73-113)
 DTSTART:20261105T200000Z
 DTEND:20261105T223000Z
-DTSTAMP:20261014T175351Z
+DTSTAMP:20261106T024402Z
 UID:da37258c5fd307739285e97ece06747e@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: La Laguna Tenerife\nOspite: U-BT 
  Cluj-Napoca\nCircuito/Arena: PABELLON SANTIAGO MARTIN\nGiornata/Round: 6\n
- Fase: Group B\nStato: scheduled
+ Fase: Group B\nRisultato: La Laguna Tenerife 113 - 73 U-BT Cluj-Napoca\nSt
+ ato: finished
 LOCATION:PABELLON SANTIAGO MARTIN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
