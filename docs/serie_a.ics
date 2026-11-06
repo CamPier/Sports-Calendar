@@ -1509,13 +1509,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Udinese @ Venezia
 DTSTART:20261106T194500Z
 DTEND:20261106T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261106T195423Z
 UID:5bf5f75e75e8b6373a1d843e51abc7aa@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Udinese\nCircuit
- o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: live
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

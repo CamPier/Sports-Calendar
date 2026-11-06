@@ -4279,15 +4279,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul (83-67)
 DTSTART:20261106T170000Z
 DTEND:20261106T193000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261106T195413Z
 UID:0146676080781dd6aeac39aa896bda0e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Zal
  giris Kaunas\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGior
- nata/Round: 10\nFase: Group Regular Season\nStato: scheduled
+ nata/Round: 10\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 6
+ 7 - 83 Zalgiris Kaunas\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

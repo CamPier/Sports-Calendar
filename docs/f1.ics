@@ -1161,12 +1161,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP1 — Brazilian Grand Prix
 DTSTART:20261106T153000Z
 DTEND:20261106T163000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261106T195425Z
 UID:1c0b0fc425628df52c480b504d029e25@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP1
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: FirstPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: FirstPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1176,12 +1176,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — Brazilian Grand Prix
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261106T195425Z
 UID:58fcfc6306f7d7429b49f2513e3b9164@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP2
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: SecondPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: SecondPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

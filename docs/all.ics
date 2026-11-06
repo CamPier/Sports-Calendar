@@ -5846,15 +5846,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul (83-67)
 DTSTART:20261106T170000Z
 DTEND:20261106T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261106T195427Z
 UID:0146676080781dd6aeac39aa896bda0e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Zal
  giris Kaunas\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGior
- nata/Round: 10\nFase: Group Regular Season\nStato: scheduled
+ nata/Round: 10\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 6
+ 7 - 83 Zalgiris Kaunas\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -15937,13 +15938,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Udinese @ Venezia
 DTSTART:20261106T194500Z
 DTEND:20261106T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261106T195427Z
 UID:5bf5f75e75e8b6373a1d843e51abc7aa@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Udinese\nCircuit
- o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: live
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -23147,12 +23148,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP1 — Brazilian Grand Prix
 DTSTART:20261106T153000Z
 DTEND:20261106T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261106T195427Z
 UID:1c0b0fc425628df52c480b504d029e25@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP1
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: FirstPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: FirstPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23162,12 +23163,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — Brazilian Grand Prix
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261106T195427Z
 UID:58fcfc6306f7d7429b49f2513e3b9164@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP2
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: SecondPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: SecondPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23756,9 +23757,9 @@ X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Bybit Stockholm Open
-DTSTART:20261108T050000Z
-DTEND:20261108T073000Z
-DTSTAMP:20261101T012256Z
+DTSTART:20261107T050000Z
+DTEND:20261107T073000Z
+DTSTAMP:20261106T195427Z
 UID:973526b86f14c8a3886267cca8253228@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Bybit Stockholm Open\nOspite: 
