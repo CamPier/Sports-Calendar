@@ -714,129 +714,137 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Atlanta Hawks
+SUMMARY:🏀 Washington Wizards @ Atlanta Hawks (132-139)
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:69ef21666a5a2ad88a63bf509aa9f4eb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Washington Wiz
- ards\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: live
+ ards\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nRisultato: Atlant
+ a Hawks 139 - 132 Washington Wizards\nStato: finished
 LOCATION:State Farm Arena\, Atlanta
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Charlotte Hornets
+SUMMARY:🏀 Boston Celtics @ Charlotte Hornets (119-80)
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:4ad0c9eb793c723d64b66958243f8c41@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Boston Cel
- tics\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nStato: live
+ tics\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: Charl
+ otte Hornets 80 - 119 Boston Celtics\nStato: finished
 LOCATION:Spectrum Center\, Charlotte
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Cleveland Cavaliers
+SUMMARY:🏀 Philadelphia 76ers @ Cleveland Cavaliers (95-119)
 DTSTART:20261107T003000Z
 DTEND:20261107T030000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:d12974bcf729779b32c91c7973d7a564@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Philadel
- phia 76ers\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: live
+ phia 76ers\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Cl
+ eveland Cavaliers 119 - 95 Philadelphia 76ers\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Dallas Mavericks
+SUMMARY:🏀 Utah Jazz @ Dallas Mavericks (100-112)
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:11a44f0da138aeae40180377f6ec6191@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Utah Jazz\n
- Circuito/Arena: American Airlines Center\nCittà: Dallas\nStato: live
+ Circuito/Arena: American Airlines Center\nCittà: Dallas\nRisultato: Dalla
+ s Mavericks 112 - 100 Utah Jazz\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Memphis Grizzlies
+SUMMARY:🏀 Oklahoma City Thunder @ Memphis Grizzlies (128-97)
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:426e52230e4b602c6d2ddd791e5257fa@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Oklahoma C
- ity Thunder\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
+ ity Thunder\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memph
+ is Grizzlies 97 - 128 Oklahoma City Thunder\nStato: finished
 LOCATION:FedExForum\, Memphis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ Milwaukee Bucks
+SUMMARY:🏀 Toronto Raptors @ Milwaukee Bucks (121-107)
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:e6449f427efb54b9015502193181233d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Toronto Rapt
- ors\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ ors\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee
+  Bucks 107 - 121 Toronto Raptors\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Minnesota Timberwolves @ New Orleans Pelicans
+SUMMARY:🏀 Minnesota Timberwolves @ New Orleans Pelicans (115-109)
 DTSTART:20261107T010000Z
 DTEND:20261107T033000Z
-DTSTAMP:20261107T021339Z
+DTSTAMP:20261107T113640Z
 UID:b7be87ff0d4c4fe6703ac2d5818fddd3@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Minneso
  ta Timberwolves\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans
- \nStato: live
+ \nRisultato: New Orleans Pelicans 109 - 115 Minnesota Timberwolves\nStato:
+  finished
 LOCATION:Smoothie King Center\, New Orleans
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Los Angeles Lakers
+SUMMARY:🏀 Portland Trail Blazers @ Los Angeles Lakers (118-124)
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
-DTSTAMP:20261031T014434Z
+DTSTAMP:20261107T113640Z
 UID:a7b0f28a1d14bc1caa7d3f5980998284@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Portland 
- Trail Blazers\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStat
- o: scheduled
+ Trail Blazers\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisu
+ ltato: Los Angeles Lakers 124 - 118 Portland Trail Blazers\nStato: finishe
+ d
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Sacramento Kings
+SUMMARY:🏀 San Antonio Spurs @ Sacramento Kings (124-109)
 DTSTART:20261107T030000Z
 DTEND:20261107T053000Z
-DTSTAMP:20261031T014434Z
+DTSTAMP:20261107T113640Z
 UID:4150f5495709ae89ad0ba8bdcfeb1f0a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: San Antonio
-  Spurs\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: schedu
- led
+  Spurs\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sa
+ cramento Kings 109 - 124 San Antonio Spurs\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
