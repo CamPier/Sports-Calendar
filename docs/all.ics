@@ -15972,28 +15972,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Frosinone @ Cagliari
+SUMMARY:⚽ Frosinone @ Cagliari (0-1)
 DTSTART:20261107T140000Z
 DTEND:20261107T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261107T175845Z
 UID:f7e0c194aa35947fed39be92ee69a25b@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Cagliari\nOspite: Frosinone\nCirc
- uito/Arena: Unipol Domus\nCittà: Cagliari\nStato: scheduled
+ uito/Arena: Unipol Domus\nCittà: Cagliari\nRisultato: Cagliari 1 - 0 Fros
+ inone\nStato: finished
 LOCATION:Unipol Domus\, Cagliari
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lecce @ Torino
+SUMMARY:⚽ Lecce @ Torino (1-1)
 DTSTART:20261107T140000Z
 DTEND:20261107T163000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261107T175845Z
 UID:a835f2ada816507b4729b8e5f331599a@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Torino\nOspite: Lecce\nCircuito/A
- rena: Stadio Olimpico Grande Torino\nCittà: Torino\nStato: scheduled
+ rena: Stadio Olimpico Grande Torino\nCittà: Torino\nRisultato: Torino 1 -
+  1 Lecce\nStato: finished
 LOCATION:Stadio Olimpico Grande Torino\, Torino
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -16003,13 +16005,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Bologna @ Parma
 DTSTART:20261107T170000Z
 DTEND:20261107T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261107T175845Z
 UID:6ba1d7c7e20130691278506a30a11b1e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Bologna\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: scheduled
+ Arena: Ennio Tardini\nCittà: Parma\nStato: live
 LOCATION:Ennio Tardini\, Parma
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
@@ -23201,12 +23203,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Brazilian Grand Prix
 DTSTART:20261107T143000Z
 DTEND:20261107T153000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261107T175845Z
 UID:81c22a04ba05744427cf05030946ec98@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP3
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: ThirdPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: ThirdPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

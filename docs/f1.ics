@@ -1191,12 +1191,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Brazilian Grand Prix
 DTSTART:20261107T143000Z
 DTEND:20261107T153000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261107T175844Z
 UID:81c22a04ba05744427cf05030946ec98@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 FP3
  \nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\, Brazi
- l\nGiornata/Round: Round 20\nFase: ThirdPractice\nStato: scheduled
+ l\nGiornata/Round: Round 20\nFase: ThirdPractice\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
