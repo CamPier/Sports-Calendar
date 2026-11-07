@@ -4234,45 +4234,50 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Partizan Mozzart Bet Belgrade
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Partizan Mozzart Bet Belgrade (6
+ 7-88)
 DTSTART:20261106T194500Z
 DTEND:20261106T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261107T021324Z
 UID:d8fa700151c2ec6bad3d3cbeb47f17d6@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BELGRADE ARENA\nGiornata/
- Round: 10\nFase: Group Regular Season\nStato: scheduled
+ Round: 10\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Bel
+ grade 88 - 67 Maccabi Rapyd Tel Aviv\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Virtus Bologna
+SUMMARY:🇪🇺 Dubai Basketball @ Virtus Bologna (93-75)
 DTSTART:20261106T193000Z
 DTEND:20261106T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261107T021324Z
 UID:a70b38115fda4999deb70e792e6eef40@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Dubai 
  Basketball\nCircuito/Arena: PALADOZZA\nGiornata/Round: 10\nFase: Group Reg
- ular Season\nStato: scheduled
+ ular Season\nRisultato: Virtus Bologna 75 - 93 Dubai Basketball\nStato: fi
+ nished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Olympiacos Piraeus (
+ 62-57)
 DTSTART:20261106T191500Z
 DTEND:20261106T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261107T021324Z
 UID:7199cd21ecc4096e387cf6317f9f13de@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Cr
  vena Zvezda Meridianbet Belgrade\nCircuito/Arena: SUNEL ARENA\nGiornata/Ro
- und: 10\nFase: Group Regular Season\nStato: scheduled
+ und: 10\nFase: Group Regular Season\nRisultato: Olympiacos Piraeus 57 - 62
+  Crvena Zvezda Meridianbet Belgrade\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
