@@ -1584,13 +1584,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Lazio @ Napoli
 DTSTART:20261108T113000Z
 DTEND:20261108T140000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261108T114838Z
 UID:c546b1bad5e81d1d3c349ffb5b7f6266@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Lazio\nCircuito/A
- rena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: scheduled
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: live
 LOCATION:Stadio Diego Armando Maradona\, Napoli
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

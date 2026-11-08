@@ -686,87 +686,90 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Atlanta Hawks
+SUMMARY:🏀 Brooklyn Nets @ Atlanta Hawks (121-124)
 DTSTART:20261108T003000Z
 DTEND:20261108T030000Z
-DTSTAMP:20261108T014316Z
+DTSTAMP:20261108T114824Z
 UID:630ef350a66c8f5e05aa4df36237ff1e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Brooklyn Nets\
- nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: live
+ nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nRisultato: Atlanta Haw
+ ks 124 - 121 Brooklyn Nets\nStato: finished
 LOCATION:State Farm Arena\, Atlanta
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ Cleveland Cavaliers
+SUMMARY:🏀 New York Knicks @ Cleveland Cavaliers (109-97)
 DTSTART:20261108T010000Z
 DTEND:20261108T033000Z
-DTSTAMP:20261108T014316Z
+DTSTAMP:20261108T114824Z
 UID:6488473bf88e5812909fc529fd886b5a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: New York
-  Knicks\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: live
+  Knicks\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Cleve
+ land Cavaliers 97 - 109 New York Knicks\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Oklahoma City Thunder
+SUMMARY:🏀 Washington Wizards @ Oklahoma City Thunder (75-114)
 DTSTART:20261108T010000Z
 DTEND:20261108T033000Z
-DTSTAMP:20261108T014316Z
+DTSTAMP:20261108T114824Z
 UID:a5bd6861f01b524e716619fd4c3f7fad@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Washin
- gton Wizards\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStato:
-  live
+ gton Wizards\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisult
+ ato: Oklahoma City Thunder 114 - 75 Washington Wizards\nStato: finished
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Golden State Warriors
+SUMMARY:🏀 Orlando Magic @ Golden State Warriors (119-126)
 DTSTART:20261108T013000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261108T014316Z
+DTSTAMP:20261108T114824Z
 UID:9772f180a0bc4b8cd3a2e25340ef9d1f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Orland
- o Magic\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+ o Magic\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: G
+ olden State Warriors 126 - 119 Orlando Magic\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Phoenix Suns
+SUMMARY:🏀 Houston Rockets @ Phoenix Suns (99-102)
 DTSTART:20261108T020000Z
 DTEND:20261108T043000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261108T114824Z
 UID:a2a32df7ef54bb69caa786e4273a34d7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Houston Rockets
- \nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: schedul
- ed
+ \nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: Pho
+ enix Suns 102 - 99 Houston Rockets\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Portland Trail Blazers
+SUMMARY:🏀 San Antonio Spurs @ Portland Trail Blazers (125-103)
 DTSTART:20261108T030000Z
 DTEND:20261108T053000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261108T114824Z
 UID:30303d1ce9151201522f43775e4c318e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: San A
- ntonio Spurs\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: schedu
- led
+ ntonio Spurs\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato: Po
+ rtland Trail Blazers 103 - 125 San Antonio Spurs\nStato: finished
 LOCATION:Moda Center\, Portland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

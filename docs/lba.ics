@@ -820,14 +820,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste
 DTSTART:20261108T110000Z
 DTEND:20261108T133000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T114836Z
 UID:802af2d7f88f8cb902802b17e38827fe@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: BC Rom
  a\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 7� Gior
- nata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ nata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:PalaTrieste\, Trieste
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
