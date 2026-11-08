@@ -801,16 +801,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ UNA Hotels Reggio Emilia
+SUMMARY:🇮🇹 Umana Reyer Venezia @ UNA Hotels Reggio Emilia (83-78)
 DTSTART:20261107T190000Z
 DTEND:20261107T213000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T014328Z
 UID:560418ac752bf3474b3b6019868faccf@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Uma
  na Reyer Venezia\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGi
- ornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
- scheduled
+ ornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisulta
+ to: UNA Hotels Reggio Emilia 78 - 83 Umana Reyer Venezia\nStato: finished
 LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

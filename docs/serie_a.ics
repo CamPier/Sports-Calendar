@@ -1551,28 +1551,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ Parma
+SUMMARY:⚽ Bologna @ Parma (2-1)
 DTSTART:20261107T170000Z
 DTEND:20261107T193000Z
-DTSTAMP:20261107T175842Z
+DTSTAMP:20261108T014330Z
 UID:6ba1d7c7e20130691278506a30a11b1e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: Bologna\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: live
+ Arena: Ennio Tardini\nCittà: Parma\nRisultato: Parma 1 - 2 Bologna\nStato
+ : finished
 LOCATION:Ennio Tardini\, Parma
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Sassuolo @ AS Roma
+SUMMARY:⚽ Sassuolo @ AS Roma (0-3)
 DTSTART:20261107T194500Z
 DTEND:20261107T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261108T014330Z
 UID:1d600f001e70a1a0d886139ee8e16e1e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AS Roma\nOspite: Sassuolo\nCircui
- to/Arena: Olimpico\nCittà: Roma\nStato: scheduled
+ to/Arena: Olimpico\nCittà: Roma\nRisultato: AS Roma 3 - 0 Sassuolo\nStato
+ : finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

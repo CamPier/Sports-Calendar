@@ -1206,12 +1206,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Brazilian Grand Prix
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261108T014333Z
 UID:268eecd1e654d6a9c9745263f5deca6c@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Brazilian Grand Prix\nOspite: 🏎 Qua
  lifiche\nCircuito/Arena: Autódromo José Carlos Pace\nCittà: São Paulo\
- , Brazil\nGiornata/Round: Round 20\nFase: Qualifying\nStato: scheduled
+ , Brazil\nGiornata/Round: Round 20\nFase: Qualifying\nStato: finished
 LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
