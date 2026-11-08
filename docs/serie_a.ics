@@ -1581,42 +1581,45 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lazio @ Napoli
+SUMMARY:⚽ Lazio @ Napoli (1-1)
 DTSTART:20261108T113000Z
 DTEND:20261108T140000Z
-DTSTAMP:20261108T114838Z
+DTSTAMP:20261108T181654Z
 UID:c546b1bad5e81d1d3c349ffb5b7f6266@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Lazio\nCircuito/A
- rena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: live
+ rena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli 1 -
+  1 Lazio\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AC Milan @ Genoa
+SUMMARY:⚽ AC Milan @ Genoa (2-1)
 DTSTART:20261108T140000Z
 DTEND:20261108T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261108T181654Z
 UID:a735b4655fd770491cdbc506e3cca05b@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Genoa\nOspite: AC Milan\nCircuito
- /Arena: Stadio Luigi Ferraris\nCittà: Genova\nStato: scheduled
+ /Arena: Stadio Luigi Ferraris\nCittà: Genova\nRisultato: Genoa 1 - 2 AC M
+ ilan\nStato: finished
 LOCATION:Stadio Luigi Ferraris\, Genova
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Atalanta @ Monza
+SUMMARY:⚽ Atalanta @ Monza (1-0)
 DTSTART:20261108T140000Z
 DTEND:20261108T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261108T181654Z
 UID:e2ea1d6ed9282087efa00b41d7a56fcb@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Monza\nOspite: Atalanta\nCircuito
- /Arena: U-Power Stadium\nCittà: Monza\nStato: scheduled
+ /Arena: U-Power Stadium\nCittà: Monza\nRisultato: Monza 0 - 1 Atalanta\nS
+ tato: finished
 LOCATION:U-Power Stadium\, Monza
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1626,13 +1629,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Como @ Internazionale
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261108T181654Z
 UID:c43524e83dc0343408a6cc034229e3cf@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Como\nCir
- cuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ cuito/Arena: San Siro\nCittà: Milano\nStato: live
 LOCATION:San Siro\, Milano
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

@@ -817,46 +817,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste
+SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste (100-116)
 DTSTART:20261108T110000Z
 DTEND:20261108T133000Z
-DTSTAMP:20261108T114836Z
+DTSTAMP:20261108T181652Z
 UID:802af2d7f88f8cb902802b17e38827fe@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: BC Rom
  a\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 7� Gior
- nata\nFase: LBA – Regular Season 2026/27\nStato: live
+ nata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacanestro Tries
+ te 116 - 100 BC Roma\nStato: finished
 LOCATION:PalaTrieste\, Trieste
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Maxima Roma
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Maxima Roma (87-99)
 DTSTART:20261108T150000Z
 DTEND:20261108T173000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T181652Z
 UID:24989feba7cc6b1a54f0cb5fe3b5a1ad@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Acqua S.Bernardo
   Cantù\nCircuito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Ro
- und: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ und: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Maxim
+ a Roma 99 - 87 Acqua S.Bernardo Cantù\nStato: finished
 LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Armani Olimpia Milano
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Armani Olimpia Milano (86-88)
 DTSTART:20261108T160000Z
 DTEND:20261108T183000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T181652Z
 UID:2890ecebb74def843bceb8732e4f8d29@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Dolomi
  ti Energia Trentino\nCircuito/Arena: Unipol Forum\nCittà: Assago\nGiornat
- a/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sched
- uled
+ a/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: A
+ rmani Olimpia Milano 88 - 86 Dolomiti Energia Trentino\nStato: finished
 LOCATION:Unipol Forum\, Assago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -866,15 +868,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona
 DTSTART:20261108T163000Z
 DTEND:20261108T190000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T181652Z
 UID:d7c7110c38a99e9a5bec9f3a197db1b1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Nut
  ribullet Treviso Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGior
- nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sc
- heduled
+ nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: li
+ ve
 LOCATION:Nova Arena\, Tortona
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -882,15 +884,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T181652Z
 UID:48532f723997805b3998ec9f43037a1d@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Na
  poli Basketball\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: S
  cafati\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/2
- 7\nStato: scheduled
+ 7\nStato: live
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -898,15 +900,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese
 DTSTART:20261108T180000Z
 DTEND:20261108T203000Z
-DTSTAMP:20261006T185119Z
+DTSTAMP:20261108T181652Z
 UID:d713aea1c2438f096f8e6ba4fc5e0470@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: APU Old 
  Wild West Udine\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/R
- ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedule
- d
+ ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
 LOCATION:Itelyum Arena\, Varese
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

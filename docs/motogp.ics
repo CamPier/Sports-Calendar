@@ -299,12 +299,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 QATAR AIRWAYS GRAND PRIX OF QATAR
 DTSTART:20261108T130000Z
 DTEND:20261108T150000Z
-DTSTAMP:20261002T195650Z
+DTSTAMP:20261108T181657Z
 UID:29254821dcd3ad528b1547d02c353d38@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: QATAR AIRWAYS GRAND PRIX OF QATAR\
  nOspite: Gara\nCircuito/Arena: Lusail International Circuit\nGiornata/Roun
- d: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ d: Round 20\nFase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Lusail International Circuit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
