@@ -865,49 +865,53 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona (76
+ -87)
 DTSTART:20261108T163000Z
 DTEND:20261108T190000Z
-DTSTAMP:20261108T181652Z
+DTSTAMP:20261109T015112Z
 UID:d7c7110c38a99e9a5bec9f3a197db1b1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Nut
  ribullet Treviso Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGior
- nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: li
- ve
+ nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato
+ : Bertram Derthona Tortona 87 - 76 Nutribullet Treviso Basket\nStato: fini
+ shed
 LOCATION:Nova Arena\, Tortona
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket (91-89)
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261108T181652Z
+DTSTAMP:20261109T015112Z
 UID:48532f723997805b3998ec9f43037a1d@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Na
  poli Basketball\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: S
  cafati\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/2
- 7\nStato: live
+ 7\nRisultato: Longobardi Scafati Basket 89 - 91 Napoli Basketball\nStato: 
+ finished
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese (84-81)
 DTSTART:20261108T180000Z
 DTEND:20261108T203000Z
-DTSTAMP:20261108T181652Z
+DTSTAMP:20261109T015112Z
 UID:d713aea1c2438f096f8e6ba4fc5e0470@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: APU Old 
  Wild West Udine\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/R
- ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Open
+ jobmetis Varese 81 - 84 APU Old Wild West Udine\nStato: finished
 LOCATION:Itelyum Arena\, Varese
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

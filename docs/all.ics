@@ -9,36 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Orlando Magic (108-97)
-DTSTART:20261101T203000Z
-DTEND:20261101T230000Z
-DTSTAMP:20261102T014304Z
-UID:ea82d15120b8c479d7f9308bcc3564b9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Boston Celtics
- \nCircuito/Arena: Kia Center\nCittà: Orlando\nRisultato: Orlando Magic 97
-  - 108 Boston Celtics\nStato: finished
-LOCATION:Kia Center\, Orlando
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Indiana Pacers (98-90)
-DTSTART:20261101T220000Z
-DTEND:20261102T003000Z
-DTSTAMP:20261102T014304Z
-UID:4745aa4b13d61e46581bbc6d4a86c4a9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Brooklyn Nets
- \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nRisultato: 
- Indiana Pacers 90 - 98 Brooklyn Nets\nStato: finished
-LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 LA Clippers @ Golden State Warriors (112-124)
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
@@ -776,29 +746,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Chicago Bulls
+SUMMARY:🏀 Philadelphia 76ers @ Chicago Bulls (127-121)
 DTSTART:20261108T203000Z
 DTEND:20261108T230000Z
-DTSTAMP:20261101T012256Z
+DTSTAMP:20261109T015118Z
 UID:0d2630f93b9a51c5886c98f937caeaf7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Philadelphia 7
- 6ers\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+ 6ers\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago B
+ ulls 121 - 127 Philadelphia 76ers\nStato: finished
 LOCATION:United Center\, Chicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Detroit Pistons
+SUMMARY:🏀 Los Angeles Lakers @ Detroit Pistons (121-116)
 DTSTART:20261108T230000Z
 DTEND:20261109T013000Z
-DTSTAMP:20261101T012256Z
+DTSTAMP:20261109T015118Z
 UID:017fe9ae2f16679e88d101ea690f7209@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Los Angeles 
- Lakers\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nStato: sche
- duled
+ Lakers\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: 
+ Detroit Pistons 116 - 121 Los Angeles Lakers\nStato: finished
 LOCATION:Little Caesars Arena\, Detroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -808,13 +779,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Minnesota Timberwolves
 DTSTART:20261109T000000Z
 DTEND:20261109T023000Z
-DTSTAMP:20261102T014304Z
+DTSTAMP:20261109T015118Z
 UID:952dff4aad75e7b5d371d87f659ecd37@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Utah 
- Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: scheduled
+ Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: live
 LOCATION:Target Center\, Minneapolis
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -822,14 +793,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Brooklyn Nets @ Dallas Mavericks
 DTSTART:20261109T003000Z
 DTEND:20261109T030000Z
-DTSTAMP:20261102T014304Z
+DTSTAMP:20261109T015118Z
 UID:e5a00631469772fe71ad4a7479dfdfb0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Brooklyn Ne
- ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: sched
- uled
+ ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: live
 LOCATION:American Airlines Center\, Dallas
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -837,13 +807,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-DTSTAMP:20261102T014304Z
+DTSTAMP:20261109T015118Z
 UID:4c72de9b45569022938f161996cbe87f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Boston Celti
- cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+ cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1570,6 +1540,50 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
  cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
 LOCATION:Scotiabank Arena\, Toronto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Houston Rockets @ Washington Wizards
+DTSTART:20261116T000000Z
+DTEND:20261116T023000Z
+DTSTAMP:20261109T015118Z
+UID:3c25e5d7a6b3bca8a3f56f1571378b96@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Houston R
+ ockets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
+ duled
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Milwaukee Bucks
+DTSTART:20261116T010000Z
+DTEND:20261116T033000Z
+DTSTAMP:20261109T015118Z
+UID:73b6543f0743b819a45c7c3a58357c71@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Atlanta Hawk
+ s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+LOCATION:Fiserv Forum\, Milwaukee
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Sacramento Kings
+DTSTART:20261116T020000Z
+DTEND:20261116T043000Z
+DTSTAMP:20261109T015118Z
+UID:f31e6207f8472cef255893bb8f629e53@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Oklahoma Ci
+ ty Thunder\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: sc
+ heduled
+LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -5485,9 +5499,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Dubai Basketball @ Maccabi Rapyd Tel Aviv
-DTSTART:20261119T173000Z
-DTEND:20261119T200000Z
-DTSTAMP:20261105T130006Z
+DTSTART:20261119T171500Z
+DTEND:20261119T194500Z
+DTSTAMP:20261109T015118Z
 UID:a9f54adeab3b28ef1378295aa7d79bf7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
@@ -11720,49 +11734,53 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Bertram Derthona Tortona (76
+ -87)
 DTSTART:20261108T163000Z
 DTEND:20261108T190000Z
-DTSTAMP:20261108T181658Z
+DTSTAMP:20261109T015118Z
 UID:d7c7110c38a99e9a5bec9f3a197db1b1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Nut
  ribullet Treviso Basket\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGior
- nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: li
- ve
+ nata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato
+ : Bertram Derthona Tortona 87 - 76 Nutribullet Treviso Basket\nStato: fini
+ shed
 LOCATION:Nova Arena\, Tortona
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Napoli Basketball @ Longobardi Scafati Basket (91-89)
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261108T181658Z
+DTSTAMP:20261109T015118Z
 UID:48532f723997805b3998ec9f43037a1d@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Na
  poli Basketball\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCittà: S
  cafati\nGiornata/Round: 7� Giornata\nFase: LBA – Regular Season 2026/2
- 7\nStato: live
+ 7\nRisultato: Longobardi Scafati Basket 89 - 91 Napoli Basketball\nStato: 
+ finished
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Openjobmetis Varese (84-81)
 DTSTART:20261108T180000Z
 DTEND:20261108T203000Z
-DTSTAMP:20261108T181658Z
+DTSTAMP:20261109T015118Z
 UID:d713aea1c2438f096f8e6ba4fc5e0470@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: APU Old 
  Wild West Udine\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/R
- ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nStato: live
+ ound: 7� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Open
+ jobmetis Varese 81 - 84 APU Old Wild West Udine\nStato: finished
 LOCATION:Itelyum Arena\, Varese
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
@@ -16060,28 +16078,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Como @ Internazionale
+SUMMARY:⚽ Como @ Internazionale (0-2)
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261108T181658Z
+DTSTAMP:20261109T015118Z
 UID:c43524e83dc0343408a6cc034229e3cf@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Como\nCir
- cuito/Arena: San Siro\nCittà: Milano\nStato: live
+ cuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 2 - 0 Com
+ o\nStato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus @ Fiorentina
+SUMMARY:⚽ Juventus @ Fiorentina (2-2)
 DTSTART:20261108T194500Z
 DTEND:20261108T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261109T015118Z
 UID:c6098d39811586fb21a3b83676954ab2@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Juventus\nCir
- cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nStato: scheduled
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nRisultato: Fiorentin
+ a 2 - 2 Juventus\nStato: finished
 LOCATION:Stadio Artemio Franchi\, Firenze
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23730,32 +23750,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#CC0000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Erste Bank Open
-DTSTART:20261024T040000Z
-DTEND:20261024T063000Z
-DTSTAMP:20261023T174840Z
-UID:834fab58386e02b4c8f4aea99c6e4528@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Erste Bank Open\nOspite: ATP\n
- Giornata/Round: Erste Bank Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 ATP @ Swiss Indoors Basel
-DTSTART:20261024T040000Z
-DTEND:20261024T063000Z
-DTSTAMP:20261023T174840Z
-UID:265f8916542020c83624a6a4a4794cac@basketball-calendar.github.io
-COLOR:#4CAF50
-DESCRIPTION:Competizione: Tennis ATP\nCasa: Swiss Indoors Basel\nOspite: A
- TP\nGiornata/Round: Swiss Indoors Basel\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Rolex Paris Masters
 DTSTART:20261031T040000Z
 DTEND:20261031T063000Z
@@ -23793,72 +23787,6 @@ DESCRIPTION:Competizione: Tennis ATP\nCasa: Nitto ATP Finals\nOspite: ATP\
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#4CAF50
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Guangzhou Open
-DTSTART:20261023T040000Z
-DTEND:20261023T063000Z
-DTSTAMP:20261023T174840Z
-UID:d660af4f35cf75e9b8890e3568c65d40@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Guangzhou Open\nOspite: WTA\nG
- iornata/Round: Guangzhou Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Toray Pan Pacific Open Tennis
-DTSTART:20261023T040000Z
-DTEND:20261023T063000Z
-DTSTAMP:20261023T095211Z
-UID:45c4dc229a14b9d75cc7b15d90ab955a@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Toray Pan Pacific Open Tennis\
- nOspite: WTA\nGiornata/Round: Toray Pan Pacific Open Tennis\nStato: schedu
- led
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Curitiba Open
-DTSTART:20261025T040000Z
-DTEND:20261025T063000Z
-DTSTAMP:20261025T002727Z
-UID:05705a4c817c8e35f943decef1e0f350@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Curitiba Open\nOspite: WTA\nGi
- ornata/Round: Curitiba Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Valle D'Aosta Ladies Open
-DTSTART:20261025T040000Z
-DTEND:20261025T063000Z
-DTSTAMP:20261024T162947Z
-UID:e106c24f63c5dd2e9202c075ea17dbb9@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Valle D'Aosta Ladies Open\nOsp
- ite: WTA\nGiornata/Round: Valle D'Aosta Ladies Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎾 WTA @ Queretaro Open
-DTSTART:20261026T040000Z
-DTEND:20261026T063000Z
-DTSTAMP:20261026T003548Z
-UID:ffca48d3845a1e0d7ccd686f9de6f9bb@basketball-calendar.github.io
-COLOR:#E91E8C
-DESCRIPTION:Competizione: Tennis WTA\nCasa: Queretaro Open\nOspite: WTA\nG
- iornata/Round: Queretaro Open\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#E91E8C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 WTA @ Prudential Hong Kong Tennis Open
@@ -23963,6 +23891,19 @@ COLOR:#E91E8C
 DESCRIPTION:Competizione: Tennis WTA\nCasa: DIRECTV Open Presentado por Co
  mpesar\nOspite: WTA\nGiornata/Round: DIRECTV Open Presentado por Compesar\
  nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#E91E8C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎾 WTA @ LP Open by IND
+DTSTART:20261116T050000Z
+DTEND:20261116T073000Z
+DTSTAMP:20261109T015118Z
+UID:f94b7c3706d838b3217ea7463c9b257e@basketball-calendar.github.io
+COLOR:#E91E8C
+DESCRIPTION:Competizione: Tennis WTA\nCasa: LP Open by IND\nOspite: WTA\nG
+ iornata/Round: LP Open by IND\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#E91E8C

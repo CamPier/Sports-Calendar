@@ -1626,28 +1626,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Como @ Internazionale
+SUMMARY:⚽ Como @ Internazionale (0-2)
 DTSTART:20261108T170000Z
 DTEND:20261108T193000Z
-DTSTAMP:20261108T181654Z
+DTSTAMP:20261109T015114Z
 UID:c43524e83dc0343408a6cc034229e3cf@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Internazionale\nOspite: Como\nCir
- cuito/Arena: San Siro\nCittà: Milano\nStato: live
+ cuito/Arena: San Siro\nCittà: Milano\nRisultato: Internazionale 2 - 0 Com
+ o\nStato: finished
 LOCATION:San Siro\, Milano
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Juventus @ Fiorentina
+SUMMARY:⚽ Juventus @ Fiorentina (2-2)
 DTSTART:20261108T194500Z
 DTEND:20261108T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261109T015114Z
 UID:c6098d39811586fb21a3b83676954ab2@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Fiorentina\nOspite: Juventus\nCir
- cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nStato: scheduled
+ cuito/Arena: Stadio Artemio Franchi\nCittà: Firenze\nRisultato: Fiorentin
+ a 2 - 2 Juventus\nStato: finished
 LOCATION:Stadio Artemio Franchi\, Firenze
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -9,36 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Orlando Magic (108-97)
-DTSTART:20261101T203000Z
-DTEND:20261101T230000Z
-DTSTAMP:20261102T014243Z
-UID:ea82d15120b8c479d7f9308bcc3564b9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Boston Celtics
- \nCircuito/Arena: Kia Center\nCittà: Orlando\nRisultato: Orlando Magic 97
-  - 108 Boston Celtics\nStato: finished
-LOCATION:Kia Center\, Orlando
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Indiana Pacers (98-90)
-DTSTART:20261101T220000Z
-DTEND:20261102T003000Z
-DTSTAMP:20261102T014243Z
-UID:4745aa4b13d61e46581bbc6d4a86c4a9@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Brooklyn Nets
- \nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nRisultato: 
- Indiana Pacers 90 - 98 Brooklyn Nets\nStato: finished
-LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 LA Clippers @ Golden State Warriors (112-124)
 DTSTART:20261102T013000Z
 DTEND:20261102T040000Z
@@ -776,29 +746,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Chicago Bulls
+SUMMARY:🏀 Philadelphia 76ers @ Chicago Bulls (127-121)
 DTSTART:20261108T203000Z
 DTEND:20261108T230000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261109T015101Z
 UID:0d2630f93b9a51c5886c98f937caeaf7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Philadelphia 7
- 6ers\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+ 6ers\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago B
+ ulls 121 - 127 Philadelphia 76ers\nStato: finished
 LOCATION:United Center\, Chicago
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Detroit Pistons
+SUMMARY:🏀 Los Angeles Lakers @ Detroit Pistons (121-116)
 DTSTART:20261108T230000Z
 DTEND:20261109T013000Z
-DTSTAMP:20261101T012239Z
+DTSTAMP:20261109T015101Z
 UID:017fe9ae2f16679e88d101ea690f7209@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Los Angeles 
- Lakers\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nStato: sche
- duled
+ Lakers\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: 
+ Detroit Pistons 116 - 121 Los Angeles Lakers\nStato: finished
 LOCATION:Little Caesars Arena\, Detroit
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -808,13 +779,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Minnesota Timberwolves
 DTSTART:20261109T000000Z
 DTEND:20261109T023000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261109T015101Z
 UID:952dff4aad75e7b5d371d87f659ecd37@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Utah 
- Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: scheduled
+ Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: live
 LOCATION:Target Center\, Minneapolis
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -822,14 +793,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Brooklyn Nets @ Dallas Mavericks
 DTSTART:20261109T003000Z
 DTEND:20261109T030000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261109T015101Z
 UID:e5a00631469772fe71ad4a7479dfdfb0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Brooklyn Ne
- ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: sched
- uled
+ ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: live
 LOCATION:American Airlines Center\, Dallas
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -837,13 +807,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261109T015101Z
 UID:4c72de9b45569022938f161996cbe87f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Boston Celti
- cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+ cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1570,6 +1540,50 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
  cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
 LOCATION:Scotiabank Arena\, Toronto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Houston Rockets @ Washington Wizards
+DTSTART:20261116T000000Z
+DTEND:20261116T023000Z
+DTSTAMP:20261109T015101Z
+UID:3c25e5d7a6b3bca8a3f56f1571378b96@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Houston R
+ ockets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sche
+ duled
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Atlanta Hawks @ Milwaukee Bucks
+DTSTART:20261116T010000Z
+DTEND:20261116T033000Z
+DTSTAMP:20261109T015101Z
+UID:73b6543f0743b819a45c7c3a58357c71@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Atlanta Hawk
+ s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: scheduled
+LOCATION:Fiserv Forum\, Milwaukee
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Oklahoma City Thunder @ Sacramento Kings
+DTSTART:20261116T020000Z
+DTEND:20261116T043000Z
+DTSTAMP:20261109T015101Z
+UID:f31e6207f8472cef255893bb8f629e53@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Oklahoma Ci
+ ty Thunder\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: sc
+ heduled
+LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
