@@ -776,70 +776,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Minnesota Timberwolves
+SUMMARY:🏀 Utah Jazz @ Minnesota Timberwolves (100-115)
 DTSTART:20261109T000000Z
 DTEND:20261109T023000Z
-DTSTAMP:20261109T015101Z
+DTSTAMP:20261109T134328Z
 UID:952dff4aad75e7b5d371d87f659ecd37@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Utah 
- Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: live
+ Jazz\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato: Minne
+ sota Timberwolves 115 - 100 Utah Jazz\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Dallas Mavericks
+SUMMARY:🏀 Brooklyn Nets @ Dallas Mavericks (93-130)
 DTSTART:20261109T003000Z
 DTEND:20261109T030000Z
-DTSTAMP:20261109T015101Z
+DTSTAMP:20261109T134328Z
 UID:e5a00631469772fe71ad4a7479dfdfb0@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Brooklyn Ne
- ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: live
+ ts\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisultato: D
+ allas Mavericks 130 - 93 Brooklyn Nets\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks
+SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks (117-97)
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-DTSTAMP:20261109T015101Z
+DTSTAMP:20261109T134328Z
 UID:4c72de9b45569022938f161996cbe87f@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Boston Celti
- cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ cs\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee 
+ Bucks 97 - 117 Boston Celtics\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ LA Clippers
+SUMMARY:🏀 New Orleans Pelicans @ LA Clippers (123-139)
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261109T134328Z
 UID:578e15fd0bc2b5bf61fd04700a0695f3@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: New Orleans Peli
- cans\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
+ cans\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippe
+ rs 139 - 123 New Orleans Pelicans\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Sacramento Kings
+SUMMARY:🏀 Miami Heat @ Sacramento Kings (114-108)
 DTSTART:20261109T020000Z
 DTEND:20261109T043000Z
-DTSTAMP:20261102T014243Z
+DTSTAMP:20261109T134328Z
 UID:945e769632095e9d463bcf8fecde4820@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Miami Heat\
- nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: scheduled
+ nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sacrament
+ o Kings 108 - 114 Miami Heat\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
