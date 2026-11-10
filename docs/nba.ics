@@ -911,31 +911,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Phoenix Suns
+SUMMARY:🏀 San Antonio Spurs @ Phoenix Suns (122-96)
 DTSTART:20261110T020000Z
 DTEND:20261110T043000Z
-DTSTAMP:20261110T041515Z
+DTSTAMP:20261110T132147Z
 UID:7224eeab5a8b4bf9f2fe8dbccb724e4e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: San Antonio Spu
- rs\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: live
+ rs\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: P
+ hoenix Suns 96 - 122 San Antonio Spurs\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Golden State Warriors
+SUMMARY:🏀 New Orleans Pelicans @ Golden State Warriors (87-138)
 DTSTART:20261110T030000Z
 DTEND:20261110T053000Z
-DTSTAMP:20261110T041515Z
+DTSTAMP:20261110T132147Z
 UID:cb89b8b051f7e0efdcbe3ef5bff1e886@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: New Or
- leans Pelicans\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato
- : live
+ leans Pelicans\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisul
+ tato: Golden State Warriors 138 - 87 New Orleans Pelicans\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
