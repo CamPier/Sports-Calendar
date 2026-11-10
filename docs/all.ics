@@ -9410,45 +9410,46 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ Balkan Botevgrad
+SUMMARY:⭐ PAOK Thessaloniki @ Balkan Botevgrad (79-56)
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261110T202254Z
 UID:139571a13e400108e25907ab250e15a9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: PAOK Th
  essaloniki\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 7\nFase: Grou
- p D\nStato: scheduled
+ p D\nRisultato: Balkan Botevgrad 56 - 79 PAOK Thessaloniki\nStato: finishe
+ d
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slask Wroclaw @ Neptunas Klaipeda
+SUMMARY:⭐ Slask Wroclaw @ Neptunas Klaipeda (82-90)
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261110T202254Z
 UID:8413e0a109e9bc19948a8bf49c7df19b@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Neptunas Klaipeda\nOspite: Slask 
  Wroclaw\nCircuito/Arena: SVYTURIO ARENA\nGiornata/Round: 7\nFase: Group C\
- nStato: scheduled
+ nRisultato: Neptunas Klaipeda 90 - 82 Slask Wroclaw\nStato: finished
 LOCATION:SVYTURIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Turk Telekom Ankara @ U-BT Cluj-Napoca
+SUMMARY:⭐ Turk Telekom Ankara @ U-BT Cluj-Napoca (89-81)
 DTSTART:20261110T170000Z
 DTEND:20261110T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261110T202254Z
 UID:8f739606bb3e42e82e40ccfae7e4fc18@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Turk Te
  lekom Ankara\nCircuito/Arena: BT ARENA\nGiornata/Round: 7\nFase: Group B\n
- Stato: scheduled
+ Risultato: U-BT Cluj-Napoca 81 - 89 Turk Telekom Ankara\nStato: finished
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
