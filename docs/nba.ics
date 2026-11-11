@@ -716,86 +716,90 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Milwaukee Bucks @ New York Knicks
+SUMMARY:🏀 Milwaukee Bucks @ New York Knicks (85-117)
 DTSTART:20261111T003000Z
 DTEND:20261111T030000Z
-DTSTAMP:20261111T020616Z
+DTSTAMP:20261111T123253Z
 UID:590441d9f83e0c57f8ba9605a63a74c1@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Milwaukee Bu
- cks\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ cks\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: N
+ ew York Knicks 117 - 85 Milwaukee Bucks\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
+SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers (123-101)
 DTSTART:20261111T010000Z
 DTEND:20261111T033000Z
-DTSTAMP:20261111T020616Z
+DTSTAMP:20261111T123253Z
 UID:221d908e0f2a40e67ac1a4f478c887d7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Boston Ce
- ltics\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: 
- live
+ ltics\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nRisulta
+ to: Philadelphia 76ers 101 - 123 Boston Celtics\nStato: finished
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Phoenix Suns
+SUMMARY:🏀 LA Clippers @ Phoenix Suns (110-133)
 DTSTART:20261111T020000Z
 DTEND:20261111T043000Z
-DTSTAMP:20261104T023449Z
+DTSTAMP:20261111T123253Z
 UID:c70f1c811f8714efad88fa4da3b5853b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: LA Clippers\nCi
- rcuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: scheduled
+ rcuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: Phoenix
+  Suns 133 - 110 LA Clippers\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Miami Heat @ Utah Jazz
+SUMMARY:🏀 Miami Heat @ Utah Jazz (115-109)
 DTSTART:20261111T020000Z
 DTEND:20261111T043000Z
-DTSTAMP:20261104T023449Z
+DTSTAMP:20261111T123253Z
 UID:77e8959ce5b5947959ca8bb347c0a11a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Miami Heat\nCircui
- to/Arena: Delta Center\nCittà: Salt Lake City\nStato: scheduled
+ to/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jazz 109 -
+  115 Miami Heat\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Sacramento Kings
+SUMMARY:🏀 Orlando Magic @ Sacramento Kings (107-100)
 DTSTART:20261111T030000Z
 DTEND:20261111T053000Z
-DTSTAMP:20261104T023449Z
+DTSTAMP:20261111T123253Z
 UID:9922ec5677e352233f7f9367bf933895@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Orlando Mag
- ic\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: scheduled
+ ic\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sacram
+ ento Kings 100 - 107 Orlando Magic\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Portland Trail Blazers
+SUMMARY:🏀 Oklahoma City Thunder @ Portland Trail Blazers (103-123)
 DTSTART:20261111T040000Z
 DTEND:20261111T063000Z
-DTSTAMP:20261104T023449Z
+DTSTAMP:20261111T123253Z
 UID:aecc07fb756d78b89bdb537769f38a2a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Oklah
- oma City Thunder\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: sc
- heduled
+ oma City Thunder\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato
+ : Portland Trail Blazers 123 - 103 Oklahoma City Thunder\nStato: finished
 LOCATION:Moda Center\, Portland
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
