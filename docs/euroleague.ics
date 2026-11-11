@@ -7663,75 +7663,78 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Kids&Us Manresa
+SUMMARY:⭐ BOSNA BH Telecom Sarajevo @ Kids&Us Manresa (82-86)
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T020618Z
 UID:b94581c15096d08e119d21f638f60748@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: BOSNA BH
   Telecom Sarajevo\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 7\
- nFase: Group D\nStato: scheduled
+ nFase: Group D\nRisultato: Kids&Us Manresa 86 - 82 BOSNA BH Telecom Saraje
+ vo\nStato: finished
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Umana Reyer Venice @ London Lions
+SUMMARY:⭐ Umana Reyer Venice @ London Lions (76-80)
 DTSTART:20261110T193000Z
 DTEND:20261110T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T020618Z
 UID:b92c6241c768e6f9f7fb5cb7893bb566@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Umana Reyer
   Venice\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 7\nFase: Group 
- B\nStato: scheduled
+ B\nRisultato: London Lions 80 - 76 Umana Reyer Venice\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ Dolomiti Energia Trento
+SUMMARY:⭐ Tofas Bursa @ Dolomiti Energia Trento (96-86)
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T020618Z
 UID:cb6ca2ee42e477e8999a8ec02e6f1016@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Tofas Bursa\nCircuito/Arena: BTS ARENA\nGiornata/Round: 7\nFase: Group C\n
- Stato: scheduled
+ Risultato: Dolomiti Energia Trento 86 - 96 Tofas Bursa\nStato: finished
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Rostock Seawolves
+SUMMARY:⭐ Cedevita Olimpija Ljubljana @ Rostock Seawolves (88-71)
 DTSTART:20261110T190000Z
 DTEND:20261110T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T020618Z
 UID:f2cba18c81d9facabd7bb304dd967bce@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Cedevi
  ta Olimpija Ljubljana\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round:
-  7\nFase: Group A\nStato: scheduled
+  7\nFase: Group A\nRisultato: Rostock Seawolves 71 - 88 Cedevita Olimpija 
+ Ljubljana\nStato: finished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Buducnost VOLI Podgorica @ Cosea JL Bourg-en-Bresse
+SUMMARY:⭐ Buducnost VOLI Podgorica @ Cosea JL Bourg-en-Bresse (68-66)
 DTSTART:20261110T183000Z
 DTEND:20261110T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T020618Z
 UID:56b4aa31741af01d0a17be307e689cb2@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
   Buducnost VOLI Podgorica\nCircuito/Arena: EKINOX\nGiornata/Round: 7\nFase
- : Group C\nStato: scheduled
+ : Group C\nRisultato: Cosea JL Bourg-en-Bresse 66 - 68 Buducnost VOLI Podg
+ orica\nStato: finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
