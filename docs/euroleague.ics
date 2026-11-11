@@ -7618,45 +7618,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Aris Thessaloniki
+SUMMARY:⭐ Riga Zelli @ Aris Thessaloniki (81-105)
 DTSTART:20261111T180000Z
 DTEND:20261111T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T200514Z
 UID:9f36ac21084550459c7fb6ad712db149@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Riga Z
  elli\nCircuito/Arena: ALEXANDREIO ATHLITIKO MELATHRO\nGiornata/Round: 7\nF
- ase: Group A\nStato: scheduled
+ ase: Group A\nRisultato: Aris Thessaloniki 105 - 81 Riga Zelli\nStato: fin
+ ished
 LOCATION:ALEXANDREIO ATHLITIKO MELATHRO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ La Laguna Tenerife @ Siauliai Basketball
+SUMMARY:⭐ La Laguna Tenerife @ Siauliai Basketball (86-71)
 DTSTART:20261111T163000Z
 DTEND:20261111T190000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T200514Z
 UID:4374a039c71e41db422b92cc77de47ae@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Siauliai Basketball\nOspite: La L
  aguna Tenerife\nCircuito/Arena: SIAULIAI ARENA\nGiornata/Round: 7\nFase: G
- roup B\nStato: scheduled
+ roup B\nRisultato: Siauliai Basketball 71 - 86 La Laguna Tenerife\nStato: 
+ finished
 LOCATION:SIAULIAI ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lietkabelis Panevezys @ Bahcesehir College Istanbul
+SUMMARY:⭐ Lietkabelis Panevezys @ Bahcesehir College Istanbul (61-99)
 DTSTART:20261111T160000Z
 DTEND:20261111T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261111T200514Z
 UID:ea7c64c6dd6a103c288ebd1d409d234f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Bahcesehir College Istanbul\nOspi
  te: Lietkabelis Panevezys\nCircuito/Arena: SINAN ERDEM SPORTS HALL\nGiorna
- ta/Round: 7\nFase: Group D\nStato: scheduled
+ ta/Round: 7\nFase: Group D\nRisultato: Bahcesehir College Istanbul 99 - 61
+  Lietkabelis Panevezys\nStato: finished
 LOCATION:SINAN ERDEM SPORTS HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
