@@ -851,103 +851,107 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Chicago Bulls
+SUMMARY:🏀 San Antonio Spurs @ Chicago Bulls (124-119)
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:9aea5e4e46da91961f26214f4e4659c6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: San Antonio Sp
- urs\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
+ urs\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago Bu
+ lls 119 - 124 San Antonio Spurs\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Memphis Grizzlies
+SUMMARY:🏀 Denver Nuggets @ Memphis Grizzlies (123-118)
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:af5b81f1363865a3e97cb111cf340ac9@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Denver Nug
- gets\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
+ gets\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Griz
+ zlies 118 - 123 Denver Nuggets\nStato: finished
 LOCATION:FedExForum\, Memphis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Milwaukee Bucks
+SUMMARY:🏀 Los Angeles Lakers @ Milwaukee Bucks (123-112)
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:fcd319e260ac8bf83a247dfa6ec313a7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Los Angeles 
- Lakers\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ Lakers\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwau
+ kee Bucks 112 - 123 Los Angeles Lakers\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ New Orleans Pelicans
+SUMMARY:🏀 Brooklyn Nets @ New Orleans Pelicans (145-111)
 DTSTART:20261112T010000Z
 DTEND:20261112T033000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:a1ba1ef43454da69284c960ab165cd5d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Brookly
- n Nets\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nStato: 
- live
+ n Nets\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nRisulta
+ to: New Orleans Pelicans 111 - 145 Brooklyn Nets\nStato: finished
 LOCATION:Smoothie King Center\, New Orleans
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Orlando Magic @ Utah Jazz
+SUMMARY:🏀 Orlando Magic @ Utah Jazz (123-108)
 DTSTART:20261112T020000Z
 DTEND:20261112T043000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:74fb45519daab6d23fb7b410ec212845@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Orlando Magic\nCir
- cuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ cuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jazz 10
+ 8 - 123 Orlando Magic\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Houston Rockets
+SUMMARY:🏀 Golden State Warriors @ Houston Rockets (108-115)
 DTSTART:20261112T023000Z
 DTEND:20261112T050000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:d21ae0da88c56ab8378de85cecae6b43@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Golden State
-  Warriors\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nStato
- : live
+  Warriors\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisul
+ tato: Houston Rockets 115 - 108 Golden State Warriors\nStato: finished
 LOCATION:Toyota Center (Houston)\, Houston
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Portland Trail Blazers
+SUMMARY:🏀 Oklahoma City Thunder @ Portland Trail Blazers (108-118)
 DTSTART:20261112T030000Z
 DTEND:20261112T053000Z
-DTSTAMP:20261112T031547Z
+DTSTAMP:20261112T133840Z
 UID:174db8020e010ad30ae677ca18b1b61c@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Oklah
- oma City Thunder\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: li
- ve
+ oma City Thunder\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato
+ : Portland Trail Blazers 118 - 108 Oklahoma City Thunder\nStato: finished
 LOCATION:Moda Center\, Portland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -23908,9 +23912,9 @@ X-APPLE-CALENDAR-COLOR:#4CAF50
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🎾 ATP @ Nitto ATP Finals
-DTSTART:20261114T050000Z
-DTEND:20261114T073000Z
-DTSTAMP:20261107T021339Z
+DTSTART:20261116T050000Z
+DTEND:20261116T073000Z
+DTSTAMP:20261112T133840Z
 UID:ef7c28b39422be7d09d757e7cb24f251@basketball-calendar.github.io
 COLOR:#4CAF50
 DESCRIPTION:Competizione: Tennis ATP\nCasa: Nitto ATP Finals\nOspite: ATP\
