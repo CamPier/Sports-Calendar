@@ -4204,30 +4204,32 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Partizan Mozzart Bet Be
- lgrade
+ lgrade (66-80)
 DTSTART:20261111T194500Z
 DTEND:20261111T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:5cdadc96efc626d0e53ef8b9f54bd029@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: BELGRADE ARENA\n
- Giornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
+ Giornata/Round: 11\nFase: Group Regular Season\nRisultato: Partizan Mozzar
+ t Bet Belgrade 80 - 66 Kosner Baskonia Vitoria-Gasteiz\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Paris Basketball
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Paris Basketball (109-111)
 DTSTART:20261111T194500Z
 DTEND:20261111T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:342aae9cabc7f7ce2c6920938b86f6ba@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Fene
  rbahce Tarfin Istanbul\nCircuito/Arena: ACCOR ARENA\nGiornata/Round: 11\nF
- ase: Group Regular Season\nStato: scheduled
+ ase: Group Regular Season\nRisultato: Paris Basketball 111 - 109 Fenerbahc
+ e Tarfin Istanbul\nStato: finished
 LOCATION:ACCOR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7558,60 +7560,63 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Roma Basketball
+SUMMARY:⭐ ratiopharm ulm @ Roma Basketball (78-83)
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:f939f63aa0a47a6582d3407887a56fd4@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: ratiopha
  rm ulm\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Round: 7\nFase: G
- roup D\nStato: scheduled
+ roup D\nRisultato: Roma Basketball 83 - 78 ratiopharm ulm\nStato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Le Mans Sarthe Basket
+SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Le Mans Sarthe Basket (80-8
+ 8)
 DTSTART:20261111T190000Z
 DTEND:20261111T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:9f7b92b618ea121fa786f473e040fba5@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Le Mans Sarthe Basket\nOspite: Re
  coletas Salud San Pablo Burgos\nCircuito/Arena: ANTARES ARENA\nGiornata/Ro
- und: 7\nFase: Group A\nStato: scheduled
+ und: 7\nFase: Group A\nRisultato: Le Mans Sarthe Basket 88 - 80 Recoletas 
+ Salud San Pablo Burgos\nStato: finished
 LOCATION:ANTARES ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Hapoel Midtown Jerusalem @ Baglietto Derthona Tortona
+SUMMARY:⭐ Hapoel Midtown Jerusalem @ Baglietto Derthona Tortona (91-77)
 DTSTART:20261111T183000Z
 DTEND:20261111T210000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:c5cdc7ffc0e194086e4f8774961c1753@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Hapoel Midtown Jerusalem\nCircuito/Arena: NOVA ARENA\nGiornata/Round: 7
- \nFase: Group A\nStato: scheduled
+ \nFase: Group A\nRisultato: Baglietto Derthona Tortona 77 - 91 Hapoel Midt
+ own Jerusalem\nStato: finished
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli Basketball @ NINERS Chemnitz
+SUMMARY:⭐ Napoli Basketball @ NINERS Chemnitz (112-90)
 DTSTART:20261111T180000Z
 DTEND:20261111T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261112T031526Z
 UID:baff951b6db3e8f30d8d194baa166177@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Napoli B
  asketball\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 7\nFase: Group 
- C\nStato: scheduled
+ C\nRisultato: NINERS Chemnitz 90 - 112 Napoli Basketball\nStato: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
