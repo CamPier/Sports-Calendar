@@ -761,45 +761,47 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Washington Wizards
+SUMMARY:🏀 Detroit Pistons @ Washington Wizards (144-140)
 DTSTART:20261113T000000Z
 DTEND:20261113T023000Z
-DTSTAMP:20261113T024942Z
+DTSTAMP:20261113T125656Z
 UID:13c0efc4ea073f9bbdd50fc287b07c40@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Detroit P
- istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: live
+ istons\nCircuito/Arena: Capital One Arena\nCittà: Washington\nRisultato: 
+ Washington Wizards 140 - 144 Detroit Pistons\nStato: finished
 LOCATION:Capital One Arena\, Washington
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Minnesota Timberwolves
+SUMMARY:🏀 Dallas Mavericks @ Minnesota Timberwolves (94-133)
 DTSTART:20261113T010000Z
 DTEND:20261113T033000Z
-DTSTAMP:20261113T024942Z
+DTSTAMP:20261113T125656Z
 UID:b062aac96604abb9272cbed7cb6de0bb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Dalla
- s Mavericks\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: li
- ve
+ s Mavericks\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato
+ : Minnesota Timberwolves 133 - 94 Dallas Mavericks\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Charlotte Hornets @ Phoenix Suns
+SUMMARY:🏀 Charlotte Hornets @ Phoenix Suns (96-101)
 DTSTART:20261113T020000Z
 DTEND:20261113T043000Z
-DTSTAMP:20261113T024942Z
+DTSTAMP:20261113T125656Z
 UID:8e2aa5af46870247ee946d5c75d5c39d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Charlotte Horne
- ts\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: live
+ ts\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: P
+ hoenix Suns 101 - 96 Charlotte Hornets\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
