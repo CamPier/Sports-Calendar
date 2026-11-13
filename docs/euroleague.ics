@@ -4113,15 +4113,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ Anadolu Efes Istanbul
+SUMMARY:🇪🇺 Virtus Bologna @ Anadolu Efes Istanbul (91-103)
 DTSTART:20261113T173000Z
 DTEND:20261113T200000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T202452Z
 UID:bc324aa0bc3842e1087fd5ff48dbd235@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
   Virtus Bologna\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nG
- iornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
+ iornata/Round: 11\nFase: Group Regular Season\nRisultato: Anadolu Efes Ist
+ anbul 103 - 91 Virtus Bologna\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
