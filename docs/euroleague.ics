@@ -4128,75 +4128,80 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Real Madrid
+SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Real Madrid (84-105)
 DTSTART:20261112T200000Z
 DTEND:20261112T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T024927Z
 UID:8c0289efb03dcc57c7634eb2c13a133f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Crvena Zv
  ezda Meridianbet Belgrade\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round:
-  11\nFase: Group Regular Season\nStato: scheduled
+  11\nFase: Group Regular Season\nRisultato: Real Madrid 105 - 84 Crvena Zv
+ ezda Meridianbet Belgrade\nStato: finished
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ Valencia Basket
+SUMMARY:🇪🇺 FC Bayern Munich @ Valencia Basket (87-102)
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T024927Z
 UID:13d0bfefbcb8daa95971ae043cfc7118@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: FC Ba
  yern Munich\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 11\nFase: Group R
- egular Season\nStato: scheduled
+ egular Season\nRisultato: Valencia Basket 102 - 87 FC Bayern Munich\nStato
+ : finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Armani Olimpia Milan (86-83)
 DTSTART:20261112T193000Z
 DTEND:20261112T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T024927Z
 UID:b28592c682fcbe804e5ebe62e3b4bf47@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Zalgiris Kaunas\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 11\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Armani Olimpia Milan 83 - 86 Zalgiris Kaun
+ as\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Dubai Basketball @ Olympiacos Piraeus (72-101)
 DTSTART:20261112T191500Z
 DTEND:20261112T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T024927Z
 UID:2a8d0d23c6af53993b4592adaeb60f48@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Du
  bai Basketball\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 11\nFase: Gro
- up Regular Season\nStato: scheduled
+ up Regular Season\nRisultato: Olympiacos Piraeus 101 - 72 Dubai Basketball
+ \nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Maccabi Rapyd Tel Aviv
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Maccabi Rapyd Tel Aviv (73-80)
 DTSTART:20261112T190500Z
 DTEND:20261112T213500Z
-DTSTAMP:20261104T202104Z
+DTSTAMP:20261113T024927Z
 UID:a23503e28779e7a4677ab446b5d1f41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
  : Hapoel IBI Tel Aviv\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nG
- iornata/Round: 11\nFase: Group Regular Season\nStato: scheduled
+ iornata/Round: 11\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Te
+ l Aviv 80 - 73 Hapoel IBI Tel Aviv\nStato: finished
 LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7545,15 +7550,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Maxima Roma @ Skyliners Frankfurt
+SUMMARY:⭐ Maxima Roma @ Skyliners Frankfurt (113-89)
 DTSTART:20261112T190000Z
 DTEND:20261112T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261113T024927Z
 UID:1890de83764cf615b992bb82a383e65a@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Maxi
  ma Roma\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 7\nFase: Gro
- up B\nStato: scheduled
+ up B\nRisultato: Skyliners Frankfurt 89 - 113 Maxima Roma\nStato: finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
