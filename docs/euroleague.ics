@@ -4083,30 +4083,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ LDLC ASVEL Villeurbanne
+SUMMARY:🇪🇺 Besiktas Istanbul @ LDLC ASVEL Villeurbanne (95-91)
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261114T023641Z
 UID:2ba7311a0e1561793b671d54269b766f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Besiktas Istanbul\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 11\nFase
- : Group Regular Season\nStato: scheduled
+ : Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 91 - 95 Besikta
+ s Istanbul\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Barcelona @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 FC Barcelona @ Panathinaikos AKTOR Athens (76-74)
 DTSTART:20261113T191500Z
 DTEND:20261113T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261114T023641Z
 UID:6ff9b00af60cda1816f47bf9c9516b2c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
  pite: FC Barcelona\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiornata/Round:
-  11\nFase: Group Regular Season\nStato: scheduled
+  11\nFase: Group Regular Season\nRisultato: Panathinaikos AKTOR Athens 74 
+ - 76 FC Barcelona\nStato: finished
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
