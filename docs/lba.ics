@@ -932,31 +932,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Openjobmetis Varese @ UNA Hotels Reggio Emilia
+SUMMARY:🇮🇹 Openjobmetis Varese @ UNA Hotels Reggio Emilia (99-84)
 DTSTART:20261114T190000Z
 DTEND:20261114T213000Z
-DTSTAMP:20261111T200521Z
+DTSTAMP:20261115T020324Z
 UID:0ae4a547d7c4d2582a444248ea5b0c34@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Ope
  njobmetis Varese\nCircuito/Arena: PalaBigi\nCittà: Reggio nell'Emilia\nGi
- ornata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
- scheduled
+ ornata/Round: 8� Giornata\nFase: LBA – Regular Season 2026/27\nRisulta
+ to: UNA Hotels Reggio Emilia 84 - 99 Openjobmetis Varese\nStato: finished
 LOCATION:PalaBigi\, Reggio nell'Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Tezenis Verona @ BC Roma
+SUMMARY:🇮🇹 Tezenis Verona @ BC Roma (89-88)
 DTSTART:20261114T193000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261111T200521Z
+DTSTAMP:20261115T020324Z
 UID:e369a5f3c125391574aa29f831e12a76@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Tezenis Verona\nCirc
  uito/Arena: Palazzetto dello Sport\nCittà: Roma\nGiornata/Round: 8� Gio
- rnata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ rnata\nFase: LBA – Regular Season 2026/27\nRisultato: BC Roma 88 - 89 Te
+ zenis Verona\nStato: finished
 LOCATION:Palazzetto dello Sport\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
