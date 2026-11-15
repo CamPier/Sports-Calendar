@@ -759,73 +759,77 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ New Orleans Pelicans
+SUMMARY:🏀 Denver Nuggets @ New Orleans Pelicans (116-108)
 DTSTART:20261115T000000Z
 DTEND:20261115T023000Z
-DTSTAMP:20261115T020328Z
+DTSTAMP:20261115T123600Z
 UID:f22f264f56d4ffcedede25187d34d4a4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Denver 
- Nuggets\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nStato:
-  live
+ Nuggets\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nRisult
+ ato: New Orleans Pelicans 108 - 116 Denver Nuggets\nStato: finished
 LOCATION:Smoothie King Center\, New Orleans
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Cleveland Cavaliers
+SUMMARY:🏀 Dallas Mavericks @ Cleveland Cavaliers (117-127)
 DTSTART:20261115T003000Z
 DTEND:20261115T030000Z
-DTSTAMP:20261115T020328Z
+DTSTAMP:20261115T123600Z
 UID:3a8771f1cf791cb4ca09f05371b92f59@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Dallas M
- avericks\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nStato: live
+ avericks\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Clev
+ eland Cavaliers 127 - 117 Dallas Mavericks\nStato: finished
 LOCATION:Rocket Arena\, Cleveland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ Miami Heat
+SUMMARY:🏀 Detroit Pistons @ Miami Heat (117-137)
 DTSTART:20261115T010000Z
 DTEND:20261115T033000Z
-DTSTAMP:20261115T020328Z
+DTSTAMP:20261115T123600Z
 UID:3430c9718a19cc6e2c80e55e465cc841@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Detroit Pistons\n
- Circuito/Arena: Kaseya Center\nCittà: Miami\nStato: live
+ Circuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 137 - 
+ 117 Detroit Pistons\nStato: finished
 LOCATION:Kaseya Center\, Miami
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Brooklyn Nets @ Memphis Grizzlies
+SUMMARY:🏀 Brooklyn Nets @ Memphis Grizzlies (110-129)
 DTSTART:20261115T010000Z
 DTEND:20261115T033000Z
-DTSTAMP:20261115T020328Z
+DTSTAMP:20261115T123600Z
 UID:9f80e2fdd944f2cbe3410451f6e39c91@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Memphis Grizzlies\nOspite: Brooklyn N
- ets\nCircuito/Arena: FedExForum\nCittà: Memphis\nStato: live
+ ets\nCircuito/Arena: FedExForum\nCittà: Memphis\nRisultato: Memphis Grizz
+ lies 129 - 110 Brooklyn Nets\nStato: finished
 LOCATION:FedExForum\, Memphis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Minnesota Timberwolves
+SUMMARY:🏀 Chicago Bulls @ Minnesota Timberwolves (117-106)
 DTSTART:20261115T010000Z
 DTEND:20261115T033000Z
-DTSTAMP:20261115T020328Z
+DTSTAMP:20261115T123600Z
 UID:e535777ac75d53e2f78557caa9d9a224@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Chica
- go Bulls\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: live
+ go Bulls\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultato: M
+ innesota Timberwolves 106 - 117 Chicago Bulls\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
