@@ -837,14 +837,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Indiana Pacers @ Philadelphia 76ers
 DTSTART:20261115T180000Z
 DTEND:20261115T203000Z
-DTSTAMP:20261108T014316Z
+DTSTAMP:20261115T191745Z
 UID:decb2729947229540ec390119773ecfa@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Indiana P
  acers\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: 
- scheduled
+ live
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
