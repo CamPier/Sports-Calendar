@@ -804,45 +804,47 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Washington Wizards
+SUMMARY:🏀 Houston Rockets @ Washington Wizards (147-119)
 DTSTART:20261116T000000Z
 DTEND:20261116T023000Z
-DTSTAMP:20261116T021942Z
+DTSTAMP:20261116T132742Z
 UID:3c25e5d7a6b3bca8a3f56f1571378b96@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Houston R
- ockets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: live
+ ockets\nCircuito/Arena: Capital One Arena\nCittà: Washington\nRisultato: 
+ Washington Wizards 119 - 147 Houston Rockets\nStato: finished
 LOCATION:Capital One Arena\, Washington
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Milwaukee Bucks
+SUMMARY:🏀 Atlanta Hawks @ Milwaukee Bucks (113-106)
 DTSTART:20261116T010000Z
 DTEND:20261116T033000Z
-DTSTAMP:20261116T021942Z
+DTSTAMP:20261116T132742Z
 UID:73b6543f0743b819a45c7c3a58357c71@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Milwaukee Bucks\nOspite: Atlanta Hawk
- s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nStato: live
+ s\nCircuito/Arena: Fiserv Forum\nCittà: Milwaukee\nRisultato: Milwaukee B
+ ucks 106 - 113 Atlanta Hawks\nStato: finished
 LOCATION:Fiserv Forum\, Milwaukee
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Oklahoma City Thunder @ Sacramento Kings
+SUMMARY:🏀 Oklahoma City Thunder @ Sacramento Kings (125-103)
 DTSTART:20261116T020000Z
 DTEND:20261116T043000Z
-DTSTAMP:20261116T021942Z
+DTSTAMP:20261116T132742Z
 UID:f31e6207f8472cef255893bb8f629e53@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Oklahoma Ci
- ty Thunder\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: li
- ve
+ ty Thunder\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato
+ : Sacramento Kings 103 - 125 Oklahoma City Thunder\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
