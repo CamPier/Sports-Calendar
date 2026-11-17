@@ -5653,89 +5653,98 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Armani Olimpia Milan
+  (77-91)
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:a54c4b374f75d00cfbf7f518311b9b63@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: UNIPOL FORUM\nGiornata
- /Round: 12\nFase: Group Regular Season\nStato: scheduled
+ /Round: 12\nFase: Group Regular Season\nRisultato: Armani Olimpia Milan 91
+  - 77 Crvena Zvezda Meridianbet Belgrade\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz (85
+ -82)
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:b5893196f78a99a926e618cf9eb7358f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Hapoel IBI Tel Aviv\nCircuito/Arena: BUESA ARENA\nGiornata/Roun
- d: 12\nFase: Group Regular Season\nStato: scheduled
+ d: 12\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gast
+ eiz 82 - 85 Hapoel IBI Tel Aviv\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Fenerbahce Tarfin Istanbul
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Fenerbahce Tarfin Istanbul (81-
+ 115)
 DTSTART:20261117T180000Z
 DTEND:20261117T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:12c820d7ca522430a2f7c02581d7fc3e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
  pite: LDLC ASVEL Villeurbanne\nCircuito/Arena: ULKER SPORTS AND EVENT HALL
- \nGiornata/Round: 12\nFase: Group Regular Season\nStato: scheduled
+ \nGiornata/Round: 12\nFase: Group Regular Season\nRisultato: Fenerbahce Ta
+ rfin Istanbul 115 - 81 LDLC ASVEL Villeurbanne\nStato: finished
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ Zalgiris Kaunas
+SUMMARY:🇪🇺 FC Bayern Munich @ Zalgiris Kaunas (114-117)
 DTSTART:20261117T180000Z
 DTEND:20261117T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:ae898e07043b3c00a78e23fef4d579e0@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: FC Ba
  yern Munich\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 12\nFase: Gro
- up Regular Season\nStato: scheduled
+ up Regular Season\nRisultato: Zalgiris Kaunas 117 - 114 FC Bayern Munich\n
+ Stato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Olympiacos Piraeus @ Maccabi Rapyd Tel Aviv
+SUMMARY:🇪🇺 Olympiacos Piraeus @ Maccabi Rapyd Tel Aviv (97-95)
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
-DTSTAMP:20261104T202117Z
+DTSTAMP:20261117T213802Z
 UID:1e8aab3bc47639bb0151e76af080c57a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
  : Olympiacos Piraeus\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGi
- ornata/Round: 12\nFase: Group Regular Season\nStato: scheduled
+ ornata/Round: 12\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel
+  Aviv 95 - 97 Olympiacos Piraeus\nStato: finished
 LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Dubai Basketball
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Dubai Basketball (75-80)
 DTSTART:20261117T160000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:f2718999bf9ed9db606241fccf775af4@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Anad
  olu Efes Istanbul\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 12\nFa
- se: Group Regular Season\nStato: scheduled
+ se: Group Regular Season\nRisultato: Dubai Basketball 80 - 75 Anadolu Efes
+  Istanbul\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9137,30 +9146,31 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Siauliai Basketball @ London Lions
+SUMMARY:⭐ Siauliai Basketball @ London Lions (55-68)
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:2cbf0c21aa9d9fedb49c1561d331e112@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: London Lions\nOspite: Siauliai Ba
  sketball\nCircuito/Arena: COPPER BOX ARENA\nGiornata/Round: 8\nFase: Group
-  B\nStato: scheduled
+  B\nRisultato: London Lions 68 - 55 Siauliai Basketball\nStato: finished
 LOCATION:COPPER BOX ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bahcesehir College Istanbul @ Roma Basketball
+SUMMARY:⭐ Bahcesehir College Istanbul @ Roma Basketball (92-70)
 DTSTART:20261117T190000Z
 DTEND:20261117T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:f664ba4e8ef379750cb20d26a51932eb@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Roma Basketball\nOspite: Bahceseh
  ir College Istanbul\nCircuito/Arena: PALAZZETTO DELLO SPORT\nGiornata/Roun
- d: 8\nFase: Group D\nStato: scheduled
+ d: 8\nFase: Group D\nRisultato: Roma Basketball 70 - 92 Bahcesehir College
+  Istanbul\nStato: finished
 LOCATION:PALAZZETTO DELLO SPORT
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9182,30 +9192,31 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ ratiopharm ulm @ Balkan Botevgrad
+SUMMARY:⭐ ratiopharm ulm @ Balkan Botevgrad (78-86)
 DTSTART:20261117T170000Z
 DTEND:20261117T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:2f3ceb2807927446614e089fce5f8c27@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Balkan Botevgrad\nOspite: ratioph
  arm ulm\nCircuito/Arena: ARENA BOTEVGRAD\nGiornata/Round: 8\nFase: Group D
- \nStato: scheduled
+ \nRisultato: Balkan Botevgrad 86 - 78 ratiopharm ulm\nStato: finished
 LOCATION:ARENA BOTEVGRAD
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ La Laguna Tenerife @ Turk Telekom Ankara
+SUMMARY:⭐ La Laguna Tenerife @ Turk Telekom Ankara (91-88)
 DTSTART:20261117T163000Z
 DTEND:20261117T190000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261117T213802Z
 UID:0d0e3aa86c0b979654b4920e10a0a426@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Turk Telekom Ankara\nOspite: La L
  aguna Tenerife\nCircuito/Arena: ANKARA SPOR SALONU\nGiornata/Round: 8\nFas
- e: Group B\nStato: scheduled
+ e: Group B\nRisultato: Turk Telekom Ankara 88 - 91 La Laguna Tenerife\nSta
+ to: finished
 LOCATION:ANKARA SPOR SALONU
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
