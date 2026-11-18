@@ -3948,45 +3948,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Virtus Bologna
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Virtus Bologna (79-84)
 DTSTART:20261117T200000Z
 DTEND:20261117T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261118T034732Z
 UID:37198300d5cbe2aeb50eb72af0b02066@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Panath
  inaikos AKTOR Athens\nCircuito/Arena: PALADOZZA\nGiornata/Round: 12\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Virtus Bologna 84 - 79 Panathinaikos AKT
+ OR Athens\nStato: finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ Partizan Mozzart Bet Belgrade
+SUMMARY:🇪🇺 Valencia Basket @ Partizan Mozzart Bet Belgrade (76-64)
 DTSTART:20261117T194500Z
 DTEND:20261117T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261118T034732Z
 UID:a42a6e199fecdde1fb0c96cfb4d4b4b8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
- 12\nFase: Group Regular Season\nStato: scheduled
+ 12\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 6
+ 4 - 76 Valencia Basket\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ FC Barcelona
+SUMMARY:🇪🇺 Paris Basketball @ FC Barcelona (89-86)
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261118T034732Z
 UID:9e37330dad0b19ecb8b0af341abc1531@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Paris Ba
  sketball\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 12\nFase: Group
-  Regular Season\nStato: scheduled
+  Regular Season\nRisultato: FC Barcelona 86 - 89 Paris Basketball\nStato: 
+ finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7518,15 +7521,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Hapoel Midtown Jerusalem @ Rostock Seawolves
+SUMMARY:⭐ Hapoel Midtown Jerusalem @ Rostock Seawolves (91-80)
 DTSTART:20261117T190000Z
 DTEND:20261117T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261118T034732Z
 UID:5a956d68c861ff4c67f9e961059514a6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Hapoel
   Midtown Jerusalem\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 8\
- nFase: Group A\nStato: scheduled
+ nFase: Group A\nRisultato: Rostock Seawolves 80 - 91 Hapoel Midtown Jerusa
+ lem\nStato: finished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

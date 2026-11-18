@@ -9,126 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ Atlanta Hawks (124-114)
-DTSTART:20261110T000000Z
-DTEND:20261110T023000Z
-DTSTAMP:20261110T041528Z
-UID:5d6b87587aa0a55982c9df9bc9701933@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Los Angeles La
- kers\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nRisultato: Atlant
- a Hawks 114 - 124 Los Angeles Lakers\nStato: finished
-LOCATION:State Farm Arena\, Atlanta
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Cleveland Cavaliers @ Charlotte Hornets (112-124)
-DTSTART:20261110T000000Z
-DTEND:20261110T023000Z
-DTSTAMP:20261110T041528Z
-UID:bf2ccabf59f02437d9469980fd635137@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Charlotte Hornets\nOspite: Cleveland 
- Cavaliers\nCircuito/Arena: Spectrum Center\nCittà: Charlotte\nRisultato: 
- Charlotte Hornets 124 - 112 Cleveland Cavaliers\nStato: finished
-LOCATION:Spectrum Center\, Charlotte
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Detroit Pistons (111-122)
-DTSTART:20261110T000000Z
-DTEND:20261110T023000Z
-DTSTAMP:20261110T041528Z
-UID:665cbf2f72929adb6bde95d82816090e@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Washington W
- izards\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nRisultato: 
- Detroit Pistons 122 - 111 Washington Wizards\nStato: finished
-LOCATION:Little Caesars Arena\, Detroit
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Toronto Raptors (118-102)
-DTSTART:20261110T003000Z
-DTEND:20261110T030000Z
-DTSTAMP:20261110T041528Z
-UID:f067b9a9e3f20a1086117d8489a7449d@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Memphis Griz
- zlies\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nRisultato: Toron
- to Raptors 102 - 118 Memphis Grizzlies\nStato: finished
-LOCATION:Scotiabank Arena\, Toronto
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Dallas Mavericks (122-125)
-DTSTART:20261110T010000Z
-DTEND:20261110T033000Z
-DTSTAMP:20261110T041528Z
-UID:d095fb6890a74db042bfd4028ed59b61@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Indiana Pac
- ers\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisultato: 
- Dallas Mavericks 125 - 122 Indiana Pacers\nStato: finished
-LOCATION:American Airlines Center\, Dallas
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Houston Rockets (100-110)
-DTSTART:20261110T013000Z
-DTEND:20261110T040000Z
-DTSTAMP:20261110T041528Z
-UID:54c0b21ffdad88a4902a9a219696706a@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Houston Rockets\nOspite: Denver Nugge
- ts\nCircuito/Arena: Toyota Center (Houston)\nCittà: Houston\nRisultato: H
- ouston Rockets 110 - 100 Denver Nuggets\nStato: finished
-LOCATION:Toyota Center (Houston)\, Houston
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Phoenix Suns (122-96)
-DTSTART:20261110T020000Z
-DTEND:20261110T043000Z
-DTSTAMP:20261110T132206Z
-UID:7224eeab5a8b4bf9f2fe8dbccb724e4e@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: San Antonio Spu
- rs\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: P
- hoenix Suns 96 - 122 San Antonio Spurs\nStato: finished
-LOCATION:Mortgage Matchup Center\, Phoenix
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Golden State Warriors (87-138)
-DTSTART:20261110T030000Z
-DTEND:20261110T053000Z
-DTSTAMP:20261110T132206Z
-UID:cb89b8b051f7e0efdcbe3ef5bff1e886@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: New Or
- leans Pelicans\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisul
- tato: Golden State Warriors 138 - 87 New Orleans Pelicans\nStato: finished
-LOCATION:Chase Center\, San Francisco
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Milwaukee Bucks @ New York Knicks (85-117)
 DTSTART:20261111T003000Z
 DTEND:20261111T030000Z
@@ -896,44 +776,46 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New York Knicks @ Toronto Raptors
+SUMMARY:🏀 New York Knicks @ Toronto Raptors (111-102)
 DTSTART:20261118T003000Z
 DTEND:20261118T030000Z
-DTSTAMP:20261111T020634Z
+DTSTAMP:20261118T034749Z
 UID:5fafe9ad6264bdaea0eb0bb49941f258@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: New York Kni
- cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nStato: scheduled
+ cks\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nRisultato: Toronto
+  Raptors 102 - 111 New York Knicks\nStato: finished
 LOCATION:Scotiabank Arena\, Toronto
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ Minnesota Timberwolves
+SUMMARY:🏀 Portland Trail Blazers @ Minnesota Timberwolves (105-106)
 DTSTART:20261118T010000Z
 DTEND:20261118T033000Z
-DTSTAMP:20261111T020634Z
+DTSTAMP:20261118T034749Z
 UID:953c01d1e77229b25abbc7c60a22c1e6@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Portl
- and Trail Blazers\nCircuito/Arena: Target Center\nCittà: Minneapolis\nSta
- to: scheduled
+ and Trail Blazers\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRis
+ ultato: Minnesota Timberwolves 106 - 105 Portland Trail Blazers\nStato: fi
+ nished
 LOCATION:Target Center\, Minneapolis
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ San Antonio Spurs
+SUMMARY:🏀 Detroit Pistons @ San Antonio Spurs (105-93)
 DTSTART:20261118T010000Z
 DTEND:20261118T033000Z
-DTSTAMP:20261111T020634Z
+DTSTAMP:20261118T034749Z
 UID:9a1b654a7ad798fecb5a2f02992e84f1@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Detroit Pi
- stons\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sche
- duled
+ stons\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultato: 
+ San Antonio Spurs 93 - 105 Detroit Pistons\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -943,13 +825,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ LA Clippers
 DTSTART:20261118T033000Z
 DTEND:20261118T060000Z
-DTSTAMP:20261111T020634Z
+DTSTAMP:20261118T034749Z
 UID:79a2fbe4b906669d12ff685529047999@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Utah Jazz\nCircu
- ito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
+ ito/Arena: Intuit Dome\nCittà: Inglewood\nStato: live
 LOCATION:Intuit Dome\, Inglewood
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1663,6 +1545,64 @@ DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: San Antonio
   Spurs\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: schedu
  led
 LOCATION:Golden 1 Center\, Sacramento
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Detroit Pistons @ Orlando Magic
+DTSTART:20261125T000000Z
+DTEND:20261125T023000Z
+DTSTAMP:20261118T034749Z
+UID:7056e173d821ff93f099ab0c47037b19@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Detroit Piston
+ s\nCircuito/Arena: Kia Center\nCittà: Orlando\nStato: scheduled
+LOCATION:Kia Center\, Orlando
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Boston Celtics @ Washington Wizards
+DTSTART:20261125T010000Z
+DTEND:20261125T033000Z
+DTSTAMP:20261118T034749Z
+UID:f356e68c5c3340366fd54492da8fa095@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Washington Wizards\nOspite: Boston Ce
+ ltics\nCircuito/Arena: Capital One Arena\nCittà: Washington\nStato: sched
+ uled
+LOCATION:Capital One Arena\, Washington
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Dallas Mavericks @ Denver Nuggets
+DTSTART:20261125T030000Z
+DTEND:20261125T053000Z
+DTSTAMP:20261118T034749Z
+UID:9639191abbb2f12db297a6d6a18411fa@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Dallas Maveri
+ cks\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: scheduled
+LOCATION:Ball Arena\, Denver
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Miami Heat @ Philadelphia 76ers
+DTSTART:20261125T220000Z
+DTEND:20261126T003000Z
+DTSTAMP:20261118T034749Z
+UID:cdef7a0cf3587f2c4153bec232f829fb@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Miami Hea
+ t\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: sche
+ duled
+LOCATION:Xfinity Mobile Arena\, Philadelphia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -5607,45 +5547,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Virtus Bologna
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Virtus Bologna (79-84)
 DTSTART:20261117T200000Z
 DTEND:20261117T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T034749Z
 UID:37198300d5cbe2aeb50eb72af0b02066@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Panath
  inaikos AKTOR Athens\nCircuito/Arena: PALADOZZA\nGiornata/Round: 12\nFase:
-  Group Regular Season\nStato: scheduled
+  Group Regular Season\nRisultato: Virtus Bologna 84 - 79 Panathinaikos AKT
+ OR Athens\nStato: finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ Partizan Mozzart Bet Belgrade
+SUMMARY:🇪🇺 Valencia Basket @ Partizan Mozzart Bet Belgrade (76-64)
 DTSTART:20261117T194500Z
 DTEND:20261117T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T034749Z
 UID:a42a6e199fecdde1fb0c96cfb4d4b4b8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Valencia Basket\nCircuito/Arena: BELGRADE ARENA\nGiornata/Round: 
- 12\nFase: Group Regular Season\nStato: scheduled
+ 12\nFase: Group Regular Season\nRisultato: Partizan Mozzart Bet Belgrade 6
+ 4 - 76 Valencia Basket\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ FC Barcelona
+SUMMARY:🇪🇺 Paris Basketball @ FC Barcelona (89-86)
 DTSTART:20261117T193000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T034749Z
 UID:9e37330dad0b19ecb8b0af341abc1531@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Paris Ba
  sketball\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 12\nFase: Group
-  Regular Season\nStato: scheduled
+  Regular Season\nRisultato: FC Barcelona 86 - 89 Paris Basketball\nStato: 
+ finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9177,15 +9120,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Hapoel Midtown Jerusalem @ Rostock Seawolves
+SUMMARY:⭐ Hapoel Midtown Jerusalem @ Rostock Seawolves (91-80)
 DTSTART:20261117T190000Z
 DTEND:20261117T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T034749Z
 UID:5a956d68c861ff4c67f9e961059514a6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Rostock Seawolves\nOspite: Hapoel
   Midtown Jerusalem\nCircuito/Arena: STADTHALLE ROSTOCK\nGiornata/Round: 8\
- nFase: Group A\nStato: scheduled
+ nFase: Group A\nRisultato: Rostock Seawolves 80 - 91 Hapoel Midtown Jerusa
+ lem\nStato: finished
 LOCATION:STADTHALLE ROSTOCK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
