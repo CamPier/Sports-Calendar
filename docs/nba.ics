@@ -822,29 +822,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ LA Clippers
+SUMMARY:🏀 Utah Jazz @ LA Clippers (132-107)
 DTSTART:20261118T033000Z
 DTEND:20261118T060000Z
-DTSTAMP:20261118T034730Z
+DTSTAMP:20261118T134428Z
 UID:79a2fbe4b906669d12ff685529047999@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Utah Jazz\nCircu
- ito/Arena: Intuit Dome\nCittà: Inglewood\nStato: live
+ ito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippers 107 - 13
+ 2 Utah Jazz\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Charlotte Hornets @ Los Angeles Lakers
+SUMMARY:🏀 Charlotte Hornets @ Los Angeles Lakers (114-118)
 DTSTART:20261118T040000Z
 DTEND:20261118T063000Z
-DTSTAMP:20261111T020616Z
+DTSTAMP:20261118T134428Z
 UID:070879f8751fd907b4c398c0ab661e41@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Charlotte
-  Hornets\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: sc
- heduled
+  Hornets\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato
+ : Los Angeles Lakers 118 - 114 Charlotte Hornets\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
