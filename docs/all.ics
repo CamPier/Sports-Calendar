@@ -5533,15 +5533,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Besiktas Istanbul
+SUMMARY:🇪🇺 Real Madrid @ Besiktas Istanbul (79-83)
 DTSTART:20261118T170000Z
 DTEND:20261118T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:a0d7a77bee10791dc5c3b49d99a50bec@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Rea
  l Madrid\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGiornata
- /Round: 12\nFase: Group Regular Season\nStato: scheduled
+ /Round: 12\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 83 - 
+ 79 Real Madrid\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -8940,105 +8941,111 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Neptunas Klaipeda @ Dolomiti Energia Trento
+SUMMARY:⭐ Neptunas Klaipeda @ Dolomiti Energia Trento (83-96)
 DTSTART:20261118T190000Z
 DTEND:20261118T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:a02a0d8365ac7a9d490c7ff093643ac7@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Dolomiti Energia Trento\nOspite: 
  Neptunas Klaipeda\nCircuito/Arena: BTS ARENA\nGiornata/Round: 8\nFase: Gro
- up C\nStato: scheduled
+ up C\nRisultato: Dolomiti Energia Trento 96 - 83 Neptunas Klaipeda\nStato:
+  finished
 LOCATION:BTS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lietkabelis Panevezys @ BOSNA BH Telecom Sarajevo
+SUMMARY:⭐ Lietkabelis Panevezys @ BOSNA BH Telecom Sarajevo (84-91)
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:b1699a3d13fa6e1316bebb011243ca8f@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: BOSNA BH Telecom Sarajevo\nOspite
  : Lietkabelis Panevezys\nCircuito/Arena: ZETRA ARENA\nGiornata/Round: 8\nF
- ase: Group D\nStato: scheduled
+ ase: Group D\nRisultato: BOSNA BH Telecom Sarajevo 91 - 84 Lietkabelis Pan
+ evezys\nStato: finished
 LOCATION:ZETRA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli Basketball @ Cosea JL Bourg-en-Bresse
+SUMMARY:⭐ Napoli Basketball @ Cosea JL Bourg-en-Bresse (79-91)
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:fcb80c7f9533d0f990cd3dc31d234026@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cosea JL Bourg-en-Bresse\nOspite:
   Napoli Basketball\nCircuito/Arena: EKINOX\nGiornata/Round: 8\nFase: Group
-  C\nStato: scheduled
+  C\nRisultato: Cosea JL Bourg-en-Bresse 91 - 79 Napoli Basketball\nStato: 
+ finished
 LOCATION:EKINOX
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Umana Reyer Venice @ Skyliners Frankfurt
+SUMMARY:⭐ Umana Reyer Venice @ Skyliners Frankfurt (107-97)
 DTSTART:20261118T183000Z
 DTEND:20261118T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:cec4ede21101eea650b6e3051184ea90@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Skyliners Frankfurt\nOspite: Uman
  a Reyer Venice\nCircuito/Arena: SUWAG ENERGIE ARENA\nGiornata/Round: 8\nFa
- se: Group B\nStato: scheduled
+ se: Group B\nRisultato: Skyliners Frankfurt 97 - 107 Umana Reyer Venice\nS
+ tato: finished
 LOCATION:SUWAG ENERGIE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Tofas Bursa @ NINERS Chemnitz
+SUMMARY:⭐ Tofas Bursa @ NINERS Chemnitz (94-85)
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:bed5345c507c42b80a9cdc454bfb6144@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: NINERS Chemnitz\nOspite: Tofas Bu
- rsa\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 8\nFase: Group C\nSta
- to: scheduled
+ rsa\nCircuito/Arena: MESSE CHEMNITZ\nGiornata/Round: 8\nFase: Group C\nRis
+ ultato: NINERS Chemnitz 85 - 94 Tofas Bursa\nStato: finished
 LOCATION:MESSE CHEMNITZ
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Slask Wroclaw @ Buducnost VOLI Podgorica
+SUMMARY:⭐ Slask Wroclaw @ Buducnost VOLI Podgorica (88-94)
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261102T221459Z
+DTSTAMP:20261118T211517Z
 UID:2d70e68d70ff3334a9cfc22320a74e99@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Buducnost VOLI Podgorica\nOspite:
   Slask Wroclaw\nCircuito/Arena: M:TEL DVORANA MORACA\nGiornata/Round: 8\nF
- ase: Group C\nStato: scheduled
+ ase: Group C\nRisultato: Buducnost VOLI Podgorica 94 - 88 Slask Wroclaw\nS
+ tato: finished
 LOCATION:M:TEL DVORANA MORACA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Le Mans Sarthe Basket @ Aris Thessaloniki
+SUMMARY:⭐ Le Mans Sarthe Basket @ Aris Thessaloniki (86-96)
 DTSTART:20261118T180000Z
 DTEND:20261118T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:487ff171e195d8466422cf1390d44ef3@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Aris Thessaloniki\nOspite: Le Man
  s Sarthe Basket\nCircuito/Arena: ALEXANDREIO ATHLITIKO MELATHRO\nGiornata/
- Round: 8\nFase: Group A\nStato: scheduled
+ Round: 8\nFase: Group A\nRisultato: Aris Thessaloniki 96 - 86 Le Mans Sart
+ he Basket\nStato: finished
 LOCATION:ALEXANDREIO ATHLITIKO MELATHRO
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -9046,44 +9053,47 @@ X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⭐ Recoletas Salud San Pablo Burgos @ Cedevita Olimpija Ljubljana
+  (62-76)
 DTSTART:20261118T173000Z
 DTEND:20261118T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:3969eccd45b1cf81b746e4c4d3e87acd@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Cedevita Olimpija Ljubljana\nOspi
  te: Recoletas Salud San Pablo Burgos\nCircuito/Arena: ARENA STOZICE\nGiorn
- ata/Round: 8\nFase: Group A\nStato: scheduled
+ ata/Round: 8\nFase: Group A\nRisultato: Cedevita Olimpija Ljubljana 76 - 6
+ 2 Recoletas Salud San Pablo Burgos\nStato: finished
 LOCATION:ARENA STOZICE
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Maxima Roma @ U-BT Cluj-Napoca
+SUMMARY:⭐ Maxima Roma @ U-BT Cluj-Napoca (79-87)
 DTSTART:20261118T170000Z
 DTEND:20261118T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:6846d689f29b879bc938870b74ddc3c9@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: U-BT Cluj-Napoca\nOspite: Maxima 
- Roma\nCircuito/Arena: BT ARENA\nGiornata/Round: 8\nFase: Group B\nStato: s
- cheduled
+ Roma\nCircuito/Arena: BT ARENA\nGiornata/Round: 8\nFase: Group B\nRisultat
+ o: U-BT Cluj-Napoca 87 - 79 Maxima Roma\nStato: finished
 LOCATION:BT ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Riga Zelli @ Baglietto Derthona Tortona
+SUMMARY:⭐ Riga Zelli @ Baglietto Derthona Tortona (96-92)
 DTSTART:20261118T163000Z
 DTEND:20261118T190000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261118T211517Z
 UID:7fc255665f02929b7cdca38abcab2973@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Baglietto Derthona Tortona\nOspit
  e: Riga Zelli\nCircuito/Arena: NOVA ARENA\nGiornata/Round: 8\nFase: Group 
- A\nStato: scheduled
+ A\nRisultato: Baglietto Derthona Tortona 92 - 96 Riga Zelli\nStato: finish
+ ed
 LOCATION:NOVA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -12840,6 +12850,118 @@ COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: BC Roma\nOspite: Armani Olimpia Milan
  o\nGiornata/Round: 15� Giornata\nFase: LBA – Regular Season 2026/27\nS
  tato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 BC Roma @ Umana Reyer Venezia
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:7b43941487e71b7000b9ea187c03f224@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Umana Reyer Venezia\nOspite: BC Roma\
+ nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/27\nSta
+ to: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Tezenis Verona @ Openjobmetis Varese
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:3c4e485115f9b53fba4d2fd0fe9958d9@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Tezenis 
+ Verona\nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 2026/
+ 27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Napoli Basketball @ Armani Olimpia Milano
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:1903cad04099fca7da9077a8858ba3ec@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Armani Olimpia Milano\nOspite: Napoli
+  Basketball\nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 
+ 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ UNA Hotels Reggio Emilia
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:9bf85a3ab549e4399565b2fcacfdb006@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: UNA Hotels Reggio Emilia\nOspite: Nut
+ ribullet Treviso Basket\nGiornata/Round: 16� Giornata\nFase: LBA – Reg
+ ular Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Virtus Costa Bologna @ Longobardi Scafati Basket
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:5cef478b9f6c6920882901e231870cb2@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Vi
+ rtus Costa Bologna\nGiornata/Round: 16� Giornata\nFase: LBA – Regular 
+ Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Maxima Roma
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:ace84086c209a7dfd2743f50a1f76d4f@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Dolomiti Energia
+  Trentino\nGiornata/Round: 16� Giornata\nFase: LBA – Regular Season 20
+ 26/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Bertram Derthona Tortona
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:33d6fc7b5bb33f932c4f2534a45801cc@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: APU
+  Old Wild West Udine\nGiornata/Round: 16� Giornata\nFase: LBA – Regula
+ r Season 2026/27\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#008751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇮🇹 Pallacanestro Trieste @ Acqua S.Bernardo Cantù
+DTSTART:20270116T230000Z
+DTEND:20270117T013000Z
+DTSTAMP:20261118T211517Z
+UID:eaa8df5f5d4a5040f195c8d8590ec657@basketball-calendar.github.io
+COLOR:#008751
+DESCRIPTION:Competizione: LBA\nCasa: Acqua S.Bernardo Cantù\nOspite: Pall
+ acanestro Trieste\nGiornata/Round: 16� Giornata\nFase: LBA – Regular S
+ eason 2026/27\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
