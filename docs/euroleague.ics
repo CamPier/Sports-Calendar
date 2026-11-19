@@ -7326,15 +7326,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#0080C8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PAOK Thessaloniki @ Kids&Us Manresa
+SUMMARY:⭐ PAOK Thessaloniki @ Kids&Us Manresa (88-80)
 DTSTART:20261118T193000Z
 DTEND:20261118T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261119T034536Z
 UID:a374c87c2efd9a7216c7122aeb1a33c6@basketball-calendar.github.io
 COLOR:#0080C8
 DESCRIPTION:Competizione: EuroCup\nCasa: Kids&Us Manresa\nOspite: PAOK The
  ssaloniki\nCircuito/Arena: PAVELLO NOU CONGOST\nGiornata/Round: 8\nFase: G
- roup D\nStato: scheduled
+ roup D\nRisultato: Kids&Us Manresa 80 - 88 PAOK Thessaloniki\nStato: finis
+ hed
 LOCATION:PAVELLO NOU CONGOST
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
