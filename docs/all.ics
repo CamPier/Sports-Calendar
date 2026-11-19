@@ -5521,45 +5521,49 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ FC Bayern Munich
+SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ FC Bayern Munich (81-10
+ 0)
 DTSTART:20261119T190000Z
 DTEND:20261119T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261119T211715Z
 UID:5f06b69c40c29351f3a53368b1124d93@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Kosn
  er Baskonia Vitoria-Gasteiz\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 1
- 3\nFase: Group Regular Season\nStato: scheduled
+ 3\nFase: Group Regular Season\nRisultato: FC Bayern Munich 100 - 81 Kosner
+  Baskonia Vitoria-Gasteiz\nStato: finished
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Zalgiris Kaunas
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Zalgiris Kaunas (87-72)
 DTSTART:20261119T180000Z
 DTEND:20261119T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261119T211715Z
 UID:fe951ba56c11d6b0f24f19ddd51eab8c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Panat
  hinaikos AKTOR Athens\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 13\
- nFase: Group Regular Season\nStato: scheduled
+ nFase: Group Regular Season\nRisultato: Zalgiris Kaunas 72 - 87 Panathinai
+ kos AKTOR Athens\nStato: finished
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Maccabi Rapyd Tel Aviv
+SUMMARY:🇪🇺 Dubai Basketball @ Maccabi Rapyd Tel Aviv (80-74)
 DTSTART:20261119T171500Z
 DTEND:20261119T194500Z
-DTSTAMP:20261109T015118Z
+DTSTAMP:20261119T211715Z
 UID:a9f54adeab3b28ef1378295aa7d79bf7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
  : Dubai Basketball\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGior
- nata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+ nata/Round: 13\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel A
+ viv 74 - 80 Dubai Basketball\nStato: finished
 LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
