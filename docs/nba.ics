@@ -897,44 +897,47 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Denver Nuggets
+SUMMARY:🏀 Boston Celtics @ Denver Nuggets (101-105)
 DTSTART:20261119T023000Z
 DTEND:20261119T050000Z
-DTSTAMP:20261119T034535Z
+DTSTAMP:20261119T141345Z
 UID:858e9a96475d5b6d314cbc8d78533d9e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Boston Celtic
- s\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ s\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nuggets 1
+ 05 - 101 Boston Celtics\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Los Angeles Lakers
+SUMMARY:🏀 Utah Jazz @ Los Angeles Lakers (109-97)
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-DTSTAMP:20261119T034535Z
+DTSTAMP:20261119T141345Z
 UID:efd4b9d78fe8d503d294075df9e1afb7@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Utah Jazz
- \nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: live
+ \nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: Los An
+ geles Lakers 97 - 109 Utah Jazz\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Sacramento Kings
+SUMMARY:🏀 Phoenix Suns @ Sacramento Kings (128-107)
 DTSTART:20261119T030000Z
 DTEND:20261119T053000Z
-DTSTAMP:20261119T034535Z
+DTSTAMP:20261119T141345Z
 UID:514b3717f3184b5c4f6eb6be3109183e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Phoenix Sun
- s\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: live
+ s\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sacrame
+ nto Kings 107 - 128 Phoenix Suns\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
