@@ -5317,15 +5317,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Anadolu Efes Istanbul
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Anadolu Efes Istanbul (81-107)
 DTSTART:20261120T173000Z
 DTEND:20261120T200000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T205900Z
 UID:711c4381bf919cfcba3e316ac8d52926@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
   LDLC ASVEL Villeurbanne\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT 
- CENTER\nGiornata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+ CENTER\nGiornata/Round: 13\nFase: Group Regular Season\nRisultato: Anadolu
+  Efes Istanbul 107 - 81 LDLC ASVEL Villeurbanne\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
