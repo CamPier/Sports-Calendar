@@ -1523,15 +1523,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ Besiktas Istanbul
+SUMMARY:🇪🇺 Virtus Bologna @ Besiktas Fuzul Istanbul
 DTSTART:20270416T170000Z
 DTEND:20270416T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:a205681b09cf9d5753e66e12bd0a1ad6@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Vir
- tus Bologna\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGiorn
- ata/Round: 38\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Virtus Bologna\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
+ nGiornata/Round: 38\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1674,15 +1674,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Besiktas Istanbul
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Besiktas Fuzul Istanbul
 DTSTART:20270409T170000Z
 DTEND:20270409T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:3ff93d97eb2b6121bd49ac114a95cf38@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Mac
- cabi Rapyd Tel Aviv\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTE
- R\nGiornata/Round: 37\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Maccabi Rapyd Tel Aviv\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT
+  CENTER\nGiornata/Round: 37\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1930,15 +1930,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Besiktas Istanbul
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Besiktas Fuzul Istanbul
 DTSTART:20270406T170000Z
 DTEND:20270406T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:c5a2b39f3d0746d21569bbd8a1fe7837@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Hap
- oel IBI Tel Aviv\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\n
- Giornata/Round: 36\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Hapoel IBI Tel Aviv\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CE
+ NTER\nGiornata/Round: 36\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2020,15 +2020,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Armani Olimpia Milan
 DTSTART:20270401T183000Z
 DTEND:20270401T210000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:7a4f38357c30bd468b5f7827b8f61b1f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
- Besiktas Istanbul\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 35\nFase:
-  Group Regular Season\nStato: scheduled
+ Besiktas Fuzul Istanbul\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 35\
+ nFase: Group Regular Season\nStato: scheduled
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2095,15 +2095,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Real Madrid
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Real Madrid
 DTSTART:20270326T194500Z
 DTEND:20270326T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:88e1bde049714cd066cb10f3e132e1d1@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Besiktas 
- Istanbul\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 34\nFase: Group 
- Regular Season\nStato: scheduled
+ Fuzul Istanbul\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 34\nFase: 
+ Group Regular Season\nStato: scheduled
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2247,15 +2247,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Valencia Basket
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Valencia Basket
 DTSTART:20270324T193000Z
 DTEND:20270324T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:c083e2d6e0c0633a6f033a4b661e62a7@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Besik
- tas Istanbul\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 33\nFase: Group 
- Regular Season\nStato: scheduled
+ tas Fuzul Istanbul\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 33\nFase: 
+ Group Regular Season\nStato: scheduled
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2444,15 +2444,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Besiktas Istanbul
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Besiktas Fuzul Istanbul
 DTSTART:20270319T170000Z
 DTEND:20270319T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:b71ad3e007030ba7eb2f08203323a5ca@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Ana
- dolu Efes Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 32\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Anadolu Efes Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT 
+ CENTER\nGiornata/Round: 32\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2564,15 +2564,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Olympiacos Piraeus
 DTSTART:20270312T191500Z
 DTEND:20270312T214500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:8a506f14dffccb91f87000bf948a178e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Be
- siktas Istanbul\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Ro
- und: 31\nFase: Group Regular Season\nStato: scheduled
+ siktas Fuzul Istanbul\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiorn
+ ata/Round: 31\nFase: Group Regular Season\nStato: scheduled
 LOCATION:PEACE AND FRIENDSHIP STADIUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2837,15 +2837,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Besiktas Istanbul
+SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Besiktas Fuzul Istanbul
 DTSTART:20270309T170000Z
 DTEND:20270309T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:ed80c9195965a57bf28453ad6e6ee121@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: LDL
- C ASVEL Villeurbanne\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENT
- ER\nGiornata/Round: 30\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: LDLC ASVEL Villeurbanne\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMEN
+ T CENTER\nGiornata/Round: 30\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2989,15 +2989,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Panathinaikos AKTOR Athens
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Panathinaikos AKTOR Athens
 DTSTART:20270304T191500Z
 DTEND:20270304T214500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:421e9f2cf93589216cc457e64ff15c95@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Panathinaikos AKTOR Athens\nOs
- pite: Besiktas Istanbul\nCircuito/Arena: TELEKOM CENTER ATHENS\nGiornata/R
- ound: 29\nFase: Group Regular Season\nStato: scheduled
+ pite: Besiktas Fuzul Istanbul\nCircuito/Arena: TELEKOM CENTER ATHENS\nGior
+ nata/Round: 29\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TELEKOM CENTER ATHENS
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3110,15 +3110,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Dubai Basketball @ Besiktas Istanbul
+SUMMARY:🇪🇺 Dubai Basketball @ Besiktas Fuzul Istanbul
 DTSTART:20270211T170000Z
 DTEND:20270211T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:a76f5571c03afa24ebdf5c2c210c285f@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Dub
- ai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGio
- rnata/Round: 28\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Dubai Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTE
+ R\nGiornata/Round: 28\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3261,15 +3261,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Zalgiris Kaunas
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Zalgiris Kaunas
 DTSTART:20270204T180000Z
 DTEND:20270204T203000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:69ff2d90867d40f60f34983431c22163@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Zalgiris Kaunas\nOspite: Besik
- tas Istanbul\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 27\nFase: Gr
- oup Regular Season\nStato: scheduled
+ tas Fuzul Istanbul\nCircuito/Arena: ZALGIRIO ARENA\nGiornata/Round: 27\nFa
+ se: Group Regular Season\nStato: scheduled
 LOCATION:ZALGIRIO ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3381,15 +3381,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Paris Basketball
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Paris Basketball
 DTSTART:20270202T194500Z
 DTEND:20270202T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:ee14b9c2e8a2fe87c071496e4590f457@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Besi
- ktas Istanbul\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 26\nFase: Gro
- up Regular Season\nStato: scheduled
+ ktas Fuzul Istanbul\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 26\nFas
+ e: Group Regular Season\nStato: scheduled
 LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3592,16 +3592,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Besiktas Istanbul
+SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ Besiktas Fuzul Istan
+ bul
 DTSTART:20270128T170000Z
 DTEND:20270128T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:5504e392497ac0bdb433903fc5eb5440@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Crv
- ena Zvezda Meridianbet Belgrade\nCircuito/Arena: TURKCELL BASKETBALL DEVEL
- OPMENT CENTER\nGiornata/Round: 25\nFase: Group Regular Season\nStato: sche
- duled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Crvena Zvezda Meridianbet Belgrade\nCircuito/Arena: TURKCELL BASKETBALL
+  DEVELOPMENT CENTER\nGiornata/Round: 25\nFase: Group Regular Season\nStato
+ : scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3728,15 +3729,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Fenerbahce Tarfin Istanbul
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Fenerbahce Tarfin Istanbul
 DTSTART:20270121T174500Z
 DTEND:20270121T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:17d13d4c3b3a74cbb0e8bf02d4d5499e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
- pite: Besiktas Istanbul\nCircuito/Arena: ULKER SPORTS AND EVENT HALL\nGior
- nata/Round: 24\nFase: Group Regular Season\nStato: scheduled
+ pite: Besiktas Fuzul Istanbul\nCircuito/Arena: ULKER SPORTS AND EVENT HALL
+ \nGiornata/Round: 24\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ULKER SPORTS AND EVENT HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3804,16 +3805,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Besiktas Istanbul
+SUMMARY:🇪🇺 Kosner Baskonia Vitoria-Gasteiz @ Besiktas Fuzul Istanbul
 DTSTART:20270115T170000Z
 DTEND:20270115T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:462650643758b924e2b5d4724cdb792f@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Kos
- ner Baskonia Vitoria-Gasteiz\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPM
- ENT CENTER\nGiornata/Round: 23\nFase: Group Regular Season\nStato: schedul
- ed
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Kosner Baskonia Vitoria-Gasteiz\nCircuito/Arena: TURKCELL BASKETBALL DE
+ VELOPMENT CENTER\nGiornata/Round: 23\nFase: Group Regular Season\nStato: s
+ cheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -3925,15 +3926,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Besiktas Istanbul
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Besiktas Fuzul Istanbul
 DTSTART:20270113T170000Z
 DTEND:20270113T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:de6171fbb3279ede9417bc7b85edbf76@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Par
- tizan Mozzart Bet Belgrade\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMEN
- T CENTER\nGiornata/Round: 22\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Partizan Mozzart Bet Belgrade\nCircuito/Arena: TURKCELL BASKETBALL DEVE
+ LOPMENT CENTER\nGiornata/Round: 22\nFase: Group Regular Season\nStato: sch
+ eduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4197,15 +4199,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ FC Barcelona
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ FC Barcelona
 DTSTART:20270106T193000Z
 DTEND:20270106T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:740720f7cbf3bbf8a8e5bdc78093da8e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Besiktas
-  Istanbul\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 21\nFase: Grou
- p Regular Season\nStato: scheduled
+  Fuzul Istanbul\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 21\nFase
+ : Group Regular Season\nStato: scheduled
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4242,15 +4244,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ FC Bayern Munich
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ FC Bayern Munich
 DTSTART:20261230T190000Z
 DTEND:20261230T213000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:a9e21d5a7b2ac187793cc952c1ca540a@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Besi
- ktas Istanbul\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 20\nFase: Group
-  Regular Season\nStato: scheduled
+ ktas Fuzul Istanbul\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 20\nFase:
+  Group Regular Season\nStato: scheduled
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4498,15 +4500,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Besiktas Istanbul
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Besiktas Fuzul Istanbul
 DTSTART:20261222T170000Z
 DTEND:20261222T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:110df14faab39c87fea74a069decabe3@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Fen
- erbahce Tarfin Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT C
- ENTER\nGiornata/Round: 19\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Fenerbahce Tarfin Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOP
+ MENT CENTER\nGiornata/Round: 19\nFase: Group Regular Season\nStato: schedu
+ led
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4543,15 +4546,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Crvena Zvezda Meridianbet Belgrade
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Crvena Zvezda Meridianbet Belgr
+ ade
 DTSTART:20261218T193000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:b718bff863d7e002dcaad6e001cdb341@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
- rade\nOspite: Besiktas Istanbul\nCircuito/Arena: BELGRADE ARENA\nGiornata/
- Round: 18\nFase: Group Regular Season\nStato: scheduled
+ rade\nOspite: Besiktas Fuzul Istanbul\nCircuito/Arena: BELGRADE ARENA\nGio
+ rnata/Round: 18\nFase: Group Regular Season\nStato: scheduled
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4694,15 +4698,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ Besiktas Istanbul
+SUMMARY:🇪🇺 Armani Olimpia Milan @ Besiktas Fuzul Istanbul
 DTSTART:20261216T170000Z
 DTEND:20261216T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:c51b903905cf9d52f15e839f9fd230a9@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Arm
- ani Olimpia Milan\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\
- nGiornata/Round: 17\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Armani Olimpia Milan\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT C
+ ENTER\nGiornata/Round: 17\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -4860,15 +4864,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Dubai Basketball
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Dubai Basketball
 DTSTART:20261211T160000Z
 DTEND:20261211T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:0c7ff4fc07ad6ee80fbad0d679bd718c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Besi
- ktas Istanbul\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 16\nFase: 
- Group Regular Season\nStato: scheduled
+ ktas Fuzul Istanbul\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round: 16\n
+ Fase: Group Regular Season\nStato: scheduled
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5010,15 +5014,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Besiktas Istanbul
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Besiktas Fuzul Istanbul
 DTSTART:20261204T170000Z
 DTEND:20261204T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:417dfdcdedb5c6e50e98c59563597948@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Pan
- athinaikos AKTOR Athens\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT C
- ENTER\nGiornata/Round: 15\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Panathinaikos AKTOR Athens\nCircuito/Arena: TURKCELL BASKETBALL DEVELOP
+ MENT CENTER\nGiornata/Round: 15\nFase: Group Regular Season\nStato: schedu
+ led
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5252,30 +5257,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Besiktas Istanbul
+SUMMARY:🇪🇺 Paris Basketball @ Besiktas Fuzul Istanbul
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:4c4d97f1290f9ba757ebe6fdf8eb07b2@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Par
- is Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGio
- rnata/Round: 14\nFase: Group Regular Season\nStato: scheduled
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTE
+ R\nGiornata/Round: 14\nFase: Group Regular Season\nStato: scheduled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Partizan Mozzart Bet Belgrade
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Partizan Mozzart Bet Belgrade
 DTSTART:20261120T194500Z
 DTEND:20261120T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:37f52d82d099367e9a917a4d945e9c1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
- nOspite: Besiktas Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiorn
- ata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+ nOspite: Besiktas Fuzul Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\
+ nGiornata/Round: 13\nFase: Group Regular Season\nStato: scheduled
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5424,16 +5429,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Besiktas Istanbul (79-83)
+SUMMARY:🇪🇺 Real Madrid @ Besiktas Fuzul Istanbul (79-83)
 DTSTART:20261118T170000Z
 DTEND:20261118T193000Z
-DTSTAMP:20261118T211517Z
+DTSTAMP:20261120T135501Z
 UID:a0d7a77bee10791dc5c3b49d99a50bec@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Rea
- l Madrid\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGiornata
- /Round: 12\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 83 - 
- 79 Real Madrid\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Real Madrid\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGi
+ ornata/Round: 12\nFase: Group Regular Season\nRisultato: Besiktas Fuzul Is
+ tanbul 83 - 79 Real Madrid\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5587,16 +5592,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ LDLC ASVEL Villeurbanne (95-91)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ LDLC ASVEL Villeurbanne (95-91)
 DTSTART:20261113T193000Z
 DTEND:20261113T220000Z
-DTSTAMP:20261114T023658Z
+DTSTAMP:20261120T135501Z
 UID:2ba7311a0e1561793b671d54269b766f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
- e: Besiktas Istanbul\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 11\nFase
- : Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 91 - 95 Besikta
- s Istanbul\nStato: finished
+ e: Besiktas Fuzul Istanbul\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 11
+ \nFase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 91 - 95 B
+ esiktas Fuzul Istanbul\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5798,16 +5803,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Istanbul (83-67)
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Besiktas Fuzul Istanbul (83-67)
 DTSTART:20261106T170000Z
 DTEND:20261106T193000Z
-DTSTAMP:20261106T195427Z
+DTSTAMP:20261120T135501Z
 UID:0146676080781dd6aeac39aa896bda0e@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Zal
- giris Kaunas\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGior
- nata/Round: 10\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 6
- 7 - 83 Zalgiris Kaunas\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Zalgiris Kaunas\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
+ \nGiornata/Round: 10\nFase: Group Regular Season\nRisultato: Besiktas Fuzu
+ l Istanbul 67 - 83 Zalgiris Kaunas\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -5912,16 +5917,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Virtus Bologna (103-101)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Virtus Bologna (103-101)
 DTSTART:20261030T193000Z
 DTEND:20261030T220000Z
-DTSTAMP:20261031T014434Z
+DTSTAMP:20261120T135501Z
 UID:5c8081676ac84359d1486a497dcfee33@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Besikt
- as Istanbul\nCircuito/Arena: PALADOZZA\nGiornata/Round: 9\nFase: Group Reg
- ular Season\nRisultato: Virtus Bologna 101 - 103 Besiktas Istanbul\nStato:
-  finished
+ as Fuzul Istanbul\nCircuito/Arena: PALADOZZA\nGiornata/Round: 9\nFase: Gro
+ up Regular Season\nRisultato: Virtus Bologna 101 - 103 Besiktas Fuzul Ista
+ nbul\nStato: finished
 LOCATION:PALADOZZA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6124,16 +6129,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Olympiacos Piraeus @ Besiktas Istanbul (81-73)
+SUMMARY:🇪🇺 Olympiacos Piraeus @ Besiktas Fuzul Istanbul (81-73)
 DTSTART:20261028T173000Z
 DTEND:20261028T200000Z
-DTSTAMP:20261029T015453Z
+DTSTAMP:20261120T135501Z
 UID:8318700dd50de01bc89a3f810cf5a392@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Oly
- mpiacos Piraeus\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nG
- iornata/Round: 8\nFase: Group Regular Season\nRisultato: Besiktas Istanbul
-  73 - 81 Olympiacos Piraeus\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Olympiacos Piraeus\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CEN
+ TER\nGiornata/Round: 8\nFase: Group Regular Season\nRisultato: Besiktas Fu
+ zul Istanbul 73 - 81 Olympiacos Piraeus\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6368,16 +6373,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Anadolu Efes Istanbul (80-89)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Anadolu Efes Istanbul (80-89)
 DTSTART:20261022T173000Z
 DTEND:20261022T200000Z
-DTSTAMP:20261023T005037Z
+DTSTAMP:20261120T135501Z
 UID:7ace9b443d7e49db558fcb48862f4434@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
-  Besiktas Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
- \nGiornata/Round: 7\nFase: Group Regular Season\nRisultato: Anadolu Efes I
- stanbul 89 - 80 Besiktas Istanbul\nStato: finished
+  Besiktas Fuzul Istanbul\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT 
+ CENTER\nGiornata/Round: 7\nFase: Group Regular Season\nRisultato: Anadolu 
+ Efes Istanbul 89 - 80 Besiktas Fuzul Istanbul\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6481,16 +6486,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Bayern Munich @ Besiktas Istanbul (87-95)
+SUMMARY:🇪🇺 FC Bayern Munich @ Besiktas Fuzul Istanbul (87-95)
 DTSTART:20261016T170000Z
 DTEND:20261016T193000Z
-DTSTAMP:20261017T004144Z
+DTSTAMP:20261120T135501Z
 UID:57a5ee563037eba9d4b329c094fd04db@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: FC 
- Bayern Munich\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGio
- rnata/Round: 6\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 9
- 5 - 87 FC Bayern Munich\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: FC Bayern Munich\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTE
+ R\nGiornata/Round: 6\nFase: Group Regular Season\nRisultato: Besiktas Fuzu
+ l Istanbul 95 - 87 FC Bayern Munich\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6594,16 +6599,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Hapoel IBI Tel Aviv (82-100)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Hapoel IBI Tel Aviv (82-100)
 DTSTART:20261014T160000Z
 DTEND:20261014T183000Z
-DTSTAMP:20261015T004502Z
+DTSTAMP:20261120T135501Z
 UID:520fb0af13e7f76ae30e2d44a3793a99@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: B
- esiktas Istanbul\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 5\nFas
- e: Group Regular Season\nRisultato: Hapoel IBI Tel Aviv 100 - 82 Besiktas 
- Istanbul\nStato: finished
+ esiktas Fuzul Istanbul\nCircuito/Arena: ARENA 8888 SOFIA\nGiornata/Round: 
+ 5\nFase: Group Regular Season\nRisultato: Hapoel IBI Tel Aviv 100 - 82 Bes
+ iktas Fuzul Istanbul\nStato: finished
 LOCATION:ARENA 8888 SOFIA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6741,17 +6746,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Kosner Baskonia Vitoria-Gasteiz (92-8
- 4)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Kosner Baskonia Vitoria-Gasteiz
+  (92-84)
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
-DTSTAMP:20261010T015221Z
+DTSTAMP:20261120T135501Z
 UID:76fb9558ec871090900230202e939ea8@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
- z\nOspite: Besiktas Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/Round:
-  4\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Gasteiz
-  84 - 92 Besiktas Istanbul\nStato: finished
+ z\nOspite: Besiktas Fuzul Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/
+ Round: 4\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-G
+ asteiz 84 - 92 Besiktas Fuzul Istanbul\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -6970,16 +6975,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 FC Barcelona @ Besiktas Istanbul (95-82)
+SUMMARY:🇪🇺 FC Barcelona @ Besiktas Fuzul Istanbul (95-82)
 DTSTART:20261002T170000Z
 DTEND:20261002T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:710be3923a619e51a36c5a844308077e@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: FC 
- Barcelona\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGiornat
- a/Round: 3\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 82 - 
- 95 FC Barcelona\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: FC Barcelona\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nG
+ iornata/Round: 3\nFase: Group Regular Season\nRisultato: Besiktas Fuzul Is
+ tanbul 82 - 95 FC Barcelona\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7068,16 +7073,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Istanbul @ Maccabi Rapyd Tel Aviv (109-93)
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Maccabi Rapyd Tel Aviv (109-93)
 DTSTART:20260930T180500Z
 DTEND:20260930T203500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:4a1129fd51edbaa6b06f6d7c0a7fb0bd@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Besiktas Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiornata/Rou
- nd: 2\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv 93 - 
- 109 Besiktas Istanbul\nStato: finished
+ : Besiktas Fuzul Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\nGiorna
+ ta/Round: 2\nFase: Group Regular Season\nRisultato: Maccabi Rapyd Tel Aviv
+  93 - 109 Besiktas Fuzul Istanbul\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -7247,16 +7252,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Valencia Basket @ Besiktas Istanbul (96-94)
+SUMMARY:🇪🇺 Valencia Basket @ Besiktas Fuzul Istanbul (96-94)
 DTSTART:20260925T170000Z
 DTEND:20260925T193000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:2ba9d24492bc0acfe638c219407692d6@basketball-calendar.github.io
 COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Istanbul\nOspite: Val
- encia Basket\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER\nGior
- nata/Round: 1\nFase: Group Regular Season\nRisultato: Besiktas Istanbul 94
-  - 96 Valencia Basket\nStato: finished
+DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
+ e: Valencia Basket\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTER
+ \nGiornata/Round: 1\nFase: Group Regular Season\nRisultato: Besiktas Fuzul
+  Istanbul 94 - 96 Valencia Basket\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23222,12 +23227,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — Las Vegas Grand Prix
 DTSTART:20261120T040000Z
 DTEND:20261120T050000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261120T135501Z
 UID:e6a2555c315f8f467f649c67cac76216@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP2
  \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
- nGiornata/Round: Round 21\nFase: SecondPractice\nStato: scheduled
+ nGiornata/Round: Round 21\nFase: SecondPractice\nStato: finished
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

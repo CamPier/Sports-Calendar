@@ -1236,12 +1236,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — Las Vegas Grand Prix
 DTSTART:20261120T040000Z
 DTEND:20261120T050000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261120T135459Z
 UID:e6a2555c315f8f467f649c67cac76216@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP2
  \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
- nGiornata/Round: Round 21\nFase: SecondPractice\nStato: scheduled
+ nGiornata/Round: Round 21\nFase: SecondPractice\nStato: finished
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
