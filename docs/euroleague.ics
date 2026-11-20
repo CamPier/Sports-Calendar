@@ -3843,45 +3843,48 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ Valencia Basket
+SUMMARY:🇪🇺 Virtus Bologna @ Valencia Basket (87-92)
 DTSTART:20261119T200000Z
 DTEND:20261119T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261120T033936Z
 UID:19bb48868e90f8a390946ed31a1f1d1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Virtu
  s Bologna\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 13\nFase: Group Reg
- ular Season\nStato: scheduled
+ ular Season\nRisultato: Valencia Basket 92 - 87 Virtus Bologna\nStato: fin
+ ished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Paris Basketball
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Paris Basketball (96-97)
 DTSTART:20261119T194500Z
 DTEND:20261119T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261120T033936Z
 UID:2f658064d259d7b8d9a4a1d306d35d40@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Hapo
  el IBI Tel Aviv\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 13\nFase: G
- roup Regular Season\nStato: scheduled
+ roup Regular Season\nRisultato: Paris Basketball 97 - 96 Hapoel IBI Tel Av
+ iv\nStato: finished
 LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Armani Olimpia Milan
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ Armani Olimpia Milan (70-78)
 DTSTART:20261119T193000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261120T033936Z
 UID:8c48a4f0066b6e2a3963c6cc7c2cb79c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Armani Olimpia Milan\nOspite: 
  Fenerbahce Tarfin Istanbul\nCircuito/Arena: UNIPOL FORUM\nGiornata/Round: 
- 13\nFase: Group Regular Season\nStato: scheduled
+ 13\nFase: Group Regular Season\nRisultato: Armani Olimpia Milan 78 - 70 Fe
+ nerbahce Tarfin Istanbul\nStato: finished
 LOCATION:UNIPOL FORUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
