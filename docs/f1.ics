@@ -1266,12 +1266,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 Qualifiche — Las Vegas Grand Prix
 DTSTART:20261121T040000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261121T131847Z
 UID:6e6b04beb8199ee4efda2945120a2c5d@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 Qua
  lifiche\nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas
- \, USA\nGiornata/Round: Round 21\nFase: Qualifying\nStato: scheduled
+ \, USA\nGiornata/Round: Round 21\nFase: Qualifying\nStato: finished
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -852,74 +852,78 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Chicago Bulls
+SUMMARY:🏀 Washington Wizards @ Chicago Bulls (98-94)
 DTSTART:20261121T010000Z
 DTEND:20261121T033000Z
-DTSTAMP:20261121T032234Z
+DTSTAMP:20261121T131829Z
 UID:18c5a8c2d3f4440a12d61aa13e5c36e4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Washington Wiz
- ards\nCircuito/Arena: United Center\nCittà: Chicago\nStato: live
+ ards\nCircuito/Arena: United Center\nCittà: Chicago\nRisultato: Chicago B
+ ulls 94 - 98 Washington Wizards\nStato: finished
 LOCATION:United Center\, Chicago
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder
+SUMMARY:🏀 New Orleans Pelicans @ Oklahoma City Thunder (120-126)
 DTSTART:20261121T010000Z
 DTEND:20261121T033000Z
-DTSTAMP:20261121T032234Z
+DTSTAMP:20261121T131829Z
 UID:9fcbf3f66a00f6646c21d6303e2db01d@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: New Or
- leans Pelicans\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nStat
- o: live
+ leans Pelicans\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisu
+ ltato: Oklahoma City Thunder 126 - 120 New Orleans Pelicans\nStato: finish
+ ed
 LOCATION:Paycom Center\, Oklahoma City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Utah Jazz
+SUMMARY:🏀 Phoenix Suns @ Utah Jazz (111-101)
 DTSTART:20261121T023000Z
 DTEND:20261121T050000Z
-DTSTAMP:20261121T032234Z
+DTSTAMP:20261121T131829Z
 UID:d67fa39dc3e706e1baa465bd1ddd43bc@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Phoenix Suns\nCirc
- uito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ uito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jazz 101
+  - 111 Phoenix Suns\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Denver Nuggets
+SUMMARY:🏀 Houston Rockets @ Denver Nuggets (124-133)
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
-DTSTAMP:20261121T032234Z
+DTSTAMP:20261121T131829Z
 UID:b0998151b60e7da95d047bd673f836f4@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Houston Rocke
- ts\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ ts\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nuggets 
+ 133 - 124 Houston Rockets\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ Los Angeles Lakers
+SUMMARY:🏀 Sacramento Kings @ Los Angeles Lakers (104-106)
 DTSTART:20261121T030000Z
 DTEND:20261121T053000Z
-DTSTAMP:20261121T032234Z
+DTSTAMP:20261121T131829Z
 UID:110ca2c76e8f6144ace2dad57db86fd8@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Sacrament
- o Kings\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nStato: liv
- e
+ o Kings\nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato:
+  Los Angeles Lakers 106 - 104 Sacramento Kings\nStato: finished
 LOCATION:crypto.com Arena\, Los Angeles
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

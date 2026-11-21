@@ -211,14 +211,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Umana Reyer Venezia @ Pallacanestro Trieste (87-82)
 DTSTART:20261004T153000Z
 DTEND:20261004T180000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:bfe24d19fe13043bd02569cd7f47f619@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Umana 
- Reyer Venezia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Roun
- d: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallaca
- nestro Trieste 82 - 87 Umana Reyer Venezia\nStato: finished
-LOCATION:PalaTrieste\, Trieste
+ Reyer Venezia\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiornata/R
+ ound: 2� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pall
+ acanestro Trieste 82 - 87 Umana Reyer Venezia\nStato: finished
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -475,14 +475,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Pallacanestro Trieste (72-92)
 DTSTART:20261018T160000Z
 DTEND:20261018T183000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:64584487b253f50fe5f740727ef053ed@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Acqua 
- S.Bernardo Cantù\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/
- Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pal
- lacanestro Trieste 92 - 72 Acqua S.Bernardo Cantù\nStato: finished
-LOCATION:PalaTrieste\, Trieste
+ S.Bernardo Cantù\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiorna
+ ta/Round: 4� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: 
+ Pallacanestro Trieste 92 - 72 Acqua S.Bernardo Cantù\nStato: finished
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -656,14 +656,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Tezenis Verona @ Pallacanestro Trieste (99-108)
 DTSTART:20261025T173000Z
 DTEND:20261025T200000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:a0fd9cbb35cccbeb36c60ce6c6800c7c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Tezeni
- s Verona\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 5
- � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacanest
- ro Trieste 108 - 99 Tezenis Verona\nStato: finished
-LOCATION:PalaTrieste\, Trieste
+ s Verona\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiornata/Round:
+  5� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacane
+ stro Trieste 108 - 99 Tezenis Verona\nStato: finished
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -820,14 +820,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 BC Roma @ Pallacanestro Trieste (100-116)
 DTSTART:20261108T110000Z
 DTEND:20261108T133000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:802af2d7f88f8cb902802b17e38827fe@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: BC Rom
- a\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata/Round: 7� Gior
- nata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacanestro Tries
- te 116 - 100 BC Roma\nStato: finished
-LOCATION:PalaTrieste\, Trieste
+ a\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiornata/Round: 7� G
+ iornata\nFase: LBA – Regular Season 2026/27\nRisultato: Pallacanestro Tr
+ ieste 116 - 100 BC Roma\nStato: finished
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1082,14 +1082,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Pallacanestro Trieste
 DTSTART:20261121T190000Z
 DTEND:20261121T213000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:bd9ef8482b905d8f989db2d073ada2c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: UNA Ho
- tels Reggio Emilia\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornata
- /Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedu
- led
-LOCATION:PalaTrieste\, Trieste
+ tels Reggio Emilia\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiorn
+ ata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
+ eduled
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1408,14 +1408,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Pallacanestro Trieste
 DTSTART:20261213T170000Z
 DTEND:20261213T193000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:6be399e5101af04de2721d7fa122b2ac@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Nutrib
- ullet Treviso Basket\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiorna
- ta/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
- eduled
-LOCATION:PalaTrieste\, Trieste
+ ullet Treviso Basket\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGio
+ rnata/Round: 11� Giornata\nFase: LBA – Regular Season 2026/27\nStato: 
+ scheduled
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
@@ -1640,14 +1640,14 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 Dolomiti Energia Trentino @ Pallacanestro Trieste
 DTSTART:20261227T160000Z
 DTEND:20261227T183000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T131843Z
 UID:02cf35cf1192f24b278da3f3f5ec9223@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: Dolomi
- ti Energia Trentino\nCircuito/Arena: PalaTrieste\nCittà: Trieste\nGiornat
- a/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sche
- duled
-LOCATION:PalaTrieste\, Trieste
+ ti Energia Trentino\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGior
+ nata/Round: 13� Giornata\nFase: LBA – Regular Season 2026/27\nStato: s
+ cheduled
+LOCATION:Generali Arena\, Trieste
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
