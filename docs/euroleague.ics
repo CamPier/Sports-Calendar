@@ -3788,45 +3788,50 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Partizan Mozzart Bet Belgrade
+SUMMARY:🇪🇺 Besiktas Fuzul Istanbul @ Partizan Mozzart Bet Belgrade (
+ 87-91)
 DTSTART:20261120T194500Z
 DTEND:20261120T221500Z
-DTSTAMP:20261120T135445Z
+DTSTAMP:20261121T032234Z
 UID:37f52d82d099367e9a917a4d945e9c1d@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Partizan Mozzart Bet Belgrade\
  nOspite: Besiktas Fuzul Istanbul\nCircuito/Arena: ALEKSANDAR NIKOLIC HALL\
- nGiornata/Round: 13\nFase: Group Regular Season\nStato: scheduled
+ nGiornata/Round: 13\nFase: Group Regular Season\nRisultato: Partizan Mozza
+ rt Bet Belgrade 91 - 87 Besiktas Fuzul Istanbul\nStato: finished
 LOCATION:ALEKSANDAR NIKOLIC HALL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ FC Barcelona
+SUMMARY:🇪🇺 Crvena Zvezda Meridianbet Belgrade @ FC Barcelona (103-10
+ 0)
 DTSTART:20261120T193000Z
 DTEND:20261120T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261121T032234Z
 UID:96eb5e621846da01fd10f9a73a164c74@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Crvena Z
  vezda Meridianbet Belgrade\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Roun
- d: 13\nFase: Group Regular Season\nStato: scheduled
+ d: 13\nFase: Group Regular Season\nRisultato: FC Barcelona 100 - 103 Crven
+ a Zvezda Meridianbet Belgrade\nStato: finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Real Madrid @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Real Madrid @ Olympiacos Piraeus (76-92)
 DTSTART:20261120T191500Z
 DTEND:20261120T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261121T032234Z
 UID:a14465f3d6b38058316ce0cf73ab1ee5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Re
  al Madrid\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 13\nFase: Group Re
- gular Season\nStato: scheduled
+ gular Season\nRisultato: Olympiacos Piraeus 92 - 76 Real Madrid\nStato: fi
+ nished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

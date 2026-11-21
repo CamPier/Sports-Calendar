@@ -1251,12 +1251,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP3 — Las Vegas Grand Prix
 DTSTART:20261121T003000Z
 DTEND:20261121T013000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261121T032245Z
 UID:44becfc3fb4cd8fbb4b10c43063a0f3a@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Las Vegas Grand Prix\nOspite: 🏎 FP3
  \nCircuito/Arena: Las Vegas Strip Street Circuit\nCittà: Las Vegas\, USA\
- nGiornata/Round: Round 21\nFase: ThirdPractice\nStato: scheduled
+ nGiornata/Round: Round 21\nFase: ThirdPractice\nStato: finished
 LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
