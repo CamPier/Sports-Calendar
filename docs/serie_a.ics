@@ -1656,42 +1656,44 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Cagliari @ Como
+SUMMARY:⚽ Cagliari @ Como (0-2)
 DTSTART:20261121T140000Z
 DTEND:20261121T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261121T195946Z
 UID:150d663b51cd573bf8e2f28f18f8bcb9@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Como\nOspite: Cagliari\nCircuito/
- Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: scheduled
+ Arena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 2 - 0 Cagliari\n
+ Stato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Lecce @ Lazio
+SUMMARY:⚽ Lecce @ Lazio (0-3)
 DTSTART:20261121T140000Z
 DTEND:20261121T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261121T195946Z
 UID:91f2f8d25cdcb139e08e08d667127ae6@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Lazio\nOspite: Lecce\nCircuito/Ar
- ena: Olimpico\nCittà: Roma\nStato: scheduled
+ ena: Olimpico\nCittà: Roma\nRisultato: Lazio 3 - 0 Lecce\nStato: finished
 LOCATION:Olimpico\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ AS Roma @ Parma
+SUMMARY:⚽ AS Roma @ Parma (5-1)
 DTSTART:20261121T170000Z
 DTEND:20261121T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261121T195946Z
 UID:de3da8fd0fc096826c462506eb748df8@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Parma\nOspite: AS Roma\nCircuito/
- Arena: Ennio Tardini\nCittà: Parma\nStato: scheduled
+ Arena: Ennio Tardini\nCittà: Parma\nRisultato: Parma 1 - 5 AS Roma\nStato
+ : finished
 LOCATION:Ennio Tardini\, Parma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1701,13 +1703,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Torino @ Napoli
 DTSTART:20261121T194500Z
 DTEND:20261121T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261121T195946Z
 UID:6b2645d1271aa436e87f73ea7b298e1e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Torino\nCircuito/
- Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: scheduled
+ Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: live
 LOCATION:Stadio Diego Armando Maradona\, Napoli
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

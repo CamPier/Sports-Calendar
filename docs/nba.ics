@@ -931,14 +931,14 @@ BEGIN:VEVENT
 SUMMARY:🏀 Milwaukee Bucks @ Philadelphia 76ers
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261114T023640Z
+DTSTAMP:20261121T195935Z
 UID:a783d27c4b740c9158fcb00c57df3f0b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Milwaukee
   Bucks\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato:
-  scheduled
+  live
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

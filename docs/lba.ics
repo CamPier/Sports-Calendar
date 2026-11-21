@@ -1064,15 +1064,16 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino
+SUMMARY:🇮🇹 Napoli Basketball @ Dolomiti Energia Trentino (86-100)
 DTSTART:20261121T180000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261121T195945Z
 UID:91eaaf07fed86f59d6785359ad0d6949@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Dolomiti Energia Trentino\nOspite: Na
  poli Basketball\nCircuito/Arena: BTS Arena\nCittà: Trento\nGiornata/Round
- : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Dolomiti
+  Energia Trentino 100 - 86 Napoli Basketball\nStato: finished
 LOCATION:BTS Arena\, Trento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1082,15 +1083,15 @@ BEGIN:VEVENT
 SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Pallacanestro Trieste
 DTSTART:20261121T190000Z
 DTEND:20261121T213000Z
-DTSTAMP:20261121T131843Z
+DTSTAMP:20261121T195945Z
 UID:bd9ef8482b905d8f989db2d073ada2c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: UNA Ho
  tels Reggio Emilia\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiorn
- ata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: sch
- eduled
+ ata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: liv
+ e
 LOCATION:Generali Arena\, Trieste
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
