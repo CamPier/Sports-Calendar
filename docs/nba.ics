@@ -808,73 +808,75 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Portland Trail Blazers @ New York Knicks
+SUMMARY:🏀 Portland Trail Blazers @ New York Knicks (96-97)
 DTSTART:20261122T003000Z
 DTEND:20261122T030000Z
-DTSTAMP:20261122T023122Z
+DTSTAMP:20261122T131055Z
 UID:4b850224ebff72881606a530cef39456@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Portland Tra
- il Blazers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato
- : live
+ il Blazers\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisul
+ tato: New York Knicks 97 - 96 Portland Trail Blazers\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 LA Clippers @ Dallas Mavericks
+SUMMARY:🏀 LA Clippers @ Dallas Mavericks (100-110)
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-DTSTAMP:20261122T023122Z
+DTSTAMP:20261122T131055Z
 UID:6ea7221fcfd2bfb5a6ac0aa63279ec43@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: LA Clippers
- \nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: live
+ \nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisultato: Dal
+ las Mavericks 110 - 100 LA Clippers\nStato: finished
 LOCATION:American Airlines Center\, Dallas
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Minnesota Timberwolves
+SUMMARY:🏀 Memphis Grizzlies @ Minnesota Timberwolves (95-104)
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-DTSTAMP:20261122T023122Z
+DTSTAMP:20261122T131055Z
 UID:443060dce7ac5b3a11ebeb2dbd1a162a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Minnesota Timberwolves\nOspite: Memph
- is Grizzlies\nCircuito/Arena: Target Center\nCittà: Minneapolis\nStato: l
- ive
+ is Grizzlies\nCircuito/Arena: Target Center\nCittà: Minneapolis\nRisultat
+ o: Minnesota Timberwolves 104 - 95 Memphis Grizzlies\nStato: finished
 LOCATION:Target Center\, Minneapolis
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ San Antonio Spurs
+SUMMARY:🏀 New Orleans Pelicans @ San Antonio Spurs (91-114)
 DTSTART:20261122T010000Z
 DTEND:20261122T033000Z
-DTSTAMP:20261122T023122Z
+DTSTAMP:20261122T131055Z
 UID:2ce8ef6fca3b2332834fe12689661b4a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: New Orlean
- s Pelicans\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato:
-  live
+ s Pelicans\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisult
+ ato: San Antonio Spurs 114 - 91 New Orleans Pelicans\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Sacramento Kings
+SUMMARY:🏀 Boston Celtics @ Sacramento Kings (96-97)
 DTSTART:20261122T030000Z
 DTEND:20261122T053000Z
-DTSTAMP:20261115T020317Z
+DTSTAMP:20261122T131055Z
 UID:ba2583a674882d78fec47b2120caec49@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Boston Celt
- ics\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nStato: scheduled
+ ics\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sacra
+ mento Kings 97 - 96 Boston Celtics\nStato: finished
 LOCATION:Golden 1 Center\, Sacramento
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

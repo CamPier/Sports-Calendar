@@ -314,12 +314,12 @@ BEGIN:VEVENT
 SUMMARY:🏍 REPSOL GRAND PRIX OF PORTUGAL
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
-DTSTAMP:20261002T195650Z
+DTSTAMP:20261122T131106Z
 UID:de554d9837b9a46d17d8ecde52976269@basketball-calendar.github.io
 COLOR:#CC0000
 DESCRIPTION:Competizione: MotoGP\nCasa: REPSOL GRAND PRIX OF PORTUGAL\nOsp
  ite: Gara\nCircuito/Arena: Autódromo Internacional do Algarve\nGiornata/R
- ound: Round 21\nFase: MotoGP\, Moto2\, Moto3\nStato: scheduled
+ ound: Round 21\nFase: MotoGP\, Moto2\, Moto3\nStato: finished
 LOCATION:Autódromo Internacional do Algarve
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1718,13 +1718,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Venezia @ Juventus
 DTSTART:20261122T113000Z
 DTEND:20261122T140000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261122T131104Z
 UID:84bc422a04851229dbd9be020ee74874@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Venezia\nCircui
- to/Arena: Allianz Stadium\nCittà: Torino\nStato: scheduled
+ to/Arena: Allianz Stadium\nCittà: Torino\nStato: live
 LOCATION:Allianz Stadium\, Torino
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
