@@ -1080,18 +1080,18 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Pallacanestro Trieste
+SUMMARY:🇮🇹 UNA Hotels Reggio Emilia @ Pallacanestro Trieste (94-89)
 DTSTART:20261121T190000Z
 DTEND:20261121T213000Z
-DTSTAMP:20261121T195945Z
+DTSTAMP:20261122T023131Z
 UID:bd9ef8482b905d8f989db2d073ada2c5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Pallacanestro Trieste\nOspite: UNA Ho
  tels Reggio Emilia\nCircuito/Arena: Generali Arena\nCittà: Trieste\nGiorn
- ata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: liv
- e
+ ata/Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato:
+  Pallacanestro Trieste 89 - 94 UNA Hotels Reggio Emilia\nStato: finished
 LOCATION:Generali Arena\, Trieste
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT

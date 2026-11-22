@@ -1700,16 +1700,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Torino @ Napoli
+SUMMARY:⚽ Torino @ Napoli (0-1)
 DTSTART:20261121T194500Z
 DTEND:20261121T221500Z
-DTSTAMP:20261121T195946Z
+DTSTAMP:20261122T023132Z
 UID:6b2645d1271aa436e87f73ea7b298e1e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Napoli\nOspite: Torino\nCircuito/
- Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nStato: live
+ Arena: Stadio Diego Armando Maradona\nCittà: Napoli\nRisultato: Napoli 1 
+ - 0 Torino\nStato: finished
 LOCATION:Stadio Diego Armando Maradona\, Napoli
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
