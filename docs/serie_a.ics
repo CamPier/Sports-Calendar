@@ -1715,56 +1715,60 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Venezia @ Juventus
+SUMMARY:⚽ Venezia @ Juventus (0-4)
 DTSTART:20261122T113000Z
 DTEND:20261122T140000Z
-DTSTAMP:20261122T131104Z
+DTSTAMP:20261122T201422Z
 UID:84bc422a04851229dbd9be020ee74874@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Juventus\nOspite: Venezia\nCircui
- to/Arena: Allianz Stadium\nCittà: Torino\nStato: live
+ to/Arena: Allianz Stadium\nCittà: Torino\nRisultato: Juventus 4 - 0 Venez
+ ia\nStato: finished
 LOCATION:Allianz Stadium\, Torino
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Udinese @ Bologna
+SUMMARY:⚽ Udinese @ Bologna (1-1)
 DTSTART:20261122T140000Z
 DTEND:20261122T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261122T201422Z
 UID:1256ad61f69b94e602a2d27ad2260a04@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Bologna\nOspite: Udinese\nCircuit
- o/Arena: Renato Dall'Ara\nCittà: Bologna\nStato: scheduled
+ o/Arena: Renato Dall'Ara\nCittà: Bologna\nRisultato: Bologna 1 - 1 Udines
+ e\nStato: finished
 LOCATION:Renato Dall'Ara\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Genoa @ Sassuolo
+SUMMARY:⚽ Genoa @ Sassuolo (2-0)
 DTSTART:20261122T140000Z
 DTEND:20261122T163000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261122T201422Z
 UID:5b9409a1acc5842441e8e6479e55638c@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Sassuolo\nOspite: Genoa\nCircuito
- /Arena: Mapei Stadium\nCittà: Reggio Emilia\nStato: scheduled
+ /Arena: Mapei Stadium\nCittà: Reggio Emilia\nRisultato: Sassuolo 0 - 2 Ge
+ noa\nStato: finished
 LOCATION:Mapei Stadium\, Reggio Emilia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Frosinone @ AC Milan
+SUMMARY:⚽ Frosinone @ AC Milan (1-5)
 DTSTART:20261122T170000Z
 DTEND:20261122T193000Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261122T201422Z
 UID:333ae56786c04867809880527be329ef@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: AC Milan\nOspite: Frosinone\nCirc
- uito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ uito/Arena: San Siro\nCittà: Milano\nRisultato: AC Milan 5 - 1 Frosinone\
+ nStato: finished
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1774,13 +1778,13 @@ BEGIN:VEVENT
 SUMMARY:⚽ Internazionale @ Atalanta
 DTSTART:20261122T194500Z
 DTEND:20261122T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261122T201422Z
 UID:78ea2e2ca0d7741158b9f5707974fd40@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale\
- nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: scheduled
+ nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: live
 LOCATION:New Balance Arena\, Bergamo
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT

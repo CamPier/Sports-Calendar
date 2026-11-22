@@ -1096,92 +1096,98 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Armani Olimpia Milano @ Bertram Derthona Tortona
+SUMMARY:🇮🇹 Armani Olimpia Milano @ Bertram Derthona Tortona (80-83)
 DTSTART:20261122T150000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:d19af0da27f07e125fcb94d750d38933@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Bertram Derthona Tortona\nOspite: Arm
  ani Olimpia Milano\nCircuito/Arena: Nova Arena\nCittà: Tortona\nGiornata/
- Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: schedul
- ed
+ Round: 9� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Ber
+ tram Derthona Tortona 83 - 80 Armani Olimpia Milano\nStato: finished
 LOCATION:Nova Arena\, Tortona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket
+SUMMARY:🇮🇹 Acqua S.Bernardo Cantù @ Longobardi Scafati Basket (67-8
+ 3)
 DTSTART:20261122T163000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:59d6abd655e9cf57d924b341b8943bd1@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Longobardi Scafati Basket\nOspite: Ac
  qua S.Bernardo Cantù\nCircuito/Arena: Beta Ricambi Arena PalaMangano\nCit
  tà: Scafati\nGiornata/Round: 9� Giornata\nFase: LBA – Regular Season 
- 2026/27\nStato: scheduled
+ 2026/27\nRisultato: Longobardi Scafati Basket 83 - 67 Acqua S.Bernardo Can
+ tù\nStato: finished
 LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma
+SUMMARY:🇮🇹 Nutribullet Treviso Basket @ Maxima Roma (91-108)
 DTSTART:20261122T170000Z
 DTEND:20261122T193000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:796e0875e7ae2496263c609f2de937b5@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Maxima Roma\nOspite: Nutribullet Trev
  iso Basket\nCircuito/Arena: PalaEur\nCittà: Roma\nGiornata/Round: 9� Gi
- ornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ ornata\nFase: LBA – Regular Season 2026/27\nRisultato: Maxima Roma 108 -
+  91 Nutribullet Treviso Basket\nStato: finished
 LOCATION:PalaEur\, Roma
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 BC Roma @ Virtus Costa Bologna
+SUMMARY:🇮🇹 BC Roma @ Virtus Costa Bologna (110-117)
 DTSTART:20261122T170000Z
 DTEND:20261122T193000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:96a08887ab30d768fa97efda6c6b903d@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Virtus Costa Bologna\nOspite: BC Roma
  \nCircuito/Arena: PalaDozza\nCittà: Bologna\nGiornata/Round: 9� Giornat
- a\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ a\nFase: LBA – Regular Season 2026/27\nRisultato: Virtus Costa Bologna 1
+ 17 - 110 BC Roma\nStato: finished
 LOCATION:PalaDozza\, Bologna
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona
+SUMMARY:🇮🇹 APU Old Wild West Udine @ Tezenis Verona (89-97)
 DTSTART:20261122T171500Z
 DTEND:20261122T194500Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:af98187b53bcefc21be51c5dec0b80fb@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Tezenis Verona\nOspite: APU Old Wild 
  West Udine\nCircuito/Arena: Pala MAGIS\nCittà: Verona\nGiornata/Round: 9
- � Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ � Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Tezenis Ver
+ ona 97 - 89 APU Old Wild West Udine\nStato: finished
 LOCATION:Pala MAGIS\, Verona
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#008751
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇮🇹 Umana Reyer Venezia @ Openjobmetis Varese
+SUMMARY:🇮🇹 Umana Reyer Venezia @ Openjobmetis Varese (71-96)
 DTSTART:20261122T180000Z
 DTEND:20261122T203000Z
-DTSTAMP:20261116T132754Z
+DTSTAMP:20261122T201420Z
 UID:d0548af6d82bf07eda3463b82efb7b5c@basketball-calendar.github.io
 COLOR:#008751
 DESCRIPTION:Competizione: LBA\nCasa: Openjobmetis Varese\nOspite: Umana Re
  yer Venezia\nCircuito/Arena: Itelyum Arena\nCittà: Varese\nGiornata/Round
- : 9� Giornata\nFase: LBA – Regular Season 2026/27\nStato: scheduled
+ : 9� Giornata\nFase: LBA – Regular Season 2026/27\nRisultato: Openjobm
+ etis Varese 96 - 71 Umana Reyer Venezia\nStato: finished
 LOCATION:Itelyum Arena\, Varese
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
