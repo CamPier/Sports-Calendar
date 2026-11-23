@@ -793,30 +793,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ New York Knicks
+SUMMARY:🏀 Indiana Pacers @ New York Knicks (106-113)
 DTSTART:20261123T010000Z
 DTEND:20261123T033000Z
-DTSTAMP:20261123T025914Z
+DTSTAMP:20261123T154828Z
 UID:8578973b4cfa0580aa1b9e9896082706@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: New York Knicks\nOspite: Indiana Pace
- rs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nStato: live
+ rs\nCircuito/Arena: Madison Square Garden\nCittà: New York\nRisultato: Ne
+ w York Knicks 113 - 106 Indiana Pacers\nStato: finished
 LOCATION:Madison Square Garden\, New York
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Golden State Warriors
+SUMMARY:🏀 Boston Celtics @ Golden State Warriors (87-88)
 DTSTART:20261123T013000Z
 DTEND:20261123T040000Z
-DTSTAMP:20261123T025914Z
+DTSTAMP:20261123T154828Z
 UID:e362e9b64fef3634774b0aa19e86ea7a@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Boston
-  Celtics\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: live
+  Celtics\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato: 
+ Golden State Warriors 88 - 87 Boston Celtics\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1852,6 +1854,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Paris Basketball
+DTSTART:20270406T190000Z
+DTEND:20270406T213000Z
+DTSTAMP:20261123T154828Z
+UID:f0c5e8c5ae9bb53ca19509d9e29e37ee@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Anad
+ olu Efes Istanbul\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 36\nFase:
+  Group Regular Season\nStato: scheduled
+LOCATION:ADIDAS ARENA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇪🇺 Armani Olimpia Milan @ Real Madrid
 DTSTART:20270406T184500Z
 DTEND:20270406T211500Z
@@ -1862,21 +1879,6 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Armani Ol
  impia Milan\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 36\nFase: Gro
  up Regular Season\nStato: scheduled
 LOCATION:MOVISTAR ARENA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Paris Basketball
-DTSTART:20270406T184500Z
-DTEND:20270406T211500Z
-DTSTAMP:20261002T195652Z
-UID:f0c5e8c5ae9bb53ca19509d9e29e37ee@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Paris Basketball\nOspite: Anad
- olu Efes Istanbul\nCircuito/Arena: ADIDAS ARENA\nGiornata/Round: 36\nFase:
-  Group Regular Season\nStato: scheduled
-LOCATION:ADIDAS ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -1944,9 +1946,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Olympiacos Piraeus @ Fenerbahce Tarfin Istanbul
-DTSTART:20270406T174500Z
-DTEND:20270406T201500Z
-DTSTAMP:20261002T195652Z
+DTSTART:20270406T173000Z
+DTEND:20270406T200000Z
+DTSTAMP:20261123T154828Z
 UID:4c55831020b7d9bfb0e64c4e483889b5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Fenerbahce Tarfin Istanbul\nOs
@@ -3637,6 +3639,21 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇪🇺 Paris Basketball @ Olympiacos Piraeus
+DTSTART:20270126T191500Z
+DTEND:20270126T214500Z
+DTSTAMP:20261123T154828Z
+UID:2355799d380f1662e5cdc3a015633969@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
+ ris Basketball\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Rou
+ nd: 23\nFase: Group Regular Season\nStato: scheduled
+LOCATION:PEACE AND FRIENDSHIP STADIUM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Barcelona @ Crvena Zvezda Meridianbet Belgrade
 DTSTART:20270122T190000Z
 DTEND:20270122T213000Z
@@ -3813,21 +3830,6 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: FC Bar
  celona\nCircuito/Arena: VIRTUS ARENA\nGiornata/Round: 23\nFase: Group Regu
  lar Season\nStato: scheduled
 LOCATION:VIRTUS ARENA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Olympiacos Piraeus
-DTSTART:20270115T191500Z
-DTEND:20270115T214500Z
-DTSTAMP:20261002T195652Z
-UID:2355799d380f1662e5cdc3a015633969@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Pa
- ris Basketball\nCircuito/Arena: PEACE AND FRIENDSHIP STADIUM\nGiornata/Rou
- nd: 23\nFase: Group Regular Season\nStato: scheduled
-LOCATION:PEACE AND FRIENDSHIP STADIUM
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -4363,9 +4365,9 @@ X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Hapoel IBI Tel Aviv
-DTSTART:20261229T180000Z
-DTEND:20261229T203000Z
-DTSTAMP:20261002T195652Z
+DTSTART:20261229T190000Z
+DTEND:20261229T213000Z
+DTSTAMP:20261123T154828Z
 UID:4fee500bbf78204d6832c0215fd8a3b5@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Hapoel IBI Tel Aviv\nOspite: M
@@ -4741,21 +4743,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Maccabi Rapyd Tel Aviv
-DTSTART:20261215T200000Z
-DTEND:20261215T223000Z
-DTSTAMP:20261105T130006Z
-UID:7396db587578c5fbc2c6442e13c6e536@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
- : Zalgiris Kaunas\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiorn
- ata/Round: 17\nFase: Group Regular Season\nStato: scheduled
-LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇪🇺 FC Bayern Munich @ Real Madrid
 DTSTART:20261215T194500Z
 DTEND:20261215T221500Z
@@ -4842,6 +4829,21 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Anadolu Efes Istanbul\nOspite:
  PMENT CENTER\nGiornata/Round: 17\nFase: Group Regular Season\nStato: sched
  uled
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Maccabi Rapyd Tel Aviv
+DTSTART:20261215T170000Z
+DTEND:20261215T193000Z
+DTSTAMP:20261123T154828Z
+UID:7396db587578c5fbc2c6442e13c6e536@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Maccabi Rapyd Tel Aviv\nOspite
+ : Zalgiris Kaunas\nCircuito/Arena: SPYROS KYPRIANOU ATHLETIC CENTER\nGiorn
+ ata/Round: 17\nFase: Group Regular Season\nStato: scheduled
+LOCATION:SPYROS KYPRIANOU ATHLETIC CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
@@ -4997,21 +4999,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz
-DTSTART:20261204T193000Z
-DTEND:20261204T220000Z
-DTSTAMP:20261002T195652Z
-UID:ac133d0f017130fad45768e5aa094192@basketball-calendar.github.io
-COLOR:#003DA5
-DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
- z\nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BUESA ARENA\nGiornata/R
- ound: 15\nFase: Group Regular Season\nStato: scheduled
-LOCATION:BUESA ARENA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#003DA5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇪🇺 LDLC ASVEL Villeurbanne @ Olympiacos Piraeus
 DTSTART:20261204T191500Z
 DTEND:20261204T214500Z
@@ -5068,6 +5055,21 @@ DESCRIPTION:Competizione: EuroLeague\nCasa: Virtus Bologna\nOspite: Partiz
  an Mozzart Bet Belgrade\nCircuito/Arena: PALADOZZA\nGiornata/Round: 15\nFa
  se: Group Regular Season\nStato: scheduled
 LOCATION:PALADOZZA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#003DA5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ Kosner Baskonia Vitoria-Gasteiz
+DTSTART:20261203T200000Z
+DTEND:20261203T223000Z
+DTSTAMP:20261123T154828Z
+UID:ac133d0f017130fad45768e5aa094192@basketball-calendar.github.io
+COLOR:#003DA5
+DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
+ z\nOspite: Maccabi Rapyd Tel Aviv\nCircuito/Arena: BUESA ARENA\nGiornata/R
+ ound: 15\nFase: Group Regular Season\nStato: scheduled
+LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
