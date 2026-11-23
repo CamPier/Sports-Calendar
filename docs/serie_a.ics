@@ -1775,16 +1775,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Internazionale @ Atalanta
+SUMMARY:⚽ Internazionale @ Atalanta (4-4)
 DTSTART:20261122T194500Z
 DTEND:20261122T221500Z
-DTSTAMP:20261122T201422Z
+DTSTAMP:20261123T025908Z
 UID:78ea2e2ca0d7741158b9f5707974fd40@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Atalanta\nOspite: Internazionale\
- nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nStato: live
+ nCircuito/Arena: New Balance Arena\nCittà: Bergamo\nRisultato: Atalanta 4
+  - 4 Internazionale\nStato: finished
 LOCATION:New Balance Arena\, Bergamo
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
