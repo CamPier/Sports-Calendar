@@ -1790,14 +1790,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Fiorentina @ Monza
+SUMMARY:⚽ Fiorentina @ Monza (0-3)
 DTSTART:20261123T194500Z
 DTEND:20261123T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261124T004032Z
 UID:784c65001173b0dab354d15ece58070b@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Monza\nOspite: Fiorentina\nCircui
- to/Arena: U-Power Stadium\nCittà: Monza\nStato: scheduled
+ to/Arena: U-Power Stadium\nCittà: Monza\nRisultato: Monza 3 - 0 Fiorentin
+ a\nStato: finished
 LOCATION:U-Power Stadium\, Monza
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
