@@ -3698,90 +3698,97 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ FC Barcelona
+SUMMARY:🇪🇺 Fenerbahce Tarfin Istanbul @ FC Barcelona (83-77)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261124T225736Z
 UID:001a019111fa04574360288f2e390fcf@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Barcelona\nOspite: Fenerbah
  ce Tarfin Istanbul\nCircuito/Arena: PALAU BLAUGRANA\nGiornata/Round: 14\nF
- ase: Group Regular Season\nStato: scheduled
+ ase: Group Regular Season\nRisultato: FC Barcelona 77 - 83 Fenerbahce Tarf
+ in Istanbul\nStato: finished
 LOCATION:PALAU BLAUGRANA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Armani Olimpia Milan @ LDLC ASVEL Villeurbanne
+SUMMARY:🇪🇺 Armani Olimpia Milan @ LDLC ASVEL Villeurbanne (95-91)
 DTSTART:20261124T194500Z
 DTEND:20261124T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261124T225736Z
 UID:5e17c8d95254b2198a66de9013dd0477@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: LDLC ASVEL Villeurbanne\nOspit
  e: Armani Olimpia Milan\nCircuito/Arena: LDLC ARENA\nGiornata/Round: 14\nF
- ase: Group Regular Season\nStato: scheduled
+ ase: Group Regular Season\nRisultato: LDLC ASVEL Villeurbanne 91 - 95 Arma
+ ni Olimpia Milan\nStato: finished
 LOCATION:LDLC ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Valencia Basket
+SUMMARY:🇪🇺 Panathinaikos AKTOR Athens @ Valencia Basket (86-83)
 DTSTART:20261124T193000Z
 DTEND:20261124T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261124T225736Z
 UID:f8c817db2bffde45a331b3a1638d874e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Valencia Basket\nOspite: Panat
  hinaikos AKTOR Athens\nCircuito/Arena: ROIG ARENA\nGiornata/Round: 14\nFas
- e: Group Regular Season\nStato: scheduled
+ e: Group Regular Season\nRisultato: Valencia Basket 83 - 86 Panathinaikos 
+ AKTOR Athens\nStato: finished
 LOCATION:ROIG ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Bayern Munich
+SUMMARY:🇪🇺 Maccabi Rapyd Tel Aviv @ FC Bayern Munich (87-79)
 DTSTART:20261124T190000Z
 DTEND:20261124T213000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261124T225736Z
 UID:1cf5a9f7793f1a41a3b7e8bb46d4164f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: FC Bayern Munich\nOspite: Macc
  abi Rapyd Tel Aviv\nCircuito/Arena: SAP GARDEN\nGiornata/Round: 14\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: FC Bayern Munich 79 - 87 Maccabi Rapyd Te
+ l Aviv\nStato: finished
 LOCATION:SAP GARDEN
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Virtus Bologna @ Crvena Zvezda Meridianbet Belgrade
+SUMMARY:🇪🇺 Virtus Bologna @ Crvena Zvezda Meridianbet Belgrade (108-
+ 84)
 DTSTART:20261124T180000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261124T225736Z
 UID:4b5ae8e3561d57205b9232f007ce622c@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Crvena Zvezda Meridianbet Belg
  rade\nOspite: Virtus Bologna\nCircuito/Arena: BELGRADE ARENA\nGiornata/Rou
- nd: 14\nFase: Group Regular Season\nStato: scheduled
+ nd: 14\nFase: Group Regular Season\nRisultato: Crvena Zvezda Meridianbet B
+ elgrade 84 - 108 Virtus Bologna\nStato: finished
 LOCATION:BELGRADE ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Paris Basketball @ Besiktas Fuzul Istanbul
+SUMMARY:🇪🇺 Paris Basketball @ Besiktas Fuzul Istanbul (88-76)
 DTSTART:20261124T170000Z
 DTEND:20261124T193000Z
-DTSTAMP:20261120T135445Z
+DTSTAMP:20261124T225736Z
 UID:4c4d97f1290f9ba757ebe6fdf8eb07b2@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Besiktas Fuzul Istanbul\nOspit
  e: Paris Basketball\nCircuito/Arena: TURKCELL BASKETBALL DEVELOPMENT CENTE
- R\nGiornata/Round: 14\nFase: Group Regular Season\nStato: scheduled
+ R\nGiornata/Round: 14\nFase: Group Regular Season\nRisultato: Besiktas Fuz
+ ul Istanbul 76 - 88 Paris Basketball\nStato: finished
 LOCATION:TURKCELL BASKETBALL DEVELOPMENT CENTER
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

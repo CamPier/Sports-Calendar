@@ -1089,132 +1089,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ LASK Linz @ Bodo/Glimt
+SUMMARY:⭐ LASK Linz @ Bodo/Glimt (0-1)
 DTSTART:20261124T174500Z
 DTEND:20261124T201500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:c884d6077e5bdd37ebc60b4fa2a3a161@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Bodo/Glimt\nOspite: LASK
-  Linz\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nStato: schedu
- led
+  Linz\nCircuito/Arena: Aspmyra Stadion\nCittà: Bodø/Glimt\nRisultato: Bo
+ do/Glimt 1 - 0 LASK Linz\nStato: finished
 LOCATION:Aspmyra Stadion\, Bodø/Glimt
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Aston Villa @ Galatasaray
+SUMMARY:⭐ Aston Villa @ Galatasaray (0-1)
 DTSTART:20261124T174500Z
 DTEND:20261124T201500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:efb3f0852b56c8950880e53f40d78d99@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Galatasaray\nOspite: Ast
- on Villa\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nStato: scheduled
+ on Villa\nCircuito/Arena: RAMS Park\nCittà: Istanbul\nRisultato: Galatasa
+ ray 1 - 0 Aston Villa\nStato: finished
 LOCATION:RAMS Park\, Istanbul
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Borussia Dortmund @ Arsenal
+SUMMARY:⭐ Borussia Dortmund @ Arsenal (1-1)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:291857af699cc52bbecf04e2bda5457c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Arsenal\nOspite: Borussi
- a Dortmund\nCircuito/Arena: Emirates Stadium\nCittà: London\nStato: sched
- uled
+ a Dortmund\nCircuito/Arena: Emirates Stadium\nCittà: London\nRisultato: A
+ rsenal 1 - 1 Borussia Dortmund\nStato: finished
 LOCATION:Emirates Stadium\, London
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AEK Athens @ Como
+SUMMARY:⭐ AEK Athens @ Como (0-1)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:d3ef93543701375ae64fa4db598caf91@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Como\nOspite: AEK Athens
- \nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nStato: scheduled
+ \nCircuito/Arena: Giuseppe Sinigaglia\nCittà: Como\nRisultato: Como 1 - 0
+  AEK Athens\nStato: finished
 LOCATION:Giuseppe Sinigaglia\, Como
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ FC Porto @ Feyenoord Rotterdam
+SUMMARY:⭐ FC Porto @ Feyenoord Rotterdam (1-0)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:79522487e62f0b38c535330cea37f68b@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Feyenoord Rotterdam\nOsp
- ite: FC Porto\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nStato: schedule
- d
+ ite: FC Porto\nCircuito/Arena: De Kuip\nCittà: Rotterdam\nRisultato: Feye
+ noord Rotterdam 0 - 1 FC Porto\nStato: finished
 LOCATION:De Kuip\, Rotterdam
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Napoli @ Manchester City
+SUMMARY:⭐ Napoli @ Manchester City (2-2)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:f27b6ea58b3526a61caa086baf2ef33c@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Manchester City\nOspite:
-  Napoli\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nStato: schedu
- led
+  Napoli\nCircuito/Arena: Etihad Stadium\nCittà: Manchester\nRisultato: Ma
+ nchester City 2 - 2 Napoli\nStato: finished
 LOCATION:Etihad Stadium\, Manchester
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Lens @ RB Leipzig
+SUMMARY:⭐ Lens @ RB Leipzig (1-3)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:2ca984054fe0c0b443825e4e768afa07@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: RB Leipzig\nOspite: Lens
- \nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nStato: scheduled
+ \nCircuito/Arena: Red Bull Arena\nCittà: Leipzig\nRisultato: RB Leipzig 3
+  - 1 Lens\nStato: finished
 LOCATION:Red Bull Arena\, Leipzig
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ PSV Eindhoven @ Real Madrid
+SUMMARY:⭐ PSV Eindhoven @ Real Madrid (1-5)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:b0ded9fce3c457363e8f6ac519000c51@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Real Madrid\nOspite: PSV
-  Eindhoven\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nStato: sch
- eduled
+  Eindhoven\nCircuito/Arena: Santiago Bernabéu\nCittà: Madrid\nRisultato:
+  Real Madrid 5 - 1 PSV Eindhoven\nStato: finished
 LOCATION:Santiago Bernabéu\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Real Betis @ Slovan Bratislava
+SUMMARY:⭐ Real Betis @ Slovan Bratislava (2-0)
 DTSTART:20261124T200000Z
 DTEND:20261124T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261124T225748Z
 UID:620a5319c27ca20d041063a1d6d37674@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slovan Bratislava\nOspit
  e: Real Betis\nCircuito/Arena: Národny Futbalovy Stadión\nCittà: Bratis
- lava\nStato: scheduled
+ lava\nRisultato: Slovan Bratislava 0 - 2 Real Betis\nStato: finished
 LOCATION:Národny Futbalovy Stadión\, Bratislava
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
