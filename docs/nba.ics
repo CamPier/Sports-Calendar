@@ -837,16 +837,17 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Denver Nuggets
+SUMMARY:🏀 Dallas Mavericks @ Denver Nuggets (120-101)
 DTSTART:20261125T030000Z
 DTEND:20261125T053000Z
-DTSTAMP:20261125T045859Z
+DTSTAMP:20261125T152412Z
 UID:9639191abbb2f12db297a6d6a18411fa@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Dallas Maveri
- cks\nCircuito/Arena: Ball Arena\nCittà: Denver\nStato: live
+ cks\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nuggets
+  101 - 120 Dallas Mavericks\nStato: finished
 LOCATION:Ball Arena\, Denver
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
