@@ -855,14 +855,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Miami Heat @ Philadelphia 76ers
 DTSTART:20261125T220000Z
 DTEND:20261126T003000Z
-DTSTAMP:20261118T034730Z
+DTSTAMP:20261125T221723Z
 UID:cdef7a0cf3587f2c4153bec232f829fb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Miami Hea
- t\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: sche
- duled
+ t\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: live
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT

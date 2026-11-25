@@ -3638,60 +3638,65 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Real Madrid
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Real Madrid (93-108)
 DTSTART:20261125T194500Z
 DTEND:20261125T221500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261125T221724Z
 UID:4da20a23a193ab5a7aea7087f6bae84f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Zalgiris 
  Kaunas\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 14\nFase: Group Re
- gular Season\nStato: scheduled
+ gular Season\nRisultato: Real Madrid 108 - 93 Zalgiris Kaunas\nStato: fini
+ shed
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Kosner Baskonia Vitoria-Gasteiz (
+ 81-86)
 DTSTART:20261125T193000Z
 DTEND:20261125T220000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261125T221724Z
 UID:dad3ff8bce2ad6445d223a396651ee69@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/Ro
- und: 14\nFase: Group Regular Season\nStato: scheduled
+ und: 14\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Ga
+ steiz 86 - 81 Anadolu Efes Istanbul\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Olympiacos Piraeus (79-104)
 DTSTART:20261125T191500Z
 DTEND:20261125T214500Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261125T221724Z
 UID:87db0bcf2c187af427e2f0125eabc41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ha
  poel IBI Tel Aviv\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 14\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: Olympiacos Piraeus 104 - 79 Hapoel IBI Te
+ l Aviv\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Dubai Basketball
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Dubai Basketball (84-71)
 DTSTART:20261125T160000Z
 DTEND:20261125T183000Z
-DTSTAMP:20261002T195620Z
+DTSTAMP:20261125T221724Z
 UID:67923729e2cdef971742241f64af55dc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Part
  izan Mozzart Bet Belgrade\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round
- : 14\nFase: Group Regular Season\nStato: scheduled
+ : 14\nFase: Group Regular Season\nRisultato: Dubai Basketball 71 - 84 Part
+ izan Mozzart Bet Belgrade\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

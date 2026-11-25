@@ -1224,132 +1224,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Barcelona @ Sabah FK
+SUMMARY:⭐ Barcelona @ Sabah FK (4-1)
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:2a63d1f8f478320033315cfe90eb4be1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Barcel
- ona\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: scheduled
+ ona\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nRisultato: Sabah 
+ FK 1 - 4 Barcelona\nStato: finished
 LOCATION:Baku Olympic Stadium\, Baku
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Villarreal @ Slavia Prague
+SUMMARY:⭐ Villarreal @ Slavia Prague (1-0)
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:7207edb9b190822806dfdf2dba6c8211@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: V
- illarreal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: scheduled
+ illarreal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavi
+ a Prague 0 - 1 Villarreal\nStato: finished
 LOCATION:Fortuna Arena\, Prague
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Atlético Madrid
+SUMMARY:⭐ Viking FK @ Atlético Madrid (0-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261019T002300Z
+DTSTAMP:20261125T221736Z
 UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
- to: scheduled
+ : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nRis
+ ultato: Atlético Madrid 2 - 0 Viking FK\nStato: finished
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Liverpool @ Club Brugge
+SUMMARY:⭐ Liverpool @ Club Brugge (3-0)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:ed2579c08313adeb738576b65ddc8efb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Liv
- erpool\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: schedu
- led
+ erpool\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Cl
+ ub Brugge 0 - 3 Liverpool\nStato: finished
 LOCATION:Jan Breydel Stadium\, Brugge
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ VfB Stuttgart @ Internazionale
+SUMMARY:⭐ VfB Stuttgart @ Internazionale (0-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:a40e970c04be7fdeea1644b9061f5c76@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
- VfB Stuttgart\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ VfB Stuttgart\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Intern
+ azionale 2 - 0 VfB Stuttgart\nStato: finished
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Lille
+SUMMARY:⭐ Bayern Munich @ Lille (1-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:47452d3a0c4d4d7a5499b8f96abd8922@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Bayern Mu
  nich\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille
- \nStato: scheduled
+ \nRisultato: Lille 2 - 1 Bayern Munich\nStato: finished
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AS Roma @ Paris Saint-Germain
+SUMMARY:⭐ AS Roma @ Paris Saint-Germain (2-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:9bcd3729a609912af8e8e9bffbdf0650@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
- ite: AS Roma\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: sche
- duled
+ ite: AS Roma\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato: 
+ Paris Saint-Germain 2 - 2 AS Roma\nStato: finished
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk
+SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk (1-0)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:89eb06a0b82caeea150c7ce53a6afd72@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
- : Fenerbahce\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sche
- duled
+ : Fenerbahce\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: 
+ Shakhtar Donetsk 0 - 1 Fenerbahce\nStato: finished
 LOCATION:Stamford Bridge\, London
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Manchester United @ Sporting CP
+SUMMARY:⭐ Manchester United @ Sporting CP (2-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195648Z
+DTSTAMP:20261125T221736Z
 UID:fee496fc8c566cbe5a2eeb11a60934cc@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Man
- chester United\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nS
- tato: scheduled
+ chester United\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nR
+ isultato: Sporting CP 2 - 2 Manchester United\nStato: finished
 LOCATION:Estádio José Alvalade\, Lisbon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

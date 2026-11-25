@@ -855,14 +855,13 @@ BEGIN:VEVENT
 SUMMARY:🏀 Miami Heat @ Philadelphia 76ers
 DTSTART:20261125T220000Z
 DTEND:20261126T003000Z
-DTSTAMP:20261118T034749Z
+DTSTAMP:20261125T221738Z
 UID:cdef7a0cf3587f2c4153bec232f829fb@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Philadelphia 76ers\nOspite: Miami Hea
- t\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: sche
- duled
+ t\nCircuito/Arena: Xfinity Mobile Arena\nCittà: Philadelphia\nStato: live
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -5210,60 +5209,65 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Zalgiris Kaunas @ Real Madrid
+SUMMARY:🇪🇺 Zalgiris Kaunas @ Real Madrid (93-108)
 DTSTART:20261125T194500Z
 DTEND:20261125T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:4da20a23a193ab5a7aea7087f6bae84f@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Real Madrid\nOspite: Zalgiris 
  Kaunas\nCircuito/Arena: MOVISTAR ARENA\nGiornata/Round: 14\nFase: Group Re
- gular Season\nStato: scheduled
+ gular Season\nRisultato: Real Madrid 108 - 93 Zalgiris Kaunas\nStato: fini
+ shed
 LOCATION:MOVISTAR ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Kosner Baskonia Vitoria-Gasteiz
+SUMMARY:🇪🇺 Anadolu Efes Istanbul @ Kosner Baskonia Vitoria-Gasteiz (
+ 81-86)
 DTSTART:20261125T193000Z
 DTEND:20261125T220000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:dad3ff8bce2ad6445d223a396651ee69@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Kosner Baskonia Vitoria-Gastei
  z\nOspite: Anadolu Efes Istanbul\nCircuito/Arena: BUESA ARENA\nGiornata/Ro
- und: 14\nFase: Group Regular Season\nStato: scheduled
+ und: 14\nFase: Group Regular Season\nRisultato: Kosner Baskonia Vitoria-Ga
+ steiz 86 - 81 Anadolu Efes Istanbul\nStato: finished
 LOCATION:BUESA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Olympiacos Piraeus
+SUMMARY:🇪🇺 Hapoel IBI Tel Aviv @ Olympiacos Piraeus (79-104)
 DTSTART:20261125T191500Z
 DTEND:20261125T214500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:87db0bcf2c187af427e2f0125eabc41e@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Olympiacos Piraeus\nOspite: Ha
  poel IBI Tel Aviv\nCircuito/Arena: SUNEL ARENA\nGiornata/Round: 14\nFase: 
- Group Regular Season\nStato: scheduled
+ Group Regular Season\nRisultato: Olympiacos Piraeus 104 - 79 Hapoel IBI Te
+ l Aviv\nStato: finished
 LOCATION:SUNEL ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#003DA5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Dubai Basketball
+SUMMARY:🇪🇺 Partizan Mozzart Bet Belgrade @ Dubai Basketball (84-71)
 DTSTART:20261125T160000Z
 DTEND:20261125T183000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:67923729e2cdef971742241f64af55dc@basketball-calendar.github.io
 COLOR:#003DA5
 DESCRIPTION:Competizione: EuroLeague\nCasa: Dubai Basketball\nOspite: Part
  izan Mozzart Bet Belgrade\nCircuito/Arena: COCA-COLA ARENA\nGiornata/Round
- : 14\nFase: Group Regular Season\nStato: scheduled
+ : 14\nFase: Group Regular Season\nRisultato: Dubai Basketball 71 - 84 Part
+ izan Mozzart Bet Belgrade\nStato: finished
 LOCATION:COCA-COLA ARENA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -21195,132 +21199,135 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Barcelona @ Sabah FK
+SUMMARY:⭐ Barcelona @ Sabah FK (4-1)
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:2a63d1f8f478320033315cfe90eb4be1@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sabah FK\nOspite: Barcel
- ona\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nStato: scheduled
+ ona\nCircuito/Arena: Baku Olympic Stadium\nCittà: Baku\nRisultato: Sabah 
+ FK 1 - 4 Barcelona\nStato: finished
 LOCATION:Baku Olympic Stadium\, Baku
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Villarreal @ Slavia Prague
+SUMMARY:⭐ Villarreal @ Slavia Prague (1-0)
 DTSTART:20261125T174500Z
 DTEND:20261125T201500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:7207edb9b190822806dfdf2dba6c8211@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Slavia Prague\nOspite: V
- illarreal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nStato: scheduled
+ illarreal\nCircuito/Arena: Fortuna Arena\nCittà: Prague\nRisultato: Slavi
+ a Prague 0 - 1 Villarreal\nStato: finished
 LOCATION:Fortuna Arena\, Prague
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Viking FK @ Atlético Madrid
+SUMMARY:⭐ Viking FK @ Atlético Madrid (0-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261019T002302Z
+DTSTAMP:20261125T221738Z
 UID:905e949f4319f3ed38189ac74400d744@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Atlético Madrid\nOspite
- : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nSta
- to: scheduled
+ : Viking FK\nCircuito/Arena: Riyadh Air Metropolitano\nCittà: Madrid\nRis
+ ultato: Atlético Madrid 2 - 0 Viking FK\nStato: finished
 LOCATION:Riyadh Air Metropolitano\, Madrid
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Liverpool @ Club Brugge
+SUMMARY:⭐ Liverpool @ Club Brugge (3-0)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:ed2579c08313adeb738576b65ddc8efb@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Club Brugge\nOspite: Liv
- erpool\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nStato: schedu
- led
+ erpool\nCircuito/Arena: Jan Breydel Stadium\nCittà: Brugge\nRisultato: Cl
+ ub Brugge 0 - 3 Liverpool\nStato: finished
 LOCATION:Jan Breydel Stadium\, Brugge
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ VfB Stuttgart @ Internazionale
+SUMMARY:⭐ VfB Stuttgart @ Internazionale (0-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:a40e970c04be7fdeea1644b9061f5c76@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Internazionale\nOspite: 
- VfB Stuttgart\nCircuito/Arena: San Siro\nCittà: Milano\nStato: scheduled
+ VfB Stuttgart\nCircuito/Arena: San Siro\nCittà: Milano\nRisultato: Intern
+ azionale 2 - 0 VfB Stuttgart\nStato: finished
 LOCATION:San Siro\, Milano
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Bayern Munich @ Lille
+SUMMARY:⭐ Bayern Munich @ Lille (1-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:47452d3a0c4d4d7a5499b8f96abd8922@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Lille\nOspite: Bayern Mu
  nich\nCircuito/Arena: Decathlon Arena - Stade Pierre-Mauroy\nCittà: Lille
- \nStato: scheduled
+ \nRisultato: Lille 2 - 1 Bayern Munich\nStato: finished
 LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ AS Roma @ Paris Saint-Germain
+SUMMARY:⭐ AS Roma @ Paris Saint-Germain (2-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:9bcd3729a609912af8e8e9bffbdf0650@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Paris Saint-Germain\nOsp
- ite: AS Roma\nCircuito/Arena: Parc des Princes\nCittà: Paris\nStato: sche
- duled
+ ite: AS Roma\nCircuito/Arena: Parc des Princes\nCittà: Paris\nRisultato: 
+ Paris Saint-Germain 2 - 2 AS Roma\nStato: finished
 LOCATION:Parc des Princes\, Paris
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk
+SUMMARY:⭐ Fenerbahce @ Shakhtar Donetsk (1-0)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:89eb06a0b82caeea150c7ce53a6afd72@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Shakhtar Donetsk\nOspite
- : Fenerbahce\nCircuito/Arena: Stamford Bridge\nCittà: London\nStato: sche
- duled
+ : Fenerbahce\nCircuito/Arena: Stamford Bridge\nCittà: London\nRisultato: 
+ Shakhtar Donetsk 0 - 1 Fenerbahce\nStato: finished
 LOCATION:Stamford Bridge\, London
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1B1464
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐ Manchester United @ Sporting CP
+SUMMARY:⭐ Manchester United @ Sporting CP (2-2)
 DTSTART:20261125T200000Z
 DTEND:20261125T223000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261125T221738Z
 UID:fee496fc8c566cbe5a2eeb11a60934cc@basketball-calendar.github.io
 COLOR:#1B1464
 DESCRIPTION:Competizione: Champions League\nCasa: Sporting CP\nOspite: Man
- chester United\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nS
- tato: scheduled
+ chester United\nCircuito/Arena: Estádio José Alvalade\nCittà: Lisbon\nR
+ isultato: Sporting CP 2 - 2 Manchester United\nStato: finished
 LOCATION:Estádio José Alvalade\, Lisbon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
