@@ -882,31 +882,32 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Sacramento Kings @ Golden State Warriors
+SUMMARY:🏀 Sacramento Kings @ Golden State Warriors (110-129)
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
-DTSTAMP:20261126T041705Z
+DTSTAMP:20261126T145346Z
 UID:cc25f14ff4a72eaf3a57e9d6395a0315@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Golden State Warriors\nOspite: Sacram
- ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nStato: li
- ve
+ ento Kings\nCircuito/Arena: Chase Center\nCittà: San Francisco\nRisultato
+ : Golden State Warriors 129 - 110 Sacramento Kings\nStato: finished
 LOCATION:Chase Center\, San Francisco
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 San Antonio Spurs @ Portland Trail Blazers
+SUMMARY:🏀 San Antonio Spurs @ Portland Trail Blazers (111-116)
 DTSTART:20261126T030000Z
 DTEND:20261126T053000Z
-DTSTAMP:20261126T041705Z
+DTSTAMP:20261126T145346Z
 UID:bcf181c0f366318ca6f4089336e4bc38@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: San A
- ntonio Spurs\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: live
+ ntonio Spurs\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato: Po
+ rtland Trail Blazers 116 - 111 San Antonio Spurs\nStato: finished
 LOCATION:Moda Center\, Portland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
