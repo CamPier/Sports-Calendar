@@ -1805,14 +1805,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ Venezia
+SUMMARY:⚽ Bologna @ Venezia (0-0)
 DTSTART:20261127T194500Z
 DTEND:20261127T221500Z
-DTSTAMP:20261002T195642Z
+DTSTAMP:20261127T215216Z
 UID:5e26b8f62f4bd4763b4ce294e869c24e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Bologna\nCircuit
- o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nRisultato: Venezia 0 - 
+ 0 Bologna\nStato: finished
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

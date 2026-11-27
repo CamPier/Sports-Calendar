@@ -16316,14 +16316,15 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#1A56DB
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⚽ Bologna @ Venezia
+SUMMARY:⚽ Bologna @ Venezia (0-0)
 DTSTART:20261127T194500Z
 DTEND:20261127T221500Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261127T215219Z
 UID:5e26b8f62f4bd4763b4ce294e869c24e@basketball-calendar.github.io
 COLOR:#1A56DB
 DESCRIPTION:Competizione: Serie A\nCasa: Venezia\nOspite: Bologna\nCircuit
- o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nStato: scheduled
+ o/Arena: Stadio Pier Luigi Penzo\nCittà: Venezia\nRisultato: Venezia 0 - 
+ 0 Bologna\nStato: finished
 LOCATION:Stadio Pier Luigi Penzo\, Venezia
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -23390,12 +23391,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP2 — Qatar Grand Prix
 DTSTART:20261127T170000Z
 DTEND:20261127T180000Z
-DTSTAMP:20261002T195652Z
+DTSTAMP:20261127T215219Z
 UID:9c5298694bafa349e3ec8d206f8f9a0b@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 FP2\nCi
  rcuito/Arena: Lusail International Circuit\nCittà: Lusail\, Qatar\nGiorna
- ta/Round: Round 22\nFase: SecondPractice\nStato: scheduled
+ ta/Round: Round 22\nFase: SecondPractice\nStato: finished
 LOCATION:Lusail International Circuit\, Lusail\, Qatar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
