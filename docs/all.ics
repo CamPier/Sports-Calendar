@@ -9,186 +9,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:🏀 Memphis Grizzlies @ Cleveland Cavaliers (124-121)
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-DTSTAMP:20261119T034549Z
-UID:edb854bf56b5599511817a5ef0f9702a@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Cleveland Cavaliers\nOspite: Memphis 
- Grizzlies\nCircuito/Arena: Rocket Arena\nCittà: Cleveland\nRisultato: Cle
- veland Cavaliers 121 - 124 Memphis Grizzlies\nStato: finished
-LOCATION:Rocket Arena\, Cleveland
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Houston Rockets @ Indiana Pacers (119-104)
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-DTSTAMP:20261119T034549Z
-UID:c716dc7754d3160dd2c61ae17f6c9712@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Indiana Pacers\nOspite: Houston Rocke
- ts\nCircuito/Arena: Gainbridge Fieldhouse\nCittà: Indianapolis\nRisultato
- : Indiana Pacers 104 - 119 Houston Rockets\nStato: finished
-LOCATION:Gainbridge Fieldhouse\, Indianapolis
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Milwaukee Bucks @ Miami Heat (130-137)
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-DTSTAMP:20261119T034549Z
-UID:d8bbbb13c1042b07dd8cc770d41e79a8@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Milwaukee Bucks\n
- Circuito/Arena: Kaseya Center\nCittà: Miami\nRisultato: Miami Heat 137 - 
- 130 Milwaukee Bucks\nStato: finished
-LOCATION:Kaseya Center\, Miami
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Philadelphia 76ers @ Orlando Magic (121-116)
-DTSTART:20261119T000000Z
-DTEND:20261119T023000Z
-DTSTAMP:20261119T034549Z
-UID:a5d59c057cc37b3811377bae955aed42@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Orlando Magic\nOspite: Philadelphia 7
- 6ers\nCircuito/Arena: Kia Center\nCittà: Orlando\nRisultato: Orlando Magi
- c 116 - 121 Philadelphia 76ers\nStato: finished
-LOCATION:Kia Center\, Orlando
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Chicago Bulls @ Brooklyn Nets (137-107)
-DTSTART:20261119T003000Z
-DTEND:20261119T030000Z
-DTSTAMP:20261119T034549Z
-UID:541fea1324b45253b4258a4fead856d0@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Brooklyn Nets\nOspite: Chicago Bulls\
- nCircuito/Arena: Barclays Center\nCittà: Brooklyn\nRisultato: Brooklyn Ne
- ts 107 - 137 Chicago Bulls\nStato: finished
-LOCATION:Barclays Center\, Brooklyn
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Washington Wizards @ Toronto Raptors (103-99)
-DTSTART:20261119T003000Z
-DTEND:20261119T030000Z
-DTSTAMP:20261119T034549Z
-UID:4b89d07006af7d44db560e3c7aa72e10@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Toronto Raptors\nOspite: Washington W
- izards\nCircuito/Arena: Scotiabank Arena\nCittà: Toronto\nRisultato: Toro
- nto Raptors 99 - 103 Washington Wizards\nStato: finished
-LOCATION:Scotiabank Arena\, Toronto
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Detroit Pistons @ New Orleans Pelicans (122-109)
-DTSTART:20261119T010000Z
-DTEND:20261119T033000Z
-DTSTAMP:20261119T034549Z
-UID:b4b685dba901bb1790dd084d19c8a555@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: New Orleans Pelicans\nOspite: Detroit
-  Pistons\nCircuito/Arena: Smoothie King Center\nCittà: New Orleans\nRisul
- tato: New Orleans Pelicans 109 - 122 Detroit Pistons\nStato: finished
-LOCATION:Smoothie King Center\, New Orleans
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Atlanta Hawks @ Oklahoma City Thunder (117-112)
-DTSTART:20261119T010000Z
-DTEND:20261119T033000Z
-DTSTAMP:20261119T034549Z
-UID:c61746c85ac677626133b2be1bf3ac4f@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Oklahoma City Thunder\nOspite: Atlant
- a Hawks\nCircuito/Arena: Paycom Center\nCittà: Oklahoma City\nRisultato: 
- Oklahoma City Thunder 112 - 117 Atlanta Hawks\nStato: finished
-LOCATION:Paycom Center\, Oklahoma City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Dallas Mavericks (94-116)
-DTSTART:20261119T010000Z
-DTEND:20261119T033000Z
-DTSTAMP:20261119T034549Z
-UID:edfd34e268db97148de36731faf59f1f@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: Golden Stat
- e Warriors\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nRisu
- ltato: Dallas Mavericks 116 - 94 Golden State Warriors\nStato: finished
-LOCATION:American Airlines Center\, Dallas
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Denver Nuggets (101-105)
-DTSTART:20261119T023000Z
-DTEND:20261119T050000Z
-DTSTAMP:20261119T141401Z
-UID:858e9a96475d5b6d314cbc8d78533d9e@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Denver Nuggets\nOspite: Boston Celtic
- s\nCircuito/Arena: Ball Arena\nCittà: Denver\nRisultato: Denver Nuggets 1
- 05 - 101 Boston Celtics\nStato: finished
-LOCATION:Ball Arena\, Denver
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Utah Jazz @ Los Angeles Lakers (109-97)
-DTSTART:20261119T030000Z
-DTEND:20261119T053000Z
-DTSTAMP:20261119T141401Z
-UID:efd4b9d78fe8d503d294075df9e1afb7@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Los Angeles Lakers\nOspite: Utah Jazz
- \nCircuito/Arena: crypto.com Arena\nCittà: Los Angeles\nRisultato: Los An
- geles Lakers 97 - 109 Utah Jazz\nStato: finished
-LOCATION:crypto.com Arena\, Los Angeles
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Phoenix Suns @ Sacramento Kings (128-107)
-DTSTART:20261119T030000Z
-DTEND:20261119T053000Z
-DTSTAMP:20261119T141401Z
-UID:514b3717f3184b5c4f6eb6be3109183e@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Sacramento Kings\nOspite: Phoenix Sun
- s\nCircuito/Arena: Golden 1 Center\nCittà: Sacramento\nRisultato: Sacrame
- nto Kings 107 - 128 Phoenix Suns\nStato: finished
-LOCATION:Golden 1 Center\, Sacramento
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Golden State Warriors @ Memphis Grizzlies (98-126)
 DTSTART:20261120T010000Z
 DTEND:20261120T033000Z
@@ -1636,6 +1456,101 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Minnesota Timber
  wolves\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
 LOCATION:Intuit Dome\, Inglewood
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Indiana Pacers @ Atlanta Hawks
+DTSTART:20261204T000000Z
+DTEND:20261204T023000Z
+DTSTAMP:20261127T042603Z
+UID:af1a7e48d7e9fae5c95dcdca4a5e668f@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Indiana Pacers
+ \nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+LOCATION:State Farm Arena\, Atlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Washington Wizards @ Miami Heat
+DTSTART:20261204T003000Z
+DTEND:20261204T030000Z
+DTSTAMP:20261127T042603Z
+UID:2bcc5576547f34437c052e8e9fa0b28d@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Miami Heat\nOspite: Washington Wizard
+ s\nCircuito/Arena: Kaseya Center\nCittà: Miami\nStato: scheduled
+LOCATION:Kaseya Center\, Miami
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Cleveland Cavaliers @ Chicago Bulls
+DTSTART:20261204T010000Z
+DTEND:20261204T033000Z
+DTSTAMP:20261127T042603Z
+UID:3bfa2e2ecff05a6c8158a5dbe9412c08@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Chicago Bulls\nOspite: Cleveland Cava
+ liers\nCircuito/Arena: United Center\nCittà: Chicago\nStato: scheduled
+LOCATION:United Center\, Chicago
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ San Antonio Spurs
+DTSTART:20261204T010000Z
+DTEND:20261204T033000Z
+DTSTAMP:20261127T042603Z
+UID:9a9c13791fd2a3568255f8f899d6fde7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Toronto Ra
+ ptors\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sche
+ duled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Utah Jazz @ Portland Trail Blazers
+DTSTART:20261204T030000Z
+DTEND:20261204T053000Z
+DTSTAMP:20261127T042603Z
+UID:3b4bd27c0aadd4c2a1f0904911fa76f7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Utah 
+ Jazz\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: scheduled
+LOCATION:Moda Center\, Portland
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 TBD @ TBD
+DTSTART:20261204T050000Z
+DTEND:20261204T073000Z
+DTSTAMP:20261127T042603Z
+UID:20ed1f8562839d0d3a0d028219e5edca@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nOspite: TBD\nStato: scheduled
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 TBD @ TBD
+DTSTART:20261204T050000Z
+DTEND:20261204T073000Z
+DTSTAMP:20261127T042603Z
+UID:e256040cf8701d9920d04eac8eaa9e23@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nOspite: TBD\nStato: scheduled
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
