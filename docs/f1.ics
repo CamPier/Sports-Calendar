@@ -1281,12 +1281,12 @@ BEGIN:VEVENT
 SUMMARY:🏎 FP1 — Qatar Grand Prix
 DTSTART:20261127T133000Z
 DTEND:20261127T143000Z
-DTSTAMP:20261002T195649Z
+DTSTAMP:20261127T145117Z
 UID:df1f751395d6b016b514353262661f2f@basketball-calendar.github.io
 COLOR:#E10600
 DESCRIPTION:Competizione: F1\nCasa: Qatar Grand Prix\nOspite: 🏎 FP1\nCi
  rcuito/Arena: Lusail International Circuit\nCittà: Lusail\, Qatar\nGiorna
- ta/Round: Round 22\nFase: FirstPractice\nStato: scheduled
+ ta/Round: Round 22\nFase: FirstPractice\nStato: finished
 LOCATION:Lusail International Circuit\, Lusail\, Qatar
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
