@@ -762,74 +762,77 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Dallas Mavericks @ Phoenix Suns
+SUMMARY:🏀 Dallas Mavericks @ Phoenix Suns (113-109)
 DTSTART:20261128T020000Z
 DTEND:20261128T043000Z
-DTSTAMP:20261128T040706Z
+DTSTAMP:20261128T135925Z
 UID:f929ee0a4fe37fd12599a2967aaa69bc@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Phoenix Suns\nOspite: Dallas Maverick
- s\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nStato: live
+ s\nCircuito/Arena: Mortgage Matchup Center\nCittà: Phoenix\nRisultato: Ph
+ oenix Suns 109 - 113 Dallas Mavericks\nStato: finished
 LOCATION:Mortgage Matchup Center\, Phoenix
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Los Angeles Lakers @ San Antonio Spurs
+SUMMARY:🏀 Los Angeles Lakers @ San Antonio Spurs (96-99)
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-DTSTAMP:20261128T040706Z
+DTSTAMP:20261128T135925Z
 UID:ba4f09adc37b9c691741ad5b3bc9e65e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Los Angele
- s Lakers\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: l
- ive
+ s Lakers\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nRisultat
+ o: San Antonio Spurs 99 - 96 Los Angeles Lakers\nStato: finished
 LOCATION:Frost Bank Center\, San Antonio
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Denver Nuggets @ Utah Jazz
+SUMMARY:🏀 Denver Nuggets @ Utah Jazz (120-107)
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-DTSTAMP:20261128T040706Z
+DTSTAMP:20261128T135925Z
 UID:b0022b5dc3a625cadb99c313746ef40e@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Utah Jazz\nOspite: Denver Nuggets\nCi
- rcuito/Arena: Delta Center\nCittà: Salt Lake City\nStato: live
+ rcuito/Arena: Delta Center\nCittà: Salt Lake City\nRisultato: Utah Jazz 1
+ 07 - 120 Denver Nuggets\nStato: finished
 LOCATION:Delta Center\, Salt Lake City
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 New Orleans Pelicans @ LA Clippers
+SUMMARY:🏀 New Orleans Pelicans @ LA Clippers (105-104)
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-DTSTAMP:20261128T040706Z
+DTSTAMP:20261128T135925Z
 UID:b92605662ce139a4e3986f6f6fd4947b@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: New Orleans Peli
- cans\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: live
+ cans\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nRisultato: LA Clippe
+ rs 104 - 105 New Orleans Pelicans\nStato: finished
 LOCATION:Intuit Dome\, Inglewood
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Golden State Warriors @ Portland Trail Blazers
+SUMMARY:🏀 Golden State Warriors @ Portland Trail Blazers (94-116)
 DTSTART:20261128T023000Z
 DTEND:20261128T050000Z
-DTSTAMP:20261128T040706Z
+DTSTAMP:20261128T135925Z
 UID:8bcd536d5ce3a658fc851d730115aa86@basketball-calendar.github.io
 COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: Portland Trail Blazers\nOspite: Golde
- n State Warriors\nCircuito/Arena: Moda Center\nCittà: Portland\nStato: li
- ve
+ n State Warriors\nCircuito/Arena: Moda Center\nCittà: Portland\nRisultato
+ : Portland Trail Blazers 116 - 94 Golden State Warriors\nStato: finished
 LOCATION:Moda Center\, Portland
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
@@ -1374,6 +1377,35 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏀 Indiana Pacers @ Atlanta Hawks
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+DTSTAMP:20261128T135925Z
+UID:af1a7e48d7e9fae5c95dcdca4a5e668f@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Indiana Pacers
+ \nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
+LOCATION:State Farm Arena\, Atlanta
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏀 Toronto Raptors @ San Antonio Spurs
+DTSTART:20261203T010000Z
+DTEND:20261203T033000Z
+DTSTAMP:20261128T135925Z
+UID:9a9c13791fd2a3568255f8f899d6fde7@basketball-calendar.github.io
+COLOR:#C9082A
+DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Toronto Ra
+ ptors\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sche
+ duled
+LOCATION:Frost Bank Center\, San Antonio
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-APPLE-CALENDAR-COLOR:#C9082A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏀 Sacramento Kings @ Phoenix Suns
 DTSTART:20261203T020000Z
 DTEND:20261203T043000Z
@@ -1398,20 +1430,6 @@ COLOR:#C9082A
 DESCRIPTION:Competizione: NBA\nCasa: LA Clippers\nOspite: Minnesota Timber
  wolves\nCircuito/Arena: Intuit Dome\nCittà: Inglewood\nStato: scheduled
 LOCATION:Intuit Dome\, Inglewood
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 Indiana Pacers @ Atlanta Hawks
-DTSTART:20261204T000000Z
-DTEND:20261204T023000Z
-DTSTAMP:20261127T042550Z
-UID:af1a7e48d7e9fae5c95dcdca4a5e668f@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Indiana Pacers
- \nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
-LOCATION:State Farm Arena\, Atlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
@@ -1445,21 +1463,6 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Toronto Raptors @ San Antonio Spurs
-DTSTART:20261204T010000Z
-DTEND:20261204T033000Z
-DTSTAMP:20261127T042550Z
-UID:9a9c13791fd2a3568255f8f899d6fde7@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: San Antonio Spurs\nOspite: Toronto Ra
- ptors\nCircuito/Arena: Frost Bank Center\nCittà: San Antonio\nStato: sche
- duled
-LOCATION:Frost Bank Center\, San Antonio
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏀 Utah Jazz @ Portland Trail Blazers
 DTSTART:20261204T030000Z
 DTEND:20261204T053000Z
@@ -1474,54 +1477,30 @@ TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 TBD @ TBD
-DTSTART:20261204T050000Z
-DTEND:20261204T073000Z
-DTSTAMP:20261128T040706Z
+SUMMARY:🏀 Philadelphia 76ers @ Atlanta Hawks
+DTSTART:20261205T000000Z
+DTEND:20261205T023000Z
+DTSTAMP:20261128T135925Z
 UID:20ed1f8562839d0d3a0d028219e5edca@basketball-calendar.github.io
 COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nOspite: TBD\nCircuito/Arena: State Farm Are
- na\nCittà: Atlanta\nStato: scheduled
+DESCRIPTION:Competizione: NBA\nCasa: Atlanta Hawks\nOspite: Philadelphia 7
+ 6ers\nCircuito/Arena: State Farm Arena\nCittà: Atlanta\nStato: scheduled
 LOCATION:State Farm Arena\, Atlanta
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏀 Boston Celtics @ Detroit Pistons
-DTSTART:20261205T050000Z
-DTEND:20261205T073000Z
-DTSTAMP:20261128T040706Z
-UID:9d2838f4851b7f2f4545d30795a8f020@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nCasa: Detroit Pistons\nOspite: Boston Celti
- cs\nCircuito/Arena: Little Caesars Arena\nCittà: Detroit\nStato: schedule
- d
-LOCATION:Little Caesars Arena\, Detroit
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 TBD @ TBD
-DTSTART:20261204T050000Z
-DTEND:20261204T073000Z
-DTSTAMP:20261127T042550Z
+SUMMARY:🏀 San Antonio Spurs @ Dallas Mavericks
+DTSTART:20261205T023000Z
+DTEND:20261205T050000Z
+DTSTAMP:20261128T135925Z
 UID:e256040cf8701d9920d04eac8eaa9e23@basketball-calendar.github.io
 COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nOspite: TBD\nStato: scheduled
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-APPLE-CALENDAR-COLOR:#C9082A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏀 TBD @ TBD
-DTSTART:20261205T050000Z
-DTEND:20261205T073000Z
-DTSTAMP:20261128T040706Z
-UID:183d141c1c775e1862d6aa7f8ad9739a@basketball-calendar.github.io
-COLOR:#C9082A
-DESCRIPTION:Competizione: NBA\nOspite: TBD\nStato: scheduled
+DESCRIPTION:Competizione: NBA\nCasa: Dallas Mavericks\nOspite: San Antonio
+  Spurs\nCircuito/Arena: American Airlines Center\nCittà: Dallas\nStato: s
+ cheduled
+LOCATION:American Airlines Center\, Dallas
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-APPLE-CALENDAR-COLOR:#C9082A
